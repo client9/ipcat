@@ -6,9 +6,16 @@ on IPv4 address that correspond to a datacenters, co-location centers,
 shared and virtual webhosting providers.  In other words, ip addresses
 that end web consumers should not be using.
 
+Licensing -- GPL v3
+------------------------
 
-FAQ
-=========================
+This data is licensed under GPL v3, see COPYING for details.
+Relaxations and commericial licensing are gladly available by request.
+The use of GPL is to prevent commercial data providers from scoping up
+this data without compensation or attribution.
+
+This may be changed to another (less restrictive) license later.
+
 
 What is the file format?
 -------------------------

@@ -1,3 +1,6 @@
+# https://github.com/client9/ipcat/
+# Copyright 2010 Nick Galbreath
+# Redistibution under GPL v3, see README/COPYING for details
 2.16.0.0,2.16.11.255,Akamai,http://akamai.com/
 8.4.34.0,8.4.35.255,Peak Web Hosting,http://www.peakwebhosting.com/
 8.18.145.0,8.18.145.255,Amazon AWS,http://www.amazon.com/aws/
@@ -463,11 +466,12 @@
 89.248.168.0,89.248.168.255,Ecatel, http://ecatel.net/
 89.248.172.0,89.248.172.255,Ecatel, http://ecatel.net/
 89.255.0.0,89.255.63.255,Hosting Concepts,http://hosting-concepts.nl/
-91.121.64.0,91.121.129.255,OVH,http://www.ovh.co.uk/
+91.121.64.0,91.121.130.255,OVH,http://www.ovh.co.uk/
 91.121.132.0,91.121.135.255,OVH,http://www.ovh.co.uk/
 91.121.144.0,91.121.191.255,OVH,http://www.ovh.co.uk/
-91.121.208.0,91.121.224.31,OVH,http://www.ovh.co.uk/
-92.61.38.0,92.61.38.255,hostex.lt,http://hostex.lt/
+91.121.208.0,91.121.224.47,OVH,http://www.ovh.co.uk/
+92.48.126.4,92.48.126.7,eukhost.com,http://eukhost.com/
+92.61.38.0,92.61.39.255,hostex.lt,http://hostex.lt/
 93.168.0.0,93.169.127.255,everhost,http://everhost.co/
 93.186.160.0,93.186.163.255,inline.de,http://www.inline.de/
 94.23.0.0,94.23.73.255,OVH,http://www.ovh.co.uk/
