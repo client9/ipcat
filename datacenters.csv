@@ -1,5 +1,5 @@
 # https://github.com/client9/ipcat/
-# Copyright 2010 Nick Galbreath
+# Copyright 2011 Nick Galbreath
 # Redistibution under GPL v3, see README/COPYING for details
 2.16.0.0,2.16.11.255,Akamai,http://akamai.com/
 8.4.34.0,8.4.35.255,Peak Web Hosting,http://www.peakwebhosting.com/
@@ -455,16 +455,16 @@
 88.208.0.0,88.208.7.255,advancedhosters.com,http://advancedhosters.com/
 88.208.10.0,88.208.19.255,advancedhosters.com,http://advancedhosters.com/
 88.208.192.0,88.208.254.255,Fasthosts Internet Ltd,http://www.fasthosts.co.uk/
-88.214.192.0,88.214.193.255,Hqhost.net, http://hqhost.net/en/index.html
+88.214.192.0,88.214.193.255,Hqhost.net,http://hqhost.net/en/index.html
 88.221.0.0,88.221.7.255,Akamai,http://akamai.com/
 89.19.6.112,89.19.6.119,Ares Hosting,http://areshosting.com/
 89.149.192.0,89.149.192.15,Leaseweb,http://www.leaseweb.com/
 89.149.194.0,89.149.196.15,Leaseweb,http://www.leaseweb.com/
 89.149.237.0,89.149.244.255,Leaseweb,http://www.leaseweb.com/
-89.248.160.0,89.248.160.127,Ecatel, http://ecatel.net/
-89.248.166.0,89.248.166.127,Ecatel, http://ecatel.net/
-89.248.168.0,89.248.168.255,Ecatel, http://ecatel.net/
-89.248.172.0,89.248.172.255,Ecatel, http://ecatel.net/
+89.248.160.0,89.248.160.127,Ecatel,http://ecatel.net/
+89.248.166.0,89.248.166.127,Ecatel,http://ecatel.net/
+89.248.168.0,89.248.168.255,Ecatel,http://ecatel.net/
+89.248.172.0,89.248.172.255,Ecatel,http://ecatel.net/
 89.255.0.0,89.255.63.255,Hosting Concepts,http://hosting-concepts.nl/
 91.121.64.0,91.121.130.255,OVH,http://www.ovh.co.uk/
 91.121.132.0,91.121.135.255,OVH,http://www.ovh.co.uk/
@@ -490,8 +490,8 @@
 94.76.171.0,94.76.171.255,ServiHosting Networks S.L.,http://servihosting.es
 94.76.174.0,94.76.175.127,ServiHosting Networks S.L.,http://servihosting.es
 94.100.25.0,94.100.27.255,King Servers,http://www.king-servers.com/
-94.102.48.0,94.102.48.150,Ecatel, http://ecatel.net/
-94.102.52.0,94.102.55.255,Ecatel, http://ecatel.net/
+94.102.48.0,94.102.48.150,Ecatel,http://ecatel.net/
+94.102.52.0,94.102.55.255,Ecatel,http://ecatel.net/
 94.199.241.0,94.199.242.255,alfahosting.de,http://alfahosting.de/
 94.229.64.0,94.229.79.255,UK Dedicated Servers LTD,http://ukservers.com/
 94.236.0.0,94.236.0.15,Rackspace,http://www.rackspace.com/
