@@ -82,10 +82,12 @@
 62.41.56.128,62.41.56.255,Akamai,http://akamai.com/
 62.41.58.0,62.41.58.255,Akamai,http://akamai.com/
 62.75.218.0,62.75.219.255,plusserver.de,http://plusserver.de/
+62.128.192.0,62.128.223.255,iomart,http://www.iomart.com/
 62.149.10.64,62.149.10.95,colocall.net,http://colocall.net/
 62.149.12.0,62.149.15.159,colocall.net,http://colocall.net/
 62.212.64.0,62.212.76.31,Leaseweb,http://www.leaseweb.com/
 62.212.88.0,62.212.90.255,Leaseweb,http://www.leaseweb.com/
+62.233.115.0,62.233.115.255,iomart,http://www.iomart.com/
 63.131.128.0,63.131.159.255,Datapipe,http://www.datapipe.com/
 63.131.224.0,63.131.239.255,TierPoint,tierpoint.com
 63.249.128.0,63.249.255.255,C I Host,http://www.cihost.com/
@@ -410,6 +412,7 @@
 82.192.64.0,82.192.95.255,Leaseweb,http://www.leaseweb.com/
 83.98.128.0,83.98.128.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
 83.138.146.0,83.138.146.127,Rackspace,http://www.rackspace.com/
+83.142.224.0,83.142.231.255,iomart Hosting Ltd,http://www.rapidswitch.com/
 83.149.64.0,83.149.67.63,Leaseweb,http://www.leaseweb.com/
 83.149.71.0,83.149.72.255,Leaseweb,http://www.leaseweb.com/
 83.149.126.0,83.149.127.255,Leaseweb,http://www.leaseweb.com/
@@ -418,6 +421,7 @@
 83.170.64.0,83.170.127.255,UK2 Group,http://www.uk2.net/
 83.217.64.0,83.217.65.127,easyhost.be,http://easyhost.be/
 84.16.228.0,84.16.230.255,Leaseweb,http://www.leaseweb.com/
+84.22.160.0,84.22.191.255,iomart,http://www.iomart.com/
 84.23.64.0,84.23.64.255,nbiserv.de,http://nbiserv.de/
 84.53.128.0,84.53.132.255,Akamai,http://akamai.com/
 84.232.0.0,84.232.127.255,ServiHosting Networks S.L.,http://servihosting.es
@@ -438,6 +442,7 @@
 87.106.0.0,87.106.99.255,1&1 Internet,http://www.1and1.com/
 87.106.128.0,87.106.164.255,1&1 Internet,http://www.1and1.com/
 87.106.208.0,87.106.255.255,1&1 Internet,http://www.1and1.com/
+87.117.192.0,87.117.255.255,iomart Hosting Ltd,http://www.rapidswitch.com/
 87.238.84.0,87.238.87.255,Amazon AWS,http://www.amazon.com/aws/
 87.242.64.0,87.242.66.255,masterhost.ru,http://masterhost.ru/
 88.80.192.0,88.80.192.31,Host Europe,http://www.hosteurope.de/
@@ -492,6 +497,7 @@
 95.143.32.128,95.143.32.223,inline.de,http://www.inline.de/
 95.143.37.160,95.143.37.191,inline.de,http://www.inline.de/
 95.143.39.224,95.143.39.255,inline.de,http://www.inline.de/
+95.154.192.0,95.154.255.255,iomart Hosting Ltd,http://www.rapidswitch.com/
 95.156.192.0,95.156.195.255,Optimate Server,http://optimate-server.de/
 95.168.160.0,95.168.160.63,Leaseweb,http://www.leaseweb.com/
 95.168.163.0,95.168.164.255,Leaseweb,http://www.leaseweb.com/
@@ -538,6 +544,7 @@
 109.74.192.0,109.74.207.255,Linode,http://www.linode.com/
 109.75.160.0,109.75.175.255,Web Hosting UK,http://www.webhosting.uk.com/
 109.123.64.0,109.123.127.255,UK2 Group,http://www.uk2.net/
+109.169.0.0,109.169.95.255,iomart Hosting Ltd,http://www.rapidswitch.com/
 109.190.0.0,109.190.127.255,OVH,http://www.ovh.co.uk/
 109.200.0.0,109.200.0.15,redstation.com,http://redstation.com/
 109.200.0.40,109.200.0.71,redstation.com,http://redstation.com/
@@ -696,6 +703,7 @@
 193.108.88.0,193.108.95.255,Akamai,http://akamai.com/
 193.164.131.0,193.164.133.255,Giga-Hosting GmbH,http://giga-hosting.biz/
 193.169.188.0,193.169.189.255,hostpro.ua,http://hostpro.ua/
+193.201.200.0,193.201.201.255,iomart Hosting Ltd,http://www.rapidswitch.com/
 195.49.128.0,195.49.131.255,colocall.net,http://colocall.net/
 195.59.44.0,195.59.44.255,Akamai,http://akamai.com/
 195.62.28.0,195.62.29.255,ukwebhosting.ltd.uk,http://ukwebhosting.ltd.uk/
