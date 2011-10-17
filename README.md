@@ -1,5 +1,4 @@
-
-ipcat is a dataset for categorizing IP addresses.
+ipcat: datasets for categorizing IP addresses.
 
 The first release "datacetners.csv" is focusing
 on IPv4 address that correspond to a datacenters, co-location centers,
@@ -9,13 +8,13 @@ that end web consumers should not be using.
 Licensing -- GPL v3
 ------------------------
 
-This data is licensed under GPL v3, see COPYING for details.
+The data is licensed under GPL v3, see COPYING for details.
+
 Relaxations and commericial licensing are gladly available by request.
 The use of GPL is to prevent commercial data providers from scoping up
 this data without compensation or attribution.
 
-This may be changed to another (less restrictive) license later.
-
+This may be changed to another less restrictive license later.
 
 What is the file format?
 -------------------------
@@ -44,4 +43,10 @@ and easy way of keeping track of changes.
 How is this generated?
 -------------------------
 
-Magic!
+Manually by reports of datacenters from users like you, and
+automatically via proprietary discovery algorithms.
+
+Who made this?
+-------------------------
+
+Nick Galbreath.  See more at http://client9.com/
