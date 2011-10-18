@@ -891,12 +891,12 @@
 213.129.64.0,213.129.66.127,The Bunker,http://www.thebunker.net/
 213.129.66.160,213.129.66.255,The Bunker,http://www.thebunker.net/
 213.129.68.0,213.129.68.47,The Bunker,http://www.thebunker.net/
-213.129.68.56,213.129.68.87,The Bunker,http://www.thebunker.net/
+213.129.68.56,213.129.68.91,The Bunker,http://www.thebunker.net/
 213.129.69.64,213.129.69.95,The Bunker,http://www.thebunker.net/
 213.129.69.112,213.129.69.159,The Bunker,http://www.thebunker.net/
 213.129.71.0,213.129.73.79,The Bunker,http://www.thebunker.net/
 213.129.73.96,213.129.73.175,The Bunker,http://www.thebunker.net/
-213.129.73.192,213.129.73.223,The Bunker,http://www.thebunker.net/
+213.129.73.192,213.129.73.255,The Bunker,http://www.thebunker.net/
 213.129.77.80,213.129.77.95,The Bunker,http://www.thebunker.net/
 213.129.77.128,213.129.77.191,The Bunker,http://www.thebunker.net/
 213.129.77.224,213.129.77.239,The Bunker,http://www.thebunker.net/
@@ -905,12 +905,12 @@
 213.152.160.0,213.152.172.23,serverboost.nl,http://serverboost.nl/
 213.152.172.24,213.152.172.87,knownsrv.com,http://knownsrv.com/
 213.152.172.88,213.152.177.24,serverboost.nl,http://serverboost.nl/
-213.152.177.85,213.152.179.255,serverboost.nl,http://serverboost.nl/
+213.152.177.85,213.152.180.255,serverboost.nl,http://serverboost.nl/
 213.155.0.0,213.155.31.255,hosting.ua,http://hosting.ua/
 213.163.84.0,213.163.84.255,serverboost.nl,http://serverboost.nl/
 213.165.80.0,213.165.95.255,1&1 Internet,http://www.1and1.com/
 213.171.192.0,213.171.223.255,Fasthosts Internet Ltd,http://www.fasthosts.co.uk/
-213.174.128.0,213.174.148.143,advancedhosters.com,http://advancedhosters.com/
+213.174.128.0,213.174.148.151,advancedhosters.com,http://advancedhosters.com/
 213.175.192.0,213.175.223.255,eukhost.com,http://eukhost.com/
 213.179.209.0,213.179.211.255,Reliable Hosting,http://reliablehosting.com/
 213.179.212.128,213.179.212.255,Reliable Hosting,http://reliablehosting.com/
@@ -920,8 +920,7 @@
 213.218.160.0,213.218.169.31,WebControl GmbH,http://www.webcontrol.de/en/
 213.222.239.0,213.222.239.63,Persona Host,http://personahost.net/
 213.232.110.0,213.232.110.255,UK2 Group,http://www.uk2.net/
-213.239.202.32,213.239.202.127,Hetzner Online AG,http://www.hetzner.de/
-213.239.208.0,213.239.208.47,Hetzner Online AG,http://www.hetzner.de/
+213.239.192.0,213.239.255.255,Hetzner Online AG,http://www.hetzner.de/
 213.251.128.0,213.251.144.255,OVH,http://www.ovh.co.uk/
 213.251.168.0,213.251.191.255,OVH,http://www.ovh.co.uk/
 216.6.224.0,216.6.239.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
@@ -981,12 +980,11 @@
 216.247.0.0,216.247.255.255,PEER 1,http://www.peer1.com/
 216.248.192.0,216.248.207.255,HostMySite.com,http://www.webmysite.com/
 216.250.112.0,216.250.127.255,1&1 Internet,http://www.1and1.com/
-217.8.1.0,217.8.1.7,iomart,http://www.iomart.com/
+217.8.1.0,217.8.1.11,iomart,http://www.iomart.com/
 217.16.16.0,217.16.23.15,masterhost.ru,http://masterhost.ru/
 217.16.176.0,217.16.191.255,vshosting.cz,http://vshosting.cz/
-217.18.68.0,217.18.69.255,qweb,http://www.qweb.nl/
-217.18.77.192,217.18.78.31,qweb,http://www.qweb.nl/
-217.20.113.0,217.20.117.255,Leaseweb,http://www.leaseweb.com/
+217.18.64.0,217.18.79.255,qweb,http://www.qweb.nl/
+217.20.113.0,217.20.118.255,Leaseweb,http://www.leaseweb.com/
 217.22.48.0,217.22.63.255,easyhost.be,http://easyhost.be/
 217.64.192.0,217.64.207.255,seeweb.it,http://seeweb.it/
 217.72.240.0,217.72.255.255,Datapipe,http://www.datapipe.com/
@@ -1000,7 +998,7 @@
 217.160.0.0,217.160.255.255,1&1 Internet,http://www.1and1.com/
 217.172.160.0,217.172.191.255,plusserver.de,http://plusserver.de/
 217.174.240.0,217.174.255.255,Fasthosts Internet Ltd,http://www.fasthosts.co.uk/
-217.194.0.0,217.194.6.247,seeweb.it,http://seeweb.it/
-217.194.208.0,217.194.211.23,Hosting UK,http://hostinguk.net/
+217.194.0.0,217.194.6.255,seeweb.it,http://seeweb.it/
+217.194.208.0,217.194.211.31,Hosting UK,http://hostinguk.net/
 217.195.176.0,217.195.176.255,activewebs.dk,http://activewebs.dk/
 223.27.168.0,223.27.175.255,Voxel,http://www.voxel.net/
