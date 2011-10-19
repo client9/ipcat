@@ -426,24 +426,25 @@
 80.243.191.224,80.243.191.255,idealhosting,http://www.idealhosting.com/
 80.246.62.0,80.246.63.255,alfahosting.de,http://alfahosting.de/
 81.17.96.0,81.17.103.255,IP Exchange GmbH,http://www.ip-exchange.de/
-81.93.160.0,81.93.160.223,basefarm.com,http://basefarm.com/
+81.93.160.0,81.93.160.255,basefarm.com,http://basefarm.com/
 82.139.64.0,82.139.127.255,prolocation.net,http://prolocation.net/
+82.145.32.0,82.145.63.255,iomart Hosting Ltd,http://www.rapidswitch.com/
 82.165.0.0,82.165.175.255,1&1 Internet,http://www.1and1.com/
 82.165.192.0,82.165.215.255,1&1 Internet,http://www.1and1.com/
 82.192.64.0,82.192.95.255,Leaseweb,http://www.leaseweb.com/
 83.98.128.0,83.98.128.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
-83.138.146.0,83.138.146.191,Rackspace,http://www.rackspace.com/
+83.138.146.0,83.138.146.255,Rackspace,http://www.rackspace.com/
 83.142.224.0,83.142.231.255,iomart Hosting Ltd,http://www.rapidswitch.com/
-83.149.64.0,83.149.67.95,Leaseweb,http://www.leaseweb.com/
-83.149.71.0,83.149.73.255,Leaseweb,http://www.leaseweb.com/
+83.149.64.0,83.149.67.127,Leaseweb,http://www.leaseweb.com/
+83.149.71.0,83.149.74.255,Leaseweb,http://www.leaseweb.com/
 83.149.126.0,83.149.127.255,Leaseweb,http://www.leaseweb.com/
-83.169.8.0,83.169.51.255,Host Europe,http://www.hosteurope.de/
+83.169.8.0,83.169.52.255,Host Europe,http://www.hosteurope.de/
 83.170.64.0,83.170.127.255,UK2 Group,http://www.uk2.net/
-83.217.64.0,83.217.65.127,easyhost.be,http://easyhost.be/
-84.16.228.0,84.16.230.255,Leaseweb,http://www.leaseweb.com/
+83.217.64.0,83.217.65.255,easyhost.be,http://easyhost.be/
+84.16.228.0,84.16.231.255,Leaseweb,http://www.leaseweb.com/
 84.22.160.0,84.22.191.255,iomart,http://www.iomart.com/
 84.23.64.0,84.23.64.255,nbiserv.de,http://nbiserv.de/
-84.53.128.0,84.53.132.255,Akamai,http://akamai.com/
+84.53.128.0,84.53.133.255,Akamai,http://akamai.com/
 84.232.0.0,84.232.127.255,ServiHosting Networks S.L.,http://servihosting.es
 84.236.128.0,84.236.255.255,ServiHosting Networks S.L.,http://servihosting.es
 85.10.192.0,85.10.215.255,Hetzner Online AG,http://www.hetzner.de/
@@ -456,7 +457,8 @@
 85.25.0.0,85.25.255.255,plusserver.de,http://plusserver.de/
 85.94.192.0,85.94.194.7,seeweb.it,http://seeweb.it/
 85.94.215.0,85.94.223.255,seeweb.it,http://seeweb.it/
-85.119.104.64,85.119.104.175,prolocation.net,http://prolocation.net/
+85.119.104.0,85.119.104.31,prolocation.net,http://prolocation.net/
+85.119.104.64,85.119.104.191,prolocation.net,http://prolocation.net/
 85.159.64.8,85.159.64.15,Ares Hosting,http://areshosting.com/
 85.159.64.40,85.159.64.47,Peron Hosting,http://peronhost.com/
 85.255.192.0,85.255.207.255,Hostbasket,http://www.hostbasket.com/en/
