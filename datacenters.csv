@@ -42,6 +42,7 @@
 31.3.224.0,31.3.255.255,Redstation Limited,http://redstation.com/
 31.7.56.0,31.7.63.255,Private Layer INC,http://privatelayer.com/
 31.22.104.0,31.22.111.255,DiaHosting,https://www.diahosting.com/en/
+31.22.112.0,31.22.119.255,Hyperhosting,http://hyperhosting.gr/
 31.24.32.0,31.24.39.255,ServerSpace Limited,http://www.serverspace.co.uk/
 31.24.208.0,31.24.215.255,colocall.net,http://colocall.net/
 31.25.184.0,31.25.191.255,Memset Ltd,http://www.memset.com/
@@ -65,11 +66,11 @@
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
 42.1.60.0,42.1.63.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
 46.4.0.0,46.4.255.255,Hetzner Online AG,http://www.hetzner.de/
-46.17.0.0,46.17.3.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
+46.17.0.0,46.17.6.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
 46.20.10.0,46.20.10.255,Turkiye Telekom Datacenter,http://ttnetdc.com/
 46.20.12.1,46.20.12.128,Turkiye Telekom Datacenter,http://ttnetdc.com/
-46.20.114.0,46.20.115.255,PEER 1,http://www.peer1.com/
-46.23.70.0,46.23.71.255,UK2 Group,http://www.uk2.net/
+46.20.114.0,46.20.120.255,PEER 1,http://www.peer1.com/
+46.23.70.0,46.23.79.255,UK2 Group,http://www.uk2.net/
 46.31.184.0,46.31.191.255,basefarm.com,http://basefarm.com/
 46.33.64.0,46.33.77.255,Akamai,http://akamai.com/
 46.38.160.0,46.38.191.255,Rackspace,http://www.rackspace.com/
@@ -82,6 +83,7 @@
 46.175.56.0,46.175.63.255,Vautron AG,http://www.vautron.de/
 46.182.16.0,46.182.23.255,nbiserv.de,http://nbiserv.de/
 46.182.120.0,46.182.127.255,RapidSpeeds Servers LTD,http://rapidspeeds.com/
+46.183.136.0,46.183.143.255,Gigahost ApS,https://gigahost.dk/en
 46.226.8.0,46.226.8.255,Rent a Rack,http://rentarack.no/
 46.234.96.0,46.234.127.255,SuperNetwork,http://www.superhosting.cz/
 46.249.32.0,46.249.63.255,Servinus,http://serverius.nl/
@@ -108,12 +110,12 @@
 62.41.56.128,62.41.56.255,Akamai,http://akamai.com/
 62.41.58.0,62.41.58.255,Akamai,http://akamai.com/
 62.75.128.0,62.75.255.255,plusserver.de,http://plusserver.de/
-62.128.146.16,62.128.146.91,NetBenefit,http://www.netbenefit.com/
-62.128.148.0,62.128.150.95,NetBenefit,http://www.netbenefit.com/
+62.122.248.0,62.122.255.255,availo.no,http://www.availo.no/
+62.128.128.0,62.128.159.255,NetBenefit,http://www.netbenefit.com/
 62.128.192.0,62.128.223.255,iomart,http://www.iomart.com/
 62.146.0.0,62.146.255.255,IP Exchange GmbH,http://www.ip-exchange.de/
-62.149.10.64,62.149.10.135,colocall.net,http://colocall.net/
-62.149.12.0,62.149.15.199,colocall.net,http://colocall.net/
+62.149.10.64,62.149.10.159,colocall.net,http://colocall.net/
+62.149.12.0,62.149.15.223,colocall.net,http://colocall.net/
 62.204.64.0,62.204.95.255,prolocation.net,http://prolocation.net/
 62.212.64.0,62.212.95.255,Leaseweb,http://www.leaseweb.com/
 62.233.64.0,62.233.127.255,iomart,http://www.iomart.com/
@@ -424,18 +426,20 @@
 77.68.0.0,77.68.127.255,Fasthosts Internet Ltd,http://www.fasthosts.co.uk/
 77.74.192.0,77.74.199.255,UK Dedicated Servers LTD,http://ukservers.com/
 77.87.248.0,77.87.255.255,ConnectingBytse Gbmh,http://www.connectingbytes.de/
-77.92.64.0,77.92.65.6,UK2 Group,http://www.uk2.net/
-77.92.78.225,77.92.78.249,UK2 Group,http://www.uk2.net/
-77.92.85.186,77.92.85.196,UK2 Group,http://www.uk2.net/
-77.235.32.0,77.235.38.255,EuroVPS,http://eurovps.com/
-77.246.163.16,77.246.163.127,ServerSpace Limited,http://www.serverspace.co.uk/
-78.24.8.0,78.24.10.31,vshosting.cz,http://vshosting.cz/
+77.92.64.0,77.92.65.8,UK2 Group,http://www.uk2.net/
+77.92.78.225,77.92.78.251,UK2 Group,http://www.uk2.net/
+77.92.85.186,77.92.85.198,UK2 Group,http://www.uk2.net/
+77.235.32.0,77.235.40.255,EuroVPS,http://eurovps.com/
+77.246.160.0,77.246.160.31,ServerSpace Limited,http://www.serverspace.co.uk/
+77.246.163.16,77.246.163.151,ServerSpace Limited,http://www.serverspace.co.uk/
+78.24.8.0,78.24.10.63,vshosting.cz,http://vshosting.cz/
+78.31.104.0,78.31.111.255,Memset Ltd,http://www.memset.com/
 78.46.0.0,78.47.255.255,Hetzner Online AG,http://www.hetzner.de/
 78.109.16.0,78.109.31.255,hosting.ua,http://hosting.ua/
 78.110.160.0,78.110.175.255,UK Dedicated Servers LTD,http://ukservers.com/
 78.129.128.0,78.129.255.255,iomart Hosting Ltd,http://www.rapidswitch.com/
-78.136.0.0,78.136.0.47,Rackspace,http://www.rackspace.com/
-78.136.96.0,78.136.102.255,ServiHosting Networks S.L.,http://servihosting.es
+78.136.0.0,78.136.0.63,Rackspace,http://www.rackspace.com/
+78.136.96.0,78.136.104.255,ServiHosting Networks S.L.,http://servihosting.es
 78.143.0.0,78.143.63.255,LINK11 Gmbh,http://www.link11.de/
 78.157.192.0,78.157.223.255,UK Dedicated Servers LTD,http://ukservers.com/
 78.159.96.0,78.159.127.255,Leaseweb,http://www.leaseweb.com/
@@ -446,25 +450,25 @@
 79.142.64.0,79.142.78.255,AltusHost,http://www.altushost.com/
 79.143.176.0,79.143.191.255,Giga-Hosting GmbH,http://giga-hosting.biz/
 79.171.80.0,79.171.87.255,basefarm.com,http://basefarm.com/
-80.67.64.0,80.67.83.255,Akamai,http://akamai.com/
-80.76.144.0,80.76.144.95,basefarm.com,http://basefarm.com/
+80.67.64.0,80.67.95.255,Akamai,http://akamai.com/
+80.76.144.0,80.76.144.111,basefarm.com,http://basefarm.com/
 80.80.224.0,80.80.239.255,Safe Host SA,http://safehost.net/
 80.84.48.0,80.84.63.255,Redstation Limited,http://redstation.com/
 80.86.80.0,80.86.95.255,plusserver.de,http://plusserver.de/
 80.94.128.0,80.94.143.255,ConnectingBytse Gbmh,http://www.connectingbytes.de/
 80.95.144.0,80.95.159.255,LINK11 Gmbh,http://www.link11.de/
 80.190.0.0,80.190.255.255,IP Exchange GmbH,http://www.ip-exchange.de/
-80.237.128.0,80.237.130.255,Host Europe,http://www.hosteurope.de/
-80.237.206.0,80.237.206.127,Host Europe,http://www.hosteurope.de/
-80.237.226.80,80.237.226.143,Host Europe,http://www.hosteurope.de/
-80.237.237.152,80.237.237.163,Host Europe,http://www.hosteurope.de/
-80.243.176.0,80.243.177.255,Redstation Limited,http://redstation.com/
+80.237.128.0,80.237.132.127,Host Europe,http://www.hosteurope.de/
+80.237.206.0,80.237.207.127,Host Europe,http://www.hosteurope.de/
+80.237.226.80,80.237.226.159,Host Europe,http://www.hosteurope.de/
+80.237.237.152,80.237.237.171,Host Europe,http://www.hosteurope.de/
+80.243.176.0,80.243.179.255,Redstation Limited,http://redstation.com/
 80.243.191.224,80.243.191.255,idealhosting,http://www.idealhosting.com/
 80.246.52.0,80.246.52.127,Host Europe,http://www.hosteurope.de/
 80.246.62.0,80.246.63.255,alfahosting.de,http://alfahosting.de/
-81.17.96.0,81.17.106.255,IP Exchange GmbH,http://www.ip-exchange.de/
-81.25.112.0,81.25.113.255,servisweb,http://serveisweb.com/
-81.93.160.0,81.93.161.31,basefarm.com,http://basefarm.com/
+81.17.96.0,81.17.127.255,IP Exchange GmbH,http://www.ip-exchange.de/
+81.25.112.0,81.25.127.255,servisweb,http://serveisweb.com/
+81.93.160.0,81.93.161.63,basefarm.com,http://basefarm.com/
 81.169.128.0,81.169.255.255,Strato,http://www.strato.de
 82.139.64.0,82.139.127.255,prolocation.net,http://prolocation.net/
 82.145.32.0,82.145.63.255,iomart Hosting Ltd,http://www.rapidswitch.com/
@@ -472,34 +476,36 @@
 82.192.64.0,82.192.95.255,Leaseweb,http://www.leaseweb.com/
 82.211.0.0,82.211.63.255,accelerated.de,http://accelerated.de/
 83.98.128.0,83.98.128.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
-83.138.146.0,83.138.147.191,Rackspace,http://www.rackspace.com/
+83.138.146.0,83.138.148.63,Rackspace,http://www.rackspace.com/
 83.142.224.0,83.142.231.255,iomart Hosting Ltd,http://www.rapidswitch.com/
-83.149.64.0,83.149.67.191,Leaseweb,http://www.leaseweb.com/
-83.149.71.0,83.149.76.255,Leaseweb,http://www.leaseweb.com/
+83.143.80.0,83.143.87.255,availo.no,http://www.availo.no/
+83.143.112.0,83.143.119.255,availo.no,http://www.availo.no/
+83.149.64.0,83.149.68.127,Leaseweb,http://www.leaseweb.com/
+83.149.71.0,83.149.78.255,Leaseweb,http://www.leaseweb.com/
 83.149.126.0,83.149.127.255,Leaseweb,http://www.leaseweb.com/
-83.169.0.0,83.169.54.63,Host Europe,http://www.hosteurope.de/
+83.169.0.0,83.169.54.255,Host Europe,http://www.hosteurope.de/
 83.170.64.0,83.170.127.255,UK2 Group,http://www.uk2.net/
 83.217.64.0,83.217.95.255,easyhost.be,http://easyhost.be/
 83.243.56.0,83.243.63.255,Vautron AG,http://www.vautron.de/
-84.16.228.0,84.16.233.255,Leaseweb,http://www.leaseweb.com/
+84.16.228.0,84.16.239.255,Leaseweb,http://www.leaseweb.com/
 84.22.160.0,84.22.191.255,iomart,http://www.iomart.com/
 84.23.64.0,84.23.64.255,nbiserv.de,http://nbiserv.de/
-84.53.128.0,84.53.139.255,Akamai,http://akamai.com/
+84.53.128.0,84.53.142.255,Akamai,http://akamai.com/
 84.200.0.0,84.201.63.255,accelerated.de,http://accelerated.de/
 84.232.0.0,84.232.127.255,ServiHosting Networks S.L.,http://servihosting.es
 84.236.128.0,84.236.255.255,ServiHosting Networks S.L.,http://servihosting.es
 85.10.192.0,85.10.255.255,Hetzner Online AG,http://www.hetzner.de/
 85.13.198.64,85.13.198.127,Reliable Hosting,http://reliablehosting.com/
 85.13.247.0,85.13.247.127,Reliable Hosting,http://reliablehosting.com/
-85.14.192.0,85.14.195.255,unitedcolo.de,http://unitedcolo.de/
+85.14.192.0,85.14.197.255,unitedcolo.de,http://unitedcolo.de/
 85.17.0.0,85.17.255.255,Leaseweb,http://www.leaseweb.com/
 85.25.0.0,85.25.255.255,plusserver.de,http://plusserver.de/
-85.94.192.0,85.94.194.31,seeweb.it,http://seeweb.it/
+85.94.192.0,85.94.194.63,seeweb.it,http://seeweb.it/
 85.94.215.0,85.94.223.255,seeweb.it,http://seeweb.it/
 85.119.104.0,85.119.104.31,prolocation.net,http://prolocation.net/
-85.119.104.64,85.119.104.223,prolocation.net,http://prolocation.net/
-85.131.128.0,85.131.129.191,LINK11 Gmbh,http://www.link11.de/
-85.131.247.0,85.131.247.255,LINK11 Gmbh,http://www.link11.de/
+85.119.104.64,85.119.104.255,prolocation.net,http://prolocation.net/
+85.131.128.0,85.131.130.127,LINK11 Gmbh,http://www.link11.de/
+85.131.247.0,85.131.249.255,LINK11 Gmbh,http://www.link11.de/
 85.159.64.8,85.159.64.15,Ares Hosting,http://areshosting.com/
 85.159.64.40,85.159.64.47,Peron Hosting,http://peronhost.com/
 85.214.0.0,85.215.255.255,Strato,http://www.strato.de
@@ -507,31 +513,33 @@
 86.39.128.0,86.39.255.255,easyhost.be,http://easyhost.be/
 86.109.0.0,86.109.31.255,Alpha Mega Hosting,http://www.alphamegahosting.com/
 87.98.128.0,87.98.255.255,OVH,http://www.ovh.co.uk/
-87.106.0.0,87.106.108.255,1&1 Internet,http://www.1and1.com/
-87.106.128.0,87.106.172.255,1&1 Internet,http://www.1and1.com/
+87.106.0.0,87.106.110.127,1&1 Internet,http://www.1and1.com/
+87.106.128.0,87.106.175.255,1&1 Internet,http://www.1and1.com/
 87.106.208.0,87.106.255.255,1&1 Internet,http://www.1and1.com/
 87.117.192.0,87.117.255.255,iomart Hosting Ltd,http://www.rapidswitch.com/
 87.229.7.0,87.229.7.255,Szervernet,http://szervernet.hu/
-87.230.27.0,87.230.27.255,Host Europe,http://www.hosteurope.de/
-87.230.74.160,87.230.75.255,Host Europe,http://www.hosteurope.de/
-87.230.80.0,87.230.80.255,Host Europe,http://www.hosteurope.de/
-87.238.84.0,87.238.87.255,Amazon AWS,http://www.amazon.com/aws/
-87.242.64.0,87.242.69.255,masterhost.ru,http://masterhost.ru/
-88.80.192.0,88.80.192.127,Host Europe,http://www.hosteurope.de/
+87.230.0.0,87.230.16.255,Host Europe,http://www.hosteurope.de/
+87.230.27.0,87.230.29.255,Host Europe,http://www.hosteurope.de/
+87.230.74.160,87.230.82.255,Host Europe,http://www.hosteurope.de/
+87.238.80.0,87.238.87.255,Amazon AWS,http://www.amazon.com/aws/
+87.242.64.0,87.242.79.255,masterhost.ru,http://masterhost.ru/
+88.80.192.0,88.80.223.255,Host Europe,http://www.hosteurope.de/
 88.86.96.0,88.86.127.255,SuperNetwork,http://www.superhosting.cz/
+88.87.32.0,88.87.63.255,availo.no,http://www.availo.no/
 88.148.0.0,88.148.127.255,ServiHosting Networks S.L.,http://servihosting.es
 88.198.0.0,88.198.255.255,Hetzner Online AG,http://www.hetzner.de/
 88.208.0.0,88.208.7.255,advancedhosters.com,http://advancedhosters.com/
-88.208.10.0,88.208.24.15,advancedhosters.com,http://advancedhosters.com/
+88.208.10.0,88.208.24.255,advancedhosters.com,http://advancedhosters.com/
 88.208.192.0,88.208.255.255,Fasthosts Internet Ltd,http://www.fasthosts.co.uk/
 88.214.192.0,88.214.195.255,Hqhost.net,http://hqhost.net/en/index.html
-88.221.0.0,88.221.19.255,Akamai,http://akamai.com/
+88.214.196.128,88.214.197.255,Hqhost.net,http://hqhost.net/en/index.html
+88.221.0.0,88.221.31.255,Akamai,http://akamai.com/
 89.19.6.112,89.19.6.119,Ares Hosting,http://areshosting.com/
 89.149.192.0,89.149.255.255,Leaseweb,http://www.leaseweb.com/
-89.184.160.0,89.184.160.167,Red Hosting,http://redhosting.nl/
-89.184.161.0,89.184.162.47,Red Hosting,http://redhosting.nl/
-89.184.164.136,89.184.164.199,Red Hosting,http://redhosting.nl/
-89.184.172.0,89.184.173.47,Red Hosting,http://redhosting.nl/
+89.184.160.0,89.184.160.175,Red Hosting,http://redhosting.nl/
+89.184.161.0,89.184.162.63,Red Hosting,http://redhosting.nl/
+89.184.164.136,89.184.164.211,Red Hosting,http://redhosting.nl/
+89.184.172.0,89.184.173.63,Red Hosting,http://redhosting.nl/
 89.184.190.32,89.184.191.255,Red Hosting,http://redhosting.nl/
 89.200.136.0,89.200.143.255,Memset Ltd,http://www.memset.com/
 89.200.168.0,89.200.175.255,Vautron AG,http://www.vautron.de/
@@ -542,24 +550,28 @@
 89.255.0.0,89.255.63.255,Hosting Concepts,http://hosting-concepts.nl/
 91.121.64.0,91.121.135.255,OVH,http://www.ovh.co.uk/
 91.121.144.0,91.121.191.255,OVH,http://www.ovh.co.uk/
-91.121.208.0,91.121.224.75,OVH,http://www.ovh.co.uk/
+91.121.208.0,91.121.224.87,OVH,http://www.ovh.co.uk/
+91.184.0.0,91.184.31.255,hostnet.nl,http://www.hostnet.nl/
+91.189.176.0,91.189.183.255,availo.no,http://www.availo.no/
+92.48.120.0,92.48.120.7,eukhost.com,http://eukhost.com/
 92.48.126.4,92.48.126.17,eUKhost,http://www.eukhost.com/
-92.51.184.0,92.51.189.255,Host Europe,http://www.hosteurope.de/
-92.52.64.0,92.52.64.31,Rackspace,http://www.rackspace.com/
-92.52.91.208,92.52.91.239,Rackspace,http://www.rackspace.com/
-92.61.32.0,92.61.32.255,hostex.lt,http://hostex.lt/
-92.61.38.0,92.61.40.143,hostex.lt,http://hostex.lt/
+92.48.126.18,92.48.126.19,eukhost.com,http://eukhost.com/
+92.51.184.0,92.51.190.127,Host Europe,http://www.hosteurope.de/
+92.52.64.0,92.52.64.39,Rackspace,http://www.rackspace.com/
+92.52.91.208,92.52.91.247,Rackspace,http://www.rackspace.com/
+92.61.32.0,92.61.33.255,hostex.lt,http://hostex.lt/
+92.61.38.0,92.61.40.159,hostex.lt,http://hostex.lt/
 93.92.24.0,93.92.31.255,Hostex Internet Services,http://hostex.no/
 93.127.128.0,93.127.255.255,Star-Hosting e.K.,http://star-hosting.de/
 93.168.0.0,93.169.255.255,everhost,http://everhost.co/
 93.185.96.0,93.185.111.255,vshosting.cz,http://vshosting.cz/
-93.186.160.0,93.186.168.31,inline.de,http://www.inline.de/
-93.187.216.0,93.187.219.255,Alpha Mega Hosting,http://www.alphamegahosting.com/
+93.186.160.0,93.186.168.47,inline.de,http://www.inline.de/
+93.187.216.0,93.187.223.255,Alpha Mega Hosting,http://www.alphamegahosting.com/
 94.23.0.0,94.23.255.255,OVH,http://www.ovh.co.uk/
-94.75.192.0,94.75.197.255,Leaseweb,http://www.leaseweb.com/
-94.75.217.0,94.75.227.255,Leaseweb,http://www.leaseweb.com/
-94.75.232.0,94.75.241.255,Leaseweb,http://www.leaseweb.com/
-94.75.243.0,94.75.247.255,Leaseweb,http://www.leaseweb.com/
+94.75.192.0,94.75.198.255,Leaseweb,http://www.leaseweb.com/
+94.75.217.0,94.75.228.255,Leaseweb,http://www.leaseweb.com/
+94.75.232.0,94.75.242.127,Leaseweb,http://www.leaseweb.com/
+94.75.243.0,94.75.249.255,Leaseweb,http://www.leaseweb.com/
 94.76.128.0,94.76.191.255,ServiHosting Networks S.L.,http://servihosting.es
 94.100.25.0,94.100.27.255,King Servers,http://www.king-servers.com/
 94.102.48.0,94.102.48.150,Ecatel,http://ecatel.net/
@@ -570,23 +582,23 @@
 94.199.182.0,94.199.183.255,Szervernet,http://szervernet.hu/
 94.199.240.0,94.199.247.255,Host Europe,http://www.hosteurope.de/
 94.229.64.0,94.229.79.255,UK Dedicated Servers LTD,http://ukservers.com/
-94.236.0.0,94.236.0.47,Rackspace,http://www.rackspace.com/
-94.236.18.0,94.236.18.63,Rackspace,http://www.rackspace.com/
-94.247.0.0,94.247.0.255,Red Hosting,http://redhosting.nl/
-94.247.2.0,94.247.2.159,Red Hosting,http://redhosting.nl/
-95.100.0.0,95.100.127.255,Akamai,http://akamai.com/
+94.236.0.0,94.236.0.55,Rackspace,http://www.rackspace.com/
+94.236.18.0,94.236.18.71,Rackspace,http://www.rackspace.com/
+94.247.0.0,94.247.7.255,Red Hosting,http://redhosting.nl/
+95.100.0.0,95.100.143.255,Akamai,http://akamai.com/
 95.128.88.0,95.128.95.255,prolocation.net,http://prolocation.net/
 95.129.104.0,95.129.111.255,iomart,http://www.iomart.com/
 95.130.72.0,95.130.79.255,NetBenefit,http://www.netbenefit.com/
 95.143.32.0,95.143.32.63,inline.de,http://www.inline.de/
-95.143.32.128,95.143.33.47,inline.de,http://www.inline.de/
-95.143.37.160,95.143.38.127,inline.de,http://www.inline.de/
-95.143.39.224,95.143.40.255,inline.de,http://www.inline.de/
+95.143.32.128,95.143.33.63,inline.de,http://www.inline.de/
+95.143.37.160,95.143.38.191,inline.de,http://www.inline.de/
+95.143.39.224,95.143.41.127,inline.de,http://www.inline.de/
 95.154.192.0,95.154.255.255,iomart Hosting Ltd,http://www.rapidswitch.com/
 95.156.192.0,95.156.198.11,Optimate Server,http://optimate-server.de/
 95.168.160.0,95.168.191.255,Leaseweb,http://www.leaseweb.com/
 95.168.192.0,95.168.193.255,SuperNetwork,http://www.superhosting.cz/
 95.168.218.0,95.168.218.255,DataCamp Limited,http://www.cloudee.eu/
+95.168.219.0,95.168.219.255,SuperNetwork,http://www.superhosting.cz/
 95.174.0.0,95.174.31.255,seeweb.it,http://seeweb.it/
 95.211.0.0,95.211.255.255,Leaseweb,http://www.leaseweb.com/
 96.6.0.0,96.7.255.255,Akamai,http://akamai.com/
@@ -632,8 +644,9 @@
 109.228.0.0,109.228.63.255,Fasthosts Internet Ltd,http://www.fasthosts.co.uk/
 109.230.192.0,109.230.255.255,Optimate Server,http://optimate-server.de/
 109.232.225.0,109.232.226.31,serverboost.nl,http://serverboost.nl/
-109.232.226.64,109.232.229.255,serverboost.nl,http://serverboost.nl/
-109.237.128.0,109.237.141.255,alfahosting.de,http://alfahosting.de/
+109.232.226.64,109.232.230.255,serverboost.nl,http://serverboost.nl/
+109.235.56.0,109.235.63.255,Vautron AG,http://www.vautron.de/
+109.237.128.0,109.237.142.255,alfahosting.de,http://alfahosting.de/
 110.4.40.0,110.4.47.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
 111.91.236.0,111.91.239.255,ReadySpace,http://www.readyspace.com.sg/en/
 111.223.224.0,111.223.239.254,Micron21,http://www.micron21.com/
@@ -645,34 +658,34 @@
 117.121.240.0,117.121.247.255,GPLHost,https://www.gplhost.com/
 118.139.160.0,118.139.191.255,GoDaddy.com Inc,http://www.godaddy.com/
 118.214.0.0,118.215.255.255,Akamai,http://akamai.com/
-119.31.224.0,119.31.226.255,Micron21,http://www.micron21.com/
-119.31.228.0,119.31.231.255,Micron21,http://www.micron21.com/
+119.31.224.0,119.31.231.255,Micron21,http://www.micron21.com/
 120.136.32.0,120.136.47.255,Rackspace,http://www.rackspace.com/
 122.200.132.0,122.200.135.255,Datapipe,http://www.datapipe.com/
 122.248.192.0,122.248.255.255,Amazon AWS,http://www.amazon.com/aws/
 122.252.32.0,122.252.63.255,Akamai,http://akamai.com/
 122.252.128.0,122.252.143.255,Akamai,http://akamai.com/
-124.109.0.0,124.109.3.127,Servenet Solution Limited Partnership,http://servenet.co.th/
+124.109.0.0,124.109.3.255,Servenet Solution Limited Partnership,http://servenet.co.th/
 125.56.128.0,125.56.255.255,Akamai,http://akamai.com/
 125.252.192.0,125.252.255.255,Akamai,http://akamai.com/
 141.0.160.0,141.0.167.255,NuFuture Ltd,http://www.nublue.co.uk/
+141.101.64.0,141.101.127.255,CloudFlare Inc,https://www.cloudflare.com/
 146.185.16.0,146.185.31.255,UK2 Group,http://www.100tb.com/
 146.255.24.0,146.255.31.255,Angel Hosting,http://www.angel-hosting.cz/
 146.255.32.0,146.255.47.255,GoDaddy.com Inc,http://www.godaddy.com/
 146.255.168.0,146.255.175.255,WEBAXYS,http://www.webaxys.fr/
 147.203.0.0,147.203.255.255,American Internet Services,http://americanis.net/
 149.3.128.0,149.3.128.255,redstation.com,http://redstation.com/
-149.3.129.0,149.3.129.87,Redstation Limited,http://redstation.com/
+149.3.129.0,149.3.129.95,Redstation Limited,http://redstation.com/
 149.3.135.0,149.3.135.63,redstation.com,http://redstation.com/
 149.3.135.64,149.3.135.87,Redstation Limited,http://redstation.com/
 149.3.135.88,149.3.135.95,idealhosting,http://www.idealhosting.com/
-149.3.135.96,149.3.135.127,Redstation Limited,http://redstation.com/
+149.3.135.96,149.3.135.159,Redstation Limited,http://redstation.com/
 149.3.138.32,149.3.138.63,redstation.com,http://redstation.com/
 149.3.138.64,149.3.138.127,Redstation Limited,http://redstation.com/
 149.3.138.128,149.3.138.159,idealhosting,http://www.idealhosting.com/
-149.3.138.160,149.3.138.191,Redstation Limited,http://redstation.com/
+149.3.138.160,149.3.138.255,Redstation Limited,http://redstation.com/
 149.3.140.8,149.3.140.15,redstation.com,http://redstation.com/
-149.3.140.16,149.3.140.47,Redstation Limited,http://redstation.com/
+149.3.140.16,149.3.140.55,Redstation Limited,http://redstation.com/
 173.0.48.0,173.0.63.255,Virpus Networks,http://myvirpus.com/
 173.0.176.0,173.0.191.255,Techie Media,http://techiemedia.net/
 173.1.0.0,173.1.255.255,GoGrid,http://www.gogrid.com/
@@ -727,7 +740,7 @@
 174.143.0.0,174.143.255.255,Rackspace,http://www.rackspace.com/
 175.41.128.0,175.41.255.255,Amazon AWS,http://www.amazon.com/aws/
 176.9.0.0,176.9.255.255,Hetzner Online AG,http://www.hetzner.de/
-176.28.0.0,176.28.0.139,Host Europe,http://www.hosteurope.de/
+176.28.0.0,176.28.0.143,Host Europe,http://www.hosteurope.de/
 176.31.0.0,176.31.255.255,OVH,http://www.ovh.co.uk/
 176.32.64.0,176.32.127.255,Amazon AWS,http://www.amazon.com/aws/
 176.34.0.0,176.34.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -735,20 +748,21 @@
 178.18.240.0,178.18.255.255,inline.de,http://www.inline.de/
 178.21.16.0,178.21.23.255,Servinus,http://serverius.nl/
 178.32.0.0,178.33.255.255,OVH,http://www.ovh.co.uk/
-178.63.54.192,178.63.55.175,Hetzner Online AG,http://www.hetzner.de/
-178.63.63.128,178.63.64.191,Hetzner Online AG,http://www.hetzner.de/
+178.63.54.192,178.63.55.191,Hetzner Online AG,http://www.hetzner.de/
+178.63.63.128,178.63.64.255,Hetzner Online AG,http://www.hetzner.de/
 178.63.131.0,178.63.131.127,Hetzner Online AG,http://www.hetzner.de/
+178.63.132.0,178.63.132.31,Hetzner Online AG,http://www.hetzner.de/
 178.73.192.0,178.73.195.255,VPNTunnel,https://www.vpntunnel.se/en/
 178.73.204.0,178.73.211.255,VPNTunnel,https://www.vpntunnel.se/en/
-178.77.64.0,178.77.92.37,Host Europe,http://www.hosteurope.de/
+178.77.64.0,178.77.92.39,Host Europe,http://www.hosteurope.de/
 178.79.128.0,178.79.191.255,Linode,http://www.linode.com/
 178.86.0.0,178.87.255.255,hosting.ua,http://hosting.ua/
 178.156.0.0,178.156.127.255,ServiHosting Networks S.L.,http://servihosting.es
 178.162.128.0,178.162.255.255,Leaseweb,http://www.leaseweb.com/
 178.217.80.0,178.217.87.255,h4hosting.eu,http://h4hosting.eu/
 178.236.0.0,178.236.15.255,Amazon AWS,http://www.amazon.com/aws/
-178.238.224.0,178.238.229.255,Giga-Hosting GmbH,http://giga-hosting.biz/
-178.238.232.0,178.238.236.255,Giga-Hosting GmbH,http://giga-hosting.biz/
+178.238.224.0,178.238.230.255,Giga-Hosting GmbH,http://giga-hosting.biz/
+178.238.232.0,178.238.237.255,Giga-Hosting GmbH,http://giga-hosting.biz/
 178.239.51.192,178.239.51.255,knownsrv.com,http://knownsrv.com/
 178.239.57.0,178.239.57.255,XSserver,http://www.xsserver.eu/
 178.251.0.0,178.251.7.255,activewebs.dk,http://activewebs.dk/
@@ -778,10 +792,10 @@
 184.171.160.0,184.171.175.255,Secure Servers,http://www.securedservers.com/
 184.171.240.0,184.171.255.255,DimeNOC,http://dimenoc.com/
 184.172.0.0,184.173.255.255,SoftLayer,http://www.softlayer.com/
-188.40.0.0,188.40.0.191,Hetzner Online AG,http://www.hetzner.de/
-188.40.34.0,188.40.35.127,Hetzner Online AG,http://www.hetzner.de/
-188.40.55.64,188.40.56.63,Hetzner Online AG,http://www.hetzner.de/
-188.40.65.64,188.40.66.191,Hetzner Online AG,http://www.hetzner.de/
+188.40.0.0,188.40.0.223,Hetzner Online AG,http://www.hetzner.de/
+188.40.34.0,188.40.35.191,Hetzner Online AG,http://www.hetzner.de/
+188.40.55.64,188.40.56.127,Hetzner Online AG,http://www.hetzner.de/
+188.40.65.64,188.40.66.255,Hetzner Online AG,http://www.hetzner.de/
 188.40.155.64,188.40.155.127,Hetzner Online AG,http://www.hetzner.de/
 188.40.155.224,188.40.155.255,Hetzner Online AG,http://www.hetzner.de/
 188.40.175.0,188.40.175.31,Hetzner Online AG,http://www.hetzner.de/
@@ -795,12 +809,13 @@
 188.138.0.0,188.138.127.255,plusserver.de,http://plusserver.de/
 188.165.0.0,188.165.255.255,OVH,http://www.ovh.co.uk/
 188.227.160.112,188.227.160.119,idealhosting,http://www.idealhosting.com/
-188.227.160.120,188.227.160.199,Redstation Limited,http://redstation.com/
+188.227.160.120,188.227.160.207,Redstation Limited,http://redstation.com/
 190.4.88.0,190.4.91.255,Hosta Rica,http://hostarica.com/
 193.34.88.0,193.34.91.255,easyhost.be,http://easyhost.be/
 193.34.144.0,193.34.145.255,Giga-Hosting GmbH,http://giga-hosting.biz/
 193.37.152.0,193.37.152.255,Giga-Hosting GmbH,http://giga-hosting.biz/
 193.108.88.0,193.108.95.255,Akamai,http://akamai.com/
+193.108.152.0,193.108.155.255,Akamai,http://akamai.com/
 193.164.131.0,193.164.133.255,Giga-Hosting GmbH,http://giga-hosting.biz/
 193.169.188.0,193.169.189.255,hostpro.ua,http://hostpro.ua/
 193.169.250.0,193.169.251.255,wehostall,http://wehostall.ru/
@@ -814,9 +829,11 @@
 195.49.128.0,195.49.131.255,colocall.net,http://colocall.net/
 195.59.44.0,195.59.44.255,Akamai,http://akamai.com/
 195.62.28.0,195.62.29.255,ukwebhosting.ltd.uk,http://ukwebhosting.ltd.uk/
+195.189.254.0,195.189.255.255,availo.no,http://www.availo.no/
 195.190.13.0,195.190.13.255,Steep Host,http://www.steephost.com/
+195.190.140.0,195.190.140.255,SuperNetwork,http://www.superhosting.cz/
 195.191.92.0,195.191.93.255,Vautron AG,http://www.vautron.de/
-195.225.0.0,195.225.0.103,basefarm.com,http://basefarm.com/
+195.225.0.0,195.225.0.111,basefarm.com,http://basefarm.com/
 195.225.104.0,195.225.107.255,Host Europe,http://www.hosteurope.de/
 195.245.124.0,195.245.127.255,Akamai,http://akamai.com/
 199.15.112.0,199.15.119.255,Psychz Networks,http://psychz.net/
@@ -838,6 +855,7 @@
 199.167.144.0,199.167.151.255,Hivelocity Hosting,http://www.hivelocity.net/
 199.168.136.0,199.168.143.255,Volume Drive,http://volumedrive.com
 199.168.172.0,199.168.175.255,Firehost,http://www.firehost.com/
+199.168.184.0,199.168.191.255,DimeNOC,http://dimenoc.com/
 199.180.128.0,199.180.135.255,Virpus Networks,http://myvirpus.com/
 199.180.184.0,199.180.187.255,Firehost,http://www.firehost.com/
 199.180.196.0,199.180.199.255,SWITCH Communications Group LLC,http://www.switchnap.com/
@@ -845,6 +863,7 @@
 199.204.136.0,199.204.139.255,Firehost,http://www.firehost.com/
 199.204.248.0,199.204.255.255,Jumpline Inc,http://www.jumpline.com/
 199.230.52.0,199.230.55.255,ServInt,http://www.servint.net/
+199.231.128.0,199.231.150.255,HostMySite.com,http://www.webmysite.com/
 199.255.192.0,199.255.195.255,Amazon AWS,http://www.amazon.com/aws/
 202.9.36.0,202.9.39.255,Gigabit Hosting Sdn Bhd,http://thegigabit.com/
 202.168.208.0,202.168.215.255,Datapipe,http://www.datapipe.com/
@@ -1029,6 +1048,7 @@
 213.155.0.0,213.155.31.255,hosting.ua,http://hosting.ua/
 213.163.84.0,213.163.84.255,serverboost.nl,http://serverboost.nl/
 213.165.64.0,213.165.95.255,1&1 Internet,http://www.1and1.com/
+213.166.160.0,213.166.191.255,availo.no,http://www.availo.no/
 213.171.192.0,213.171.223.255,Fasthosts Internet Ltd,http://www.fasthosts.co.uk/
 213.174.128.0,213.174.148.191,advancedhosters.com,http://advancedhosters.com/
 213.175.192.0,213.175.223.255,eUKhost,http://www.eukhost.com/
