@@ -70,6 +70,7 @@
 46.20.10.0,46.20.10.255,Turkiye Telekom Datacenter,http://ttnetdc.com/
 46.20.12.1,46.20.12.128,Turkiye Telekom Datacenter,http://ttnetdc.com/
 46.20.114.0,46.20.121.255,PEER 1,http://www.peer1.com/
+46.21.144.0,46.21.159.255,Swiftway,http://swiftway.net/
 46.23.70.0,46.23.79.255,UK2 Group,http://www.uk2.net/
 46.31.184.0,46.31.191.255,basefarm.com,http://basefarm.com/
 46.33.64.0,46.33.77.255,Akamai,http://akamai.com/
@@ -93,11 +94,13 @@
 50.21.176.0,50.21.191.255,1&1 Internet,http://www.1and1.com/
 50.22.0.0,50.23.255.255,SoftLayer,http://www.softlayer.com/
 50.28.0.0,50.28.127.255,Liquid Web,http://www.liquidweb.com/
+50.30.32.0,50.30.47.255,Hosting Solutions International Inc,http://www.plusserver.de
 50.31.128.0,50.31.255.255,ServerCentral,http://www.servercentral.net/
 50.56.0.0,50.57.255.255,Rackspace,http://www.rackspace.com/
 50.62.0.0,50.63.255.255,GoDaddy.com Inc,http://www.godaddy.com/
 50.97.0.0,50.97.255.255,SoftLayer,http://www.softlayer.com/
 50.112.0.0,50.112.255.255,Amazon AWS,http://www.amazon.com/aws/
+50.115.32.0,50.115.47.255,WebNX Internet Services,http://webnx.com/
 50.115.112.0,50.115.127.255,Midphase,http://www.midphase.com/
 50.115.128.0,50.115.143.255,Take 2 Hosting,http://www.take2hosting.com/
 50.115.160.0,50.115.175.255,Virpus Networks,http://myvirpus.com/
@@ -114,7 +117,7 @@
 62.128.128.0,62.128.159.255,NetBenefit,http://www.netbenefit.com/
 62.128.192.0,62.128.223.255,iomart,http://www.iomart.com/
 62.146.0.0,62.146.255.255,IP Exchange GmbH,http://www.ip-exchange.de/
-62.149.10.64,62.149.10.159,colocall.net,http://colocall.net/
+62.149.10.64,62.149.10.175,colocall.net,http://colocall.net/
 62.149.12.0,62.149.15.223,colocall.net,http://colocall.net/
 62.204.64.0,62.204.95.255,prolocation.net,http://prolocation.net/
 62.212.64.0,62.212.95.255,Leaseweb,http://www.leaseweb.com/
@@ -138,6 +141,7 @@
 64.37.48.0,64.37.63.255,DimeNOC,http://dimenoc.com/
 64.38.0.0,64.38.63.255,Layered Technologies Inc,http://www.layeredtech.com/
 64.39.0.0,64.39.31.255,Rackspace,http://www.rackspace.com/
+64.40.96.0,64.40.127.255,NetNation,http://www.netnation.com/
 64.45.0.0,64.45.63.255,PEER 1,http://www.peer1.com/
 64.46.32.0,64.46.63.255,RackForce,http://www.rockforce.com/
 64.49.192.0,64.49.255.255,Rackspace,http://www.rackspace.com/
@@ -173,7 +177,9 @@
 64.191.0.0,64.191.127.255,hostnoc,http://www.hostnoc.net/
 64.202.96.0,64.202.127.255,ServerCentral,http://www.servercentral.net/
 64.202.160.0,64.202.191.255,GoDaddy.com Inc,http://www.godaddy.com/
+64.203.96.0,64.203.111.255,Airnet Group,http://smartechcorp.net/
 64.207.128.0,64.207.191.255,Media Temple,http://www.mediatemple.net/
+64.210.128.0,64.210.159.255,Reflected Networks,http://reflected.net/
 64.224.0.0,64.227.255.255,PEER 1,http://www.peer1.com/
 64.235.32.0,64.235.63.255,Premia Networks Corporation,http://www.premianet.com/
 64.239.0.0,64.239.127.255,PEER 1,http://www.peer1.com/
@@ -204,6 +210,7 @@
 66.45.224.0,66.45.255.255,InterServer.net,http://www.interserver.net/
 66.49.128.0,66.49.255.255,Canaca-com Inc.,http://canaca.com
 66.55.80.0,66.55.95.255,gigeNET,http://www.gigenet.com/
+66.63.160.0,66.63.191.255,QuadraNet,http://quadranet.com/
 66.70.0.0,66.70.127.255,Datapipe,http://www.datapipe.com/
 66.84.0.0,66.84.63.255,Jumpline Inc,http://www.jumpline.com/
 66.85.128.0,66.85.191.255,Secure Servers,http://www.securedservers.com/
@@ -214,6 +221,7 @@
 66.111.64.0,66.111.95.255,PEER 1,http://www.peer1.com/
 66.116.96.0,66.116.127.255,SWITCH Communications Group LLC,http://www.switchnap.com/
 66.132.128.0,66.132.255.255,PEER 1,http://www.peer1.com/
+66.135.32.0,66.135.63.255,ServerBeach Dedicated Servers,http://www.serverbeach.com/
 66.147.224.0,66.147.239.255,HostRocket,http://www.hostrocket.com/
 66.148.0.0,66.148.63.255,PEER 1,http://www.peer1.com/
 66.155.0.0,66.155.127.255,PEER 1,http://www.peer1.com/
@@ -242,8 +250,10 @@
 66.241.192.0,66.241.255.255,HostMySite.com,http://www.webmysite.com/
 66.249.0.0,66.249.31.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 66.252.0.0,66.252.31.255,gigeNET,http://www.gigenet.com/
+66.254.96.0,66.254.127.255,Reflected Networks,http://reflected.net/
 67.15.0.0,67.15.255.255,SoftLayer,http://www.softlayer.com/
 67.18.0.0,67.19.255.255,SoftLayer,http://www.softlayer.com/
+67.20.48.0,67.20.63.255,Future Hosting Inc,http://vpsdatacenter.com/
 67.21.64.0,67.21.95.255,SharkTECH Internet Services,http://sharktech.net/
 67.22.96.0,67.22.111.255,Canada Web Hosting,http://www.canadawebhosting.com/
 67.23.0.0,67.23.47.255,Rackspace,http://www.rackspace.com/
@@ -274,6 +284,7 @@
 67.215.224.0,67.215.255.255,Secure Private Network,http://www.securedprivatenetwork.net/
 67.217.48.0,67.217.63.255,Host Department LLC,http://www.hostdepartment.com/
 67.220.64.0,67.220.95.255,awknet,http://awknet.com/
+67.220.192.0,67.220.223.255,WebNX Internet Services,http://webnx.com/
 67.221.32.0,67.221.63.255,Peak Web Hosting,http://www.peakwebhosting.com/
 67.222.128.0,67.222.159.255,Tailor Made Servers,http://tailoredservers.com/
 67.223.112.0,67.223.127.255,HostVentures,http://www.hostventures.com/
@@ -324,6 +335,7 @@
 69.59.128.0,69.59.191.255,GoGrid,http://www.gogrid.com/
 69.60.96.0,69.60.127.255,ServerPronto,http://www.serverpronto.com/
 69.63.128.0,69.63.159.255,Edgewebhosting,http://www.edgewebhosting.net/
+69.64.32.0,69.64.63.255,Hosting Solutions International Inc,http://www.plusserver.de
 69.64.64.0,69.64.95.255,Codero,http://www.codero.com/
 69.65.0.0,69.65.63.255,gigeNET,http://www.gigenet.com/
 69.65.96.0,69.65.127.255,Virtacore Systems,http://www.virtacore.com/
@@ -342,6 +354,7 @@
 69.171.128.0,69.171.159.255,Canaca-com Inc.,http://canaca.com
 69.172.64.0,69.172.127.255,Canaca-com Inc.,http://canaca.com
 69.172.192.0,69.172.255.255,PEER 1,http://www.peer1.com/
+69.174.240.0,69.174.255.255,ServerBeach Dedicated Servers,http://www.serverbeach.com/
 69.175.0.0,69.175.127.255,SingleHop,http://www.singlehop.com/
 69.192.0.0,69.192.255.255,Akamai,http://akamai.com/
 69.194.0.0,69.194.127.255,Peak Web Hosting,http://www.peakwebhosting.com/
@@ -359,6 +372,7 @@
 72.3.128.0,72.3.255.255,Rackspace,http://www.rackspace.com/
 72.4.112.0,72.4.127.255,Rackspace,http://www.rackspace.com/
 72.10.32.0,72.10.63.255,Media Temple,http://www.mediatemple.net/
+72.11.128.0,72.11.159.255,QuadraNet,http://quadranet.com/
 72.13.80.0,72.13.95.255,EGIHosting.com,http://www.egihosting.com/
 72.14.176.0,72.14.191.255,Linode,http://www.linode.com/
 72.18.192.0,72.18.207.255,Premia Networks Corporation,http://www.premianet.com/
@@ -374,6 +388,7 @@
 72.32.0.0,72.32.255.255,Rackspace,http://www.rackspace.com/
 72.36.128.0,72.36.255.255,Layered Technologies Inc,http://www.layeredtech.com/
 72.44.32.0,72.44.63.255,Amazon AWS,http://www.amazon.com/aws/
+72.44.80.0,72.44.95.255,Future Hosting Inc,http://vpsdatacenter.com/
 72.46.128.0,72.46.159.255,VersaWeb,http://www.versaweb.com/
 72.47.192.0,72.47.255.255,Media Temple,http://www.mediatemple.net/
 72.51.0.0,72.51.63.255,PEER 1,http://www.peer1.com/
@@ -426,20 +441,20 @@
 77.68.0.0,77.68.127.255,Fasthosts Internet Ltd,http://www.fasthosts.co.uk/
 77.74.192.0,77.74.199.255,UK Dedicated Servers LTD,http://ukservers.com/
 77.87.248.0,77.87.255.255,ConnectingBytse Gbmh,http://www.connectingbytes.de/
-77.92.64.0,77.92.65.8,UK2 Group,http://www.uk2.net/
-77.92.78.225,77.92.78.251,UK2 Group,http://www.uk2.net/
-77.92.85.186,77.92.85.198,UK2 Group,http://www.uk2.net/
-77.235.32.0,77.235.40.255,EuroVPS,http://eurovps.com/
-77.246.160.0,77.246.160.31,ServerSpace Limited,http://www.serverspace.co.uk/
-77.246.163.16,77.246.163.151,ServerSpace Limited,http://www.serverspace.co.uk/
-78.24.8.0,78.24.10.63,vshosting.cz,http://vshosting.cz/
+77.92.64.0,77.92.65.9,UK2 Group,http://www.uk2.net/
+77.92.78.225,77.92.78.252,UK2 Group,http://www.uk2.net/
+77.92.85.186,77.92.85.199,UK2 Group,http://www.uk2.net/
+77.235.32.0,77.235.41.255,EuroVPS,http://eurovps.com/
+77.246.160.0,77.246.160.39,ServerSpace Limited,http://www.serverspace.co.uk/
+77.246.163.16,77.246.163.159,ServerSpace Limited,http://www.serverspace.co.uk/
+78.24.8.0,78.24.10.71,vshosting.cz,http://vshosting.cz/
 78.31.104.0,78.31.111.255,Memset Ltd,http://www.memset.com/
 78.46.0.0,78.47.255.255,Hetzner Online AG,http://www.hetzner.de/
 78.109.16.0,78.109.31.255,hosting.ua,http://hosting.ua/
 78.110.160.0,78.110.175.255,UK Dedicated Servers LTD,http://ukservers.com/
 78.129.128.0,78.129.255.255,iomart Hosting Ltd,http://www.rapidswitch.com/
-78.136.0.0,78.136.0.63,Rackspace,http://www.rackspace.com/
-78.136.96.0,78.136.104.255,ServiHosting Networks S.L.,http://servihosting.es
+78.136.0.0,78.136.0.71,Rackspace,http://www.rackspace.com/
+78.136.64.0,78.136.127.255,ServiHosting Networks S.L.,http://servihosting.es
 78.143.0.0,78.143.63.255,LINK11 Gmbh,http://www.link11.de/
 78.157.192.0,78.157.223.255,UK Dedicated Servers LTD,http://ukservers.com/
 78.159.96.0,78.159.127.255,Leaseweb,http://www.leaseweb.com/
@@ -549,6 +564,7 @@
 89.248.168.0,89.248.168.255,Ecatel,http://ecatel.net/
 89.248.172.0,89.248.172.255,Ecatel,http://ecatel.net/
 89.255.0.0,89.255.63.255,Hosting Concepts,http://hosting-concepts.nl/
+91.102.88.0,91.102.91.79,Solido Hosting A/S,http://solidohosting.com/
 91.121.64.0,91.121.135.255,OVH,http://www.ovh.co.uk/
 91.121.144.0,91.121.191.255,OVH,http://www.ovh.co.uk/
 91.121.208.0,91.121.224.87,OVH,http://www.ovh.co.uk/
@@ -576,7 +592,7 @@
 94.75.232.0,94.75.242.191,Leaseweb,http://www.leaseweb.com/
 94.75.243.0,94.75.255.255,Leaseweb,http://www.leaseweb.com/
 94.76.128.0,94.76.191.255,ServiHosting Networks S.L.,http://servihosting.es
-94.100.25.0,94.100.27.255,King Servers,http://www.king-servers.com/
+94.100.16.0,94.100.31.255,Swiftway,http://swiftway.net/
 94.102.48.0,94.102.48.150,Ecatel,http://ecatel.net/
 94.102.48.161,94.102.48.255,Ecatel,http://ecatel.net/
 94.102.52.0,94.102.56.255,Ecatel,http://ecatel.net/
@@ -584,6 +600,7 @@
 94.102.208.0,94.102.223.255,Vautron AG,http://www.vautron.de/
 94.199.182.0,94.199.183.255,Szervernet,http://szervernet.hu/
 94.199.240.0,94.199.247.255,Host Europe,http://www.hosteurope.de/
+94.199.251.0,94.199.251.255,Reflected Networks,http://reflected.net/
 94.229.64.0,94.229.79.255,UK Dedicated Servers LTD,http://ukservers.com/
 94.236.0.0,94.236.0.63,Rackspace,http://www.rackspace.com/
 94.236.18.0,94.236.18.79,Rackspace,http://www.rackspace.com/
@@ -608,6 +625,7 @@
 96.31.64.0,96.31.95.255,Hivelocity Hosting,http://www.hivelocity.net/
 96.31.160.0,96.31.175.255,Adhost,http://www.adhost.com/
 96.43.128.0,96.43.143.255,Joe's Datacenter,http://www.joesdatacenter.com/
+96.44.128.0,96.44.191.255,QuadraNet,http://quadranet.com/
 96.125.160.0,96.125.175.255,WebsiteWelcome.com,http://www.websitewelcome.com/
 96.126.96.0,96.126.127.255,Linode,http://www.linode.com/
 96.127.0.0,96.127.127.255,Amazon AWS,http://www.amazon.com/aws/
@@ -617,6 +635,7 @@
 97.107.128.0,97.107.143.255,Linode,http://www.linode.com/
 98.126.0.0,98.126.255.255,VPLS Inc. d/b/a Krypt Technologies,http://krypt.com/
 98.129.0.0,98.129.255.255,Rackspace,http://www.rackspace.com/
+98.143.144.0,98.143.159.255,QuadraNet,http://quadranet.com/
 98.158.112.0,98.158.127.255,Reliable Hosting,http://reliablehosting.com/
 98.158.176.0,98.158.191.255,Midphase,http://www.midphase.com/
 98.158.224.0,98.158.239.255,AccelerateBiz Inc.,http://www.acceleratebiz.com/
@@ -649,6 +668,7 @@
 109.232.226.64,109.232.231.255,serverboost.nl,http://serverboost.nl/
 109.235.56.0,109.235.63.255,Vautron AG,http://www.vautron.de/
 109.237.128.0,109.237.143.127,alfahosting.de,http://alfahosting.de/
+109.238.48.0,109.238.63.255,Solido Hosting A/S,http://solidohosting.com/
 110.4.40.0,110.4.47.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
 111.91.236.0,111.91.239.255,ReadySpace,http://www.readyspace.com.sg/en/
 111.223.224.0,111.223.239.254,Micron21,http://www.micron21.com/
@@ -692,6 +712,7 @@
 149.3.138.160,149.3.139.7,Redstation Limited,http://redstation.com/
 149.3.140.8,149.3.140.15,redstation.com,http://redstation.com/
 149.3.140.16,149.3.140.63,Redstation Limited,http://redstation.com/
+149.255.32.0,149.255.39.255,Swiftway,http://swiftway.net/
 173.0.48.0,173.0.63.255,Virpus Networks,http://myvirpus.com/
 173.0.176.0,173.0.191.255,Techie Media,http://techiemedia.net/
 173.1.0.0,173.1.255.255,GoGrid,http://www.gogrid.com/
@@ -707,11 +728,13 @@
 173.213.240.0,173.213.255.255,American Internet Services,http://americanis.net/
 173.214.160.0,173.214.175.255,InterServer.net,http://www.interserver.net/
 173.222.0.0,173.223.255.255,Akamai,http://akamai.com/
+173.224.112.0,173.224.127.255,Hosting Solutions International Inc,http://www.plusserver.de
 173.224.208.0,173.224.223.255,Psychz Networks,http://psychz.net/
 173.225.80.0,173.225.95.255,Securewebs.com,http://www.securewebs.com/
 173.225.112.0,173.225.127.255,Webair Internet Development Inc,http://www.webair.com/
 173.230.128.0,173.230.159.255,Linode,http://www.linode.com/
 173.230.224.0,173.230.239.255,Webhosting.net,http://www.webhosting.net/
+173.231.0.0,173.231.63.255,WebNX Internet Services,http://webnx.com/
 173.231.128.0,173.231.191.255,Voxel,http://www.voxel.net/
 173.234.0.0,173.234.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 173.236.0.0,173.236.127.255,SingleHop,http://www.singlehop.com/
@@ -726,7 +749,9 @@
 173.245.48.0,173.245.63.255,CloudFlare Inc,https://www.cloudflare.com/
 173.245.64.0,173.245.95.255,EGIHosting.com,http://www.egihosting.com/
 173.248.192.0,173.248.255.255,Canaca-com Inc.,http://canaca.com
+173.249.144.0,173.249.159.255,Future Hosting Inc,http://vpsdatacenter.com/
 173.252.192.0,173.252.255.255,Take 2 Hosting,http://www.take2hosting.com/
+173.254.192.0,173.254.255.255,QuadraNet,http://quadranet.com/
 173.255.128.0,173.255.143.255,Midphase,http://www.midphase.com/
 173.255.192.0,173.255.255.255,Linode,http://www.linode.com/
 174.34.128.0,174.34.191.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
@@ -845,11 +870,13 @@
 195.191.92.0,195.191.93.255,Vautron AG,http://www.vautron.de/
 195.225.0.0,195.225.0.143,basefarm.com,http://basefarm.com/
 195.225.104.0,195.225.107.255,Host Europe,http://www.hosteurope.de/
+195.242.152.0,195.242.153.255,Swiftway,http://swiftway.net/
 195.245.124.0,195.245.127.255,Akamai,http://akamai.com/
 199.15.112.0,199.15.119.255,Psychz Networks,http://psychz.net/
 199.19.104.0,199.19.111.255,Volume Drive,http://volumedrive.com
 199.19.208.0,199.19.211.255,Connectria,http://www.connectria.com/
 199.47.220.0,199.47.223.255,Firehost,http://www.firehost.com/
+199.48.252.0,199.48.255.255,Future Hosting Inc,http://vpsdatacenter.com/
 199.71.212.0,199.71.215.255,Psychz Networks,http://psychz.net/
 199.80.56.0,199.80.63.255,Techie Media,http://techiemedia.net/
 199.85.208.0,199.85.215.255,HostVentures,http://www.hostventures.com/
@@ -899,6 +926,8 @@
 204.93.128.0,204.93.255.255,ServerCentral,http://www.servercentral.net/
 204.109.56.0,204.109.63.255,Tranquil Hosting,http://www.tqhosting.com/
 204.124.180.0,204.124.183.255,Volume Drive,http://volumedrive.com
+204.152.192.0,204.152.223.255,QuadraNet,http://quadranet.com/
+204.174.223.0,204.174.223.255,NetNation,http://www.netnation.com/
 204.188.192.0,204.188.255.255,SharkTECH Internet Services,http://sharktech.net/
 204.232.128.0,204.232.255.255,Rackspace,http://www.rackspace.com/
 204.236.128.0,204.236.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -973,6 +1002,7 @@
 208.96.0.0,208.96.63.255,GoGrid,http://www.gogrid.com/
 208.97.128.0,208.97.191.255,Dreamhost,http://www.dreamhost.com/
 208.98.0.0,208.98.63.255,SharkTECH Internet Services,http://sharktech.net/
+208.99.64.0,208.99.95.255,Reflected Networks,http://reflected.net/
 208.101.0.0,208.101.63.255,SoftLayer,http://www.softlayer.com/
 208.109.0.0,208.109.255.255,GoDaddy.com Inc,http://www.godaddy.com/
 208.110.64.0,208.110.95.255,WholeSale Internet Inc,http://www.wholesaleinternet.com/
@@ -1024,6 +1054,8 @@
 209.216.192.0,209.216.255.255,American Internet Services,http://americanis.net/
 209.236.64.0,209.236.79.255,westhost,http://www.westhost.com/
 209.236.112.0,209.236.127.255,Tailor Made Servers,http://tailoredservers.com/
+209.239.112.0,209.239.127.255,Hosting Solutions International Inc,http://www.plusserver.de
+209.239.160.0,209.239.175.255,Reflected Networks,http://reflected.net/
 212.19.160.0,212.19.191.255,Netplus Communication,http://www.netplus.fr/
 212.25.160.0,212.25.191.255,seeweb.it,http://seeweb.it/
 212.38.160.0,212.38.191.255,Thrust VPS,http://www.thrustvps.com/about/why-thrust/
@@ -1078,12 +1110,15 @@
 216.6.224.0,216.6.239.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 216.12.192.0,216.12.223.255,SoftLayer,http://www.softlayer.com/
 216.14.112.0,216.14.127.255,EBOUNDHOST.com ADF,http://eboundhost.com/
+216.18.160.0,216.18.191.255,Reflected Networks,http://reflected.net/
+216.18.192.0,216.18.223.255,WebNX Internet Services,http://webnx.com/
 216.18.224.0,216.18.239.255,AllHostShop.com,http://www.allhostshop.com/
 216.22.0.0,216.22.63.255,ServInt,http://www.servint.net/
 216.24.192.0,216.24.207.255,Psychz Networks,http://psychz.net/
 216.25.0.0,216.25.127.255,PEER 1,http://www.peer1.com/
 216.38.48.0,216.38.63.255,ServInt,http://www.servint.net/
 216.40.192.0,216.40.255.255,SoftLayer,http://www.softlayer.com/
+216.45.48.0,216.45.63.255,QuadraNet,http://quadranet.com/
 216.55.128.0,216.55.131.255,Codero,http://www.codero.com/
 216.55.136.0,216.55.143.255,Codero,http://www.codero.com/
 216.55.160.0,216.55.171.255,Codero,http://www.codero.com/
@@ -1116,6 +1151,7 @@
 216.144.240.0,216.144.255.255,Limestone Networks,http://www.limestonenetworks.com/
 216.146.192.0,216.146.223.255,Pair Networks,http://www.pair.com/
 216.150.0.0,216.150.31.255,PEER 1,http://www.peer1.com/
+216.151.208.0,216.151.223.255,ServerBeach Dedicated Servers,http://www.serverbeach.com/
 216.152.128.0,216.152.143.255,PEER 1,http://www.peer1.com/
 216.157.0.0,216.157.111.255,PEER 1,http://www.peer1.com/
 216.172.128.0,216.172.159.255,EGIHosting.com,http://www.egihosting.com/
