@@ -497,7 +497,7 @@
 80.246.62.0,80.246.63.255,alfahosting.de,http://alfahosting.de/
 81.17.96.0,81.17.127.255,IP Exchange GmbH,http://www.ip-exchange.de/
 81.25.112.0,81.25.127.255,servisweb,http://serveisweb.com/
-81.93.160.0,81.93.161.63,basefarm.com,http://basefarm.com/
+81.93.160.0,81.93.161.95,basefarm.com,http://basefarm.com/
 81.169.128.0,81.169.255.255,Strato,http://www.strato.de
 82.139.64.0,82.139.127.255,prolocation.net,http://prolocation.net/
 82.145.32.0,82.145.63.255,iomart Hosting Ltd,http://www.rapidswitch.com/
@@ -505,21 +505,20 @@
 82.192.64.0,82.192.95.255,Leaseweb,http://www.leaseweb.com/
 82.211.0.0,82.211.63.255,accelerated.de,http://accelerated.de/
 83.98.128.0,83.98.128.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
-83.138.146.0,83.138.148.63,Rackspace,http://www.rackspace.com/
+83.138.146.0,83.138.148.127,Rackspace,http://www.rackspace.com/
 83.142.224.0,83.142.231.255,iomart Hosting Ltd,http://www.rapidswitch.com/
 83.143.80.0,83.143.87.255,availo.no,http://www.availo.no/
 83.143.112.0,83.143.119.255,availo.no,http://www.availo.no/
-83.149.64.0,83.149.68.127,Leaseweb,http://www.leaseweb.com/
-83.149.71.0,83.149.78.255,Leaseweb,http://www.leaseweb.com/
-83.149.126.0,83.149.127.255,Leaseweb,http://www.leaseweb.com/
-83.169.0.0,83.169.54.255,Host Europe,http://www.hosteurope.de/
+83.149.64.0,83.149.127.255,Leaseweb,http://www.leaseweb.com/
+83.169.0.0,83.169.55.127,Host Europe,http://www.hosteurope.de/
 83.170.64.0,83.170.127.255,UK2 Group,http://www.uk2.net/
 83.217.64.0,83.217.95.255,easyhost.be,http://easyhost.be/
+83.222.224.0,83.222.225.255,PEER 1,http://www.peer1.com/
 83.243.56.0,83.243.63.255,Vautron AG,http://www.vautron.de/
-84.16.228.0,84.16.239.255,Leaseweb,http://www.leaseweb.com/
+84.16.228.0,84.16.240.15,Leaseweb,http://www.leaseweb.com/
 84.22.160.0,84.22.191.255,iomart,http://www.iomart.com/
 84.23.64.0,84.23.64.255,nbiserv.de,http://nbiserv.de/
-84.53.128.0,84.53.142.255,Akamai,http://akamai.com/
+84.53.128.0,84.53.143.255,Akamai,http://akamai.com/
 84.200.0.0,84.201.63.255,accelerated.de,http://accelerated.de/
 84.232.0.0,84.232.127.255,ServiHosting Networks S.L.,http://servihosting.es
 84.236.128.0,84.236.255.255,ServiHosting Networks S.L.,http://servihosting.es
@@ -529,12 +528,11 @@
 85.14.192.0,85.14.197.255,unitedcolo.de,http://unitedcolo.de/
 85.17.0.0,85.17.255.255,Leaseweb,http://www.leaseweb.com/
 85.25.0.0,85.25.255.255,plusserver.de,http://plusserver.de/
-85.94.192.0,85.94.194.63,seeweb.it,http://seeweb.it/
-85.94.215.0,85.94.223.255,seeweb.it,http://seeweb.it/
+85.94.192.0,85.94.223.255,seeweb.it,http://seeweb.it/
 85.119.104.0,85.119.104.31,prolocation.net,http://prolocation.net/
-85.119.104.64,85.119.104.255,prolocation.net,http://prolocation.net/
-85.131.128.0,85.131.130.127,LINK11 Gmbh,http://www.link11.de/
-85.131.247.0,85.131.249.255,LINK11 Gmbh,http://www.link11.de/
+85.119.104.64,85.119.105.7,prolocation.net,http://prolocation.net/
+85.131.128.0,85.131.130.143,LINK11 Gmbh,http://www.link11.de/
+85.131.247.0,85.131.250.255,LINK11 Gmbh,http://www.link11.de/
 85.159.64.8,85.159.64.15,Ares Hosting,http://areshosting.com/
 85.159.64.40,85.159.64.47,Peron Hosting,http://peronhost.com/
 85.214.0.0,85.215.255.255,Strato,http://www.strato.de
@@ -542,14 +540,14 @@
 86.39.128.0,86.39.255.255,easyhost.be,http://easyhost.be/
 86.109.0.0,86.109.31.255,Alpha Mega Hosting,http://www.alphamegahosting.com/
 87.98.128.0,87.98.255.255,OVH,http://www.ovh.co.uk/
-87.106.0.0,87.106.110.127,1&1 Internet,http://www.1and1.com/
-87.106.128.0,87.106.175.255,1&1 Internet,http://www.1and1.com/
+87.106.0.0,87.106.110.255,1&1 Internet,http://www.1and1.com/
+87.106.128.0,87.106.191.255,1&1 Internet,http://www.1and1.com/
 87.106.208.0,87.106.255.255,1&1 Internet,http://www.1and1.com/
 87.117.192.0,87.117.255.255,iomart Hosting Ltd,http://www.rapidswitch.com/
 87.229.7.0,87.229.7.255,Szervernet,http://szervernet.hu/
-87.230.0.0,87.230.16.255,Host Europe,http://www.hosteurope.de/
-87.230.27.0,87.230.29.255,Host Europe,http://www.hosteurope.de/
-87.230.74.160,87.230.82.255,Host Europe,http://www.hosteurope.de/
+87.230.0.0,87.230.17.255,Host Europe,http://www.hosteurope.de/
+87.230.27.0,87.230.30.255,Host Europe,http://www.hosteurope.de/
+87.230.74.160,87.230.83.255,Host Europe,http://www.hosteurope.de/
 87.238.80.0,87.238.87.255,Amazon AWS,http://www.amazon.com/aws/
 87.242.64.0,87.242.79.255,masterhost.ru,http://masterhost.ru/
 88.80.192.0,88.80.223.255,Host Europe,http://www.hosteurope.de/
@@ -558,41 +556,42 @@
 88.148.0.0,88.148.127.255,ServiHosting Networks S.L.,http://servihosting.es
 88.198.0.0,88.198.255.255,Hetzner Online AG,http://www.hetzner.de/
 88.208.0.0,88.208.7.255,advancedhosters.com,http://advancedhosters.com/
-88.208.10.0,88.208.24.255,advancedhosters.com,http://advancedhosters.com/
+88.208.10.0,88.208.25.255,advancedhosters.com,http://advancedhosters.com/
 88.208.192.0,88.208.255.255,Fasthosts Internet Ltd,http://www.fasthosts.co.uk/
 88.214.192.0,88.214.195.255,Hqhost.net,http://hqhost.net/en/index.html
-88.214.196.128,88.214.197.255,Hqhost.net,http://hqhost.net/en/index.html
-88.221.0.0,88.221.31.255,Akamai,http://akamai.com/
+88.214.196.128,88.214.198.255,Hqhost.net,http://hqhost.net/en/index.html
+88.221.0.0,88.221.35.255,Akamai,http://akamai.com/
 89.19.6.112,89.19.6.119,Ares Hosting,http://areshosting.com/
 89.149.192.0,89.149.255.255,Leaseweb,http://www.leaseweb.com/
-89.184.160.0,89.184.160.175,Red Hosting,http://redhosting.nl/
-89.184.161.0,89.184.162.63,Red Hosting,http://redhosting.nl/
-89.184.164.136,89.184.164.211,Red Hosting,http://redhosting.nl/
-89.184.172.0,89.184.173.63,Red Hosting,http://redhosting.nl/
+89.184.160.0,89.184.160.179,Red Hosting,http://redhosting.nl/
+89.184.161.0,89.184.162.95,Red Hosting,http://redhosting.nl/
+89.184.164.136,89.184.164.215,Red Hosting,http://redhosting.nl/
+89.184.172.0,89.184.173.71,Red Hosting,http://redhosting.nl/
 89.184.190.32,89.184.191.255,Red Hosting,http://redhosting.nl/
 89.200.136.0,89.200.143.255,Memset Ltd,http://www.memset.com/
 89.200.168.0,89.200.175.255,Vautron AG,http://www.vautron.de/
+89.221.39.128,89.221.39.255,Akamai,http://akamai.com/
 89.248.160.0,89.248.160.127,Ecatel,http://ecatel.net/
 89.248.166.0,89.248.166.127,Ecatel,http://ecatel.net/
 89.248.168.0,89.248.168.255,Ecatel,http://ecatel.net/
 89.248.172.0,89.248.172.255,Ecatel,http://ecatel.net/
 89.255.0.0,89.255.63.255,Hosting Concepts,http://hosting-concepts.nl/
-91.102.88.0,91.102.91.79,Solido Hosting A/S,http://solidohosting.com/
+91.102.88.0,91.102.91.95,Solido Hosting A/S,http://solidohosting.com/
 91.121.64.0,91.121.135.255,OVH,http://www.ovh.co.uk/
 91.121.144.0,91.121.191.255,OVH,http://www.ovh.co.uk/
-91.121.208.0,91.121.224.87,OVH,http://www.ovh.co.uk/
+91.121.208.0,91.121.224.91,OVH,http://www.ovh.co.uk/
 91.184.0.0,91.184.31.255,hostnet.nl,http://www.hostnet.nl/
 91.189.176.0,91.189.183.255,availo.no,http://www.availo.no/
-91.190.240.0,91.190.240.159,pgHosting,http://pghosting.de/
-92.48.120.0,92.48.120.15,eukhost.com,http://eukhost.com/
+91.190.240.0,91.190.240.191,pgHosting,http://pghosting.de/
+92.48.120.0,92.48.120.23,eukhost.com,http://eukhost.com/
 92.48.126.4,92.48.126.17,eUKhost,http://www.eukhost.com/
-92.48.126.18,92.48.126.23,eukhost.com,http://eukhost.com/
-92.51.184.0,92.51.190.159,Host Europe,http://www.hosteurope.de/
-92.52.64.0,92.52.64.47,Rackspace,http://www.rackspace.com/
-92.52.91.208,92.52.91.255,Rackspace,http://www.rackspace.com/
-92.60.105.0,92.60.106.175,host-it.co.uk,http://www.host-it.co.uk/
+92.48.126.18,92.48.126.27,eukhost.com,http://eukhost.com/
+92.51.184.0,92.51.190.167,Host Europe,http://www.hosteurope.de/
+92.52.64.0,92.52.64.55,Rackspace,http://www.rackspace.com/
+92.52.91.208,92.52.92.7,Rackspace,http://www.rackspace.com/
+92.60.105.0,92.60.106.191,host-it.co.uk,http://www.host-it.co.uk/
 92.61.32.0,92.61.47.255,hostex.lt,http://hostex.lt/
-92.122.0.0,92.122.7.255,Akamai,http://akamai.com/
+92.122.0.0,92.122.11.255,Akamai,http://akamai.com/
 93.92.24.0,93.92.31.255,Hostex Internet Services,http://hostex.no/
 93.127.128.0,93.127.255.255,Star-Hosting e.K.,http://star-hosting.de/
 93.168.0.0,93.169.255.255,everhost,http://everhost.co/
