@@ -69,7 +69,7 @@
 46.17.0.0,46.17.7.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
 46.20.10.0,46.20.10.255,Turkiye Telekom Datacenter,http://ttnetdc.com/
 46.20.12.1,46.20.12.128,Turkiye Telekom Datacenter,http://ttnetdc.com/
-46.20.114.0,46.20.121.255,PEER 1,http://www.peer1.com/
+46.20.114.0,46.20.123.255,PEER 1,http://www.peer1.com/
 46.21.144.0,46.21.159.255,Swiftway,http://swiftway.net/
 46.23.70.0,46.23.79.255,UK2 Group,http://www.uk2.net/
 46.31.184.0,46.31.191.255,basefarm.com,http://basefarm.com/
@@ -1110,13 +1110,17 @@
 213.129.64.0,213.129.66.127,The Bunker,http://www.thebunker.net/
 213.129.66.160,213.129.66.255,The Bunker,http://www.thebunker.net/
 213.129.68.0,213.129.68.47,The Bunker,http://www.thebunker.net/
-213.129.68.56,213.129.68.111,The Bunker,http://www.thebunker.net/
+213.129.68.56,213.129.68.175,The Bunker,http://www.thebunker.net/
+213.129.68.184,213.129.68.255,The Bunker,http://www.thebunker.net/
 213.129.69.64,213.129.69.95,The Bunker,http://www.thebunker.net/
 213.129.69.112,213.129.69.159,The Bunker,http://www.thebunker.net/
 213.129.71.0,213.129.73.79,The Bunker,http://www.thebunker.net/
 213.129.73.96,213.129.73.175,The Bunker,http://www.thebunker.net/
 213.129.73.192,213.129.73.255,The Bunker,http://www.thebunker.net/
 213.129.74.32,213.129.74.63,The Bunker,http://www.thebunker.net/
+213.129.74.80,213.129.74.95,The Bunker,http://www.thebunker.net/
+213.129.74.128,213.129.74.223,The Bunker,http://www.thebunker.net/
+213.129.74.232,213.129.74.239,The Bunker,http://www.thebunker.net/
 213.129.77.80,213.129.77.95,The Bunker,http://www.thebunker.net/
 213.129.77.128,213.129.77.191,The Bunker,http://www.thebunker.net/
 213.129.77.224,213.129.77.239,The Bunker,http://www.thebunker.net/
