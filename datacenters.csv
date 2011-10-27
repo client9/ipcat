@@ -577,7 +577,7 @@
 89.200.136.0,89.200.143.255,Memset Ltd,http://www.memset.com/
 89.200.168.0,89.200.175.255,Vautron AG,http://www.vautron.de/
 89.221.39.128,89.221.39.255,Akamai,http://akamai.com/
-89.234.0.0,89.234.0.63,Rackspace,http://www.rackspace.com/
+89.234.0.0,89.234.0.255,Rackspace,http://www.rackspace.com/
 89.248.160.0,89.248.160.127,Ecatel,http://ecatel.net/
 89.248.166.0,89.248.166.127,Ecatel,http://ecatel.net/
 89.248.168.0,89.248.168.255,Ecatel,http://ecatel.net/
