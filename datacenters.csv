@@ -120,7 +120,7 @@
 62.146.0.0,62.146.255.255,IP Exchange GmbH,http://www.ip-exchange.de/
 62.149.10.64,62.149.10.255,colocall.net,http://colocall.net/
 62.149.12.0,62.149.15.223,colocall.net,http://colocall.net/
-62.149.16.0,62.149.24.23,colocall.net,http://colocall.net/
+62.149.16.0,62.149.24.31,colocall.net,http://colocall.net/
 62.204.64.0,62.204.95.255,prolocation.net,http://prolocation.net/
 62.212.64.0,62.212.95.255,Leaseweb,http://www.leaseweb.com/
 62.233.64.0,62.233.127.255,iomart,http://www.iomart.com/
@@ -458,7 +458,7 @@
 77.92.64.0,77.92.95.255,UK2 Group,http://www.uk2.net/
 77.235.32.0,77.235.63.255,EuroVPS,http://eurovps.com/
 77.237.228.0,77.237.231.255,servhost.de,http://servhost.de/
-77.245.64.0,77.245.65.71,Redstation Limited,http://redstation.com/
+77.245.64.0,77.245.65.79,Redstation Limited,http://redstation.com/
 77.246.32.0,77.246.47.255,Datapipe,http://www.datapipe.com/
 77.246.160.0,77.246.175.255,ServerSpace Limited,http://www.serverspace.co.uk/
 78.24.8.0,78.24.15.255,vshosting.cz,http://vshosting.cz/
@@ -476,15 +476,15 @@
 79.133.32.0,79.133.63.255,First Colo GmbH,http://www.first-colo.net/EN/
 79.140.80.0,79.140.82.255,Akamai,http://akamai.com/
 79.140.84.0,79.140.85.127,Akamai,http://akamai.com/
-79.140.92.0,79.140.93.127,Akamai,http://akamai.com/
+79.140.92.0,79.140.93.255,Akamai,http://akamai.com/
 79.142.64.0,79.142.78.255,AltusHost,http://www.altushost.com/
 79.143.176.0,79.143.191.255,Giga-Hosting GmbH,http://giga-hosting.biz/
-79.171.32.0,79.171.32.63,Hosting UK,http://hostinguk.net/
+79.171.32.0,79.171.33.7,Hosting UK,http://hostinguk.net/
 79.171.80.0,79.171.87.255,basefarm.com,http://basefarm.com/
 80.65.48.0,80.65.63.255,availo.no,http://www.availo.no/
 80.67.64.0,80.67.95.255,Akamai,http://akamai.com/
-80.76.144.0,80.76.147.63,basefarm.com,http://basefarm.com/
-80.77.80.0,80.77.87.255,Hqhost.net,http://hqhost.net/en/index.html
+80.76.144.0,80.76.147.79,basefarm.com,http://basefarm.com/
+80.77.80.0,80.77.88.255,Hqhost.net,http://hqhost.net/en/index.html
 80.80.224.0,80.80.239.255,Safe Host SA,http://safehost.net/
 80.84.48.0,80.84.63.255,Redstation Limited,http://redstation.com/
 80.86.80.0,80.86.95.255,plusserver.de,http://plusserver.de/
@@ -497,7 +497,7 @@
 80.243.181.0,80.243.181.255,idealhosting,http://www.idealhosting.com/
 80.243.182.0,80.243.182.31,Redstation Limited,http://redstation.com/
 80.243.182.32,80.243.182.255,idealhosting,http://www.idealhosting.com/
-80.243.183.0,80.243.184.255,Redstation Limited,http://redstation.com/
+80.243.183.0,80.243.185.255,Redstation Limited,http://redstation.com/
 80.243.191.224,80.243.191.255,idealhosting,http://www.idealhosting.com/
 80.246.52.0,80.246.52.127,Host Europe,http://www.hosteurope.de/
 80.246.54.0,80.246.57.255,Host Europe,http://www.hosteurope.de/
@@ -519,7 +519,7 @@
 82.192.64.0,82.192.95.255,Leaseweb,http://www.leaseweb.com/
 82.211.0.0,82.211.63.255,accelerated.de,http://accelerated.de/
 83.98.128.0,83.98.128.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
-83.138.128.0,83.138.128.63,Rackspace,http://www.rackspace.com/
+83.138.128.0,83.138.128.255,Rackspace,http://www.rackspace.com/
 83.138.146.0,83.138.149.79,Rackspace,http://www.rackspace.com/
 83.142.224.0,83.142.231.255,iomart Hosting Ltd,http://www.rapidswitch.com/
 83.143.80.0,83.143.87.255,availo.no,http://www.availo.no/
@@ -805,6 +805,8 @@
 178.63.132.0,178.63.132.63,Hetzner Online AG,http://www.hetzner.de/
 178.63.132.104,178.63.132.191,Hetzner Online AG,http://www.hetzner.de/
 178.63.133.64,178.63.133.95,Hetzner Online AG,http://www.hetzner.de/
+178.63.133.112,178.63.133.191,Hetzner Online AG,http://www.hetzner.de/
+178.63.133.224,178.63.133.255,Hetzner Online AG,http://www.hetzner.de/
 178.73.192.0,178.73.195.255,VPNTunnel,https://www.vpntunnel.se/en/
 178.73.204.0,178.73.211.255,VPNTunnel,https://www.vpntunnel.se/en/
 178.77.64.0,178.77.92.95,Host Europe,http://www.hosteurope.de/
@@ -1122,7 +1124,8 @@
 213.129.75.64,213.129.75.127,The Bunker,http://www.thebunker.net/
 213.129.75.168,213.129.75.175,The Bunker,http://www.thebunker.net/
 213.129.75.192,213.129.75.255,The Bunker,http://www.thebunker.net/
-213.129.76.16,213.129.76.31,The Bunker,http://www.thebunker.net/
+213.129.76.16,213.129.76.127,The Bunker,http://www.thebunker.net/
+213.129.76.160,213.129.76.255,The Bunker,http://www.thebunker.net/
 213.129.77.80,213.129.77.95,The Bunker,http://www.thebunker.net/
 213.129.77.128,213.129.77.191,The Bunker,http://www.thebunker.net/
 213.129.77.224,213.129.77.239,The Bunker,http://www.thebunker.net/
