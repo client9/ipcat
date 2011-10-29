@@ -73,6 +73,7 @@
 46.21.144.0,46.21.159.255,Swiftway,http://swiftway.net/
 46.23.70.0,46.23.79.255,UK2 Group,http://www.uk2.net/
 46.31.184.0,46.31.191.255,basefarm.com,http://basefarm.com/
+46.32.224.0,46.32.255.255,Webfusion,http://www.webfusion.com/
 46.33.64.0,46.33.77.255,Akamai,http://akamai.com/
 46.38.160.0,46.38.191.255,Rackspace,http://www.rackspace.com/
 46.51.96.0,46.51.96.255,everhost,http://everhost.co/
@@ -488,6 +489,7 @@
 80.80.224.0,80.80.239.255,Safe Host SA,http://safehost.net/
 80.84.48.0,80.84.63.255,Redstation Limited,http://redstation.com/
 80.86.80.0,80.86.95.255,plusserver.de,http://plusserver.de/
+80.90.192.0,80.90.207.255,Webfusion,http://www.webfusion.com/
 80.93.160.0,80.93.175.255,host-it.co.uk,http://www.host-it.co.uk/
 80.94.128.0,80.94.143.255,ConnectingBytse Gbmh,http://www.connectingbytes.de/
 80.95.144.0,80.95.159.255,LINK11 Gmbh,http://www.link11.de/
@@ -606,6 +608,7 @@
 92.52.64.0,92.52.65.31,Rackspace,http://www.rackspace.com/
 92.52.91.0,92.52.92.47,Rackspace,http://www.rackspace.com/
 92.60.105.0,92.60.106.255,host-it.co.uk,http://www.host-it.co.uk/
+92.60.124.0,92.60.124.255,Webfusion,http://www.webfusion.com/
 92.61.32.0,92.61.47.255,hostex.lt,http://hostex.lt/
 92.122.0.0,92.122.31.255,Akamai,http://akamai.com/
 93.92.24.0,93.92.31.255,Hostex Internet Services,http://hostex.no/
@@ -625,6 +628,7 @@
 94.102.60.0,94.102.62.255,Ecatel,http://ecatel.net/
 94.102.208.0,94.102.223.255,Vautron AG,http://www.vautron.de/
 94.126.176.0,94.126.183.255,Solido Hosting A/S,http://solidohosting.com/
+94.136.32.0,94.136.46.127,Webfusion,http://www.webfusion.com/
 94.198.167.64,94.198.167.95,easyhost.be,http://easyhost.be/
 94.199.182.0,94.199.183.255,Szervernet,http://szervernet.hu/
 94.199.240.0,94.199.247.255,Host Europe,http://www.hosteurope.de/
@@ -683,6 +687,7 @@
 109.73.160.0,109.73.175.255,DimeNOC,http://dimenoc.com/
 109.74.192.0,109.74.207.255,Linode,http://www.linode.com/
 109.75.160.0,109.75.175.255,Web Hosting UK,http://www.webhosting.uk.com/
+109.104.64.0,109.104.95.255,Webfusion,http://www.webfusion.com/
 109.123.64.0,109.123.127.255,UK2 Group,http://www.uk2.net/
 109.169.0.0,109.169.95.255,iomart Hosting Ltd,http://www.rapidswitch.com/
 109.190.0.0,109.190.255.255,OVH,http://www.ovh.co.uk/
@@ -895,7 +900,7 @@
 195.190.13.0,195.190.13.255,Steep Host,http://www.steephost.com/
 195.190.140.0,195.190.140.255,SuperNetwork,http://www.superhosting.cz/
 195.191.92.0,195.191.93.255,Vautron AG,http://www.vautron.de/
-195.225.0.0,195.225.1.71,basefarm.com,http://basefarm.com/
+195.225.0.0,195.225.1.79,basefarm.com,http://basefarm.com/
 195.225.104.0,195.225.107.255,Host Europe,http://www.hosteurope.de/
 195.242.152.0,195.242.153.255,Swiftway,http://swiftway.net/
 195.245.124.0,195.245.127.255,Akamai,http://akamai.com/
@@ -925,6 +930,7 @@
 199.180.196.0,199.180.199.255,SWITCH Communications Group LLC,http://www.switchnap.com/
 199.192.152.0,199.192.159.255,eHostingUSA,http://ehostingusa.com/
 199.193.176.0,199.193.179.255,Adhost,http://www.adhost.com/
+199.193.248.0,199.193.255.255,Enzu Inc,https://www.enzu.com/
 199.204.136.0,199.204.139.255,Firehost,http://www.firehost.com/
 199.204.248.0,199.204.255.255,Jumpline Inc,http://www.jumpline.com/
 199.230.52.0,199.230.55.255,ServInt,http://www.servint.net/
@@ -1098,10 +1104,12 @@
 209.236.112.0,209.236.127.255,Tailor Made Servers,http://tailoredservers.com/
 209.239.112.0,209.239.127.255,Hosting Solutions International Inc,http://www.plusserver.de
 209.239.160.0,209.239.175.255,Reflected Networks,http://reflected.net/
+212.1.208.0,212.1.209.255,main-hosting.com,http://main-hosting.com/
 212.19.160.0,212.19.191.255,Netplus Communication,http://www.netplus.fr/
 212.25.160.0,212.25.191.255,seeweb.it,http://seeweb.it/
 212.38.160.0,212.38.191.255,Thrust VPS,http://www.thrustvps.com/about/why-thrust/
 212.64.128.0,212.64.159.255,Rackspace,http://www.rackspace.com/
+212.67.192.0,212.67.209.254,Webfusion,http://www.webfusion.com/
 212.95.32.0,212.95.63.255,Leaseweb,http://www.leaseweb.com/
 212.100.224.0,212.100.255.255,Rackspace,http://www.rackspace.com/
 212.112.224.0,212.112.255.255,IP Exchange GmbH,http://www.ip-exchange.de/
@@ -1136,6 +1144,7 @@
 213.129.79.96,213.129.79.111,The Bunker,http://www.thebunker.net/
 213.129.79.116,213.129.79.175,The Bunker,http://www.thebunker.net/
 213.129.79.192,213.129.80.255,The Bunker,http://www.thebunker.net/
+213.129.82.0,213.129.82.255,The Bunker,http://www.thebunker.net/
 213.133.96.0,213.133.127.255,Hetzner Online AG,http://www.hetzner.de/
 213.152.160.0,213.152.191.255,serverboost.nl,http://serverboost.nl/
 213.155.0.0,213.155.31.255,hosting.ua,http://hosting.ua/
@@ -1143,7 +1152,7 @@
 213.165.64.0,213.165.95.255,1&1 Internet,http://www.1and1.com/
 213.166.160.0,213.166.191.255,availo.no,http://www.availo.no/
 213.171.192.0,213.171.223.255,Fasthosts Internet Ltd,http://www.fasthosts.co.uk/
-213.174.128.0,213.174.149.159,advancedhosters.com,http://advancedhosters.com/
+213.174.128.0,213.174.159.255,advancedhosters.com,http://advancedhosters.com/
 213.175.192.0,213.175.223.255,eUKhost,http://www.eukhost.com/
 213.179.209.0,213.179.211.255,Reliable Hosting,http://reliablehosting.com/
 213.179.212.128,213.179.212.255,Reliable Hosting,http://reliablehosting.com/
@@ -1223,6 +1232,7 @@
 216.250.112.0,216.250.127.255,1&1 Internet,http://www.1and1.com/
 217.8.1.0,217.8.1.31,iomart,http://www.iomart.com/
 217.8.1.48,217.8.1.63,iomart,http://www.iomart.com/
+217.8.240.0,217.8.255.255,Webfusion,http://www.webfusion.com/
 217.16.16.0,217.16.23.15,masterhost.ru,http://masterhost.ru/
 217.16.176.0,217.16.191.255,vshosting.cz,http://vshosting.cz/
 217.18.64.0,217.18.79.255,qweb,http://www.qweb.nl/
@@ -1242,9 +1252,10 @@
 217.172.160.0,217.172.191.255,plusserver.de,http://plusserver.de/
 217.174.240.0,217.174.255.255,Fasthosts Internet Ltd,http://www.fasthosts.co.uk/
 217.194.0.0,217.194.15.255,seeweb.it,http://seeweb.it/
-217.194.208.0,217.194.211.151,Hosting UK,http://hostinguk.net/
+217.194.208.0,217.194.211.159,Hosting UK,http://hostinguk.net/
 217.195.176.0,217.195.176.255,activewebs.dk,http://activewebs.dk/
 217.198.128.0,217.198.143.255,LINK11 Gmbh,http://www.link11.de/
+217.199.160.0,217.199.191.255,Webfusion,http://www.webfusion.com/
 223.25.240.0,223.25.243.255,Gigabit Hosting Sdn Bhd,http://thegigabit.com/
 223.25.245.0,223.25.247.255,Gigabit Hosting Sdn Bhd,http://thegigabit.com/
 223.27.168.0,223.27.175.255,Voxel,http://www.voxel.net/
