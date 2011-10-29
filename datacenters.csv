@@ -455,6 +455,7 @@
 76.75.192.0,76.75.223.255,Pair Networks,http://www.pair.com/
 76.164.192.0,76.164.239.255,VersaWeb,http://www.versaweb.com/
 77.68.0.0,77.68.127.255,Fasthosts Internet Ltd,http://www.fasthosts.co.uk/
+77.73.0.0,77.73.3.255,Memset Ltd,http://www.memset.com/
 77.74.192.0,77.74.199.255,UK Dedicated Servers LTD,http://ukservers.com/
 77.75.120.0,77.75.127.255,UK Dedicated Servers LTD,http://ukservers.com/
 77.75.248.0,77.75.248.79,profihost,http://www.profihost.com/
@@ -526,7 +527,7 @@
 82.211.0.0,82.211.63.255,accelerated.de,http://accelerated.de/
 83.98.128.0,83.98.128.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
 83.138.128.0,83.138.129.7,Rackspace,http://www.rackspace.com/
-83.138.146.0,83.138.149.95,Rackspace,http://www.rackspace.com/
+83.138.146.0,83.138.149.111,Rackspace,http://www.rackspace.com/
 83.142.224.0,83.142.231.255,iomart Hosting Ltd,http://www.rapidswitch.com/
 83.143.80.0,83.143.87.255,availo.no,http://www.availo.no/
 83.143.112.0,83.143.119.255,availo.no,http://www.availo.no/
@@ -536,7 +537,7 @@
 83.217.64.0,83.217.95.255,easyhost.be,http://easyhost.be/
 83.222.224.0,83.222.231.255,PEER 1,http://www.peer1.com/
 83.243.56.0,83.243.63.255,Vautron AG,http://www.vautron.de/
-84.16.228.0,84.16.240.255,Leaseweb,http://www.leaseweb.com/
+84.16.228.0,84.16.242.15,Leaseweb,http://www.leaseweb.com/
 84.22.160.0,84.22.191.255,iomart,http://www.iomart.com/
 84.23.64.0,84.23.64.255,nbiserv.de,http://nbiserv.de/
 84.53.128.0,84.53.147.255,Akamai,http://akamai.com/
@@ -614,7 +615,7 @@
 92.60.105.0,92.60.106.255,host-it.co.uk,http://www.host-it.co.uk/
 92.60.112.0,92.60.127.255,Webfusion,http://www.webfusion.com/
 92.61.32.0,92.61.47.255,hostex.lt,http://hostex.lt/
-92.122.0.0,92.122.31.255,Akamai,http://akamai.com/
+92.122.0.0,92.122.35.255,Akamai,http://akamai.com/
 93.92.24.0,93.92.31.255,Hostex Internet Services,http://hostex.no/
 93.127.128.0,93.127.255.255,Star-Hosting e.K.,http://star-hosting.de/
 93.168.0.0,93.169.255.255,everhost,http://everhost.co/
@@ -897,7 +898,7 @@
 195.190.140.0,195.190.140.255,SuperNetwork,http://www.superhosting.cz/
 195.190.146.0,195.190.146.255,budgetbytes,https://www.budgetbytes.nl/
 195.191.92.0,195.191.93.255,Vautron AG,http://www.vautron.de/
-195.225.0.0,195.225.1.79,basefarm.com,http://basefarm.com/
+195.225.0.0,195.225.1.111,basefarm.com,http://basefarm.com/
 195.225.104.0,195.225.107.255,Host Europe,http://www.hosteurope.de/
 195.242.152.0,195.242.153.255,Swiftway,http://swiftway.net/
 195.245.124.0,195.245.127.255,Akamai,http://akamai.com/
