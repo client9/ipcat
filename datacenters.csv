@@ -455,7 +455,7 @@
 76.75.192.0,76.75.223.255,Pair Networks,http://www.pair.com/
 76.164.192.0,76.164.239.255,VersaWeb,http://www.versaweb.com/
 77.68.0.0,77.68.127.255,Fasthosts Internet Ltd,http://www.fasthosts.co.uk/
-77.73.0.0,77.73.3.255,Memset Ltd,http://www.memset.com/
+77.73.0.0,77.73.7.255,Memset Ltd,http://www.memset.com/
 77.74.192.0,77.74.199.255,UK Dedicated Servers LTD,http://ukservers.com/
 77.75.120.0,77.75.127.255,UK Dedicated Servers LTD,http://ukservers.com/
 77.75.248.0,77.75.248.79,profihost,http://www.profihost.com/
@@ -590,7 +590,7 @@
 89.200.136.0,89.200.143.255,Memset Ltd,http://www.memset.com/
 89.200.168.0,89.200.175.255,Vautron AG,http://www.vautron.de/
 89.221.39.128,89.221.39.255,Akamai,http://akamai.com/
-89.234.0.0,89.234.2.255,Rackspace,http://www.rackspace.com/
+89.234.0.0,89.234.3.127,Rackspace,http://www.rackspace.com/
 89.248.160.0,89.248.160.127,Ecatel,http://ecatel.net/
 89.248.166.0,89.248.166.127,Ecatel,http://ecatel.net/
 89.248.168.0,89.248.168.255,Ecatel,http://ecatel.net/
@@ -633,7 +633,7 @@
 94.102.60.0,94.102.62.255,Ecatel,http://ecatel.net/
 94.102.208.0,94.102.223.255,Vautron AG,http://www.vautron.de/
 94.126.176.0,94.126.183.255,Solido Hosting A/S,http://solidohosting.com/
-94.136.32.0,94.136.46.255,Webfusion,http://www.webfusion.com/
+94.136.32.0,94.136.47.255,Webfusion,http://www.webfusion.com/
 94.136.52.0,94.136.59.255,Webfusion,http://www.webfusion.com/
 94.198.167.64,94.198.167.95,easyhost.be,http://easyhost.be/
 94.199.182.0,94.199.183.255,Szervernet,http://szervernet.hu/
@@ -807,12 +807,13 @@
 176.56.56.0,176.56.56.15,nimbushosting.co.uk,http://nimbushosting.co.uk/
 176.56.225.64,176.56.225.127,knownsrv.com,http://knownsrv.com/
 178.18.240.0,178.18.255.255,inline.de,http://www.inline.de/
+178.20.168.0,178.20.175.255,Its Hosted,http://www.itshosted.nl/
 178.21.16.0,178.21.23.255,Servinus,http://serverius.nl/
 178.32.0.0,178.33.255.255,OVH,http://www.ovh.co.uk/
 178.63.0.0,178.63.255.255,Hetzner Online AG,http://www.hetzner.de/
 178.73.192.0,178.73.195.255,VPNTunnel,https://www.vpntunnel.se/en/
 178.73.204.0,178.73.211.255,VPNTunnel,https://www.vpntunnel.se/en/
-178.77.64.0,178.77.92.123,Host Europe,http://www.hosteurope.de/
+178.77.64.0,178.77.92.127,Host Europe,http://www.hosteurope.de/
 178.79.128.0,178.79.191.255,Linode,http://www.linode.com/
 178.79.192.0,178.79.255.255,Limelight Networks Inc,http://www.limelight.com/
 178.86.0.0,178.87.255.255,hosting.ua,http://hosting.ua/
@@ -1150,7 +1151,7 @@
 213.129.79.116,213.129.79.175,The Bunker,http://www.thebunker.net/
 213.129.79.192,213.129.80.255,The Bunker,http://www.thebunker.net/
 213.129.82.0,213.129.82.255,The Bunker,http://www.thebunker.net/
-213.129.84.0,213.129.85.127,The Bunker,http://www.thebunker.net/
+213.129.84.0,213.129.85.255,The Bunker,http://www.thebunker.net/
 213.133.96.0,213.133.127.255,Hetzner Online AG,http://www.hetzner.de/
 213.134.48.0,213.134.55.255,interhost,http://www.interhost.com/
 213.152.160.0,213.152.191.255,serverboost.nl,http://serverboost.nl/
