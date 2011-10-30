@@ -516,11 +516,11 @@
 81.17.96.0,81.17.127.255,IP Exchange GmbH,http://www.ip-exchange.de/
 81.23.230.0,81.23.231.255,prolocation.net,http://prolocation.net/
 81.25.112.0,81.25.127.255,servisweb,http://serveisweb.com/
-81.93.160.0,81.93.163.111,basefarm.com,http://basefarm.com/
+81.93.160.0,81.93.163.127,basefarm.com,http://basefarm.com/
 81.95.144.0,81.95.159.255,SoftLayer,http://www.softlayer.com/
 81.169.128.0,81.169.255.255,Strato,http://www.strato.de
 82.98.128.0,82.98.191.255,dinahosting,https://en.dinahosting.com/
-82.113.128.0,82.113.152.15,Xtraordinary Networks Limited,http://xtrahost.co.uk/
+82.113.128.0,82.113.152.31,Xtraordinary Networks Limited,http://xtrahost.co.uk/
 82.139.64.0,82.139.127.255,prolocation.net,http://prolocation.net/
 82.145.32.0,82.145.63.255,iomart Hosting Ltd,http://www.rapidswitch.com/
 82.165.0.0,82.165.255.255,1&1 Internet,http://www.1and1.com/
@@ -601,7 +601,7 @@
 91.121.0.0,91.121.31.255,OVH,http://www.ovh.co.uk/
 91.121.64.0,91.121.135.255,OVH,http://www.ovh.co.uk/
 91.121.144.0,91.121.191.255,OVH,http://www.ovh.co.uk/
-91.121.208.0,91.121.224.175,OVH,http://www.ovh.co.uk/
+91.121.208.0,91.121.224.191,OVH,http://www.ovh.co.uk/
 91.184.0.0,91.184.31.255,hostnet.nl,http://www.hostnet.nl/
 91.189.176.0,91.189.183.255,availo.no,http://www.availo.no/
 91.190.240.0,91.190.242.95,pgHosting,http://pghosting.de/
@@ -610,8 +610,8 @@
 92.48.126.18,92.48.126.31,eukhost.com,http://eukhost.com/
 92.51.128.0,92.51.143.255,Host Europe,http://www.hosteurope.de/
 92.51.184.0,92.51.190.255,Host Europe,http://www.hosteurope.de/
-92.52.64.0,92.52.65.31,Rackspace,http://www.rackspace.com/
-92.52.91.0,92.52.92.63,Rackspace,http://www.rackspace.com/
+92.52.64.0,92.52.65.39,Rackspace,http://www.rackspace.com/
+92.52.91.0,92.52.92.71,Rackspace,http://www.rackspace.com/
 92.60.105.0,92.60.107.167,host-it.co.uk,http://www.host-it.co.uk/
 92.60.112.0,92.60.127.255,Webfusion,http://www.webfusion.com/
 92.61.32.0,92.61.47.255,hostex.lt,http://hostex.lt/
