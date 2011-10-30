@@ -520,7 +520,7 @@
 81.95.144.0,81.95.159.255,SoftLayer,http://www.softlayer.com/
 81.169.128.0,81.169.255.255,Strato,http://www.strato.de
 82.98.128.0,82.98.191.255,dinahosting,https://en.dinahosting.com/
-82.113.128.0,82.113.151.255,Xtraordinary Networks Limited,http://xtrahost.co.uk/
+82.113.128.0,82.113.152.15,Xtraordinary Networks Limited,http://xtrahost.co.uk/
 82.139.64.0,82.139.127.255,prolocation.net,http://prolocation.net/
 82.145.32.0,82.145.63.255,iomart Hosting Ltd,http://www.rapidswitch.com/
 82.165.0.0,82.165.255.255,1&1 Internet,http://www.1and1.com/
@@ -612,7 +612,7 @@
 92.51.184.0,92.51.190.255,Host Europe,http://www.hosteurope.de/
 92.52.64.0,92.52.65.31,Rackspace,http://www.rackspace.com/
 92.52.91.0,92.52.92.63,Rackspace,http://www.rackspace.com/
-92.60.105.0,92.60.107.159,host-it.co.uk,http://www.host-it.co.uk/
+92.60.105.0,92.60.107.167,host-it.co.uk,http://www.host-it.co.uk/
 92.60.112.0,92.60.127.255,Webfusion,http://www.webfusion.com/
 92.61.32.0,92.61.47.255,hostex.lt,http://hostex.lt/
 92.122.0.0,92.123.255.255,Akamai,http://akamai.com/
@@ -860,7 +860,7 @@
 188.227.160.96,188.227.160.103,idealhosting,http://www.idealhosting.com/
 188.227.160.104,188.227.160.111,Redstation Limited,http://redstation.com/
 188.227.160.112,188.227.160.119,idealhosting,http://www.idealhosting.com/
-188.227.160.120,188.227.162.39,Redstation Limited,http://redstation.com/
+188.227.160.120,188.227.162.47,Redstation Limited,http://redstation.com/
 188.240.36.0,188.240.39.255,everhost,http://everhost.co/
 188.241.121.0,188.241.121.255,best-hosting.ro,http://best-hosting.ro/
 188.247.128.0,188.247.128.255,everhost,http://everhost.co/
@@ -1114,7 +1114,7 @@
 212.25.160.0,212.25.191.255,seeweb.it,http://seeweb.it/
 212.38.160.0,212.38.191.255,Thrust VPS,http://www.thrustvps.com/about/why-thrust/
 212.64.128.0,212.64.159.255,Rackspace,http://www.rackspace.com/
-212.67.192.0,212.67.209.255,Webfusion,http://www.webfusion.com/
+212.67.192.0,212.67.210.255,Webfusion,http://www.webfusion.com/
 212.95.32.0,212.95.63.255,Leaseweb,http://www.leaseweb.com/
 212.100.224.0,212.100.255.255,Rackspace,http://www.rackspace.com/
 212.112.224.0,212.112.255.255,IP Exchange GmbH,http://www.ip-exchange.de/
@@ -1246,6 +1246,7 @@
 217.20.112.0,217.20.127.255,Leaseweb,http://www.leaseweb.com/
 217.22.48.0,217.22.63.255,easyhost.be,http://easyhost.be/
 217.64.192.0,217.64.207.255,seeweb.it,http://seeweb.it/
+217.72.192.0,217.72.196.255,1&1 Internet,http://www.1and1.com/
 217.72.240.0,217.72.255.255,Datapipe,http://www.datapipe.com/
 217.77.176.0,217.77.191.255,Titan Internet Ltd,http://www.titaninternet.co.uk/index.cfm
 217.115.128.0,217.115.159.255,Host Europe,http://www.hosteurope.de/
