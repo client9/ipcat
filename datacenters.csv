@@ -470,7 +470,7 @@
 77.240.112.0,77.240.127.255,acens Technologies S.L.,http://www.acens.com/
 77.241.80.0,77.241.95.255,Combell,http://www.combell.com/
 77.243.192.0,77.243.199.255,interhost,http://www.interhost.com/
-77.245.64.0,77.245.65.199,Redstation Limited,http://redstation.com/
+77.245.64.0,77.245.65.255,Redstation Limited,http://redstation.com/
 77.246.32.0,77.246.47.255,Datapipe,http://www.datapipe.com/
 77.246.160.0,77.246.175.255,ServerSpace Limited,http://www.serverspace.co.uk/
 78.24.8.0,78.24.15.255,vshosting.cz,http://vshosting.cz/
@@ -654,7 +654,7 @@
 94.229.64.0,94.229.79.255,UK Dedicated Servers LTD,http://ukservers.com/
 94.236.0.0,94.236.127.255,Rackspace,http://www.rackspace.com/
 94.247.0.0,94.247.7.255,Red Hosting,http://redhosting.nl/
-95.100.0.0,95.100.249.255,Akamai,http://akamai.com/
+95.100.0.0,95.100.251.255,Akamai,http://akamai.com/
 95.128.88.0,95.128.95.255,prolocation.net,http://prolocation.net/
 95.128.168.0,95.128.168.255,everhost,http://everhost.co/
 95.129.104.0,95.129.111.255,iomart,http://www.iomart.com/
@@ -701,8 +701,8 @@
 108.62.0.0,108.62.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 109.68.88.0,109.68.95.255,basefarm.com,http://basefarm.com/
 109.70.5.0,109.70.7.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
-109.70.32.0,109.70.35.127,acens Technologies S.L.,http://www.acens.com/
-109.70.128.0,109.70.129.255,Hispaweb Network,http://hispaweb.net/
+109.70.32.0,109.70.35.255,acens Technologies S.L.,http://www.acens.com/
+109.70.128.0,109.70.131.255,Hispaweb Network,http://hispaweb.net/
 109.73.64.0,109.73.79.255,Redstation Limited,http://redstation.com/
 109.73.112.0,109.73.127.255,The Bunker,http://www.thebunker.net/
 109.73.160.0,109.73.175.255,DimeNOC,http://dimenoc.com/
@@ -818,7 +818,7 @@
 174.143.0.0,174.143.255.255,Rackspace,http://www.rackspace.com/
 175.41.128.0,175.41.255.255,Amazon AWS,http://www.amazon.com/aws/
 176.9.0.0,176.9.255.255,Hetzner Online AG,http://www.hetzner.de/
-176.28.0.0,176.28.2.39,Host Europe,http://www.hosteurope.de/
+176.28.0.0,176.28.2.255,Host Europe,http://www.hosteurope.de/
 176.31.0.0,176.31.255.255,OVH,http://www.ovh.co.uk/
 176.32.64.0,176.32.127.255,Amazon AWS,http://www.amazon.com/aws/
 176.34.0.0,176.34.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -832,13 +832,13 @@
 178.63.0.0,178.63.255.255,Hetzner Online AG,http://www.hetzner.de/
 178.73.192.0,178.73.195.255,VPNTunnel,https://www.vpntunnel.se/en/
 178.73.204.0,178.73.211.255,VPNTunnel,https://www.vpntunnel.se/en/
-178.77.64.0,178.77.92.207,Host Europe,http://www.hosteurope.de/
+178.77.64.0,178.77.92.255,Host Europe,http://www.hosteurope.de/
 178.79.128.0,178.79.191.255,Linode,http://www.linode.com/
 178.79.192.0,178.79.255.255,Limelight Networks Inc,http://www.limelight.com/
 178.86.0.0,178.87.255.255,hosting.ua,http://hosting.ua/
 178.156.0.0,178.156.127.255,ServiHosting Networks S.L.,http://servihosting.es
 178.162.128.0,178.162.255.255,Leaseweb,http://www.leaseweb.com/
-178.208.32.0,178.208.46.255,Combell,http://www.combell.com/
+178.208.32.0,178.208.47.255,Combell,http://www.combell.com/
 178.217.80.0,178.217.87.255,h4hosting.eu,http://h4hosting.eu/
 178.236.0.0,178.236.15.255,Amazon AWS,http://www.amazon.com/aws/
 178.238.224.0,178.238.239.255,Giga-Hosting GmbH,http://giga-hosting.biz/
@@ -1258,7 +1258,9 @@
 217.22.48.0,217.22.63.255,easyhost.be,http://easyhost.be/
 217.64.192.0,217.64.207.255,seeweb.it,http://seeweb.it/
 217.67.224.0,217.67.227.255,datahouse.nl,http://datahouse.nl/
-217.67.229.0,217.67.229.255,datahouse.nl,http://datahouse.nl/
+217.67.229.0,217.67.230.99,datahouse.nl,http://datahouse.nl/
+217.67.230.105,217.67.230.215,datahouse.nl,http://datahouse.nl/
+217.67.230.224,217.67.230.255,datahouse.nl,http://datahouse.nl/
 217.72.192.0,217.72.207.255,1&1 Internet,http://www.1and1.com/
 217.72.240.0,217.72.255.255,Datapipe,http://www.datapipe.com/
 217.77.176.0,217.77.191.255,Titan Internet Ltd,http://www.titaninternet.co.uk/index.cfm
@@ -1276,7 +1278,7 @@
 217.172.160.0,217.172.191.255,plusserver.de,http://plusserver.de/
 217.174.240.0,217.174.255.255,Fasthosts Internet Ltd,http://www.fasthosts.co.uk/
 217.194.0.0,217.194.15.255,seeweb.it,http://seeweb.it/
-217.194.208.0,217.194.211.207,Hosting UK,http://hostinguk.net/
+217.194.208.0,217.194.211.255,Hosting UK,http://hostinguk.net/
 217.195.176.0,217.195.176.255,activewebs.dk,http://activewebs.dk/
 217.198.96.0,217.198.111.255,NetBenefit,http://www.netbenefit.com/
 217.198.128.0,217.198.143.255,LINK11 Gmbh,http://www.link11.de/
