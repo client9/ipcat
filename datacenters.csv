@@ -130,9 +130,10 @@
 62.128.192.0,62.128.223.255,iomart,http://www.iomart.com/
 62.146.0.0,62.146.255.255,IP Exchange GmbH,http://www.ip-exchange.de/
 62.149.0.0,62.149.2.255,colocall.net,http://colocall.net/
+62.149.4.0,62.149.5.255,colocall.net,http://colocall.net/
 62.149.10.64,62.149.10.255,colocall.net,http://colocall.net/
 62.149.12.0,62.149.15.223,colocall.net,http://colocall.net/
-62.149.16.0,62.149.26.23,colocall.net,http://colocall.net/
+62.149.16.0,62.149.26.31,colocall.net,http://colocall.net/
 62.204.64.0,62.204.95.255,prolocation.net,http://prolocation.net/
 62.212.64.0,62.212.95.255,Leaseweb,http://www.leaseweb.com/
 62.233.64.0,62.233.127.255,iomart,http://www.iomart.com/
@@ -489,7 +490,7 @@
 77.240.112.0,77.240.127.255,acens Technologies S.L.,http://www.acens.com/
 77.241.80.0,77.241.95.255,Combell,http://www.combell.com/
 77.243.192.0,77.243.199.255,interhost,http://www.interhost.com/
-77.245.64.0,77.245.66.191,Redstation Limited,http://redstation.com/
+77.245.64.0,77.245.66.255,Redstation Limited,http://redstation.com/
 77.246.32.0,77.246.47.255,Datapipe,http://www.datapipe.com/
 77.246.160.0,77.246.175.255,ServerSpace Limited,http://www.serverspace.co.uk/
 78.24.8.0,78.24.15.255,vshosting.cz,http://vshosting.cz/
@@ -638,7 +639,7 @@
 91.121.0.0,91.121.31.255,OVH,http://www.ovh.co.uk/
 91.121.64.0,91.121.135.255,OVH,http://www.ovh.co.uk/
 91.121.144.0,91.121.191.255,OVH,http://www.ovh.co.uk/
-91.121.208.0,91.121.225.31,OVH,http://www.ovh.co.uk/
+91.121.208.0,91.121.225.47,OVH,http://www.ovh.co.uk/
 91.184.0.0,91.184.31.255,hostnet.nl,http://www.hostnet.nl/
 91.189.176.0,91.189.183.255,availo.no,http://www.availo.no/
 91.190.240.0,91.190.243.159,pgHosting,http://pghosting.de/
@@ -731,7 +732,7 @@
 108.62.0.0,108.62.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 109.68.88.0,109.68.95.255,basefarm.com,http://basefarm.com/
 109.70.5.0,109.70.7.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
-109.70.32.0,109.70.36.71,acens Technologies S.L.,http://www.acens.com/
+109.70.32.0,109.70.36.79,acens Technologies S.L.,http://www.acens.com/
 109.70.128.0,109.70.135.255,Hispaweb Network,http://hispaweb.net/
 109.73.64.0,109.73.79.255,Redstation Limited,http://redstation.com/
 109.73.112.0,109.73.127.255,The Bunker,http://www.thebunker.net/
@@ -850,13 +851,14 @@
 174.143.0.0,174.143.255.255,Rackspace,http://www.rackspace.com/
 175.41.128.0,175.41.255.255,Amazon AWS,http://www.amazon.com/aws/
 176.9.0.0,176.9.255.255,Hetzner Online AG,http://www.hetzner.de/
-176.28.0.0,176.28.3.23,Host Europe,http://www.hosteurope.de/
+176.28.0.0,176.28.3.27,Host Europe,http://www.hosteurope.de/
 176.31.0.0,176.31.255.255,OVH,http://www.ovh.co.uk/
 176.32.64.0,176.32.127.255,Amazon AWS,http://www.amazon.com/aws/
 176.34.0.0,176.34.255.255,Amazon AWS,http://www.amazon.com/aws/
 176.56.56.0,176.56.56.15,nimbushosting.co.uk,http://nimbushosting.co.uk/
 176.56.225.64,176.56.225.127,knownsrv.com,http://knownsrv.com/
 176.56.227.0,176.56.228.63,knownsrv.com,http://knownsrv.com/
+176.67.160.0,176.67.175.255,UK2 Group,http://www.uk2.net/
 178.18.240.0,178.18.255.255,inline.de,http://www.inline.de/
 178.20.168.0,178.20.175.255,Its Hosted,http://www.itshosted.nl/
 178.21.16.0,178.21.23.255,Servinus,http://serverius.nl/
@@ -872,7 +874,7 @@
 178.208.32.0,178.208.48.255,Combell,http://www.combell.com/
 178.217.80.0,178.217.87.255,h4hosting.eu,http://h4hosting.eu/
 178.236.0.0,178.236.15.255,Amazon AWS,http://www.amazon.com/aws/
-178.236.64.0,178.236.73.255,Excellent Hosting Sweden AB,http://www.excellent-hosting.se/
+178.236.64.0,178.236.74.255,Excellent Hosting Sweden AB,http://www.excellent-hosting.se/
 178.238.32.0,178.238.47.255,Master Internet S.R.O.,http://www.master.cz/
 178.238.128.0,178.238.143.255,BurstNET,http://burst.net/
 178.238.224.0,178.238.239.255,Giga-Hosting GmbH,http://giga-hosting.biz/
