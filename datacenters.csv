@@ -113,6 +113,7 @@
 50.31.128.0,50.31.255.255,ServerCentral,http://www.servercentral.net/
 50.56.0.0,50.57.255.255,Rackspace,http://www.rackspace.com/
 50.62.0.0,50.63.255.255,GoDaddy.com Inc,http://www.godaddy.com/
+50.87.0.0,50.87.255.255,Bluehost.com,http://www.bluehost.com/
 50.97.0.0,50.97.255.255,SoftLayer,http://www.softlayer.com/
 50.112.0.0,50.112.255.255,Amazon AWS,http://www.amazon.com/aws/
 50.115.32.0,50.115.47.255,WebNX Internet Services,http://webnx.com/
@@ -238,6 +239,7 @@
 66.132.128.0,66.132.255.255,PEER 1,http://www.peer1.com/
 66.135.32.0,66.135.63.255,ServerBeach Dedicated Servers,http://www.serverbeach.com/
 66.147.224.0,66.147.239.255,HostRocket,http://www.hostrocket.com/
+66.147.240.0,66.147.255.255,Bluehost.com,http://www.bluehost.com/
 66.148.0.0,66.148.63.255,PEER 1,http://www.peer1.com/
 66.148.64.0,66.148.127.255,HopOne,http://www.hopone.net/
 66.155.0.0,66.155.127.255,PEER 1,http://www.peer1.com/
@@ -271,6 +273,7 @@
 67.15.0.0,67.15.255.255,SoftLayer,http://www.softlayer.com/
 67.18.0.0,67.19.255.255,SoftLayer,http://www.softlayer.com/
 67.20.48.0,67.20.63.255,Future Hosting Inc,http://vpsdatacenter.com/
+67.20.64.0,67.20.127.255,Bluehost.com,http://www.bluehost.com/
 67.21.64.0,67.21.95.255,SharkTECH Internet Services,http://sharktech.net/
 67.22.96.0,67.22.111.255,Canada Web Hosting,http://www.canadawebhosting.com/
 67.23.0.0,67.23.47.255,Rackspace,http://www.rackspace.com/
@@ -305,6 +308,7 @@
 67.220.64.0,67.220.95.255,awknet,http://awknet.com/
 67.220.192.0,67.220.223.255,WebNX Internet Services,http://webnx.com/
 67.221.32.0,67.221.63.255,Peak Web Hosting,http://www.peakwebhosting.com/
+67.222.32.0,67.222.63.255,Bluehost.com,http://www.bluehost.com/
 67.222.128.0,67.222.159.255,Tailor Made Servers,http://tailoredservers.com/
 67.223.112.0,67.223.127.255,HostVentures,http://www.hostventures.com/
 67.223.224.0,67.223.255.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
@@ -361,6 +365,7 @@
 69.64.64.0,69.64.95.255,Codero,http://www.codero.com/
 69.65.0.0,69.65.63.255,gigeNET,http://www.gigenet.com/
 69.65.96.0,69.65.127.255,Virtacore Systems,http://www.virtacore.com/
+69.89.16.0,69.89.31.255,Bluehost.com,http://www.bluehost.com/
 69.89.224.0,69.89.239.255,ActiveHost,http://www.activehost.com/
 69.90.0.0,69.90.255.255,PEER 1,http://www.peer1.com/
 69.93.0.0,69.93.255.255,SoftLayer,http://www.softlayer.com/
@@ -382,6 +387,7 @@
 69.192.0.0,69.192.255.255,Akamai,http://akamai.com/
 69.194.0.0,69.194.127.255,Peak Web Hosting,http://www.peakwebhosting.com/
 69.194.128.0,69.194.143.255,SWITCH Communications Group LLC,http://www.switchnap.com/
+69.195.64.0,69.195.127.255,Bluehost.com,http://www.bluehost.com/
 69.195.128.0,69.195.159.255,Joe's Datacenter,http://www.joesdatacenter.com/
 69.197.128.0,69.197.191.255,WholeSale Internet Inc,http://www.wholesaleinternet.com/
 70.32.32.0,70.32.47.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
@@ -391,6 +397,7 @@
 70.36.96.0,70.36.127.255,Perfect IP,http://www.perfectip.net/
 70.38.0.0,70.38.127.255,iWeb Technologies Inc.,http://iweb.com/
 70.39.64.0,70.39.127.255,SharkTECH Internet Services,http://sharktech.net/
+70.40.192.0,70.40.223.255,Bluehost.com,http://www.bluehost.com/
 70.84.0.0,70.87.255.255,SoftLayer,http://www.softlayer.com/
 72.3.128.0,72.3.255.255,Rackspace,http://www.rackspace.com/
 72.4.112.0,72.4.127.255,Rackspace,http://www.rackspace.com/
@@ -454,6 +461,7 @@
 74.206.224.0,74.206.255.255,Webair Internet Development Inc,http://www.webair.com/
 74.207.224.0,74.207.255.255,Linode,http://www.linode.com/
 74.208.0.0,74.208.255.255,1&1 Internet,http://www.1and1.com/
+74.220.192.0,74.220.223.255,Bluehost.com,http://www.bluehost.com/
 74.221.208.0,74.221.223.255,DME Hosting,http://www.dmehosting.com/
 74.222.0.0,74.222.31.255,Perfect IP,http://www.perfectip.net/
 75.98.160.0,75.98.175.255,A2 Hosting,http://www.a2hosting.com/
@@ -541,7 +549,7 @@
 81.25.112.0,81.25.127.255,servisweb,http://serveisweb.com/
 81.30.64.0,81.30.79.255,datahouse.nl,http://datahouse.nl/
 81.31.32.0,81.31.47.255,Master Internet S.R.O.,http://www.master.cz/
-81.93.160.0,81.93.168.95,basefarm.com,http://basefarm.com/
+81.93.160.0,81.93.168.159,basefarm.com,http://basefarm.com/
 81.95.144.0,81.95.159.255,SoftLayer,http://www.softlayer.com/
 81.169.128.0,81.169.255.255,Strato,http://www.strato.de
 82.98.128.0,82.98.191.255,dinahosting,https://en.dinahosting.com/
@@ -634,7 +642,7 @@
 91.121.0.0,91.121.31.255,OVH,http://www.ovh.co.uk/
 91.121.64.0,91.121.135.255,OVH,http://www.ovh.co.uk/
 91.121.144.0,91.121.191.255,OVH,http://www.ovh.co.uk/
-91.121.208.0,91.121.227.79,OVH,http://www.ovh.co.uk/
+91.121.208.0,91.121.227.95,OVH,http://www.ovh.co.uk/
 91.184.0.0,91.184.31.255,hostnet.nl,http://www.hostnet.nl/
 91.189.176.0,91.189.183.255,availo.no,http://www.availo.no/
 91.190.240.0,91.190.247.255,pgHosting,http://pghosting.de/
@@ -644,7 +652,7 @@
 92.48.126.18,92.48.126.31,eukhost.com,http://eukhost.com/
 92.51.128.0,92.51.191.255,Host Europe,http://www.hosteurope.de/
 92.52.64.0,92.52.67.87,Rackspace,http://www.rackspace.com/
-92.52.91.0,92.52.94.159,Rackspace,http://www.rackspace.com/
+92.52.91.0,92.52.94.175,Rackspace,http://www.rackspace.com/
 92.60.96.0,92.60.111.255,host-it.co.uk,http://www.host-it.co.uk/
 92.60.112.0,92.60.127.255,Webfusion,http://www.webfusion.com/
 92.61.32.0,92.61.47.255,hostex.lt,http://hostex.lt/
@@ -835,6 +843,7 @@
 173.248.192.0,173.248.255.255,Canaca-com Inc.,http://canaca.com
 173.249.144.0,173.249.159.255,Future Hosting Inc,http://vpsdatacenter.com/
 173.252.192.0,173.252.255.255,Take 2 Hosting,http://www.take2hosting.com/
+173.254.0.0,173.254.127.255,Bluehost.com,http://www.bluehost.com/
 173.254.192.0,173.254.255.255,QuadraNet,http://quadranet.com/
 173.255.128.0,173.255.143.255,Midphase,http://www.midphase.com/
 173.255.192.0,173.255.255.255,Linode,http://www.linode.com/
@@ -857,7 +866,7 @@
 175.41.128.0,175.41.255.255,Amazon AWS,http://www.amazon.com/aws/
 176.9.0.0,176.9.255.255,Hetzner Online AG,http://www.hetzner.de/
 176.28.0.0,176.28.63.255,Host Europe,http://www.hosteurope.de/
-176.28.96.0,176.28.96.255,acens Technologies S.L.,http://www.acens.com/
+176.28.96.0,176.28.127.255,acens Technologies S.L.,http://www.acens.com/
 176.31.0.0,176.31.255.255,OVH,http://www.ovh.co.uk/
 176.32.64.0,176.32.127.255,Amazon AWS,http://www.amazon.com/aws/
 176.34.0.0,176.34.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -1008,6 +1017,7 @@
 199.19.208.0,199.19.211.255,Connectria,http://www.connectria.com/
 199.47.220.0,199.47.223.255,Firehost,http://www.firehost.com/
 199.48.252.0,199.48.255.255,Future Hosting Inc,http://vpsdatacenter.com/
+199.58.196.0,199.58.199.255,Bluehost.com,http://www.bluehost.com/
 199.59.244.0,199.59.247.255,PlanetHoster,http://www.planethoster.net/
 199.71.212.0,199.71.215.255,Psychz Networks,http://psychz.net/
 199.80.56.0,199.80.63.255,Techie Media,http://techiemedia.net/
@@ -1120,6 +1130,7 @@
 208.71.136.0,208.71.143.255,QWK.net,http://www.qwk.net/
 208.73.32.0,208.73.39.255,Jumpline Inc,http://www.jumpline.com/
 208.73.48.0,208.73.51.255,Triple8 Network,http://888.net/
+208.74.28.0,208.74.31.255,Connectria,http://www.connectria.com/
 208.74.48.0,208.74.51.255,Connectria,http://www.connectria.com/
 208.75.80.0,208.75.87.255,Datotel,http://www.datotel.com/
 208.76.192.0,208.76.199.255,QWK.net,http://www.qwk.net/
@@ -1133,6 +1144,7 @@
 208.80.180.0,208.80.183.255,Triple8 Network,http://888.net/
 208.81.164.0,208.81.167.255,awknet,http://awknet.com/
 208.82.144.0,208.82.151.255,Datotel,http://www.datotel.com/
+208.82.204.0,208.82.207.255,Connectria,http://www.connectria.com/
 208.85.172.0,208.85.175.255,HostVentures,http://www.hostventures.com/
 208.86.184.0,208.86.191.255,Jumpline Inc,http://www.jumpline.com/
 208.86.224.0,208.86.227.255,Tranquil Hosting,http://www.tqhosting.com/
@@ -1192,6 +1204,7 @@
 209.103.160.0,209.103.191.255,HopOne,http://www.hopone.net/
 209.112.240.0,209.112.255.255,American Internet Services,http://americanis.net/
 209.114.32.0,209.114.63.255,Rackspace,http://www.rackspace.com/
+209.134.48.0,209.134.63.255,Connectria,http://www.connectria.com/
 209.159.144.0,209.159.159.255,InterServer.net,http://www.interserver.net/
 209.160.0.0,209.160.79.255,HopOne,http://www.hopone.net/
 209.164.0.0,209.164.63.255,HostMySite.com,http://www.webmysite.com/
