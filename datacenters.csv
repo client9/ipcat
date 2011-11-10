@@ -549,7 +549,7 @@
 81.25.112.0,81.25.127.255,servisweb,http://serveisweb.com/
 81.30.64.0,81.30.79.255,datahouse.nl,http://datahouse.nl/
 81.31.32.0,81.31.47.255,Master Internet S.R.O.,http://www.master.cz/
-81.93.160.0,81.93.168.159,basefarm.com,http://basefarm.com/
+81.93.160.0,81.93.175.255,basefarm.com,http://basefarm.com/
 81.95.144.0,81.95.159.255,SoftLayer,http://www.softlayer.com/
 81.169.128.0,81.169.255.255,Strato,http://www.strato.de
 82.98.128.0,82.98.191.255,dinahosting,https://en.dinahosting.com/
@@ -642,7 +642,7 @@
 91.121.0.0,91.121.31.255,OVH,http://www.ovh.co.uk/
 91.121.64.0,91.121.135.255,OVH,http://www.ovh.co.uk/
 91.121.144.0,91.121.191.255,OVH,http://www.ovh.co.uk/
-91.121.208.0,91.121.227.95,OVH,http://www.ovh.co.uk/
+91.121.208.0,91.121.227.207,OVH,http://www.ovh.co.uk/
 91.184.0.0,91.184.31.255,hostnet.nl,http://www.hostnet.nl/
 91.189.176.0,91.189.183.255,availo.no,http://www.availo.no/
 91.190.240.0,91.190.247.255,pgHosting,http://pghosting.de/
@@ -651,8 +651,8 @@
 92.48.126.4,92.48.126.17,eUKhost,http://www.eukhost.com/
 92.48.126.18,92.48.126.31,eukhost.com,http://eukhost.com/
 92.51.128.0,92.51.191.255,Host Europe,http://www.hosteurope.de/
-92.52.64.0,92.52.67.87,Rackspace,http://www.rackspace.com/
-92.52.91.0,92.52.94.175,Rackspace,http://www.rackspace.com/
+92.52.64.0,92.52.67.175,Rackspace,http://www.rackspace.com/
+92.52.91.0,92.52.95.31,Rackspace,http://www.rackspace.com/
 92.60.96.0,92.60.111.255,host-it.co.uk,http://www.host-it.co.uk/
 92.60.112.0,92.60.127.255,Webfusion,http://www.webfusion.com/
 92.61.32.0,92.61.47.255,hostex.lt,http://hostex.lt/
@@ -733,6 +733,7 @@
 103.3.60.0,103.3.63.255,Linode,http://www.linode.com/
 103.3.164.0,103.3.167.255,ReadySpace,http://www.readyspace.com.sg/en/
 103.4.8.0,103.4.15.255,Amazon AWS,http://www.amazon.com/aws/
+103.4.112.0,103.4.113.255,Datapipe,http://www.datapipe.com/
 103.11.152.0,103.11.155.255,Web Werks,http://www.web-werks.com/
 107.6.0.0,107.6.63.255,PEER 1,http://www.peer1.com/
 107.6.64.0,107.6.127.255,Voxel,http://www.voxel.net/
@@ -873,6 +874,7 @@
 176.56.56.0,176.56.56.15,nimbushosting.co.uk,http://nimbushosting.co.uk/
 176.56.225.64,176.56.225.127,knownsrv.com,http://knownsrv.com/
 176.56.227.0,176.56.228.63,knownsrv.com,http://knownsrv.com/
+176.58.96.0,176.58.127.255,Linode,http://www.linode.com/
 176.62.160.0,176.62.175.255,Combell,http://www.combell.com/
 176.67.160.0,176.67.175.255,UK2 Group,http://www.uk2.net/
 176.74.160.0,176.74.191.255,PEER 1,http://www.peer1.com/
