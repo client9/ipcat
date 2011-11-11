@@ -545,6 +545,7 @@
 80.246.62.0,80.246.63.255,alfahosting.de,http://alfahosting.de/
 81.17.16.0,81.17.31.255,Private Layer INC,http://privatelayer.com/
 81.17.96.0,81.17.127.255,IP Exchange GmbH,http://www.ip-exchange.de/
+81.21.64.0,81.21.79.255,Webfusion,http://www.webfusion.com/
 81.23.230.0,81.23.231.255,prolocation.net,http://prolocation.net/
 81.25.112.0,81.25.127.255,servisweb,http://serveisweb.com/
 81.30.64.0,81.30.79.255,datahouse.nl,http://datahouse.nl/
@@ -639,10 +640,7 @@
 89.250.112.0,89.250.127.255,basefarm.com,http://basefarm.com/
 89.255.0.0,89.255.63.255,Hosting Concepts,http://hosting-concepts.nl/
 91.102.88.0,91.102.95.255,Solido Hosting A/S,http://solidohosting.com/
-91.121.0.0,91.121.31.255,OVH,http://www.ovh.co.uk/
-91.121.64.0,91.121.135.255,OVH,http://www.ovh.co.uk/
-91.121.144.0,91.121.191.255,OVH,http://www.ovh.co.uk/
-91.121.208.0,91.121.227.207,OVH,http://www.ovh.co.uk/
+91.121.0.0,91.121.255.255,OVH,http://www.ovh.co.uk/
 91.184.0.0,91.184.31.255,hostnet.nl,http://www.hostnet.nl/
 91.189.176.0,91.189.183.255,availo.no,http://www.availo.no/
 91.190.240.0,91.190.247.255,pgHosting,http://pghosting.de/
@@ -651,8 +649,7 @@
 92.48.126.4,92.48.126.17,eUKhost,http://www.eukhost.com/
 92.48.126.18,92.48.126.31,eukhost.com,http://eukhost.com/
 92.51.128.0,92.51.191.255,Host Europe,http://www.hosteurope.de/
-92.52.64.0,92.52.67.175,Rackspace,http://www.rackspace.com/
-92.52.91.0,92.52.95.31,Rackspace,http://www.rackspace.com/
+92.52.64.0,92.52.127.255,Rackspace,http://www.rackspace.com/
 92.60.96.0,92.60.111.255,host-it.co.uk,http://www.host-it.co.uk/
 92.60.112.0,92.60.127.255,Webfusion,http://www.webfusion.com/
 92.61.32.0,92.61.47.255,hostex.lt,http://hostex.lt/
@@ -743,7 +740,7 @@
 108.60.64.0,108.60.95.255,Techie Media,http://techiemedia.net/
 108.62.0.0,108.62.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 109.68.88.0,109.68.95.255,basefarm.com,http://basefarm.com/
-109.70.5.0,109.70.7.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
+109.70.0.0,109.70.7.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
 109.70.32.0,109.70.39.255,acens Technologies S.L.,http://www.acens.com/
 109.70.128.0,109.70.135.255,Hispaweb Network,http://hispaweb.net/
 109.73.64.0,109.73.79.255,Redstation Limited,http://redstation.com/
@@ -876,6 +873,7 @@
 176.56.227.0,176.56.228.63,knownsrv.com,http://knownsrv.com/
 176.58.96.0,176.58.127.255,Linode,http://www.linode.com/
 176.62.160.0,176.62.175.255,Combell,http://www.combell.com/
+176.65.64.0,176.65.71.255,The Bunker,http://www.thebunker.net/
 176.67.160.0,176.67.175.255,UK2 Group,http://www.uk2.net/
 176.74.160.0,176.74.191.255,PEER 1,http://www.peer1.com/
 178.18.240.0,178.18.255.255,inline.de,http://www.inline.de/
@@ -1246,6 +1244,7 @@
 213.133.96.0,213.133.127.255,Hetzner Online AG,http://www.hetzner.de/
 213.134.48.0,213.134.55.255,interhost,http://www.interhost.com/
 213.149.224.0,213.149.255.255,acens Technologies S.L.,http://www.acens.com/
+213.152.96.0,213.152.127.255,ConnectingBytes Gbmh,http://www.connectingbytes.de/
 213.152.160.0,213.152.191.255,serverboost.nl,http://serverboost.nl/
 213.155.0.0,213.155.31.255,hosting.ua,http://hosting.ua/
 213.163.84.0,213.163.84.255,serverboost.nl,http://serverboost.nl/
