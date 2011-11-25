@@ -59,6 +59,7 @@
 31.185.104.0,31.185.111.255,nbiserv.de,http://nbiserv.de/
 31.187.64.0,31.187.66.255,servhost.de,http://servhost.de/
 31.187.74.0,31.187.75.255,servhost.de,http://servhost.de/
+31.192.104.0,31.192.111.255,HostKey,http://www.hostkey.com/
 31.193.0.0,31.193.15.255,BurstNET,http://burst.net/
 31.193.192.0,31.193.199.255,hostex.lt,http://hostex.lt/
 31.193.224.0,31.193.231.255,hostinet.com,http://hostinet.com/
@@ -72,6 +73,7 @@
 46.4.0.0,46.4.255.255,Hetzner Online AG,http://www.hetzner.de/
 46.16.184.0,46.16.191.255,SoftLayer,http://www.softlayer.com/
 46.17.0.0,46.17.7.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
+46.17.96.0,46.17.103.255,HostKey,http://www.hostkey.com/
 46.20.10.0,46.20.10.255,Turkiye Telekom Datacenter,http://ttnetdc.com/
 46.20.12.1,46.20.12.128,Turkiye Telekom Datacenter,http://ttnetdc.com/
 46.20.112.0,46.20.127.255,PEER 1,http://www.peer1.com/
@@ -487,6 +489,7 @@
 77.92.64.0,77.92.95.255,UK2 Group,http://www.uk2.net/
 77.93.192.0,77.93.223.255,Master Internet S.R.O.,http://www.master.cz/
 77.94.240.0,77.94.247.255,Global-e Datacenter B.V.,http://www.global-datacenter.nl
+77.95.224.0,77.95.231.255,Snel Internet Services B.V.,https://www.snelserver.com/
 77.235.32.0,77.235.63.255,EuroVPS,http://eurovps.com/
 77.237.228.0,77.237.231.255,servhost.de,http://servhost.de/
 77.237.241.128,77.237.241.255,webhoster.de,http://webhoster.de/
@@ -502,6 +505,7 @@
 77.246.160.0,77.246.175.255,ServerSpace Limited,http://www.serverspace.co.uk/
 78.24.8.0,78.24.15.255,vshosting.cz,http://vshosting.cz/
 78.31.104.0,78.31.111.255,Memset Ltd,http://www.memset.com/
+78.41.200.0,78.41.207.255,Snel Internet Services B.V.,https://www.snelserver.com/
 78.46.0.0,78.47.255.255,Hetzner Online AG,http://www.hetzner.de/
 78.109.16.0,78.109.31.255,hosting.ua,http://hosting.ua/
 78.110.160.0,78.110.175.255,UK Dedicated Servers LTD,http://ukservers.com/
@@ -630,6 +634,7 @@
 89.185.224.0,89.185.255.255,Master Internet S.R.O.,http://www.master.cz/
 89.200.136.0,89.200.143.255,Memset Ltd,http://www.memset.com/
 89.200.168.0,89.200.175.255,Vautron AG,http://www.vautron.de/
+89.207.128.0,89.207.135.255,Snel Internet Services B.V.,https://www.snelserver.com/
 89.207.168.0,89.207.175.255,Switch Media Ltd,http://www.switchmedia.co.uk/
 89.221.39.128,89.221.39.255,Akamai,http://akamai.com/
 89.234.0.0,89.234.63.255,Rackspace,http://www.rackspace.com/
@@ -790,8 +795,11 @@
 128.65.208.0,128.65.223.255,LINK11 Gmbh,http://www.link11.de/
 128.127.104.0,128.127.111.255,AltusHost,http://www.altushost.com/
 128.140.216.0,128.140.223.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
+128.204.194.0,128.204.195.255,Snel Internet Services B.V.,https://www.snelserver.com/
 141.0.160.0,141.0.167.255,NuFuture Ltd,http://www.nublue.co.uk/
 141.101.64.0,141.101.127.255,CloudFlare Inc,https://www.cloudflare.com/
+141.105.64.0,141.105.71.255,HostKey,http://www.hostkey.com/
+146.0.72.0,146.0.79.255,HostKey,http://www.hostkey.com/
 146.185.16.0,146.185.31.255,UK2 Group,http://www.100tb.com/
 146.255.24.0,146.255.31.255,Angel Hosting,http://www.angel-hosting.cz/
 146.255.32.0,146.255.47.255,GoDaddy.com Inc,http://www.godaddy.com/
@@ -983,6 +991,7 @@
 194.150.252.0,194.150.253.255,host-it.co.uk,http://www.host-it.co.uk/
 194.187.164.0,194.187.167.255,accelerated.de,http://accelerated.de/
 195.12.48.0,195.12.51.255,OpenHosting UK Internet Solutions,http://openhosting.co.uk/
+195.20.204.0,195.20.205.255,Snel Internet Services B.V.,https://www.snelserver.com/
 195.20.224.0,195.20.255.255,1&1 Internet,http://www.1and1.com/
 195.22.100.0,195.22.103.255,interracks.com,http://interracks.com/
 195.22.136.0,195.22.137.255,IP Exchange GmbH,http://www.ip-exchange.de/
