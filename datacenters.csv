@@ -736,6 +736,7 @@
 91.190.240.0,91.190.247.255,pgHosting,http://pghosting.de/
 91.191.144.0,91.191.159.255,euro-web.com,http://fr.euro-web.com/
 91.192.208.0,91.192.211.255,cybernetic-servers.co.uk,http://cybernetic-servers.co.uk/
+91.194.90.0,91.194.91.255,Giga-Hosting GmbH,http://giga-hosting.biz/
 91.198.176.0,91.198.176.255,availo.no,http://www.availo.no/
 91.205.172.0,91.205.175.255,Giga-Hosting GmbH,http://giga-hosting.biz/
 91.207.4.0,91.207.9.255,Steep Host,http://www.steephost.com/
@@ -908,7 +909,7 @@
 128.127.104.0,128.127.111.255,AltusHost,http://www.altushost.com/
 128.140.216.0,128.140.223.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
 128.168.0.0,128.168.255.255,Data 102,http://data102.com/
-128.204.194.0,128.204.196.255,Snel Internet Services B.V.,https://www.snelserver.com/
+128.204.194.0,128.204.199.255,Snel Internet Services B.V.,https://www.snelserver.com/
 141.0.160.0,141.0.167.255,NuFuture Ltd,http://www.nublue.co.uk/
 141.101.64.0,141.101.127.255,CloudFlare Inc,https://www.cloudflare.com/
 141.105.64.0,141.105.71.255,HostKey,http://www.hostkey.com/
@@ -920,6 +921,7 @@
 147.203.0.0,147.203.255.255,American Internet Services,http://americanis.net/
 149.3.128.0,149.3.143.255,Redstation Limited,http://redstation.com/
 149.255.32.0,149.255.39.255,Swiftway,http://swiftway.net/
+158.255.0.0,158.255.7.255,HostKey,http://www.hostkey.com/
 159.253.56.0,159.253.63.255,host-it.co.uk,http://www.host-it.co.uk/
 159.253.128.0,159.253.159.255,SoftLayer,http://www.softlayer.com/
 166.70.0.0,166.70.255.255,XMission,http://xmission.com/
@@ -1109,6 +1111,7 @@
 193.228.155.0,193.228.155.255,iWeb Hosting,http://www.iweb-hosting.co.uk/
 193.254.184.0,193.254.191.255,Vautron AG,http://www.vautron.de/
 194.8.244.0,194.8.245.255,Solido Hosting A/S,http://solidohosting.com/
+194.13.1.0,194.13.1.255,prolocation.net,http://prolocation.net/
 194.26.24.0,194.26.24.255,Combell,http://www.combell.com/
 194.28.84.0,194.28.87.255,hostpro.ua,http://hostpro.ua/
 194.30.168.0,194.30.168.255,smart-hosting.ro,http://smart-hosting.ro/
