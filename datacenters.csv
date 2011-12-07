@@ -744,10 +744,12 @@
 91.211.116.0,91.211.119.255,0x2A Datacenter,http://0x2a.com.ua/
 91.218.36.0,91.218.39.255,infiumhost.com,http://infiumhost.com/
 91.218.120.0,91.218.123.255,CoolVDS,http://coolvds.com/
+91.218.244.0,91.218.247.255,HostKey.ru,http://www.hostkey.ru/
 91.219.28.0,91.219.31.255,uadomen.com,http://www.uadomen.com/
 91.220.163.0,91.220.163.255,xentime.com,http://www.xentime.com/
 91.222.64.0,91.222.67.255,data-xata.com,http://www.data-xata.com/
 91.223.82.0,91.223.82.255,IWS Networks,http://iws.co/
+91.224.220.0,91.224.221.255,hosteam.pl,http://hosteam.pl/
 92.43.40.0,92.43.47.255,Xtraordinary Networks Limited,http://xtrahost.co.uk/
 92.48.64.0,92.48.127.255,BlueConnex,http://www.simplytransit.net/
 92.51.128.0,92.51.191.255,Host Europe,http://www.hosteurope.de/
@@ -909,7 +911,7 @@
 128.127.104.0,128.127.111.255,AltusHost,http://www.altushost.com/
 128.140.216.0,128.140.223.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
 128.168.0.0,128.168.255.255,Data 102,http://data102.com/
-128.204.194.0,128.204.199.255,Snel Internet Services B.V.,https://www.snelserver.com/
+128.204.194.0,128.204.200.255,Snel Internet Services B.V.,https://www.snelserver.com/
 141.0.160.0,141.0.167.255,NuFuture Ltd,http://www.nublue.co.uk/
 141.101.64.0,141.101.127.255,CloudFlare Inc,https://www.cloudflare.com/
 141.105.64.0,141.105.71.255,HostKey,http://www.hostkey.com/
@@ -1086,6 +1088,7 @@
 193.34.144.0,193.34.145.255,Giga-Hosting GmbH,http://giga-hosting.biz/
 193.34.166.0,193.34.167.255,Snel Internet Services B.V.,https://www.snelserver.com/
 193.37.152.0,193.37.152.255,Giga-Hosting GmbH,http://giga-hosting.biz/
+193.47.184.0,193.47.184.255,euro-web.com,http://fr.euro-web.com/
 193.105.171.0,193.105.171.255,CoolVDS,http://coolvds.com/
 193.107.16.0,193.107.19.255,ideal-solution.org,http://ideal-solution.org/
 193.107.88.0,193.107.91.255,kylos.pl,http://www.kylos.pl/
@@ -1137,6 +1140,7 @@
 195.22.200.0,195.22.202.127,Akamai,http://akamai.com/
 195.22.203.0,195.22.203.255,Akamai,http://akamai.com/
 195.24.72.0,195.24.79.255,root S.A.,http://www.site.lu/
+195.26.4.0,195.26.5.255,root S.A.,http://www.site.lu/
 195.38.21.0,195.38.21.255,Xtraordinary Networks Limited,http://xtrahost.co.uk/
 195.39.196.0,195.39.197.255,mirohost.net,http://mirohost.net/
 195.49.128.0,195.49.131.255,colocall.net,http://colocall.net/
