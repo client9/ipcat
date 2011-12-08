@@ -911,7 +911,8 @@
 128.127.104.0,128.127.111.255,AltusHost,http://www.altushost.com/
 128.140.216.0,128.140.223.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
 128.168.0.0,128.168.255.255,Data 102,http://data102.com/
-128.204.194.0,128.204.202.255,Snel Internet Services B.V.,https://www.snelserver.com/
+128.204.194.0,128.204.204.255,Snel Internet Services B.V.,https://www.snelserver.com/
+134.255.192.0,134.255.255.255,Optimate Server,http://optimate-server.de/
 141.0.160.0,141.0.167.255,NuFuture Ltd,http://www.nublue.co.uk/
 141.101.64.0,141.101.127.255,CloudFlare Inc,https://www.cloudflare.com/
 141.105.64.0,141.105.71.255,HostKey,http://www.hostkey.com/
@@ -924,6 +925,7 @@
 149.3.128.0,149.3.143.255,Redstation Limited,http://redstation.com/
 149.255.32.0,149.255.39.255,Swiftway,http://swiftway.net/
 158.255.0.0,158.255.7.255,HostKey,http://www.hostkey.com/
+158.255.40.0,158.255.47.255,eukhost.com,http://eukhost.com/
 159.253.56.0,159.253.63.255,host-it.co.uk,http://www.host-it.co.uk/
 159.253.128.0,159.253.159.255,SoftLayer,http://www.softlayer.com/
 166.70.0.0,166.70.255.255,XMission,http://xmission.com/
@@ -1063,6 +1065,7 @@
 184.171.240.0,184.171.255.255,DimeNOC,http://dimenoc.com/
 184.172.0.0,184.173.255.255,SoftLayer,http://www.softlayer.com/
 184.174.0.0,184.174.127.255,Colocation America Inc,http://www.colocationamerica.com/
+187.45.176.0,187.45.191.255,DimeNOC,http://dimenoc.com/
 188.40.0.0,188.40.255.255,Hetzner Online AG,http://www.hetzner.de/
 188.42.0.0,188.42.255.255,root S.A.,http://www.site.lu/
 188.72.192.0,188.72.255.255,Leaseweb,http://www.leaseweb.com/
@@ -1181,6 +1184,7 @@
 199.19.104.0,199.19.111.255,Volume Drive,http://volumedrive.com
 199.19.208.0,199.19.211.255,Connectria,http://www.connectria.com/
 199.19.212.0,199.19.215.255,vexxhost web hosting,http://vexxhost.com/
+199.36.72.0,199.36.79.255,eHostingUSA,http://ehostingusa.com/
 199.47.220.0,199.47.223.255,Firehost,http://www.firehost.com/
 199.48.252.0,199.48.255.255,Future Hosting Inc,http://vpsdatacenter.com/
 199.58.196.0,199.58.199.255,Bluehost.com,http://www.bluehost.com/
