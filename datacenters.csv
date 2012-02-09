@@ -1039,6 +1039,8 @@
 176.65.64.0,176.65.71.255,The Bunker,http://www.thebunker.net/
 176.67.160.0,176.67.175.255,UK2 Group,http://www.uk2.net/
 176.74.160.0,176.74.191.255,PEER 1,http://www.peer1.com/
+177.55.96.0,177.55.127.255,redehost.com.br,http://www.redehost.com.br/
+177.71.128.0,177.71.255.255,Amazon AWS,http://www.amazon.com/aws/
 178.18.128.0,178.18.143.255,nedzone.nl,https://www.nedzone.nl/
 178.18.240.0,178.18.255.255,inline.de,http://www.inline.de/
 178.20.168.0,178.20.175.255,Its Hosted,http://www.itshosted.nl/
@@ -1098,6 +1100,7 @@
 184.172.0.0,184.173.255.255,SoftLayer,http://www.softlayer.com/
 184.174.0.0,184.174.127.255,Colocation America Inc,http://www.colocationamerica.com/
 187.45.176.0,187.45.191.255,DimeNOC,http://dimenoc.com/
+187.84.224.0,187.84.239.255,redehost.com.br,http://www.redehost.com.br/
 188.40.0.0,188.40.255.255,Hetzner Online AG,http://www.hetzner.de/
 188.42.0.0,188.42.255.255,root S.A.,http://www.site.lu/
 188.72.192.0,188.72.255.255,Leaseweb,http://www.leaseweb.com/
