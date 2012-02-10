@@ -300,6 +300,7 @@
 66.235.208.0,66.235.208.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 66.235.210.0,66.235.213.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 66.235.215.0,66.235.223.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
+66.240.192.0,66.240.255.255,cari.net,http://cari.net/
 66.241.192.0,66.241.255.255,HostMySite.com,http://www.webmysite.com/
 66.242.128.0,66.242.159.255,Host Depot,http://www.hostdepot.com/
 66.249.0.0,66.249.31.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
@@ -462,6 +463,7 @@
 70.39.64.0,70.39.127.255,SharkTECH Internet Services,http://sharktech.net/
 70.40.192.0,70.40.223.255,Bluehost.com,http://www.bluehost.com/
 70.84.0.0,70.87.255.255,SoftLayer,http://www.softlayer.com/
+71.6.128.0,71.6.255.255,cari.net,http://cari.net/
 72.1.96.0,72.1.127.255,latisys,http://www.latisys.com/
 72.1.240.0,72.1.255.255,ndchost.com,http://www.ndchost.com/
 72.3.128.0,72.3.255.255,Rackspace,http://www.rackspace.com/
@@ -519,6 +521,7 @@
 74.86.0.0,74.86.255.255,SoftLayer,http://www.softlayer.com/
 74.91.16.0,74.91.31.255,Data Shack,http://datashack.net/
 74.112.248.0,74.112.255.255,Triple8 Network,http://888.net/
+74.115.48.0,74.115.51.255,Weebly,http://www.weebly.com/
 74.116.248.0,74.116.251.255,Applied Operations,http://www.appliedops.net/
 74.117.56.0,74.117.63.255,Psychz Networks,http://psychz.net/
 74.118.36.0,74.118.39.255,SevenL Networks Inc,https://www.sevenl.net/
@@ -927,6 +930,7 @@
 118.214.0.0,118.215.255.255,Akamai,http://akamai.com/
 119.31.224.0,119.31.231.255,Micron21,http://www.micron21.com/
 120.136.32.0,120.136.47.255,Rackspace,http://www.rackspace.com/
+121.52.192.0,121.52.199.255,Conetix,http://conetix.com.au/
 122.200.132.0,122.200.135.255,Datapipe,http://www.datapipe.com/
 122.248.192.0,122.248.255.255,Amazon AWS,http://www.amazon.com/aws/
 122.252.32.0,122.252.63.255,Akamai,http://akamai.com/
@@ -1232,6 +1236,7 @@
 199.19.208.0,199.19.211.255,Connectria,http://www.connectria.com/
 199.19.212.0,199.19.215.255,vexxhost web hosting,http://vexxhost.com/
 199.30.48.0,199.30.55.255,Input Output Flood LLC,http://ioflood.com/
+199.34.228.0,199.34.231.255,Weebly,http://www.weebly.com/
 199.36.72.0,199.36.79.255,eHostingUSA,http://ehostingusa.com/
 199.47.220.0,199.47.223.255,Firehost,http://www.firehost.com/
 199.48.144.0,199.48.147.255,Applied Operations,http://www.appliedops.net/
@@ -1275,9 +1280,11 @@
 199.233.180.0,199.233.180.255,XMission,http://xmission.com/
 199.255.192.0,199.255.195.255,Amazon AWS,http://www.amazon.com/aws/
 200.35.144.0,200.35.151.255,ServerPronto,http://www.serverpronto.com/
+200.115.33.200,200.115.33.207,Teuno,http://www.teuno.com/
 202.9.36.0,202.9.39.255,Gigabit Hosting Sdn Bhd,http://thegigabit.com/
 202.46.192.0,202.46.207.255,Cyquator,http://cyquator.com/
 202.60.64.0,202.60.95.255,Dedicated Servers,http://dedicatedservers.net.au/
+202.74.64.0,202.74.71.255,Conetix,http://conetix.com.au/
 202.131.88.0,202.131.91.255,Dedicated Servers,http://dedicatedservers.net.au/
 202.131.94.0,202.131.94.255,Dedicated Servers,http://dedicatedservers.net.au/
 202.157.128.0,202.157.191.255,webvisions.com,http://webvisions.com/
@@ -1489,6 +1496,7 @@
 209.103.160.0,209.103.191.255,HopOne,http://www.hopone.net/
 209.112.240.0,209.112.255.255,American Internet Services,http://americanis.net/
 209.114.32.0,209.114.63.255,Rackspace,http://www.rackspace.com/
+209.126.128.0,209.126.255.255,cari.net,http://cari.net/
 209.134.48.0,209.134.63.255,Connectria,http://www.connectria.com/
 209.143.64.0,209.143.127.255,Datapoint,http://www.datapointinc.com/
 209.151.64.0,209.151.95.255,latisys,http://www.latisys.com/
@@ -1588,6 +1596,7 @@
 216.69.128.0,216.69.191.255,GoDaddy.com Inc,http://www.godaddy.com/
 216.70.64.0,216.70.127.255,Media Temple,http://www.mediatemple.net/
 216.74.0.0,216.74.63.255,HostMySite.com,http://www.webmysite.com/
+216.75.0.0,216.75.63.255,cari.net,http://cari.net/
 216.86.144.0,216.86.159.255,steadfast.net,http://steadfast.net/
 216.87.0.0,216.87.31.255,PEER 1,http://www.peer1.com/
 216.87.208.0,216.87.223.255,PEER 1,http://www.peer1.com/
@@ -1595,6 +1604,7 @@
 216.93.160.0,216.93.191.255,GoGrid,http://www.gogrid.com/
 216.97.0.0,216.97.127.255,C I Host,http://www.cihost.com/
 216.97.224.0,216.97.239.255,Lunar Pages,http://www.lunarpages.com/
+216.98.128.0,216.98.159.255,cari.net,http://cari.net/
 216.104.32.0,216.104.47.255,SingleHop,http://www.singlehop.com/
 216.108.224.0,216.108.239.255,Premia Networks Corporation,http://www.premianet.com/
 216.109.128.0,216.109.159.255,Datapipe,http://www.datapipe.com/
