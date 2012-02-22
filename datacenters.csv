@@ -77,6 +77,7 @@
 31.216.48.0,31.216.55.255,Hosting UK,http://hostinguk.net/
 31.220.128.0,31.220.131.255,everhost,http://everhost.co/
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
+37.58.64.0,37.58.127.255,SoftLayer,http://www.softlayer.com/
 37.59.68.192,37.59.68.199,OVH,http://www.ovh.co.uk/
 37.59.72.184,37.59.72.191,OVH,http://www.ovh.co.uk/
 37.59.74.32,37.59.74.63,OVH,http://www.ovh.co.uk/
@@ -159,6 +160,7 @@
 63.131.224.0,63.131.239.255,TierPoint,tierpoint.com
 63.140.0.0,63.140.15.255,Fortress Integrated Technologies,http://fortressitx.com/
 63.141.224.0,63.141.255.255,Data Shack,http://datashack.net/
+63.143.32.0,63.143.63.255,Limestone Networks,http://www.limestonenetworks.com/
 63.249.128.0,63.249.255.255,C I Host,http://www.cihost.com/
 64.5.32.0,64.5.63.255,SoftLayer,http://www.softlayer.com/
 64.6.224.0,64.6.255.255,Jumpline Inc,http://www.jumpline.com/
@@ -864,6 +866,7 @@
 98.158.224.0,98.158.239.255,AccelerateBiz Inc.,http://www.acceleratebiz.com/
 99.192.128.0,99.192.255.255,MojoHost,http://www.mojohost.com
 99.198.96.0,99.198.127.255,SingleHop,http://www.singlehop.com/
+100.42.208.0,100.42.223.255,WebNX Internet Services,http://webnx.com/
 101.0.64.0,101.0.127.255,Digital Pacific,http://www.digitalpacific.com.au/
 103.1.172.0,103.1.175.255,GoDaddy.com Inc,http://www.godaddy.com/
 103.1.224.0,103.1.227.255,simcentric,http://simcentric.com/
@@ -1043,6 +1046,7 @@
 176.65.64.0,176.65.71.255,The Bunker,http://www.thebunker.net/
 176.67.160.0,176.67.175.255,UK2 Group,http://www.uk2.net/
 176.74.160.0,176.74.191.255,PEER 1,http://www.peer1.com/
+176.227.208.88,176.227.208.95,Redstation Limited,http://redstation.com/
 177.55.96.0,177.55.127.255,redehost.com.br,http://www.redehost.com.br/
 177.71.128.0,177.71.255.255,Amazon AWS,http://www.amazon.com/aws/
 178.18.128.0,178.18.143.255,nedzone.nl,https://www.nedzone.nl/
@@ -1246,6 +1250,7 @@
 199.68.176.0,199.68.183.255,datacenterscanada.com,http://www.datacenterscanada.com/
 199.71.212.0,199.71.215.255,Psychz Networks,http://psychz.net/
 199.80.56.0,199.80.63.255,Techie Media,http://techiemedia.net/
+199.83.88.0,199.83.95.255,Psychz Networks,http://psychz.net/
 199.85.208.0,199.85.215.255,HostVentures,http://www.hostventures.com/
 199.87.232.0,199.87.239.255,esited.com,http://www.esited.com/
 199.102.224.0,199.102.231.255,ServInt,http://www.servint.net/
