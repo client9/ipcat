@@ -79,6 +79,7 @@
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
 37.58.64.0,37.58.127.255,SoftLayer,http://www.softlayer.com/
 37.59.68.192,37.59.68.199,OVH,http://www.ovh.co.uk/
+37.59.72.112,37.59.72.127,OVH,http://www.ovh.co.uk/
 37.59.72.184,37.59.72.191,OVH,http://www.ovh.co.uk/
 37.59.74.32,37.59.74.63,OVH,http://www.ovh.co.uk/
 42.1.60.0,42.1.63.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
