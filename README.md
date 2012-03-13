@@ -16,6 +16,15 @@ this data without compensation or attribution.
 
 This may be changed to another less restrictive license later.
 
+Statistics
+------------------------
+
+<table>
+<tr><th>IPs</th><td>25341508</td></tr>
+<tr><th>Records</th><td>1732</td></tr>
+<tr><th>ISPs</th><td>372</td></tr>
+</table>
+
 What is the file format?
 -------------------------
 
@@ -50,3 +59,5 @@ Who made this?
 -------------------------
 
 Nick Galbreath.  See more at http://client9.com/
+
+
