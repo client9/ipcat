@@ -78,10 +78,7 @@
 31.220.128.0,31.220.131.255,everhost,http://everhost.co/
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
 37.58.64.0,37.58.127.255,SoftLayer,http://www.softlayer.com/
-37.59.68.192,37.59.68.199,OVH,http://www.ovh.co.uk/
-37.59.72.112,37.59.72.127,OVH,http://www.ovh.co.uk/
-37.59.72.184,37.59.72.191,OVH,http://www.ovh.co.uk/
-37.59.74.32,37.59.74.63,OVH,http://www.ovh.co.uk/
+37.59.0.0,37.59.255.255,OVH,http://www.ovh.co.uk/
 42.1.60.0,42.1.63.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
 46.4.0.0,46.4.255.255,Hetzner Online AG,http://www.hetzner.de/
 46.16.184.0,46.16.191.255,SoftLayer,http://www.softlayer.com/
@@ -284,6 +281,7 @@
 66.165.128.0,66.165.159.255,ActiveHost,http://www.activehost.com/
 66.197.128.0,66.197.255.255,hostnoc,http://www.hostnoc.net/
 66.199.128.0,66.199.191.255,PEER 1,http://www.peer1.com/
+66.206.32.0,66.206.47.255,Turnkey Internet,http://turnkeyinternet.net/
 66.209.64.0,66.209.95.255,SWITCH Communications Group LLC,http://www.switchnap.com/
 66.212.16.0,66.212.31.255,Secure Private Network,http://www.securedprivatenetwork.net/
 66.216.64.0,66.216.127.255,Rackspace,http://www.rackspace.com/
@@ -877,6 +875,7 @@
 103.4.8.0,103.4.15.255,Amazon AWS,http://www.amazon.com/aws/
 103.4.112.0,103.4.113.255,Datapipe,http://www.datapipe.com/
 103.11.152.0,103.11.155.255,Web Werks,http://www.web-werks.com/
+103.246.248.0,103.246.248.255,quickweb.co.nz,http://quickweb.co.nz/
 107.6.0.0,107.6.63.255,PEER 1,http://www.peer1.com/
 107.6.64.0,107.6.127.255,Voxel,http://www.voxel.net/
 107.6.128.0,107.6.191.255,SingleHop,http://www.singlehop.com/
@@ -1050,6 +1049,8 @@
 176.74.160.0,176.74.191.255,PEER 1,http://www.peer1.com/
 176.227.197.248,176.227.197.255,idealhosting,http://www.idealhosting.com/
 176.227.198.40,176.227.198.47,Redstation Limited,http://redstation.com/
+176.227.198.48,176.227.198.55,idealhosting,http://www.idealhosting.com/
+176.227.198.56,176.227.198.79,Redstation Limited,http://redstation.com/
 176.227.208.88,176.227.208.95,Redstation Limited,http://redstation.com/
 176.227.209.112,176.227.209.119,Redstation Limited,http://redstation.com/
 177.55.96.0,177.55.127.255,redehost.com.br,http://www.redehost.com.br/
