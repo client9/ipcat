@@ -565,6 +565,7 @@
 77.79.64.0,77.79.127.255,Grid Telekom,http://grid.com.tr/
 77.87.192.0,77.87.199.255,mirohost.net,http://mirohost.net/
 77.87.248.0,77.87.255.255,ConnectingBytse Gbmh,http://www.connectingbytes.de/
+77.91.224.0,77.91.231.255,Webalta,http://www.wahome.ru/
 77.92.64.0,77.92.95.255,UK2 Group,http://www.uk2.net/
 77.93.192.0,77.93.223.255,Master Internet S.R.O.,http://www.master.cz/
 77.94.240.0,77.94.247.255,Global-e Datacenter B.V.,http://www.global-datacenter.nl
@@ -781,6 +782,7 @@
 92.114.94.0,92.114.95.255,mxhost,http://www.mxhost.ro/
 92.114.98.0,92.114.98.255,Elvsoft,http://www.elvsoft.com/
 92.122.0.0,92.123.255.255,Akamai,http://akamai.com/
+92.241.160.0,92.241.191.255,Webalta,http://www.wahome.ru/
 93.90.16.0,93.90.31.255,acens Technologies S.L.,http://www.acens.com/
 93.91.16.0,93.91.31.255,The Bunker,http://www.thebunker.net/
 93.92.24.0,93.92.31.255,Hostex Internet Services,http://hostex.no/
