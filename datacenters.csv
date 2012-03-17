@@ -50,6 +50,7 @@
 31.22.104.0,31.22.111.255,DiaHosting,https://www.diahosting.com/en/
 31.22.112.0,31.22.119.255,Hyperhosting,http://hyperhosting.gr/
 31.24.32.0,31.24.39.255,ServerSpace Limited,http://www.serverspace.co.uk/
+31.24.144.0,31.24.151.255,Plutex,http://www.plutex.de/
 31.24.208.0,31.24.215.255,colocall.net,http://colocall.net/
 31.25.184.0,31.25.191.255,Memset Ltd,http://www.memset.com/
 31.28.160.0,31.28.191.255,colocall.net,http://colocall.net/
@@ -757,6 +758,7 @@
 91.198.106.0,91.198.106.255,deziweb,http://deziweb.com/
 91.198.176.0,91.198.176.255,availo.no,http://www.availo.no/
 91.200.51.0,91.200.51.255,argeweb,http://www.argeweb.nl/
+91.202.40.0,91.202.43.255,Plutex,http://www.plutex.de/
 91.205.172.0,91.205.175.255,Giga-Hosting GmbH,http://giga-hosting.biz/
 91.207.4.0,91.207.9.255,Steep Host,http://www.steephost.com/
 91.210.104.0,91.210.107.255,HostKey.ru,http://www.hostkey.ru/
@@ -897,9 +899,11 @@
 108.62.0.0,108.62.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 108.160.144.0,108.160.159.255,PrivateSystems.net,http://privatesystems.net/
 108.163.192.0,108.163.255.255,SingleHop,http://www.singlehop.com/
+108.166.0.0,108.166.127.255,Rackspace,http://www.rackspace.com/
 108.167.128.0,108.167.191.255,WebsiteWelcome.com,http://www.websitewelcome.com/
 108.170.0.0,108.170.63.255,Secure Servers,http://www.securedservers.com/
 109.68.88.0,109.68.95.255,basefarm.com,http://basefarm.com/
+109.69.64.0,109.69.71.255,Plutex,http://www.plutex.de/
 109.70.0.0,109.70.7.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
 109.70.32.0,109.70.39.255,acens Technologies S.L.,http://www.acens.com/
 109.70.128.0,109.70.135.255,Hispaweb Network,http://hispaweb.net/
