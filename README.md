@@ -1,7 +1,7 @@
 ipcat: datasets for categorizing IP addresses.
 
-The first release "datacetners.csv" is focusing
-on IPv4 address that correspond to a datacenters, co-location centers,
+The first release "datacenters.csv" is focusing
+on IPv4 address that correspond to datacenters, co-location centers,
 shared and virtual webhosting providers.  In other words, ip addresses
 that end web consumers should not be using.
 
@@ -20,8 +20,8 @@ Statistics
 ------------------------
 
 <table>
-<tr><th>IPs</th><td>25381439</td></tr>
-<tr><th>Records</th><td>1737</td></tr>
+<tr><th>IPs</th><td>25397822</td></tr>
+<tr><th>Records</th><td>1738</td></tr>
 <tr><th>ISPs</th><td>373</td></tr>
 </table>
 
@@ -52,8 +52,8 @@ and easy way of keeping track of changes.
 How is this generated?
 -------------------------
 
-Manually by reports of datacenters from users like you, and
-automatically via proprietary discovery algorithms.
+Manually from users like you, and automatically via proprietary
+discovery algorithms.
 
 Who made this?
 -------------------------

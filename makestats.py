@@ -44,8 +44,8 @@ for line in sys.stdin:
 
 print("""ipcat: datasets for categorizing IP addresses.
 
-The first release "datacetners.csv" is focusing
-on IPv4 address that correspond to a datacenters, co-location centers,
+The first release "datacenters.csv" is focusing
+on IPv4 address that correspond to datacenters, co-location centers,
 shared and virtual webhosting providers.  In other words, ip addresses
 that end web consumers should not be using.
 
@@ -96,8 +96,8 @@ and easy way of keeping track of changes.
 How is this generated?
 -------------------------
 
-Manually by reports of datacenters from users like you, and
-automatically via proprietary discovery algorithms.
+Manually from users like you, and automatically via proprietary
+discovery algorithms.
 
 Who made this?
 -------------------------
