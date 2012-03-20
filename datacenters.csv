@@ -983,6 +983,7 @@
 158.255.40.0,158.255.47.255,eukhost.com,http://eukhost.com/
 159.253.56.0,159.253.63.255,host-it.co.uk,http://www.host-it.co.uk/
 159.253.128.0,159.253.159.255,SoftLayer,http://www.softlayer.com/
+164.177.128.0,164.177.159.255,Rackspace,http://www.rackspace.com/
 166.70.0.0,166.70.255.255,XMission,http://xmission.com/
 173.0.48.0,173.0.63.255,Virpus Networks,http://myvirpus.com/
 173.0.176.0,173.0.191.255,Techie Media,http://techiemedia.net/
