@@ -150,6 +150,7 @@
 62.41.58.0,62.41.58.255,Akamai,http://akamai.com/
 62.75.128.0,62.75.255.255,plusserver.de,http://plusserver.de/
 62.109.0.0,62.109.15.255,ISPserver,http://ispserver.com/
+62.113.192.0,62.113.255.255,23Media,http://www.23media.eu/
 62.122.248.0,62.122.255.255,availo.no,http://www.availo.no/
 62.128.128.0,62.128.159.255,NetBenefit,http://www.netbenefit.com/
 62.128.192.0,62.128.223.255,iomart,http://www.iomart.com/
@@ -1170,6 +1171,7 @@
 190.4.88.0,190.4.91.255,Hosta Rica,http://hostarica.com/
 190.120.224.0,190.120.239.255,ServerPronto,http://www.serverpronto.com/
 190.123.32.0,190.123.47.255,panamaserver.com,http://panamaserver.com/
+192.162.19.0,192.162.19.255,galahost,http://galahost.net/
 193.17.225.0,193.17.225.255,xservers.ro,http://www.xservers.ro/
 193.19.106.0,193.19.107.255,xservers.ro,http://www.xservers.ro/
 193.27.246.0,193.27.247.255,wehostall,http://wehostall.ru/
@@ -1180,6 +1182,7 @@
 193.47.99.0,193.47.99.255,Hetzner Online AG,http://www.hetzner.de/
 193.47.184.0,193.47.184.255,euro-web.com,http://fr.euro-web.com/
 193.105.171.0,193.105.171.255,CoolVDS,http://coolvds.com/
+193.105.210.0,193.105.210.255,galahost,http://galahost.net/
 193.106.172.0,193.106.175.255,iqhost.ru,http://iqhost.ru/
 193.107.16.0,193.107.19.255,ideal-solution.org,http://ideal-solution.org/
 193.107.88.0,193.107.91.255,kylos.pl,http://www.kylos.pl/
@@ -1588,6 +1591,7 @@
 212.53.64.0,212.53.95.255,NetBenefit,http://www.netbenefit.com/
 212.64.128.0,212.64.159.255,Rackspace,http://www.rackspace.com/
 212.67.192.0,212.67.223.255,Webfusion,http://www.webfusion.com/
+212.83.32.0,212.83.63.255,23Media,http://www.23media.eu/
 212.95.32.0,212.95.63.255,Leaseweb,http://www.leaseweb.com/
 212.100.224.0,212.100.255.255,Rackspace,http://www.rackspace.com/
 212.112.224.0,212.112.255.255,IP Exchange GmbH,http://www.ip-exchange.de/
