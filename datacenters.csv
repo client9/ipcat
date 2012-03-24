@@ -359,6 +359,7 @@
 67.221.32.0,67.221.63.255,Peak Web Hosting,http://www.peakwebhosting.com/
 67.222.0.0,67.222.31.255,PrivateSystems.net,http://privatesystems.net/
 67.222.32.0,67.222.63.255,Bluehost.com,http://www.bluehost.com/
+67.222.96.0,67.222.111.255,ihnetworks.net,http://ihnetworks.net/
 67.222.128.0,67.222.159.255,Tailor Made Servers,http://tailoredservers.com/
 67.223.96.0,67.223.111.255,prioritycolo.com,http://prioritycolo.com/
 67.223.112.0,67.223.127.255,HostVentures,http://www.hostventures.com/
@@ -494,6 +495,7 @@
 72.29.64.0,72.29.95.255,DimeNOC,http://dimenoc.com/
 72.29.96.0,72.29.127.255,colo4dallas.com,http://colo4dallas.com/
 72.32.0.0,72.32.255.255,Rackspace,http://www.rackspace.com/
+72.34.32.0,72.34.63.255,ihnetworks.net,http://ihnetworks.net/
 72.35.64.0,72.35.95.255,Peak10,http://www.peak10.com/
 72.36.128.0,72.36.255.255,Layered Technologies Inc,http://www.layeredtech.com/
 72.44.32.0,72.44.63.255,Amazon AWS,http://www.amazon.com/aws/
@@ -911,6 +913,7 @@
 108.166.0.0,108.166.127.255,Rackspace,http://www.rackspace.com/
 108.167.128.0,108.167.191.255,WebsiteWelcome.com,http://www.websitewelcome.com/
 108.170.0.0,108.170.63.255,Secure Servers,http://www.securedservers.com/
+108.174.48.0,108.174.63.255,ColoCrossing,http://www.colocrossing.com/
 108.178.0.0,108.178.63.255,SingleHop,http://www.singlehop.com/
 109.68.88.0,109.68.95.255,basefarm.com,http://basefarm.com/
 109.69.64.0,109.69.71.255,Plutex,http://www.plutex.de/
@@ -944,6 +947,7 @@
 111.91.236.0,111.91.239.255,ReadySpace,http://www.readyspace.com.sg/en/
 111.223.224.0,111.223.239.254,Micron21,http://www.micron21.com/
 112.121.160.0,112.121.191.255,simcentric,http://simcentric.com/
+112.140.184.0,112.140.187.255,Sparkstation,http://sparkstation.net/
 114.141.192.0,114.141.193.255,Dedicated Servers,http://dedicatedservers.net.au/
 114.141.195.0,114.141.195.255,Dedicated Servers,http://dedicatedservers.net.au/
 114.141.200.0,114.141.203.255,Dedicated Servers,http://dedicatedservers.net.au/
@@ -1124,6 +1128,7 @@
 180.149.240.0,180.149.247.255,Web Werks,http://www.web-werks.com/
 180.150.128.0,180.150.159.255,Rackspace,http://www.rackspace.com/
 180.178.32.0,180.178.63.255,simcentric,http://simcentric.com/
+180.210.200.0,180.210.207.255,Sparkstation,http://sparkstation.net/
 182.16.0.0,182.16.127.255,simcentric,http://simcentric.com/
 182.50.128.0,182.50.159.255,GoDaddy.com Inc,http://www.godaddy.com/
 182.54.232.0,182.54.239.255,GPLHost,https://www.gplhost.com/
@@ -1292,6 +1297,7 @@
 199.19.104.0,199.19.111.255,Volume Drive,http://volumedrive.com
 199.19.208.0,199.19.211.255,Connectria,http://www.connectria.com/
 199.19.212.0,199.19.215.255,vexxhost web hosting,http://vexxhost.com/
+199.21.112.0,199.21.115.255,ColoCrossing,http://www.colocrossing.com/
 199.27.128.0,199.27.135.255,CloudFlare Inc,https://www.cloudflare.com/
 199.30.48.0,199.30.55.255,Input Output Flood LLC,http://ioflood.com/
 199.34.228.0,199.34.231.255,Weebly,http://www.weebly.com/
