@@ -864,6 +864,7 @@
 95.168.192.0,95.168.223.255,SuperNetwork,http://www.superhosting.cz/
 95.174.0.0,95.174.31.255,seeweb.it,http://seeweb.it/
 95.211.0.0,95.211.255.255,Leaseweb,http://www.leaseweb.com/
+95.215.60.0,95.215.63.255,sologigabit.com,http://www.sologigabit.com/en/Dedicated-Servers
 96.6.0.0,96.7.255.255,Akamai,http://akamai.com/
 96.8.112.0,96.8.127.255,Velocity Servers,http://www.velocity-servers.net/
 96.9.128.0,96.9.191.255,hostnoc,http://www.hostnoc.net/
