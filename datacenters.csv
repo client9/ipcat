@@ -1084,6 +1084,7 @@
 176.56.56.0,176.56.56.15,nimbushosting.co.uk,http://nimbushosting.co.uk/
 176.56.225.64,176.56.225.127,knownsrv.com,http://knownsrv.com/
 176.56.227.0,176.56.228.63,knownsrv.com,http://knownsrv.com/
+176.58.88.0,176.58.95.255,Host Virtual,http://www.vr.org/
 176.58.96.0,176.58.127.255,Linode,http://www.linode.com/
 176.62.160.0,176.62.175.255,Combell,http://www.combell.com/
 176.62.192.0,176.62.199.255,argeweb,http://www.argeweb.nl/
@@ -1535,6 +1536,7 @@
 208.101.0.0,208.101.63.255,SoftLayer,http://www.softlayer.com/
 208.109.0.0,208.109.255.255,GoDaddy.com Inc,http://www.godaddy.com/
 208.110.64.0,208.110.95.255,WholeSale Internet Inc,http://www.wholesaleinternet.com/
+208.111.32.0,208.111.47.255,Host Virtual,http://www.vr.org/
 208.111.128.0,208.111.191.255,Limelight Networks Inc,http://www.limelight.com/
 208.112.0.0,208.112.127.255,HostMySite.com,http://www.webmysite.com/
 208.113.64.0,208.113.127.255,GoGrid,http://www.gogrid.com/
@@ -1590,6 +1592,7 @@
 209.164.64.0,209.164.127.255,C I Host,http://www.cihost.com/
 209.172.32.0,209.172.63.255,iWeb Technologies Inc.,http://iweb.com/
 209.173.240.0,209.173.255.255,Securewebs.com,http://www.securewebs.com/
+209.177.144.0,209.177.159.255,Host Virtual,http://www.vr.org/
 209.188.0.0,209.188.31.255,Secure Servers,http://www.securedservers.com/
 209.188.80.0,209.188.95.255,wiredtree,http://www.wiredtree.com/
 209.196.128.0,209.196.191.255,PEER 1,http://www.peer1.com/
