@@ -59,6 +59,7 @@
 31.130.200.0,31.130.207.255,datahata.by,http://datahata.by/
 31.131.16.0,31.131.31.255,vps.ua,http://vps.ua/
 31.133.0.0,31.133.7.255,hosteam.pl,http://hosteam.pl/
+31.133.112.0,31.133.119.255,comfoplace.com,http://comfoplace.com/
 31.148.128.0,31.148.128.255,ServerClub Inc,http://serverclub.com/
 31.170.24.0,31.170.31.255,Excellent Hosting Sweden AB,http://www.excellent-hosting.se/
 31.170.104.0,31.170.111.255,providerdienste,http://www.providerdienste.de/
@@ -82,6 +83,8 @@
 37.58.64.0,37.58.127.255,SoftLayer,http://www.softlayer.com/
 37.59.0.0,37.59.255.255,OVH,http://www.ovh.co.uk/
 37.157.244.120,37.157.244.127,Redstation Limited,http://redstation.com/
+37.157.244.144,37.157.244.151,Redstation Limited,http://redstation.com/
+37.188.120.0,37.188.123.255,Rackspace,http://www.rackspace.com/
 42.1.60.0,42.1.63.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
 46.4.0.0,46.4.255.255,Hetzner Online AG,http://www.hetzner.de/
 46.16.184.0,46.16.191.255,SoftLayer,http://www.softlayer.com/
@@ -768,6 +771,7 @@
 91.198.176.0,91.198.176.255,availo.no,http://www.availo.no/
 91.200.51.0,91.200.51.255,argeweb,http://www.argeweb.nl/
 91.202.40.0,91.202.43.255,Plutex,http://www.plutex.de/
+91.204.120.0,91.204.123.255,comfoplace.com,http://comfoplace.com/
 91.205.172.0,91.205.175.255,Giga-Hosting GmbH,http://giga-hosting.biz/
 91.207.4.0,91.207.9.255,Steep Host,http://www.steephost.com/
 91.210.104.0,91.210.107.255,HostKey.ru,http://www.hostkey.ru/
@@ -852,6 +856,7 @@
 95.108.120.0,95.108.127.255,hosteam.pl,http://hosteam.pl/
 95.128.88.0,95.128.95.255,prolocation.net,http://prolocation.net/
 95.128.168.0,95.128.168.255,everhost,http://everhost.co/
+95.129.48.0,95.129.55.255,TwooIT,http://www.twooit.de/
 95.129.104.0,95.129.111.255,iomart,http://www.iomart.com/
 95.130.72.0,95.130.79.255,NetBenefit,http://www.netbenefit.com/
 95.140.32.0,95.140.47.255,Szervernet,http://szervernet.hu/
@@ -988,6 +993,7 @@
 128.168.0.0,128.168.255.255,Data 102,http://data102.com/
 128.204.194.0,128.204.207.255,Snel Internet Services B.V.,https://www.snelserver.com/
 130.185.144.0,130.185.151.255,Titan Internet Ltd,http://www.titaninternet.co.uk/index.cfm
+134.0.24.0,134.0.31.255,TwooIT,http://www.twooit.de/
 134.255.192.0,134.255.255.255,Optimate Server,http://optimate-server.de/
 141.0.160.0,141.0.167.255,NuFuture Ltd,http://www.nublue.co.uk/
 141.101.64.0,141.101.127.255,CloudFlare Inc,https://www.cloudflare.com/
@@ -1091,11 +1097,14 @@
 176.65.64.0,176.65.71.255,The Bunker,http://www.thebunker.net/
 176.67.160.0,176.67.175.255,UK2 Group,http://www.uk2.net/
 176.74.160.0,176.74.191.255,PEER 1,http://www.peer1.com/
+176.227.195.80,176.227.195.87,idealhosting,http://www.idealhosting.com/
 176.227.197.248,176.227.197.255,idealhosting,http://www.idealhosting.com/
 176.227.198.40,176.227.198.47,Redstation Limited,http://redstation.com/
 176.227.198.48,176.227.198.55,idealhosting,http://www.idealhosting.com/
 176.227.198.56,176.227.198.79,Redstation Limited,http://redstation.com/
-176.227.204.64,176.227.204.127,Redstation Limited,http://redstation.com/
+176.227.201.0,176.227.201.127,Redstation Limited,http://redstation.com/
+176.227.204.64,176.227.204.143,Redstation Limited,http://redstation.com/
+176.227.205.8,176.227.205.15,Redstation Limited,http://redstation.com/
 176.227.208.88,176.227.208.95,Redstation Limited,http://redstation.com/
 176.227.209.112,176.227.209.119,Redstation Limited,http://redstation.com/
 176.227.211.0,176.227.211.7,Redstation Limited,http://redstation.com/
@@ -1103,6 +1112,7 @@
 176.227.211.96,176.227.211.103,Redstation Limited,http://redstation.com/
 176.227.211.120,176.227.211.127,Redstation Limited,http://redstation.com/
 176.227.211.176,176.227.211.183,Redstation Limited,http://redstation.com/
+176.227.220.128,176.227.220.159,Redstation Limited,http://redstation.com/
 176.227.221.0,176.227.221.127,Redstation Limited,http://redstation.com/
 177.55.96.0,177.55.127.255,redehost.com.br,http://www.redehost.com.br/
 177.71.128.0,177.71.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -1123,6 +1133,7 @@
 178.208.32.0,178.208.63.255,Combell,http://www.combell.com/
 178.208.64.0,178.208.95.255,mchost.ru,ttp://mchost.ru/
 178.211.32.0,178.211.63.255,Radore Hosting,http://as42926.net/
+178.216.224.0,178.216.231.255,comfoplace.com,http://comfoplace.com/
 178.217.80.0,178.217.87.255,h4hosting.eu,http://h4hosting.eu/
 178.217.184.0,178.217.191.255,hosteam.pl,http://hosteam.pl/
 178.236.0.0,178.236.15.255,Amazon AWS,http://www.amazon.com/aws/
@@ -1315,6 +1326,7 @@
 199.21.112.0,199.21.115.255,ColoCrossing,http://www.colocrossing.com/
 199.27.128.0,199.27.135.255,CloudFlare Inc,https://www.cloudflare.com/
 199.30.48.0,199.30.55.255,Input Output Flood LLC,http://ioflood.com/
+199.33.120.0,199.33.127.255,Rebel Hosting,http://rebelhosting.net/
 199.34.228.0,199.34.231.255,Weebly,http://www.weebly.com/
 199.36.72.0,199.36.79.255,eHostingUSA,http://ehostingusa.com/
 199.47.220.0,199.47.223.255,Firehost,http://www.firehost.com/
@@ -1330,6 +1342,7 @@
 199.87.232.0,199.87.239.255,esited.com,http://www.esited.com/
 199.102.224.0,199.102.231.255,ServInt,http://www.servint.net/
 199.103.56.0,199.103.63.255,Cirrus Tech Ltd,http://www.cirrushosting.com/
+199.114.240.0,199.114.247.255,eHostingUSA,http://ehostingusa.com/
 199.115.144.0,199.115.147.255,Hurricane Electic,http://www.he.net/
 199.115.228.0,199.115.231.255,Volume Drive,http://volumedrive.com
 199.119.200.0,199.119.207.255,Psychz Networks,http://psychz.net/
@@ -1340,6 +1353,7 @@
 199.167.132.0,199.167.135.255,Input Output Flood LLC,http://ioflood.com/
 199.167.144.0,199.167.151.255,Hivelocity Hosting,http://www.hivelocity.net/
 199.167.200.0,199.167.203.255,PrivateSystems.net,http://privatesystems.net/
+199.168.96.0,199.168.103.255,Data Shack,http://datashack.net/
 199.168.136.0,199.168.143.255,Volume Drive,http://volumedrive.com
 199.168.172.0,199.168.175.255,Firehost,http://www.firehost.com/
 199.168.184.0,199.168.191.255,DimeNOC,http://dimenoc.com/
