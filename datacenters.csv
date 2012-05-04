@@ -918,6 +918,7 @@
 108.60.64.0,108.60.95.255,Techie Media,http://techiemedia.net/
 108.62.0.0,108.62.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 108.160.144.0,108.160.159.255,PrivateSystems.net,http://privatesystems.net/
+108.162.192.0,108.162.255.255,CloudFlare Inc,https://www.cloudflare.com/
 108.163.128.0,108.163.191.255,iWeb Technologies Inc.,http://iweb.com/
 108.163.192.0,108.163.255.255,SingleHop,http://www.singlehop.com/
 108.166.0.0,108.166.127.255,Rackspace,http://www.rackspace.com/
@@ -1011,6 +1012,7 @@
 158.255.40.0,158.255.47.255,eukhost.com,http://eukhost.com/
 159.253.56.0,159.253.63.255,host-it.co.uk,http://www.host-it.co.uk/
 159.253.128.0,159.253.159.255,SoftLayer,http://www.softlayer.com/
+164.40.144.96,164.40.144.111,GoGrid LLC,http://www.gogrid.com/
 164.177.128.0,164.177.159.255,Rackspace,http://www.rackspace.com/
 166.70.0.0,166.70.255.255,XMission,http://xmission.com/
 173.0.48.0,173.0.63.255,Virpus Networks,http://myvirpus.com/
@@ -1108,7 +1110,7 @@
 176.227.205.8,176.227.205.15,Redstation Limited,http://redstation.com/
 176.227.208.88,176.227.208.95,Redstation Limited,http://redstation.com/
 176.227.209.112,176.227.209.119,Redstation Limited,http://redstation.com/
-176.227.211.0,176.227.211.7,Redstation Limited,http://redstation.com/
+176.227.211.0,176.227.211.15,Redstation Limited,http://redstation.com/
 176.227.211.64,176.227.211.71,Redstation Limited,http://redstation.com/
 176.227.211.96,176.227.211.103,Redstation Limited,http://redstation.com/
 176.227.211.120,176.227.211.127,Redstation Limited,http://redstation.com/
@@ -1345,6 +1347,8 @@
 199.102.224.0,199.102.231.255,ServInt,http://www.servint.net/
 199.103.56.0,199.103.63.255,Cirrus Tech Ltd,http://www.cirrushosting.com/
 199.114.240.0,199.114.247.255,eHostingUSA,http://ehostingusa.com/
+199.115.96.0,199.115.103.255,SharkTECH Internet Services,http://sharktech.net/
+199.115.112.0,199.115.119.255,Leaseweb,http://www.leaseweb.com/
 199.115.144.0,199.115.147.255,Hurricane Electic,http://www.he.net/
 199.115.228.0,199.115.231.255,Volume Drive,http://volumedrive.com
 199.119.200.0,199.119.207.255,Psychz Networks,http://psychz.net/
