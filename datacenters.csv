@@ -84,7 +84,7 @@
 37.59.0.0,37.59.255.255,OVH,http://www.ovh.co.uk/
 37.157.244.120,37.157.244.127,Redstation Limited,http://redstation.com/
 37.157.244.144,37.157.244.151,Redstation Limited,http://redstation.com/
-37.188.120.0,37.188.123.255,Rackspace,http://www.rackspace.com/
+37.188.120.0,37.188.127.255,Rackspace,http://www.rackspace.com/
 42.1.60.0,42.1.63.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
 46.4.0.0,46.4.255.255,Hetzner Online AG,http://www.hetzner.de/
 46.16.184.0,46.16.191.255,SoftLayer,http://www.softlayer.com/
@@ -923,13 +923,16 @@
 108.163.192.0,108.163.255.255,SingleHop,http://www.singlehop.com/
 108.166.0.0,108.166.127.255,Rackspace,http://www.rackspace.com/
 108.167.128.0,108.167.191.255,WebsiteWelcome.com,http://www.websitewelcome.com/
+108.168.128.0,108.168.255.255,SoftLayer,http://www.softlayer.com/
 108.170.0.0,108.170.63.255,Secure Servers,http://www.securedservers.com/
 108.171.160.0,108.171.191.255,Rackspace,http://www.rackspace.com/
 108.171.192.0,108.171.223.255,WebNX Internet Services,http://webnx.com/
+108.171.240.0,108.171.255.255,Psychz Networks,http://psychz.net/
 108.174.48.0,108.174.63.255,ColoCrossing,http://www.colocrossing.com/
 108.174.192.0,108.174.207.255,hostwinds.com,http://www.hostwinds.com/
 108.177.128.0,108.177.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 108.178.0.0,108.178.63.255,SingleHop,http://www.singlehop.com/
+108.179.192.0,108.179.255.255,WebsiteWelcome.com,http://www.websitewelcome.com/
 109.68.88.0,109.68.95.255,basefarm.com,http://basefarm.com/
 109.69.64.0,109.69.71.255,Plutex,http://www.plutex.de/
 109.70.0.0,109.70.7.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/

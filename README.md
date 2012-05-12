@@ -20,8 +20,8 @@ Statistics
 ------------------------
 
 <table>
-<tr><th>IPs</th><td>26726095</td></tr>
-<tr><th>Records</th><td>1801</td></tr>
+<tr><th>IPs</th><td>26780364</td></tr>
+<tr><th>Records</th><td>1804</td></tr>
 <tr><th>ISPs</th><td>388</td></tr>
 </table>
 
