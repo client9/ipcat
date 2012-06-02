@@ -1344,6 +1344,7 @@
 195.248.78.0,195.248.78.255,availo.no,http://www.availo.no/
 198.101.128.0,198.101.255.255,Rackspace,http://www.rackspace.com/
 198.136.48.0,198.136.63.255,DimeNOC,http://dimenoc.com/
+198.143.128.0,198.143.191.255,SingleHop,http://www.singlehop.com/
 198.144.176.0,198.144.191.255,ColoCrossing,http://www.colocrossing.com/
 198.246.132.0,198.246.133.255,XMission,http://xmission.com/
 199.7.232.0,199.7.239.255,datacenterscanada.com,http://www.datacenterscanada.com/
