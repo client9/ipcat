@@ -1,7 +1,10 @@
 # https://github.com/client9/ipcat/
-# Copyright 2011 Nick Galbreath http://client9.com/
+# Copyright 2012 Nick Galbreath http://client9.com/
 # Redistibution under GPL v3, see README/COPYING for details
 2.16.0.0,2.23.255.255,Akamai,http://akamai.com/
+5.9.0.0,5.9.255.255,Hetzner Online AG,http://www.hetzner.de/
+5.39.5.188,5.39.5.223,OVH,http://www.ovh.co.uk/
+5.39.5.244,5.39.5.247,OVH,http://www.ovh.co.uk/
 8.4.34.0,8.4.35.255,Peak Web Hosting,http://www.peakwebhosting.com/
 8.18.145.0,8.18.145.255,Amazon AWS,http://www.amazon.com/aws/
 8.24.248.0,8.24.255.255,gorack.net,http://gorack.net/
@@ -39,6 +42,7 @@
 23.0.0.0,23.15.255.255,Akamai,http://akamai.com/
 23.19.0.0,23.19.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 23.20.0.0,23.23.255.255,Amazon AWS,http://www.amazon.com/aws/
+23.29.112.0,23.29.127.255,Incero,http://www.incero.com/
 27.0.0.0,27.0.3.255,Amazon AWS,http://www.amazon.com/aws/
 27.50.32.0,27.50.39.255,Hurricane Electic,http://www.he.net/
 27.131.64.0,27.131.127.254,Micron21,http://www.micron21.com/
@@ -80,11 +84,18 @@
 31.216.48.0,31.216.55.255,Hosting UK,http://hostinguk.net/
 31.220.128.0,31.220.131.255,everhost,http://everhost.co/
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
+37.46.114.0,37.46.117.255,AltusHost,http://www.altushost.com/
 37.58.64.0,37.58.127.255,SoftLayer,http://www.softlayer.com/
 37.59.0.0,37.59.255.255,OVH,http://www.ovh.co.uk/
+37.123.114.0,37.123.114.255,UK2 Group,http://www.vps.net/
+37.143.12.0,37.143.13.255,ihc.ru,http://www.ihc.ru/
 37.157.244.120,37.157.244.127,Redstation Limited,http://redstation.com/
 37.157.244.144,37.157.244.151,Redstation Limited,http://redstation.com/
 37.188.120.0,37.188.127.255,Rackspace,http://www.rackspace.com/
+37.220.6.240,37.220.6.247,idealhosting,http://www.idealhosting.com/
+37.220.6.248,37.220.6.255,Redstation Limited,http://redstation.com/
+37.220.8.144,37.220.8.231,Redstation Limited,http://redstation.com/
+37.220.8.240,37.220.8.255,idealhosting,http://www.idealhosting.com/
 42.1.60.0,42.1.63.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
 46.4.0.0,46.4.255.255,Hetzner Online AG,http://www.hetzner.de/
 46.16.184.0,46.16.191.255,SoftLayer,http://www.softlayer.com/
@@ -125,6 +136,7 @@
 46.246.0.0,46.246.127.255,Portlane,http://www.portlane.com/
 46.249.32.0,46.249.63.255,Servinus,http://serverius.nl/
 46.251.224.0,46.251.255.255,Optimate Server,http://optimate-server.de/
+46.254.16.0,46.254.23.255,ihc.ru,http://www.ihc.ru/
 49.247.0.0,49.247.255.255,1000dedi.net,http://www.1000dedi.net/
 50.7.0.0,50.7.255.255,FDC Servers,http://fdcservers.net/
 50.16.0.0,50.19.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -782,6 +794,7 @@
 91.216.191.0,91.216.191.255,hosteam.pl,http://hosteam.pl/
 91.218.36.0,91.218.39.255,infiumhost.com,http://infiumhost.com/
 91.218.120.0,91.218.123.255,CoolVDS,http://coolvds.com/
+91.218.228.0,91.218.231.255,ihc.ru,http://www.ihc.ru/
 91.218.244.0,91.218.247.255,HostKey.ru,http://www.hostkey.ru/
 91.219.28.0,91.219.31.255,uadomen.com,http://www.uadomen.com/
 91.220.163.0,91.220.163.255,xentime.com,http://www.xentime.com/
@@ -909,6 +922,7 @@
 103.4.8.0,103.4.15.255,Amazon AWS,http://www.amazon.com/aws/
 103.4.112.0,103.4.113.255,Datapipe,http://www.datapipe.com/
 103.11.152.0,103.11.155.255,Web Werks,http://www.web-werks.com/
+103.23.152.0,103.23.155.255,ozhosting.com,http://ozhosting.com/
 103.246.248.0,103.246.248.255,quickweb.co.nz,http://quickweb.co.nz/
 107.6.0.0,107.6.63.255,PEER 1,http://www.peer1.com/
 107.6.64.0,107.6.127.255,Voxel,http://www.voxel.net/
@@ -1016,6 +1030,7 @@
 159.253.56.0,159.253.63.255,host-it.co.uk,http://www.host-it.co.uk/
 159.253.128.0,159.253.159.255,SoftLayer,http://www.softlayer.com/
 164.40.144.96,164.40.144.111,GoGrid LLC,http://www.gogrid.com/
+164.40.147.96,164.40.147.111,GoGrid LLC,http://www.gogrid.com/
 164.177.128.0,164.177.159.255,Rackspace,http://www.rackspace.com/
 166.70.0.0,166.70.255.255,XMission,http://xmission.com/
 173.0.48.0,173.0.63.255,Virpus Networks,http://myvirpus.com/
@@ -1321,6 +1336,9 @@
 195.242.212.0,195.242.215.255,OpenHosting UK Internet Solutions,http://openhosting.co.uk/
 195.245.124.0,195.245.127.255,Akamai,http://akamai.com/
 195.248.78.0,195.248.78.255,availo.no,http://www.availo.no/
+198.101.128.0,198.101.255.255,Rackspace,http://www.rackspace.com/
+198.136.48.0,198.136.63.255,DimeNOC,http://dimenoc.com/
+198.144.176.0,198.144.191.255,ColoCrossing,http://www.colocrossing.com/
 198.246.132.0,198.246.133.255,XMission,http://xmission.com/
 199.7.232.0,199.7.239.255,datacenterscanada.com,http://www.datacenterscanada.com/
 199.15.112.0,199.15.119.255,Psychz Networks,http://psychz.net/
