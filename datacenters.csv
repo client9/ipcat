@@ -3,8 +3,7 @@
 # Redistibution under GPL v3, see README/COPYING for details
 2.16.0.0,2.23.255.255,Akamai,http://akamai.com/
 5.9.0.0,5.9.255.255,Hetzner Online AG,http://www.hetzner.de/
-5.39.5.188,5.39.5.223,OVH,http://www.ovh.co.uk/
-5.39.5.244,5.39.5.247,OVH,http://www.ovh.co.uk/
+5.39.5.188,5.39.5.255,OVH,http://www.ovh.co.uk/
 8.4.34.0,8.4.35.255,Peak Web Hosting,http://www.peakwebhosting.com/
 8.18.145.0,8.18.145.255,Amazon AWS,http://www.amazon.com/aws/
 8.24.248.0,8.24.255.255,gorack.net,http://gorack.net/
@@ -296,6 +295,7 @@
 66.147.240.0,66.147.255.255,Bluehost.com,http://www.bluehost.com/
 66.148.0.0,66.148.63.255,PEER 1,http://www.peer1.com/
 66.148.64.0,66.148.127.255,HopOne,http://www.hopone.net/
+66.152.160.0,66.152.191.255,multacom.com,http://multacom.com/
 66.154.0.0,66.154.95.255,cyberwurx.com,http://www.cyberwurx.com/
 66.155.0.0,66.155.127.255,PEER 1,http://www.peer1.com/
 66.159.64.0,66.159.95.255,Datapoint,http://www.datapointinc.com/
@@ -307,6 +307,7 @@
 66.209.64.0,66.209.95.255,SWITCH Communications Group LLC,http://www.switchnap.com/
 66.212.16.0,66.212.31.255,Secure Private Network,http://www.securedprivatenetwork.net/
 66.216.64.0,66.216.127.255,Rackspace,http://www.rackspace.com/
+66.219.96.0,66.219.111.255,Advanced Internet Technologies,http://www.ait.com/
 66.220.0.0,66.220.31.255,Hurricane Electic,http://www.he.net/
 66.221.0.0,66.221.255.255,C I Host,http://www.cihost.com/
 66.223.0.0,66.223.127.255,PEER 1,http://www.peer1.com/
@@ -515,6 +516,7 @@
 72.35.64.0,72.35.95.255,Peak10,http://www.peak10.com/
 72.36.128.0,72.36.255.255,Layered Technologies Inc,http://www.layeredtech.com/
 72.44.32.0,72.44.63.255,Amazon AWS,http://www.amazon.com/aws/
+72.44.64.0,72.44.79.255,multacom.com,http://multacom.com/
 72.44.80.0,72.44.95.255,Future Hosting Inc,http://vpsdatacenter.com/
 72.46.128.0,72.46.159.255,VersaWeb,http://www.versaweb.com/
 72.47.192.0,72.47.255.255,Media Temple,http://www.mediatemple.net/
@@ -891,9 +893,11 @@
 96.30.0.0,96.30.63.255,wiredtree,http://www.wiredtree.com/
 96.31.64.0,96.31.95.255,Hivelocity Hosting,http://www.hivelocity.net/
 96.31.160.0,96.31.175.255,Adhost,http://www.adhost.com/
+96.43.80.0,96.43.95.255,multacom.com,http://multacom.com/
 96.43.128.0,96.43.143.255,Joe's Datacenter,http://www.joesdatacenter.com/
 96.44.128.0,96.44.191.255,QuadraNet,http://quadranet.com/
 96.45.112.0,96.45.127.255,Peak10,http://www.peak10.com/
+96.45.160.0,96.45.175.255,multacom.com,http://multacom.com/
 96.46.240.0,96.46.255.255,Peak10,http://www.peak10.com/
 96.47.0.0,96.47.15.255,Data 102,http://data102.com/
 96.125.160.0,96.125.175.255,WebsiteWelcome.com,http://www.websitewelcome.com/
@@ -912,6 +916,7 @@
 98.158.224.0,98.158.239.255,AccelerateBiz Inc.,http://www.acceleratebiz.com/
 99.192.128.0,99.192.255.255,MojoHost,http://www.mojohost.com
 99.198.96.0,99.198.127.255,SingleHop,http://www.singlehop.com/
+100.42.64.0,100.42.79.255,multacom.com,http://multacom.com/
 100.42.208.0,100.42.223.255,WebNX Internet Services,http://webnx.com/
 101.0.64.0,101.0.127.255,Digital Pacific,http://www.digitalpacific.com.au/
 103.1.172.0,103.1.175.255,GoDaddy.com Inc,http://www.godaddy.com/
@@ -936,6 +941,7 @@
 108.163.128.0,108.163.191.255,iWeb Technologies Inc.,http://iweb.com/
 108.163.192.0,108.163.255.255,SingleHop,http://www.singlehop.com/
 108.166.0.0,108.166.127.255,Rackspace,http://www.rackspace.com/
+108.166.192.0,108.166.223.255,multacom.com,http://multacom.com/
 108.167.128.0,108.167.191.255,WebsiteWelcome.com,http://www.websitewelcome.com/
 108.168.128.0,108.168.255.255,SoftLayer,http://www.softlayer.com/
 108.170.0.0,108.170.63.255,Secure Servers,http://www.securedservers.com/
@@ -1426,8 +1432,10 @@
 204.11.216.0,204.11.223.255,Peak Web Hosting,http://www.peakwebhosting.com/
 204.12.0.0,204.12.127.255,HostMySite.com,http://www.webmysite.com/
 204.12.192.0,204.12.255.255,WholeSale Internet Inc,http://www.wholesaleinternet.com/
+204.13.152.0,204.13.155.255,multacom.com,http://multacom.com/
 204.14.104.0,204.14.111.255,AccelerateBiz Inc.,http://www.acceleratebiz.com/
 204.14.120.0,204.14.123.255,AllHostShop.com,http://www.allhostshop.com/
+204.15.72.0,204.15.79.255,multacom.com,http://multacom.com/
 204.15.132.0,204.15.135.255,ndchost.com,http://www.ndchost.com/
 204.15.192.0,204.15.199.255,prioritycolo.com,http://prioritycolo.com/
 204.19.162.0,204.19.162.255,Voxel,http://www.voxel.net/
@@ -1509,6 +1517,7 @@
 208.53.128.0,208.53.191.255,FDC Servers,http://fdcservers.net/
 208.54.240.0,208.54.255.255,latisys,http://www.latisys.com/
 208.64.24.0,208.64.31.255,VersaWeb,http://www.versaweb.com/
+208.64.224.0,208.64.231.255,multacom.com,http://multacom.com/
 208.64.248.0,208.64.255.255,US Colo,http://uscolo.com/
 208.66.0.0,208.66.3.255,datacenterscanada.com,http://www.datacenterscanada.com/
 208.66.72.0,208.66.79.255,VersaWeb,http://www.versaweb.com/
@@ -1710,6 +1719,7 @@
 216.22.0.0,216.22.63.255,ServInt,http://www.servint.net/
 216.23.160.0,216.23.191.255,latisys,http://www.latisys.com/
 216.24.192.0,216.24.207.255,Psychz Networks,http://psychz.net/
+216.24.240.0,216.24.255.255,multacom.com,http://multacom.com/
 216.25.0.0,216.25.127.255,PEER 1,http://www.peer1.com/
 216.26.128.0,216.26.191.255,Peak10,http://www.peak10.com/
 216.38.48.0,216.38.63.255,ServInt,http://www.servint.net/
@@ -1740,12 +1750,14 @@
 216.108.224.0,216.108.239.255,Premia Networks Corporation,http://www.premianet.com/
 216.109.128.0,216.109.159.255,Datapipe,http://www.datapipe.com/
 216.115.64.0,216.115.95.255,SWITCH Communications Group LLC,http://www.switchnap.com/
+216.117.128.0,216.117.191.255,Advanced Internet Technologies,http://www.ait.com/
 216.119.128.0,216.119.143.255,A2 Hosting,http://www.a2hosting.com/
 216.119.144.0,216.119.159.255,Midphase,http://www.midphase.com/
 216.120.224.0,216.120.255.255,HostRocket,http://www.hostrocket.com/
 216.121.0.0,216.121.127.255,GoGrid,http://www.gogrid.com/
 216.122.0.0,216.122.255.255,PEER 1,http://www.peer1.com/
 216.127.64.0,216.127.95.255,SoftLayer,http://www.softlayer.com/
+216.127.160.0,216.127.191.255,multacom.com,http://multacom.com/
 216.130.160.0,216.130.191.255,Webair Internet Development Inc,http://www.webair.com/
 216.131.64.0,216.131.127.255,Reliable Hosting,http://reliablehosting.com/
 216.134.192.0,216.134.223.255,Peak10,http://www.peak10.com/
