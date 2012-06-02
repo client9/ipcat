@@ -20,7 +20,6 @@ foreach ($rows as $row) {
     $keys[$newrow['_ip0']] = $newrow;
 }
 
-
 ksort($keys);
 
 $ary = array();
@@ -47,17 +46,14 @@ class IpDb {
     public static function find(\$ipstr) {
         \$ip = ip2long(\$ipstr);
         \$haystack = self::\$db;
-        \$high = count(\$haystack) -1;
+        \$high = count(\$haystack) - 1;
         \$low = 0;
         while (\$high >= \$low) {
             \$probe = floor((\$high + \$low) / 2);
             \$row = \$haystack[\$probe];
-            \$a = \$row['_ip0'];
-            \$b = \$row['_ip1'];
-
-            if (\$a > \$ip) {
+            if (\$row['_ip0'] > \$ip) {
                 \$high = \$probe - 1;
-            } else if (\$b < \$ip) {
+            } else if (\$row['_ip1'] < \$ip) {
                 \$low = \$probe + 1;
             } else {
                 return \$row;
