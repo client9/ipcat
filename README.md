@@ -20,9 +20,9 @@ Statistics
 ------------------------
 
 <table>
-<tr><th>IPs</th><td>26986374</td></tr>
-<tr><th>Records</th><td>1838</td></tr>
-<tr><th>ISPs</th><td>394</td></tr>
+<tr><th>IPs</th><td>26986885</td></tr>
+<tr><th>Records</th><td>1839</td></tr>
+<tr><th>ISPs</th><td>395</td></tr>
 </table>
 
 What is the file format?
