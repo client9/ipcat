@@ -35,6 +35,9 @@ foreach ($keys as $k => $v) {
         print_r($v);
         die;
     }
+
+    $last0 = $i0;
+    $last1 = $i1;
     $ary[] = $v;
 }
 
