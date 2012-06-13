@@ -177,7 +177,7 @@
 62.212.64.0,62.212.95.255,Leaseweb,http://www.leaseweb.com/
 62.233.64.0,62.233.127.255,iomart,http://www.iomart.com/
 63.131.128.0,63.131.159.255,Datapipe,http://www.datapipe.com/
-63.131.224.0,63.131.239.255,TierPoint,tierpoint.com
+63.131.224.0,63.131.239.255,TierPoint,http://tierpoint.com
 63.140.0.0,63.140.15.255,Fortress Integrated Technologies,http://fortressitx.com/
 63.141.224.0,63.141.255.255,Data Shack,http://datashack.net/
 63.143.32.0,63.143.63.255,Limestone Networks,http://www.limestonenetworks.com/
@@ -630,7 +630,7 @@
 79.98.128.0,79.98.135.255,Radore Hosting,http://as42926.net/
 79.125.64.0,79.125.127.255,Amazon AWS,http://www.amazon.com/aws/
 79.133.32.0,79.133.63.255,First Colo GmbH,http://www.first-colo.net/EN/
-79.137.208.0,79.137.239.255,DINETHOSTING,DINETHOSTING
+79.137.208.0,79.137.239.255,Digital Network JSC,http://www.di-net.ru/
 79.140.80.0,79.140.82.255,Akamai,http://akamai.com/
 79.140.84.0,79.140.85.127,Akamai,http://akamai.com/
 79.140.92.0,79.140.95.255,Akamai,http://akamai.com/
@@ -808,11 +808,11 @@
 91.227.220.0,91.227.223.255,VooServers,http://www.vooservers.com/
 91.229.174.0,91.229.175.255,CCPG Solutions,http://ccpg.co.uk/
 91.229.248.0,91.229.248.255,EpioHost,http://epiohost.net/
-91.232.96.0,91.232.97.255,Xirra GmbH,http://http://www.xirra.net/
-92.38.192.0,92.38.224.255,DINETHOSTING,DINETHOSTING
-92.38.228.0,92.38.228.255,DINETHOSTING,DINETHOSTING
-92.38.230.0,92.38.230.255,DINETHOSTING,DINETHOSTING
-92.38.232.0,92.38.255.255,DINETHOSTING,DINETHOSTING
+91.232.96.0,91.232.97.255,Xirra GmbH,http://www.xirra.net/
+92.38.192.0,92.38.224.255,Digital Network JSC,http://www.di-net.ru/
+92.38.228.0,92.38.228.255,Digital Network JSC,http://www.di-net.ru/
+92.38.230.0,92.38.230.255,Digital Network JSC,http://www.di-net.ru/
+92.38.232.0,92.38.255.255,Digital Network JSC,http://www.di-net.ru/
 92.43.40.0,92.43.47.255,Xtraordinary Networks Limited,http://xtrahost.co.uk/
 92.48.64.0,92.48.127.255,BlueConnex,http://www.simplytransit.net/
 92.51.128.0,92.51.191.255,Host Europe,http://www.hosteurope.de/
@@ -851,7 +851,7 @@
 94.102.52.0,94.102.56.255,Ecatel,http://ecatel.net/
 94.102.60.0,94.102.62.255,Ecatel,http://ecatel.net/
 94.102.208.0,94.102.223.255,Vautron AG,http://www.vautron.de/
-94.103.80.0,94.103.95.255,mchost.ru,ttp://mchost.ru/
+94.103.80.0,94.103.95.255,mchost.ru,http://mchost.ru/
 94.103.144.0,94.103.159.255,nedzone.nl,https://www.nedzone.nl/
 94.126.176.0,94.126.183.255,Solido Hosting A/S,http://solidohosting.com/
 94.136.32.0,94.136.63.255,Webfusion,http://www.webfusion.com/
@@ -879,7 +879,7 @@
 95.129.104.0,95.129.111.255,iomart,http://www.iomart.com/
 95.130.72.0,95.130.79.255,NetBenefit,http://www.netbenefit.com/
 95.140.32.0,95.140.47.255,Szervernet,http://szervernet.hu/
-95.142.32.0,95.142.47.255,mchost.ru,ttp://mchost.ru/
+95.142.32.0,95.142.47.255,mchost.ru,http://mchost.ru/
 95.143.32.0,95.143.47.255,inline.de,http://www.inline.de/
 95.154.192.0,95.154.255.255,iomart Hosting Ltd,http://www.rapidswitch.com/
 95.156.192.0,95.156.255.255,Optimate Server,http://optimate-server.de/
@@ -977,7 +977,7 @@
 109.230.192.0,109.230.255.255,Optimate Server,http://optimate-server.de/
 109.232.224.0,109.232.231.255,serverboost.nl,http://serverboost.nl/
 109.233.112.0,109.233.119.255,Xtraordinary Networks Limited,http://xtrahost.co.uk/
-109.234.32.0,109.234.39.255,mchost.ru,ttp://mchost.ru/
+109.234.32.0,109.234.39.255,mchost.ru,http://mchost.ru/
 109.235.48.0,109.235.55.255,Netrouting,http://www.netrouting.com/
 109.235.56.0,109.235.63.255,Vautron AG,http://www.vautron.de/
 109.236.80.0,109.236.95.255,WorldStream,http://www.worldstream.nl/
@@ -1161,7 +1161,7 @@
 178.156.0.0,178.156.127.255,ServiHosting Networks S.L.,http://servihosting.es
 178.162.128.0,178.162.255.255,Leaseweb,http://www.leaseweb.com/
 178.208.32.0,178.208.63.255,Combell,http://www.combell.com/
-178.208.64.0,178.208.95.255,mchost.ru,ttp://mchost.ru/
+178.208.64.0,178.208.95.255,mchost.ru,http://mchost.ru/
 178.211.32.0,178.211.63.255,Radore Hosting,http://as42926.net/
 178.216.224.0,178.216.231.255,comfoplace.com,http://comfoplace.com/
 178.217.80.0,178.217.87.255,h4hosting.eu,http://h4hosting.eu/
