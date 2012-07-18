@@ -72,6 +72,7 @@
 31.170.104.0,31.170.111.255,providerdienste,http://www.providerdienste.de/
 31.170.160.0,31.170.167.255,main-hosting.com,http://main-hosting.com/
 31.171.128.0,31.171.135.255,Netrouting,http://www.netrouting.com/
+31.172.240.0,31.172.255.255,Tagadab,http://tagadab.com/
 31.185.104.0,31.185.111.255,nbiserv.de,http://nbiserv.de/
 31.187.64.0,31.187.66.255,servhost.de,http://servhost.de/
 31.187.74.0,31.187.75.255,servhost.de,http://servhost.de/
@@ -135,8 +136,10 @@
 37.220.13.32,37.220.13.127,Redstation Limited,http://redstation.com/
 37.220.13.128,37.220.13.143,idealhosting,http://www.idealhosting.com/
 37.220.13.144,37.220.13.255,Redstation Limited,http://redstation.com/
-37.220.17.0,37.220.17.55,Redstation Limited,http://redstation.com/
+37.220.16.0,37.220.16.31,idealhosting,http://www.idealhosting.com/
+37.220.16.32,37.220.17.55,Redstation Limited,http://redstation.com/
 37.220.17.128,37.220.17.255,Redstation Limited,http://redstation.com/
+37.220.97.240,37.220.97.247,Tagadab,http://tagadab.com/
 37.221.160.0,37.221.160.31,LippunerHosting,http://server4.pro/
 37.221.160.32,37.221.160.63,ixam-hosting,http://ixam-hosting.com/
 37.221.160.80,37.221.160.95,EpioHost,http://epiohost.net/
@@ -180,6 +183,7 @@
 46.183.136.0,46.183.143.255,Gigahost ApS,https://gigahost.dk/en
 46.226.8.0,46.226.8.255,Rent a Rack,http://rentarack.no/
 46.229.160.0,46.229.175.255,advancedhosters.com,http://advancedhosters.com/
+46.231.112.0,46.231.119.255,Tagadab,http://tagadab.com/
 46.231.120.0,46.231.127.255,dinahosting,https://en.dinahosting.com/
 46.231.176.0,46.231.183.255,Unbelievable Machine,http://www.unbelievable-machine.com/
 46.234.96.0,46.234.127.255,SuperNetwork,http://www.superhosting.cz/
@@ -687,6 +691,7 @@
 78.24.8.0,78.24.15.255,vshosting.cz,http://vshosting.cz/
 78.31.48.0,78.31.55.255,trueserver.nl,http://trueserver.nl/
 78.31.104.0,78.31.111.255,Memset Ltd,http://www.memset.com/
+78.40.32.0,78.40.39.255,Tagadab,http://tagadab.com/
 78.41.200.0,78.41.207.255,Snel Internet Services B.V.,https://www.snelserver.com/
 78.41.232.0,78.41.239.255,euro-web.com,http://fr.euro-web.com/
 78.46.0.0,78.47.255.255,Hetzner Online AG,http://www.hetzner.de/
@@ -933,6 +938,7 @@
 94.102.48.161,94.102.48.255,Ecatel,http://ecatel.net/
 94.102.52.0,94.102.56.255,Ecatel,http://ecatel.net/
 94.102.60.0,94.102.62.255,Ecatel,http://ecatel.net/
+94.102.144.0,94.102.159.255,Tagadab,http://tagadab.com/
 94.102.208.0,94.102.223.255,Vautron AG,http://www.vautron.de/
 94.103.80.0,94.103.95.255,mchost.ru,http://mchost.ru/
 94.103.144.0,94.103.159.255,nedzone.nl,https://www.nedzone.nl/
@@ -974,6 +980,7 @@
 95.162.0.0,95.162.255.255,xservers.ro,http://www.xservers.ro/
 95.168.160.0,95.168.191.255,Leaseweb,http://www.leaseweb.com/
 95.168.192.0,95.168.223.255,SuperNetwork,http://www.superhosting.cz/
+95.172.0.0,95.172.31.255,Tagadab,http://tagadab.com/
 95.174.0.0,95.174.31.255,seeweb.it,http://seeweb.it/
 95.211.0.0,95.211.255.255,Leaseweb,http://www.leaseweb.com/
 95.215.60.0,95.215.63.255,sologigabit.com,http://www.sologigabit.com/en/Dedicated-Servers
@@ -1058,6 +1065,7 @@
 109.74.192.0,109.74.207.255,Linode,http://www.linode.com/
 109.75.160.0,109.75.175.255,Web Hosting UK,http://www.webhosting.uk.com/
 109.104.64.0,109.104.95.255,Webfusion,http://www.webfusion.com/
+109.109.224.0,109.109.255.255,Tagadab,http://tagadab.com/
 109.123.64.0,109.123.127.255,UK2 Group,http://www.uk2.net/
 109.169.0.0,109.169.95.255,iomart Hosting Ltd,http://www.rapidswitch.com/
 109.190.0.0,109.190.255.255,OVH,http://www.ovh.co.uk/
