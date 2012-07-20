@@ -863,6 +863,7 @@
 91.189.176.0,91.189.183.255,availo.no,http://www.availo.no/
 91.190.240.0,91.190.247.255,pgHosting,http://pghosting.de/
 91.191.144.0,91.191.159.255,euro-web.com,http://fr.euro-web.com/
+91.192.116.0,91.192.119.255,2dayhost.com,http://www.2dayhost.com/
 91.192.208.0,91.192.211.255,cybernetic-servers.co.uk,http://cybernetic-servers.co.uk/
 91.194.90.0,91.194.91.255,Giga-Hosting GmbH,http://giga-hosting.biz/
 91.198.106.0,91.198.106.255,deziweb,http://deziweb.com/
@@ -1322,6 +1323,7 @@
 178.208.64.0,178.208.95.255,mchost.ru,http://mchost.ru/
 178.209.32.0,178.209.63.255,nine.ch,http://nine.ch/
 178.211.32.0,178.211.63.255,Radore Hosting,http://as42926.net/
+178.214.96.0,178.214.127.255,2dayhost.com,http://www.2dayhost.com/
 178.216.224.0,178.216.231.255,comfoplace.com,http://comfoplace.com/
 178.217.80.0,178.217.87.255,h4hosting.eu,http://h4hosting.eu/
 178.217.184.0,178.217.191.255,hosteam.pl,http://hosteam.pl/
@@ -1479,6 +1481,7 @@
 195.26.4.0,195.26.5.255,root S.A.,http://www.site.lu/
 195.38.21.0,195.38.21.255,Xtraordinary Networks Limited,http://xtrahost.co.uk/
 195.39.196.0,195.39.197.255,mirohost.net,http://mirohost.net/
+195.42.102.0,195.42.103.255,2dayhost.com,http://www.2dayhost.com/
 195.46.36.0,195.46.39.255,argeweb,http://www.argeweb.nl/
 195.49.128.0,195.49.131.255,colocall.net,http://colocall.net/
 195.59.44.0,195.59.44.255,Akamai,http://akamai.com/
@@ -1515,6 +1518,7 @@
 195.242.212.0,195.242.215.255,OpenHosting UK Internet Solutions,http://openhosting.co.uk/
 195.245.124.0,195.245.127.255,Akamai,http://akamai.com/
 195.248.78.0,195.248.78.255,availo.no,http://www.availo.no/
+198.100.144.0,198.100.159.255,OVH,http://www.ovh.co.uk/
 198.101.128.0,198.101.255.255,Rackspace,http://www.rackspace.com/
 198.136.48.0,198.136.63.255,DimeNOC,http://dimenoc.com/
 198.143.128.0,198.143.191.255,SingleHop,http://www.singlehop.com/
