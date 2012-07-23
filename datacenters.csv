@@ -156,6 +156,7 @@
 46.20.12.1,46.20.12.128,Turkiye Telekom Datacenter,http://ttnetdc.com/
 46.20.112.0,46.20.127.255,PEER 1,http://www.peer1.com/
 46.21.144.0,46.21.159.255,Swiftway,http://swiftway.net/
+46.21.160.0,46.21.175.255,rijndata.nl,http://rijndata.nl/
 46.21.192.0,46.21.207.255,euro-web.com,http://fr.euro-web.com/
 46.23.64.0,46.23.79.255,UK2 Group,http://www.uk2.net/
 46.28.104.0,46.28.111.255,wedos,http://www.wedos.com/
@@ -867,6 +868,7 @@
 91.192.208.0,91.192.211.255,cybernetic-servers.co.uk,http://cybernetic-servers.co.uk/
 91.194.90.0,91.194.91.255,Giga-Hosting GmbH,http://giga-hosting.biz/
 91.195.124.0,91.195.125.255,leaderhost.ru,http://leaderhost.ru/
+91.196.168.0,91.196.171.255,rijndata.nl,http://rijndata.nl/
 91.198.106.0,91.198.106.255,deziweb,http://deziweb.com/
 91.198.176.0,91.198.176.255,availo.no,http://www.availo.no/
 91.200.51.0,91.200.51.255,argeweb,http://www.argeweb.nl/
