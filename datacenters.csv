@@ -4,6 +4,7 @@
 2.16.0.0,2.23.255.255,Akamai,http://akamai.com/
 5.9.0.0,5.9.255.255,Hetzner Online AG,http://www.hetzner.de/
 5.10.64.0,5.10.127.255,SoftLayer,http://www.softlayer.com/
+5.34.244.0,5.34.244.255,webexxpurts.com,http://webexxpurts.com/
 5.39.0.0,5.39.127.255,OVH,http://www.ovh.co.uk/
 8.4.34.0,8.4.35.255,Peak Web Hosting,http://www.peakwebhosting.com/
 8.18.145.0,8.18.145.255,Amazon AWS,http://www.amazon.com/aws/
@@ -160,6 +161,7 @@
 46.21.192.0,46.21.207.255,euro-web.com,http://fr.euro-web.com/
 46.23.64.0,46.23.79.255,UK2 Group,http://www.uk2.net/
 46.28.104.0,46.28.111.255,wedos,http://www.wedos.com/
+46.29.248.0,46.29.255.255,webexxpurts.com,http://webexxpurts.com/
 46.31.184.0,46.31.191.255,basefarm.com,http://basefarm.com/
 46.32.224.0,46.32.255.255,Webfusion,http://www.webfusion.com/
 46.33.64.0,46.33.77.255,Akamai,http://akamai.com/
@@ -567,6 +569,7 @@
 72.3.128.0,72.3.255.255,Rackspace,http://www.rackspace.com/
 72.4.112.0,72.4.127.255,Rackspace,http://www.rackspace.com/
 72.8.128.0,72.8.191.255,Staminus Communications,http://staminus.net/
+72.9.144.0,72.9.159.255,dfw-datacenter.com,http://dfw-datacenter.com/
 72.10.32.0,72.10.63.255,Media Temple,http://www.mediatemple.net/
 72.11.128.0,72.11.159.255,QuadraNet,http://quadranet.com/
 72.13.80.0,72.13.95.255,EGIHosting.com,http://www.egihosting.com/
@@ -869,6 +872,7 @@
 91.194.90.0,91.194.91.255,Giga-Hosting GmbH,http://giga-hosting.biz/
 91.195.124.0,91.195.125.255,leaderhost.ru,http://leaderhost.ru/
 91.196.168.0,91.196.171.255,rijndata.nl,http://rijndata.nl/
+91.197.228.0,91.197.231.255,Kualo,http://www.kualo.com/
 91.198.106.0,91.198.106.255,deziweb,http://deziweb.com/
 91.198.176.0,91.198.176.255,availo.no,http://www.availo.no/
 91.200.51.0,91.200.51.255,argeweb,http://www.argeweb.nl/
@@ -1128,6 +1132,7 @@
 128.168.0.0,128.168.255.255,Data 102,http://data102.com/
 128.204.194.0,128.204.207.255,Snel Internet Services B.V.,https://www.snelserver.com/
 130.185.144.0,130.185.151.255,Titan Internet Ltd,http://www.titaninternet.co.uk/index.cfm
+130.185.152.0,130.185.155.255,webexxpurts.com,http://webexxpurts.com/
 134.0.24.0,134.0.31.255,TwooIT,http://www.twooit.de/
 134.19.176.0,134.19.191.255,serverboost.nl,http://serverboost.nl/
 134.255.192.0,134.255.255.255,Optimate Server,http://optimate-server.de/
@@ -1258,6 +1263,7 @@
 176.56.227.0,176.56.228.63,knownsrv.com,http://knownsrv.com/
 176.58.88.0,176.58.95.255,Host Virtual,http://www.vr.org/
 176.58.96.0,176.58.127.255,Linode,http://www.linode.com/
+176.61.136.0,176.61.139.255,webexxpurts.com,http://webexxpurts.com/
 176.62.160.0,176.62.175.255,Combell,http://www.combell.com/
 176.62.192.0,176.62.199.255,argeweb,http://www.argeweb.nl/
 176.65.64.0,176.65.71.255,The Bunker,http://www.thebunker.net/
@@ -1328,6 +1334,7 @@
 178.209.32.0,178.209.63.255,nine.ch,http://nine.ch/
 178.211.32.0,178.211.63.255,Radore Hosting,http://as42926.net/
 178.214.96.0,178.214.127.255,2dayhost.com,http://www.2dayhost.com/
+178.216.48.0,178.216.55.255,webexxpurts.com,http://webexxpurts.com/
 178.216.224.0,178.216.231.255,comfoplace.com,http://comfoplace.com/
 178.217.80.0,178.217.87.255,h4hosting.eu,http://h4hosting.eu/
 178.217.184.0,178.217.191.255,hosteam.pl,http://hosteam.pl/
@@ -1542,6 +1549,7 @@
 199.19.212.0,199.19.215.255,vexxhost web hosting,http://vexxhost.com/
 199.19.224.0,199.19.227.255,buyvm.net,http://buyvm.net/?from=frantech
 199.21.112.0,199.21.115.255,ColoCrossing,http://www.colocrossing.com/
+199.26.84.0,199.26.87.255,dfw-datacenter.com,http://dfw-datacenter.com/
 199.27.128.0,199.27.135.255,CloudFlare Inc,https://www.cloudflare.com/
 199.30.48.0,199.30.55.255,Input Output Flood LLC,http://ioflood.com/
 199.33.120.0,199.33.127.255,Rebel Hosting,http://rebelhosting.net/
@@ -1591,6 +1599,7 @@
 199.192.228.0,199.192.231.255,ionity,http://ionity.com/
 199.193.176.0,199.193.179.255,Adhost,http://www.adhost.com/
 199.193.248.0,199.193.255.255,Enzu Inc,https://www.enzu.com/
+199.195.156.0,199.195.159.255,avantehosting.net,https://avantehosting.net/
 199.195.192.0,199.195.199.255,Midphase,http://www.midphase.com/
 199.195.212.0,199.195.215.255,Forta Trust,http://www.fortatrust.com/
 199.204.44.0,199.204.47.255,vexxhost web hosting,http://vexxhost.com/
@@ -1603,6 +1612,7 @@
 200.35.144.0,200.35.151.255,ServerPronto,http://www.serverpronto.com/
 200.63.40.0,200.63.47.255,panamaserver.com,http://panamaserver.com/
 200.115.33.200,200.115.33.207,Teuno,http://www.teuno.com/
+200.124.132.72,200.124.132.79,e-commercepark.com,http://e-commercepark.com/
 202.9.36.0,202.9.39.255,Gigabit Hosting Sdn Bhd,http://thegigabit.com/
 202.46.192.0,202.46.207.255,Cyquator,http://cyquator.com/
 202.60.64.0,202.60.95.255,Dedicated Servers,http://dedicatedservers.net.au/
