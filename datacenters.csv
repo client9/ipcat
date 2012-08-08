@@ -6,6 +6,7 @@
 5.10.64.0,5.10.127.255,SoftLayer,http://www.softlayer.com/
 5.34.244.0,5.34.244.255,webexxpurts.com,http://webexxpurts.com/
 5.39.0.0,5.39.127.255,OVH,http://www.ovh.co.uk/
+5.135.0.0,5.135.255.255,OVH,http://www.ovh.co.uk/
 8.4.34.0,8.4.35.255,Peak Web Hosting,http://www.peakwebhosting.com/
 8.18.145.0,8.18.145.255,Amazon AWS,http://www.amazon.com/aws/
 8.24.248.0,8.24.255.255,gorack.net,http://gorack.net/
@@ -1532,6 +1533,7 @@
 195.242.212.0,195.242.215.255,OpenHosting UK Internet Solutions,http://openhosting.co.uk/
 195.245.124.0,195.245.127.255,Akamai,http://akamai.com/
 195.248.78.0,195.248.78.255,availo.no,http://www.availo.no/
+198.91.80.0,198.91.95.255,x10hosting,http://x10hosting.com/
 198.100.144.0,198.100.159.255,OVH,http://www.ovh.co.uk/
 198.101.128.0,198.101.255.255,Rackspace,http://www.rackspace.com/
 198.136.48.0,198.136.63.255,DimeNOC,http://dimenoc.com/
@@ -1611,6 +1613,7 @@
 199.230.52.0,199.230.55.255,ServInt,http://www.servint.net/
 199.231.128.0,199.231.150.255,HostMySite.com,http://www.webmysite.com/
 199.233.180.0,199.233.180.255,XMission,http://xmission.com/
+199.241.144.0,199.241.147.255,hugeserver,http://www.hugeserver.com/
 199.255.192.0,199.255.195.255,Amazon AWS,http://www.amazon.com/aws/
 200.35.144.0,200.35.151.255,ServerPronto,http://www.serverpronto.com/
 200.63.40.0,200.63.47.255,panamaserver.com,http://panamaserver.com/
