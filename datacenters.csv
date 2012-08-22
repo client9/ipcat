@@ -5,10 +5,12 @@
 2.16.0.0,2.23.255.255,Akamai,http://akamai.com/
 5.9.0.0,5.9.255.255,Hetzner Online AG,http://www.hetzner.de/
 5.10.64.0,5.10.127.255,SoftLayer,http://www.softlayer.com/
+5.34.241.0,5.34.241.255,webexxpurts.com,http://webexxpurts.com/
 5.34.244.0,5.34.244.255,webexxpurts.com,http://webexxpurts.com/
 5.39.0.0,5.39.127.255,OVH,http://www.ovh.co.uk/
 5.135.0.0,5.135.255.255,OVH,http://www.ovh.co.uk/
 5.152.193.128,5.152.193.191,almahost.co.uk,http://www.almahost.ir/
+5.152.196.96,5.152.196.127,almahost.co.uk,http://www.almahost.ir/
 8.4.34.0,8.4.35.255,Peak Web Hosting,http://www.peakwebhosting.com/
 8.18.145.0,8.18.145.255,Amazon AWS,http://www.amazon.com/aws/
 8.24.248.0,8.24.255.255,gorack.net,http://gorack.net/
@@ -149,12 +151,14 @@
 37.220.17.56,37.220.17.127,almahost.co.uk,http://www.almahost.ir/
 37.220.17.128,37.220.17.255,Redstation Limited,http://redstation.com/
 37.220.18.64,37.220.18.95,almahost.co.uk,http://www.almahost.ir/
+37.220.19.128,37.220.19.159,almahost.co.uk,http://www.almahost.ir/
 37.220.20.128,37.220.20.191,almahost.co.uk,http://www.almahost.ir/
 37.220.21.192,37.220.21.255,almahost.co.uk,http://www.almahost.ir/
 37.220.22.128,37.220.22.255,almahost.co.uk,http://www.almahost.ir/
 37.220.23.24,37.220.23.31,idealhosting,http://www.idealhosting.com/
 37.220.23.160,37.220.23.191,almahost.co.uk,http://www.almahost.ir/
 37.220.29.0,37.220.29.7,almahost.co.uk,http://www.almahost.ir/
+37.220.30.0,37.220.30.63,almahost.co.uk,http://www.almahost.ir/
 37.220.97.240,37.220.97.247,Tagadab,http://tagadab.com/
 37.221.160.0,37.221.160.31,LippunerHosting,http://server4.pro/
 37.221.160.32,37.221.160.63,ixam-hosting,http://ixam-hosting.com/
@@ -726,7 +730,7 @@
 78.157.192.0,78.157.223.255,UK Dedicated Servers LTD,http://ukservers.com/
 78.159.96.0,78.159.127.255,Leaseweb,http://www.leaseweb.com/
 79.98.128.0,79.98.135.255,Radore Hosting,http://as42926.net/
-79.125.64.0,79.125.127.255,Amazon AWS,http://www.amazon.com/aws/
+79.125.0.0,79.125.127.255,Amazon AWS,http://www.amazon.com/aws/
 79.133.32.0,79.133.63.255,First Colo GmbH,http://www.first-colo.net/EN/
 79.137.208.0,79.137.239.255,Digital Network JSC,http://www.di-net.ru/
 79.140.80.0,79.140.82.255,Akamai,http://akamai.com/
@@ -1333,6 +1337,7 @@
 176.227.209.40,176.227.209.55,idealhosting,http://www.idealhosting.com/
 176.227.209.56,176.227.209.255,Redstation Limited,http://redstation.com/
 176.227.211.0,176.227.211.255,Redstation Limited,http://redstation.com/
+176.227.218.96,176.227.218.127,almahost.co.uk,http://www.almahost.ir/
 176.227.220.0,176.227.220.231,Redstation Limited,http://redstation.com/
 176.227.220.232,176.227.220.239,idealhosting,http://www.idealhosting.com/
 176.227.220.240,176.227.221.255,Redstation Limited,http://redstation.com/
@@ -1409,6 +1414,9 @@
 184.171.240.0,184.171.255.255,DimeNOC,http://dimenoc.com/
 184.172.0.0,184.173.255.255,SoftLayer,http://www.softlayer.com/
 184.174.0.0,184.174.127.255,Colocation America Inc,http://www.colocationamerica.com/
+186.251.128.0,186.251.135.255,ipglobe.net,https://www.ipglobe.net/
+187.0.192.0,187.0.223.255,alog,http://www.alog.com.br/
+187.33.0.0,187.33.31.255,alog,http://www.alog.com.br/
 187.45.176.0,187.45.191.255,DimeNOC,http://dimenoc.com/
 187.84.224.0,187.84.239.255,redehost.com.br,http://www.redehost.com.br/
 188.40.0.0,188.40.255.255,Hetzner Online AG,http://www.hetzner.de/
@@ -1568,6 +1576,7 @@
 198.144.176.0,198.144.191.255,ColoCrossing,http://www.colocrossing.com/
 198.148.80.0,198.148.95.255,SharkTECH Internet Services,http://sharktech.net/
 198.148.96.0,198.148.127.255,multacom.com,http://multacom.com/
+198.245.48.0,198.245.63.255,OVH,http://www.ovh.co.uk/
 198.246.132.0,198.246.133.255,XMission,http://xmission.com/
 199.7.232.0,199.7.239.255,datacenterscanada.com,http://www.datacenterscanada.com/
 199.15.112.0,199.15.119.255,Psychz Networks,http://psychz.net/
@@ -1646,6 +1655,13 @@
 200.63.40.0,200.63.47.255,panamaserver.com,http://panamaserver.com/
 200.115.33.200,200.115.33.207,Teuno,http://www.teuno.com/
 200.124.132.72,200.124.132.79,e-commercepark.com,http://e-commercepark.com/
+200.150.144.0,200.150.159.255,alog,http://www.alog.com.br/
+200.155.0.0,200.155.31.255,alog,http://www.alog.com.br/
+200.155.64.0,200.155.79.255,alog,http://www.alog.com.br/
+200.198.176.0,200.198.191.255,alog,http://www.alog.com.br/
+200.219.192.0,200.219.255.255,alog,http://www.alog.com.br/
+201.20.0.0,201.20.31.255,alog,http://www.alog.com.br/
+201.49.208.0,201.49.223.255,alog,http://www.alog.com.br/
 202.9.36.0,202.9.39.255,Gigabit Hosting Sdn Bhd,http://thegigabit.com/
 202.46.192.0,202.46.207.255,Cyquator,http://cyquator.com/
 202.60.64.0,202.60.95.255,Dedicated Servers,http://dedicatedservers.net.au/
