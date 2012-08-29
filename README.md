@@ -58,6 +58,6 @@ discovery algorithms.
 Who made this?
 -------------------------
 
-Nick Galbreath.  See more at http://client9.com/
+Nick Galbreath.  See more at http://www.client9.com/
 
 
