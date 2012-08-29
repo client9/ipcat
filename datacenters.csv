@@ -565,6 +565,7 @@
 69.171.128.0,69.171.159.255,Canaca-com Inc.,http://canaca.com
 69.172.64.0,69.172.127.255,Canaca-com Inc.,http://canaca.com
 69.172.192.0,69.172.255.255,PEER 1,http://www.peer1.com/
+69.174.51.0,69.174.51.255,BlackMesh,http://www.blackmesh.com/
 69.174.240.0,69.174.255.255,ServerBeach Dedicated Servers,http://www.serverbeach.com/
 69.175.0.0,69.175.127.255,SingleHop,http://www.singlehop.com/
 69.176.80.0,69.176.95.255,ethr.net,http://ethr.net/
@@ -661,6 +662,7 @@
 74.117.208.0,74.117.211.255,Sprocket Networks,http://www.sprocketnetworks.com/
 74.118.36.0,74.118.39.255,SevenL Networks Inc,https://www.sevenl.net/
 74.118.192.0,74.118.195.255,Volume Drive,http://volumedrive.com
+74.121.192.0,74.121.199.255,BlackMesh,http://www.blackmesh.com/
 74.122.120.0,74.122.123.255,Quasar Data Center,http://quasardata.com/
 74.122.128.0,74.122.135.255,datacenterscanada.com,http://www.datacenterscanada.com/
 74.123.8.0,74.123.11.255,SevenL Networks Inc,https://www.sevenl.net/
@@ -1651,6 +1653,7 @@
 199.127.248.0,199.127.255.255,Reliable Hosting,http://reliablehosting.com/
 199.165.249.0,199.165.250.255,XMission,http://xmission.com/
 199.167.40.0,199.167.47.255,ServInt,http://www.servint.net/
+199.167.72.0,199.167.79.255,BlackMesh,http://www.blackmesh.com/
 199.167.132.0,199.167.135.255,Input Output Flood LLC,http://ioflood.com/
 199.167.144.0,199.167.151.255,Hivelocity Hosting,http://www.hivelocity.net/
 199.167.200.0,199.167.203.255,PrivateSystems.net,http://privatesystems.net/
