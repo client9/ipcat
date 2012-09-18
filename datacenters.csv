@@ -14,6 +14,7 @@
 5.79.0.0,5.79.7.255,Rackspace,http://www.rackspace.com/
 5.79.24.0,5.79.24.255,Rackspace,http://www.rackspace.com/
 5.79.26.0,5.79.26.255,Rackspace,http://www.rackspace.com/
+5.104.109.160,5.104.109.191,myLoc,http://www.myloc.de/
 5.135.0.0,5.135.255.255,OVH,http://www.ovh.co.uk/
 5.152.192.0,5.152.223.255,Redstation Limited,http://redstation.com/
 8.4.9.128,8.4.9.255,co-location.com,http://co-location.com/
@@ -104,6 +105,7 @@
 31.216.48.0,31.216.55.255,Hosting UK,http://hostinguk.net/
 31.220.128.0,31.220.131.255,everhost,http://everhost.co/
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
+37.34.59.0,37.34.59.255,transip,https://www.transip.nl/
 37.46.112.0,37.46.117.255,AltusHost,http://www.altushost.com/
 37.46.124.0,37.46.127.255,AltusHost,http://www.altushost.com/
 37.49.226.0,37.49.227.255,EstroWeb,http://www.estrowebservices.com/
@@ -757,11 +759,18 @@
 80.65.48.0,80.65.63.255,availo.no,http://www.availo.no/
 80.67.0.0,80.67.15.255,Portlane,http://www.portlane.com/
 80.67.64.0,80.67.95.255,Akamai,http://akamai.com/
+80.69.65.0,80.69.71.255,transip,https://www.transip.nl/
+80.69.72.128,80.69.77.255,transip,https://www.transip.nl/
+80.69.78.128,80.69.81.127,transip,https://www.transip.nl/
+80.69.82.0,80.69.87.255,transip,https://www.transip.nl/
+80.69.88.128,80.69.92.127,transip,https://www.transip.nl/
+80.69.93.0,80.69.95.255,transip,https://www.transip.nl/
 80.76.144.0,80.76.159.255,basefarm.com,http://basefarm.com/
 80.77.80.0,80.77.92.255,Hqhost.net,http://hqhost.net/en/index.html
 80.77.98.32,80.77.98.63,Akamai,http://akamai.com/
 80.79.16.0,80.79.31.255,Master Internet S.R.O.,http://www.master.cz/
 80.80.224.0,80.80.239.255,Safe Host SA,http://safehost.net/
+80.82.208.0,80.82.223.255,myLoc,http://www.myloc.de/
 80.83.112.0,80.83.127.255,providerdienste,http://www.providerdienste.de/
 80.84.48.0,80.84.63.255,Redstation Limited,http://redstation.com/
 80.86.80.0,80.86.95.255,plusserver.de,http://plusserver.de/
@@ -803,6 +812,7 @@
 82.194.64.0,82.194.95.255,acens Technologies S.L.,http://www.acens.com/
 82.211.0.0,82.211.63.255,accelerated.de,http://accelerated.de/
 83.98.128.0,83.98.128.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
+83.136.80.0,83.136.87.255,myLoc,http://www.myloc.de/
 83.137.144.0,83.137.151.255,duocast,http://duocast.nl/
 83.138.128.0,83.138.191.255,Rackspace,http://www.rackspace.com/
 83.142.224.0,83.142.231.255,iomart Hosting Ltd,http://www.rapidswitch.com/
@@ -860,6 +870,7 @@
 87.238.80.0,87.238.87.255,Amazon AWS,http://www.amazon.com/aws/
 87.238.168.0,87.238.175.255,duocast,http://duocast.nl/
 87.242.64.0,87.242.79.255,masterhost.ru,http://masterhost.ru/
+87.253.128.0,87.253.159.255,transip,https://www.transip.nl/
 88.80.0.0,88.80.31.255,prq.se,http://prq.se/
 88.80.192.0,88.80.223.255,Host Europe,http://www.hosteurope.de/
 88.86.96.0,88.86.127.255,SuperNetwork,http://www.superhosting.cz/
@@ -914,6 +925,7 @@
 91.198.176.0,91.198.176.255,availo.no,http://www.availo.no/
 91.199.50.0,91.199.50.255,netrouting.com,http://www.netrouting.com/
 91.200.51.0,91.200.51.255,argeweb,http://www.argeweb.nl/
+91.201.52.0,91.201.55.255,NetAngels,http://www.netangels.ru/
 91.202.40.0,91.202.43.255,Plutex,http://www.plutex.de/
 91.203.144.0,91.203.147.255,GoodNet,http://goodnet.com.ua/
 91.204.120.0,91.204.123.255,comfoplace.com,http://comfoplace.com/
@@ -1032,6 +1044,7 @@
 95.162.0.0,95.162.255.255,xservers.ro,http://www.xservers.ro/
 95.168.160.0,95.168.191.255,Leaseweb,http://www.leaseweb.com/
 95.168.192.0,95.168.223.255,SuperNetwork,http://www.superhosting.cz/
+95.170.64.0,95.170.95.255,transip,https://www.transip.nl/
 95.172.0.0,95.172.31.255,Tagadab,http://tagadab.com/
 95.174.0.0,95.174.31.255,seeweb.it,http://seeweb.it/
 95.211.0.0,95.211.255.255,Leaseweb,http://www.leaseweb.com/
@@ -1190,6 +1203,7 @@
 141.0.160.0,141.0.167.255,NuFuture Ltd,http://www.nublue.co.uk/
 141.101.64.0,141.101.127.255,CloudFlare Inc,https://www.cloudflare.com/
 141.105.64.0,141.105.71.255,HostKey,http://www.hostkey.com/
+141.138.136.0,141.138.143.255,transip,https://www.transip.nl/
 142.0.32.0,142.0.47.255,Volume Drive,http://volumedrive.com
 142.4.32.0,142.4.63.255,WebNX Internet Services,http://webnx.com/
 142.4.192.0,142.4.223.255,OVH,http://www.ovh.co.uk/
