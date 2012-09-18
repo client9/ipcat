@@ -10,7 +10,10 @@
 5.34.241.0,5.34.241.255,webexxpurts.com,http://webexxpurts.com/
 5.34.243.0,5.34.244.255,webexxpurts.com,http://webexxpurts.com/
 5.39.0.0,5.39.127.255,OVH,http://www.ovh.co.uk/
+5.77.32.0,5.77.63.255,eukhost.com,http://eukhost.com/
+5.79.0.0,5.79.7.255,Rackspace,http://www.rackspace.com/
 5.79.24.0,5.79.24.255,Rackspace,http://www.rackspace.com/
+5.79.26.0,5.79.26.255,Rackspace,http://www.rackspace.com/
 5.135.0.0,5.135.255.255,OVH,http://www.ovh.co.uk/
 5.152.192.0,5.152.223.255,Redstation Limited,http://redstation.com/
 8.4.9.128,8.4.9.255,co-location.com,http://co-location.com/
@@ -117,6 +120,7 @@
 37.157.244.64,37.157.244.95,Redstation Limited,http://redstation.com/
 37.157.244.96,37.157.244.103,idealhosting,http://www.idealhosting.com/
 37.157.244.104,37.157.244.255,Redstation Limited,http://redstation.com/
+37.157.246.120,37.157.246.127,almahost.co.uk,http://www.almahost.ir/
 37.188.112.0,37.188.115.255,Rackspace,http://www.rackspace.com/
 37.188.120.0,37.188.127.255,Rackspace,http://www.rackspace.com/
 37.220.1.0,37.220.1.95,Redstation Limited,http://redstation.com/
@@ -1183,7 +1187,10 @@
 141.0.160.0,141.0.167.255,NuFuture Ltd,http://www.nublue.co.uk/
 141.101.64.0,141.101.127.255,CloudFlare Inc,https://www.cloudflare.com/
 141.105.64.0,141.105.71.255,HostKey,http://www.hostkey.com/
+142.0.32.0,142.0.47.255,Volume Drive,http://volumedrive.com
 142.4.32.0,142.4.63.255,WebNX Internet Services,http://webnx.com/
+142.4.192.0,142.4.223.255,OVH,http://www.ovh.co.uk/
+142.11.192.0,142.11.255.255,hostwinds.com,http://www.hostwinds.com/
 142.54.160.0,142.54.191.255,Data Shack,https://www.datashack.net/
 142.91.0.0,142.91.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 146.0.72.0,146.0.79.255,HostKey,http://www.hostkey.com/
@@ -1331,6 +1338,7 @@
 176.227.198.128,176.227.198.135,Redstation Limited,http://redstation.com/
 176.227.198.136,176.227.198.143,idealhosting,http://www.idealhosting.com/
 176.227.198.144,176.227.198.255,Redstation Limited,http://redstation.com/
+176.227.199.224,176.227.199.231,Redstation Limited,http://redstation.com/
 176.227.201.0,176.227.201.255,Redstation Limited,http://redstation.com/
 176.227.203.192,176.227.203.255,almahost.co.uk,http://www.almahost.ir/
 176.227.204.0,176.227.204.15,Redstation Limited,http://redstation.com/
@@ -1594,7 +1602,9 @@
 195.242.212.0,195.242.215.255,OpenHosting UK Internet Solutions,http://openhosting.co.uk/
 195.245.124.0,195.245.127.255,Akamai,http://akamai.com/
 195.248.78.0,195.248.78.255,availo.no,http://www.availo.no/
+198.12.64.0,198.12.127.255,ColoCrossing,http://www.colocrossing.com/
 198.15.64.0,198.15.127.255,Secure Servers,http://www.securedservers.com/
+198.61.128.0,198.61.255.255,Rackspace,http://www.rackspace.com/
 198.91.80.0,198.91.95.255,x10hosting,http://x10hosting.com/
 198.100.144.0,198.100.159.255,OVH,http://www.ovh.co.uk/
 198.101.128.0,198.101.255.255,Rackspace,http://www.rackspace.com/
@@ -1646,6 +1656,7 @@
 199.115.124.0,199.115.127.255,ecritel.net,http://www.ecritel.net/
 199.115.144.0,199.115.147.255,Hurricane Electic,http://www.he.net/
 199.115.228.0,199.115.231.255,Volume Drive,http://volumedrive.com
+199.119.76.0,199.119.79.255,Sprocket Networks,http://www.sprocketnetworks.com/
 199.119.200.0,199.119.207.255,Psychz Networks,http://psychz.net/
 199.119.224.0,199.119.227.255,Virpus Networks,http://myvirpus.com/
 199.127.56.0,199.127.63.255,fiberhub.com,http://www.fiberhub.com/
