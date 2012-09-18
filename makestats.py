@@ -55,7 +55,7 @@ Licensing -- GPL v3
 The data is licensed under GPL v3, see COPYING for details.
 
 Relaxations and commericial licensing are gladly available by request.
-The use of GPL is to prevent commercial data providers from scoping up
+The use of GPL is to prevent commercial data providers from scooping up
 this data without compensation or attribution.
 
 This may be changed to another less restrictive license later.
