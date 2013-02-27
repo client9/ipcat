@@ -300,6 +300,7 @@
 64.13.192.0,64.13.255.255,Media Temple,http://www.mediatemple.net/
 64.15.64.0,64.15.79.255,Netelligent,http://www.netelligent.ca/en/ca
 64.15.128.0,64.15.159.255,iWeb Technologies Inc.,http://iweb.com/
+64.18.0.0,64.18.15.255,Google,http://www.google.com/
 64.18.128.0,64.18.159.255,Rackvibe.com,http://www.rackvibe.com/
 64.20.32.0,64.20.63.255,InterServer.net,http://www.interserver.net/
 64.27.0.0,64.27.31.255,calPOP,http://calpop.com/
@@ -383,6 +384,7 @@
 65.181.128.0,65.181.191.255,Pair Networks,http://www.pair.com/
 65.182.96.0,65.182.111.255,brinkster,http://brinkster.com/
 65.182.192.0,65.182.223.255,HostMySite.com,http://www.webmysite.com/
+64.233.160.0,64.233.191.255,Google,http://www.google.com/
 65.254.208.0,65.254.223.255,Peak10,http://www.peak10.com/
 65.254.224.0,65.254.255.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 66.7.192.0,66.7.223.255,DimeNOC,http://dimenoc.com/
@@ -408,6 +410,7 @@
 66.96.128.0,66.96.191.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 66.96.192.0,66.96.255.255,hostnoc,http://www.hostnoc.net/
 66.98.128.0,66.98.255.255,SoftLayer,http://www.softlayer.com/
+66.102.0.0,66.102.15.255,Google,http://www.google.com/
 66.111.64.0,66.111.95.255,PEER 1,http://www.peer1.com/
 66.111.96.0,66.111.111.255,Neospire,http://www.neospire.net/
 66.116.96.0,66.116.127.255,SWITCH Communications Group LLC,http://www.switchnap.com/
@@ -452,6 +455,7 @@
 66.241.192.0,66.241.255.255,HostMySite.com,http://www.webmysite.com/
 66.242.128.0,66.242.159.255,Host Depot,http://www.hostdepot.com/
 66.249.0.0,66.249.31.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
+66.249.80.0,66.249.95.255,Google,http://www.google.com/
 66.252.0.0,66.252.31.255,gigeNET,http://www.gigenet.com/
 66.252.192.0,66.252.207.255,Host Depot,http://www.hostdepot.com/
 66.254.96.0,66.254.127.255,Reflected Networks,http://reflected.net/
@@ -631,6 +635,7 @@
 72.11.128.0,72.11.159.255,QuadraNet,http://quadranet.com/
 72.13.80.0,72.13.95.255,EGIHosting.com,http://www.egihosting.com/
 72.14.176.0,72.14.191.255,Linode,http://www.linode.com/
+72.14.192.0,72.14.255.255,Google,http://www.google.com/
 72.15.192.0,72.15.255.255,Peak10,http://www.peak10.com/
 72.18.128.0,72.18.159.255,wehostwebsites.com,http://wehostwebsites.com/
 72.18.192.0,72.18.207.255,Premia Networks Corporation,http://www.premianet.com/
@@ -696,6 +701,7 @@
 74.122.120.0,74.122.123.255,Quasar Data Center,http://quasardata.com/
 74.122.128.0,74.122.135.255,datacenterscanada.com,http://www.datacenterscanada.com/
 74.123.8.0,74.123.11.255,SevenL Networks Inc,https://www.sevenl.net/
+74.125.0.0,74.125.255.255,Google,http://www.google.com/
 74.126.80.0,74.126.95.255,Peak10,http://www.peak10.com/
 74.200.64.0,74.200.95.255,Virtacore Systems,http://www.virtacore.com/
 74.200.192.0,74.200.255.255,Layered Technologies Inc,http://www.layeredtech.com/
@@ -1287,6 +1293,7 @@
 173.1.0.0,173.1.255.255,GoGrid,http://www.gogrid.com/
 173.45.224.0,173.45.255.255,Rackspace,http://www.rackspace.com/
 173.192.0.0,173.193.255.255,SoftLayer,http://www.softlayer.com/
+173.194.0.0,173.194.255.255,Google,http://www.google.com/
 173.195.0.0,173.195.15.255,Reliable Hosting,http://reliablehosting.com/
 173.195.64.0,173.195.79.255,Fastmetrics,http://fastmetrics.com/
 173.198.192.0,173.198.255.255,Turnkey Internet,http://turnkeyinternet.net/
@@ -1938,6 +1945,7 @@
 207.58.128.0,207.58.191.255,ServInt,http://www.servint.net/
 207.97.192.0,207.97.255.255,Rackspace,http://www.rackspace.com/
 207.114.0.0,207.114.127.255,Datapoint,http://www.datapointinc.com/
+207.126.144.0,207.126.159.255,Google,http://www.google.com/
 207.135.128.0,207.135.159.255,XMission,http://xmission.com/
 207.148.224.0,207.148.255.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 207.158.0.0,207.158.63.255,American Internet Services,http://americanis.net/
@@ -2243,6 +2251,7 @@
 216.234.224.0,216.234.255.255,SoftLayer,http://www.softlayer.com/
 216.238.64.0,216.238.127.255,Razor,http://www.razorservers.com/
 216.238.144.0,216.238.159.255,gorack.net,http://gorack.net/
+216.239.32.0,216.239.63.255,Google,http://www.google.com/
 216.239.224.0,216.239.239.255,latisys,http://www.latisys.com/
 216.240.128.0,216.240.159.255,calPOP,http://calpop.com/
 216.243.128.0,216.243.191.255,ipHouse,http://www.iphouse.com/
