@@ -8,6 +8,7 @@
 5.9.0.0,5.9.255.255,Hetzner Online AG,http://www.hetzner.de/
 5.10.64.0,5.10.127.255,SoftLayer,http://www.softlayer.com/
 5.34.240.0,5.34.244.255,webexxpurts.com,http://webexxpurts.com/
+5.34.247.0,5.34.247.255,webexxpurts.com,http://webexxpurts.com/
 5.39.0.0,5.39.127.255,OVH,http://www.ovh.co.uk/
 5.39.216.0,5.39.223.255,HostKey,http://www.hostkey.com/
 5.77.32.0,5.77.63.255,eukhost.com,http://eukhost.com/
@@ -117,6 +118,7 @@
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
 37.10.0.0,37.10.127.255,Optimate Server,http://optimate-server.de/
 37.34.59.0,37.34.59.255,transip,https://www.transip.nl/
+37.34.62.0,37.34.62.255,transip,https://www.transip.nl/
 37.46.112.0,37.46.117.255,AltusHost,http://www.altushost.com/
 37.46.124.0,37.46.127.255,AltusHost,http://www.altushost.com/
 37.49.226.0,37.49.227.255,EstroWeb,http://www.estrowebservices.com/
@@ -125,7 +127,9 @@
 37.72.168.0,37.72.168.255,Swiftway,http://swiftway.net/
 37.72.171.0,37.72.171.255,Swiftway,http://swiftway.net/
 37.72.173.0,37.72.173.127,Swiftway,http://swiftway.net/
+37.122.208.0,37.122.211.255,Webfusion,http://www.webfusion.com/
 37.123.114.0,37.123.115.255,UK2 Group,http://www.vps.net/
+37.123.118.0,37.123.118.255,UK2 Group,http://www.vps.net/
 37.128.129.0,37.128.129.255,Memset Ltd,http://www.memset.com/
 37.143.12.0,37.143.13.255,ihc.ru,http://www.ihc.ru/
 37.157.192.0,37.157.193.255,wedos,http://www.wedos.com/
@@ -137,11 +141,12 @@
 37.157.244.64,37.157.244.95,Redstation Limited,http://redstation.com/
 37.157.244.96,37.157.244.103,idealhosting,http://www.idealhosting.com/
 37.157.244.104,37.157.244.255,Redstation Limited,http://redstation.com/
+37.157.245.32,37.157.245.63,Redstation Limited,http://redstation.com/
 37.157.245.128,37.157.245.159,idealhosting,http://www.idealhosting.com/
 37.157.246.120,37.157.246.127,almahost.co.uk,http://www.almahost.ir/
 37.157.246.184,37.157.246.191,Redstation Limited,http://redstation.com/
 37.157.247.64,37.157.247.127,Redstation Limited,http://redstation.com/
-37.188.112.0,37.188.115.255,Rackspace,http://www.rackspace.com/
+37.188.112.0,37.188.117.255,Rackspace,http://www.rackspace.com/
 37.188.120.0,37.188.127.255,Rackspace,http://www.rackspace.com/
 37.220.1.0,37.220.1.95,Redstation Limited,http://redstation.com/
 37.220.1.96,37.220.1.127,idealhosting,http://www.idealhosting.com/
@@ -164,6 +169,7 @@
 37.220.6.216,37.220.6.231,Redstation Limited,http://redstation.com/
 37.220.6.232,37.220.6.247,idealhosting,http://www.idealhosting.com/
 37.220.6.248,37.220.6.255,Redstation Limited,http://redstation.com/
+37.220.7.232,37.220.7.239,Redstation Limited,http://redstation.com/
 37.220.8.0,37.220.8.31,idealhosting,http://www.idealhosting.com/
 37.220.8.32,37.220.8.55,Redstation Limited,http://redstation.com/
 37.220.8.56,37.220.8.127,idealhosting,http://www.idealhosting.com/
@@ -187,7 +193,7 @@
 37.220.21.192,37.220.21.255,almahost.co.uk,http://www.almahost.ir/
 37.220.22.128,37.220.22.255,almahost.co.uk,http://www.almahost.ir/
 37.220.23.24,37.220.23.31,idealhosting,http://www.idealhosting.com/
-37.220.23.160,37.220.23.191,almahost.co.uk,http://www.almahost.ir/
+37.220.23.160,37.220.23.207,almahost.co.uk,http://www.almahost.ir/
 37.220.29.0,37.220.29.7,almahost.co.uk,http://www.almahost.ir/
 37.220.30.0,37.220.30.63,almahost.co.uk,http://www.almahost.ir/
 37.220.97.240,37.220.97.247,Tagadab,http://tagadab.com/
@@ -199,7 +205,7 @@
 37.221.160.192,37.221.160.207,Alibaba Host,http://alibabahost.com/
 37.221.160.224,37.221.160.255,CINIPAC,http://cinipac.com/
 37.235.49.0,37.235.49.255,EDIS,http://www.edis.at/
-37.235.54.0,37.235.54.255,EDIS,http://www.edis.at/
+37.235.54.0,37.235.55.255,EDIS,http://www.edis.at/
 42.1.60.0,42.1.63.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
 46.4.0.0,46.4.255.255,Hetzner Online AG,http://www.hetzner.de/
 46.16.184.0,46.16.191.255,SoftLayer,http://www.softlayer.com/
@@ -948,6 +954,7 @@
 91.198.106.0,91.198.106.255,deziweb,http://deziweb.com/
 91.198.176.0,91.198.176.255,availo.no,http://www.availo.no/
 91.199.50.0,91.199.50.255,netrouting.com,http://www.netrouting.com/
+91.200.48.0,91.200.49.255,argeweb,http://www.argeweb.nl/
 91.200.51.0,91.200.51.255,argeweb,http://www.argeweb.nl/
 91.201.52.0,91.201.55.255,NetAngels,http://www.netangels.ru/
 91.202.40.0,91.202.43.255,Plutex,http://www.plutex.de/
@@ -962,6 +969,7 @@
 91.211.116.0,91.211.119.255,0x2A Datacenter,http://0x2a.com.ua/
 91.213.8.0,91.213.8.255,justhost.in.ua,http://www.justhost.in.ua/
 91.213.195.0,91.213.195.255,tilaa,http://www.tilaa.nl/
+91.213.214.0,91.213.214.255,myh2oservers.com,http://www.myh2oservers.com/
 91.215.156.0,91.215.159.255,infinitetech.eu,http://www.infinitetech.eu/
 91.215.216.0,91.215.219.255,icn.bg,http://www.icn.bg/
 91.216.191.0,91.216.191.255,hosteam.pl,http://hosteam.pl/
@@ -983,6 +991,8 @@
 91.229.248.0,91.229.248.255,EpioHost,http://epiohost.net/
 91.232.96.0,91.232.97.255,Xirra GmbH,http://http://www.xirra.net/
 91.239.232.0,91.239.235.255,hostpro.ua,http://hostpro.ua/
+91.250.80.0,91.250.87.255,Host Europe,http://www.hosteurope.de/
+91.250.96.0,91.250.103.255,Host Europe,http://www.hosteurope.de/
 92.38.192.0,92.38.224.255,Digital Network JSC,http://www.di-net.ru/
 92.38.228.0,92.38.228.255,Digital Network JSC,http://www.di-net.ru/
 92.38.230.0,92.38.230.255,Digital Network JSC,http://www.di-net.ru/
@@ -1238,6 +1248,7 @@
 142.11.192.0,142.11.255.255,hostwinds.com,http://www.hostwinds.com/
 142.54.160.0,142.54.191.255,Data Shack,https://www.datashack.net/
 142.91.0.0,142.91.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
+142.234.0.0,142.234.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 146.0.72.0,146.0.79.255,HostKey,http://www.hostkey.com/
 146.185.16.0,146.185.31.255,UK2 Group,http://www.100tb.com/
 146.255.24.0,146.255.31.255,Angel Hosting,http://www.angel-hosting.cz/
@@ -1249,6 +1260,7 @@
 149.154.152.0,149.154.159.255,EDIS,http://www.edis.at/
 149.255.32.0,149.255.39.255,Swiftway,http://swiftway.net/
 151.236.32.0,151.236.63.255,BlueConnex,http://www.simplytransit.net/
+151.236.220.0,151.236.223.255,Linode,http://www.linode.com/
 151.237.184.0,151.237.184.255,webexxpurts.com,http://webexxpurts.com/
 157.55.3.0,157.55.3.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.8.64,157.55.8.175,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -1421,6 +1433,7 @@
 176.227.212.96,176.227.212.111,almahost.co.uk,http://www.almahost.ir/
 176.227.212.128,176.227.212.255,Redstation Limited,http://redstation.com/
 176.227.213.96,176.227.213.127,almahost.co.uk,http://www.almahost.ir/
+176.227.213.128,176.227.213.255,Redstation Limited,http://redstation.com/
 176.227.218.96,176.227.218.127,almahost.co.uk,http://www.almahost.ir/
 176.227.220.0,176.227.220.231,Redstation Limited,http://redstation.com/
 176.227.220.232,176.227.220.239,idealhosting,http://www.idealhosting.com/
@@ -1539,11 +1552,14 @@
 190.151.128.0,190.151.131.255,corponetsa.net,http://www.corponetsa.net/
 190.242.28.0,190.242.28.255,corponetsa.net,http://www.corponetsa.net/
 192.30.136.0,192.30.139.255,Input Output Flood LLC,http://ioflood.com/
+192.64.80.0,192.64.87.255,InterServer.net,http://www.interserver.net/
 192.69.88.0,192.69.95.255,Volume Drive,http://volumedrive.com
 192.69.192.0,192.69.223.255,WebNX Internet Services,http://webnx.com/
 192.69.236.0,192.69.239.255,eHostingUSA,http://ehostingusa.com/
+192.73.240.0,192.73.255.255,Host Virtual,http://www.vr.org/
 192.91.186.0,192.91.186.255,demos,http://demos.ru/
 192.95.0.0,192.95.63.255,OVH,http://www.ovh.co.uk/
+192.96.200.0,192.96.207.255,Leaseweb,http://www.leaseweb.com/
 192.119.64.0,192.119.127.255,hostwinds.com,http://www.hostwinds.com/
 192.119.144.0,192.119.159.255,avantehosting.net,https://avantehosting.net/
 192.124.170.0,192.124.219.255,demos,http://demos.ru/
@@ -1578,6 +1594,7 @@
 193.108.88.0,193.108.95.255,Akamai,http://akamai.com/
 193.108.152.0,193.108.155.255,Akamai,http://akamai.com/
 193.111.95.0,193.111.95.255,Combell,http://www.combell.com/
+193.111.136.0,193.111.143.255,myLoc,http://www.myloc.de/
 193.138.6.0,193.138.7.255,Blix Solutions,http://blixsolutions.no/
 193.138.81.0,193.138.81.255,ConnectingBytes Gbmh,http://www.connectingbytes.de/
 193.142.30.0,193.142.30.255,availo.no,http://www.availo.no/
@@ -1696,7 +1713,11 @@
 198.23.128.0,198.23.255.255,ColoCrossing,http://www.colocrossing.com/
 198.24.128.0,198.24.191.255,Secure Servers,http://www.securedservers.com/
 198.27.64.0,198.27.127.255,OVH,http://www.ovh.co.uk/
+198.46.128.0,198.46.255.255,ColoCrossing,http://www.colocrossing.com/
 198.49.64.0,198.49.79.255,DimeNOC,http://dimenoc.com/
+198.50.128.0,198.50.255.255,OVH,http://www.ovh.co.uk/
+198.52.96.0,198.52.127.255,multacom.com,http://multacom.com/
+198.55.96.0,198.55.127.255,QuadraNet,http://quadranet.com/
 198.58.96.0,198.58.127.255,Linode,http://www.linode.com/
 198.61.128.0,198.61.255.255,Rackspace,http://www.rackspace.com/
 198.72.96.0,198.72.127.255,iWeb Technologies Inc.,http://iweb.com/
@@ -1705,11 +1726,13 @@
 198.84.64.0,198.84.127.255,hostwinds.com,http://www.hostwinds.com/
 198.91.80.0,198.91.95.255,x10hosting,http://x10hosting.com/
 198.96.88.0,198.96.95.255,QuadraNet,http://quadranet.com/
+198.100.96.0,198.100.127.255,Gorilla Servers,http://gorillaservers.com/
 198.100.144.0,198.100.159.255,OVH,http://www.ovh.co.uk/
 198.101.128.0,198.101.255.255,Rackspace,http://www.rackspace.com/
 198.105.208.0,198.105.223.255,uk2group,http://uk2group.com/
 198.136.24.0,198.136.31.255,Gorilla Servers,http://gorillaservers.com/
 198.136.48.0,198.136.63.255,DimeNOC,http://dimenoc.com/
+198.143.96.0,198.143.127.255,hostwinds.com,http://www.hostwinds.com/
 198.143.128.0,198.143.191.255,SingleHop,http://www.singlehop.com/
 198.144.176.0,198.144.191.255,ColoCrossing,http://www.colocrossing.com/
 198.148.80.0,198.148.95.255,SharkTECH Internet Services,http://sharktech.net/
@@ -1718,6 +1741,8 @@
 198.154.192.0,198.154.255.255,WebsiteWelcome.com,http://www.websitewelcome.com/
 198.167.136.0,198.167.143.255,Virpus Networks,http://myvirpus.com/
 198.175.124.0,198.175.127.255,Virpus Networks,http://myvirpus.com/
+198.178.120.0,198.178.127.255,Hivelocity Hosting,http://www.hivelocity.net/
+198.204.224.0,198.204.255.255,Data Shack,https://www.datashack.net/
 198.245.48.0,198.245.63.255,OVH,http://www.ovh.co.uk/
 198.246.132.0,198.246.133.255,XMission,http://xmission.com/
 199.7.232.0,199.7.239.255,datacenterscanada.com,http://www.datacenterscanada.com/
@@ -1814,6 +1839,7 @@
 199.231.84.0,199.231.87.255,Input Output Flood LLC,http://ioflood.com/
 199.231.128.0,199.231.150.255,HostMySite.com,http://www.webmysite.com/
 199.231.184.0,199.231.191.255,InterServer.net,http://www.interserver.net/
+199.231.224.0,199.231.227.255,ionity,http://ionity.com/
 199.233.180.0,199.233.180.255,XMission,http://xmission.com/
 199.241.136.0,199.241.143.255,fiberhub.com,http://www.fiberhub.com/
 199.241.144.0,199.241.147.255,hugeserver,http://www.hugeserver.com/
