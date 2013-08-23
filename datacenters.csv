@@ -68,6 +68,7 @@
 23.0.0.0,23.15.255.255,Akamai,http://akamai.com/
 23.19.0.0,23.19.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 23.20.0.0,23.23.255.255,Amazon AWS,http://www.amazon.com/aws/
+23.29.56.0,23.29.56.255,LIONLINK NETWORKS,http://www.lionlink.net/
 23.29.64.0,23.29.79.255,Gorilla Servers,http://gorillaservers.com/
 23.29.112.0,23.29.127.255,Incero,http://www.incero.com/
 23.32.0.0,23.67.255.255,Akamai,http://akamai.com/
@@ -1570,6 +1571,7 @@
 192.162.19.0,192.162.19.255,galahost,http://galahost.net/
 192.162.24.0,192.162.27.255,sologigabit.com,http://www.sologigabit.com/en/Dedicated-Servers
 192.162.136.0,192.162.139.255,infinitetech.eu,http://www.infinitetech.eu/
+192.200.16.0,192.200.31.255,MICFO,http://www.micfo.com/
 192.210.48.0,192.210.63.255,Psychz Networks,http://psychz.net/
 192.210.128.0,192.210.255.255,ColoCrossing,http://www.colocrossing.com/
 192.211.48.0,192.211.63.255,Incero,http://www.incero.com/
@@ -1778,6 +1780,7 @@
 199.80.56.0,199.80.63.255,Techie Media,http://techiemedia.net/
 199.83.48.0,199.83.51.255,awknet,http://awknet.com/
 199.83.88.0,199.83.95.255,Psychz Networks,http://psychz.net/
+199.83.208.0,199.83.215.255,Monticello Networks,http://bgp.he.net/AS14935/
 199.85.208.0,199.85.215.255,HostVentures,http://www.hostventures.com/
 199.87.232.0,199.87.239.255,esited.com,http://www.esited.com/
 199.102.224.0,199.102.231.255,ServInt,http://www.servint.net/
@@ -2032,6 +2035,7 @@
 208.86.224.0,208.86.227.255,Tranquil Hosting,http://www.tqhosting.com/
 208.87.32.0,208.87.39.255,Secure Hosting Limited,http://www.securehost.com/
 208.87.84.0,208.87.87.255,Immedion,http://immedion.com/
+208.87.88.0,208.87.95.255,ColocateUSA,http://www.ColocateUSA.com/
 208.87.240.0,208.87.243.255,Psychz Networks,http://psychz.net/
 208.88.4.0,208.88.7.255,Cirrus Tech Ltd,http://www.cirrushosting.com/
 208.89.208.0,208.89.215.255,Virpus Networks,http://myvirpus.com/
