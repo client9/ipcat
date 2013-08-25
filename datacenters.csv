@@ -69,6 +69,7 @@
 23.19.0.0,23.19.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 23.20.0.0,23.23.255.255,Amazon AWS,http://www.amazon.com/aws/
 23.29.56.0,23.29.56.255,LIONLINK NETWORKS,http://www.lionlink.net/
+23.29.58.0,23.29.58.255,LIONLINK NETWORKS,http://www.lionlink.net/
 23.29.64.0,23.29.79.255,Gorilla Servers,http://gorillaservers.com/
 23.29.112.0,23.29.127.255,Incero,http://www.incero.com/
 23.32.0.0,23.67.255.255,Akamai,http://akamai.com/
@@ -1324,6 +1325,7 @@
 173.230.240.0,173.230.255.255,Acenet,http://www.ace-host.net/
 173.231.0.0,173.231.63.255,WebNX Internet Services,http://webnx.com/
 173.231.128.0,173.231.191.255,Voxel,http://www.voxel.net/
+173.232.0.0,173.232.255.255,Eonix Corporation,http://www.eonix.net/
 173.233.64.0,173.233.95.255,Turnkey Internet,http://turnkeyinternet.net/
 173.234.0.0,173.234.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 173.236.0.0,173.236.127.255,SingleHop,http://www.singlehop.com/
@@ -2104,6 +2106,7 @@
 209.114.32.0,209.114.63.255,Rackspace,http://www.rackspace.com/
 209.126.128.0,209.126.255.255,cari.net,http://cari.net/
 209.134.48.0,209.134.63.255,Connectria,http://www.connectria.com/
+209.141.0.0,209.141.15.255,Thorn Communications,http://www.thorn.net/
 209.141.32.0,209.141.63.255,buyvm.net,http://buyvm.net/?from=frantech
 209.143.64.0,209.143.127.255,Datapoint,http://www.datapointinc.com/
 209.151.64.0,209.151.95.255,latisys,http://www.latisys.com/
