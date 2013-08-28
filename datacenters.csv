@@ -1942,6 +1942,7 @@
 206.123.64.0,206.123.127.255,colo4dallas.com,http://colo4dallas.com/
 206.125.40.0,206.125.47.255,calPOP,http://calpop.com/
 206.130.96.0,206.130.127.255,westhost,http://www.westhost.com/
+206.144.80.0,206.144.87.255,MICFO,http://www.micfo.com/
 206.183.104.0,206.183.111.255,Web Werks,http://www.web-werks.com/
 206.188.0.0,206.188.31.255,Datapipe,http://www.datapipe.com/
 206.196.0.0,206.196.31.255,Peak10,http://www.peak10.com/
