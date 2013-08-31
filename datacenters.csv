@@ -479,6 +479,7 @@
 67.55.0.0,67.55.63.255,Canaca-com Inc.,http://canaca.com
 67.55.64.0,67.55.127.255,Webair Internet Development Inc,http://www.webair.com/
 67.59.128.0,67.59.191.255,HostMySite.com,http://www.webmysite.com/
+67.88.0.0,67.95.255.255,XO Communications,http://www.xo.com/
 67.159.0.0,67.159.63.255,FDC Servers,http://fdcservers.net/
 67.192.0.0,67.192.255.255,Rackspace,http://www.rackspace.com/
 67.202.0.0,67.202.63.255,Amazon AWS,http://www.amazon.com/aws/
@@ -631,6 +632,7 @@
 70.39.64.0,70.39.127.255,SharkTECH Internet Services,http://sharktech.net/
 70.40.192.0,70.40.223.255,Bluehost.com,http://www.bluehost.com/
 70.84.0.0,70.87.255.255,SoftLayer,http://www.softlayer.com/
+71.4.0.0,71.5.255.255,XO Communications,http://www.xo.com/
 71.6.128.0,71.6.255.255,cari.net,http://cari.net/
 72.1.96.0,72.1.127.255,latisys,http://www.latisys.com/
 72.1.240.0,72.1.255.255,ndchost.com,http://www.ndchost.com/
@@ -1389,6 +1391,7 @@
 176.65.64.0,176.65.71.255,The Bunker,http://www.thebunker.net/
 176.67.160.0,176.67.175.255,UK2 Group,http://www.uk2.net/
 176.74.160.0,176.74.191.255,PEER 1,http://www.peer1.com/
+176.223.92.0,176.223.95.255,DR SOFT SRL,http://changemyip.com/
 176.227.192.120,176.227.192.127,Redstation Limited,http://redstation.com/
 176.227.195.0,176.227.195.7,Redstation Limited,http://redstation.com/
 176.227.195.8,176.227.195.15,idealhosting,http://www.idealhosting.com/
@@ -1582,6 +1585,7 @@
 192.210.128.0,192.210.255.255,ColoCrossing,http://www.colocrossing.com/
 192.211.48.0,192.211.63.255,Incero,http://www.incero.com/
 192.227.128.0,192.227.255.255,ColoCrossing,http://www.colocrossing.com/
+192.230.32.0,192.230.63.255,MICFO,http://www.micfo.com/
 192.241.8.0,192.241.15.255,avantehosting.net,https://avantehosting.net/
 193.17.225.0,193.17.225.255,xservers.ro,http://www.xservers.ro/
 193.19.106.0,193.19.107.255,xservers.ro,http://www.xservers.ro/
@@ -1790,6 +1794,7 @@
 199.83.208.0,199.83.215.255,Monticello Networks,http://bgp.he.net/AS14935/
 199.85.208.0,199.85.215.255,HostVentures,http://www.hostventures.com/
 199.87.232.0,199.87.239.255,esited.com,http://www.esited.com/
+199.102.44.0,199.102.47.255,Monticello Networks,http://bgp.he.net/AS14935/
 199.102.224.0,199.102.231.255,ServInt,http://www.servint.net/
 199.103.56.0,199.103.63.255,Cirrus Tech Ltd,http://www.cirrushosting.com/
 199.114.240.0,199.114.247.255,eHostingUSA,http://ehostingusa.com/
@@ -2136,6 +2141,7 @@
 209.213.96.0,209.213.127.255,PEER 1,http://www.peer1.com/
 209.216.0.0,209.216.63.255,HostMySite.com,http://www.webmysite.com/
 209.216.192.0,209.216.255.255,American Internet Services,http://americanis.net/
+209.220.104.0,209.220.104.255,XO Communications,http://www.xo.com/
 209.222.64.0,209.222.127.255,Razor,http://www.razorservers.com/
 209.236.64.0,209.236.79.255,westhost,http://www.westhost.com/
 209.236.112.0,209.236.127.255,Tailor Made Servers,http://tailoredservers.com/
@@ -2264,6 +2270,7 @@
 216.150.0.0,216.150.31.255,PEER 1,http://www.peer1.com/
 216.151.208.0,216.151.223.255,ServerBeach Dedicated Servers,http://www.serverbeach.com/
 216.152.128.0,216.152.143.255,PEER 1,http://www.peer1.com/
+216.156.0.0,216.156.255.255,XO Communications,http://www.xo.com/
 216.157.0.0,216.157.111.255,PEER 1,http://www.peer1.com/
 216.172.128.0,216.172.159.255,EGIHosting.com,http://www.egihosting.com/
 216.172.160.0,216.172.191.255,WebsiteWelcome.com,http://www.websitewelcome.com/
