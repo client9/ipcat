@@ -1394,6 +1394,7 @@
 176.67.160.0,176.67.175.255,UK2 Group,http://www.uk2.net/
 176.74.160.0,176.74.191.255,PEER 1,http://www.peer1.com/
 176.223.80.0,176.223.87.255,DR SOFT SRL,http://changemyip.com/
+176.223.88.0,176.223.91.255,DR SOFT SRL,http://changemyip.com/
 176.223.92.0,176.223.95.255,DR SOFT SRL,http://changemyip.com/
 176.227.192.120,176.227.192.127,Redstation Limited,http://redstation.com/
 176.227.195.0,176.227.195.7,Redstation Limited,http://redstation.com/
@@ -1725,6 +1726,7 @@
 198.13.96.0,198.13.127.255,Psychz Networks,http://psychz.net/
 198.15.64.0,198.15.127.255,Secure Servers,http://www.securedservers.com/
 198.20.64.0,198.20.127.255,SingleHop,http://www.singlehop.com/
+198.20.185.0,198.20.185.255,B2 Net Solutions Inc,http://www.b2netsolutions.com/
 198.23.64.0,198.23.127.255,SoftLayer,http://www.softlayer.com/
 198.23.128.0,198.23.255.255,ColoCrossing,http://www.colocrossing.com/
 198.24.128.0,198.24.191.255,Secure Servers,http://www.securedservers.com/
