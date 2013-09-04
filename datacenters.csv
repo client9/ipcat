@@ -289,6 +289,7 @@
 50.117.0.0,50.117.127.255,EGIHosting.com,http://www.egihosting.com/
 54.192.0.0,54.221.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.224.0.0,54.255.255.255,Amazon AWS,http://www.amazon.com/aws/
+59.151.0.0,59.151.127.255,21vianet,http://21vianet.com/
 59.151.128.0,59.151.191.255,Akamai,http://akamai.com/
 60.254.128.0,60.254.191.255,Akamai,http://akamai.com/
 62.41.56.128,62.41.56.255,Akamai,http://akamai.com/
@@ -1229,6 +1230,8 @@
 118.139.160.0,118.139.191.255,GoDaddy.com Inc,http://www.godaddy.com/
 118.214.0.0,118.215.255.255,Akamai,http://akamai.com/
 119.31.224.0,119.31.231.255,Micron21,http://www.micron21.com/
+119.37.0.0,119.37.191.255,21vianet,http://21vianet.com/
+120.132.128.0,120.135.255.255,21vianet,http://21vianet.com/
 120.136.32.0,120.136.47.255,Rackspace,http://www.rackspace.com/
 121.50.64.0,121.50.127.255,kinx.net,http://idc.kinx.net/
 121.52.192.0,121.52.199.255,Conetix,http://conetix.com.au/
@@ -1240,6 +1243,7 @@
 122.252.128.0,122.252.143.255,Akamai,http://akamai.com/
 123.100.224.0,123.100.255.255,webvisions.com,http://webvisions.com/
 124.109.0.0,124.109.3.255,Servenet Solution Limited Partnership,http://servenet.co.th/
+124.250.0.0,124.251.255.255,21vianet,http://21vianet.com/
 125.56.128.0,125.56.255.255,Akamai,http://akamai.com/
 125.252.192.0,125.252.255.255,Akamai,http://akamai.com/
 128.65.208.0,128.65.223.255,LINK11 Gmbh,http://www.link11.de/
@@ -1515,7 +1519,9 @@
 182.50.128.0,182.50.159.255,GoDaddy.com Inc,http://www.godaddy.com/
 182.54.232.0,182.54.239.255,GPLHost,https://www.gplhost.com/
 182.161.96.0,182.161.127.255,kinx.net,http://idc.kinx.net/
+182.174.0.0,182.175.255.255,21vianet,http://21vianet.com/
 183.81.160.0,183.81.167.255,IP ServerOne,http://ipserverone.com/
+183.84.0.0,183.85.255.255,21vianet,http://21vianet.com/
 184.22.0.0,184.22.255.255,hostnoc,http://www.hostnoc.net/
 184.24.0.0,184.31.255.255,Akamai,http://akamai.com/
 184.50.0.0,184.51.255.255,Akamai,http://akamai.com/
@@ -1917,6 +1923,7 @@
 203.84.240.0,203.84.255.255,kinx.net,http://idc.kinx.net/
 203.123.59.0,203.123.59.255,Digital Pacific,http://www.digitalpacific.com.au/
 203.142.0.0,203.142.31.255,webvisions.com,http://webvisions.com/
+203.166.160.0,203.166.191.255,21vianet,http://21vianet.com/
 204.8.48.0,204.8.51.255,Akamai,http://akamai.com/
 204.8.216.0,204.8.223.255,Rackvibe.com,http://www.rackvibe.com/
 204.9.200.0,204.9.207.255,US Colo,http://uscolo.com/
@@ -2173,6 +2180,9 @@
 209.240.220.0,209.240.221.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 209.250.224.0,209.250.255.255,Rackvibe.com,http://www.rackvibe.com/
 210.5.40.0,210.5.47.255,IP ServerOne,http://ipserverone.com/
+210.77.128.0,210.77.159.255,21vianet,http://21vianet.com/
+211.151.0.0,211.151.255.255,21vianet,http://21vianet.com/
+211.152.32.0,211.152.63.255,21vianet,http://21vianet.com/
 212.1.208.0,212.1.215.255,main-hosting.com,http://main-hosting.com/
 212.19.160.0,212.19.191.255,Netplus Communication,http://www.netplus.fr/
 212.25.160.0,212.25.191.255,seeweb.it,http://seeweb.it/
