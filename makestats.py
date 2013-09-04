@@ -23,7 +23,7 @@ for line in sys.stdin:
     rows += 1
     parts = line.split(',')
     if len(parts) != 4:
-        raise Exception("Line %d has more than 4 entries: %s" % (row, line))
+        raise Exception("Line %d has more than 4 entries: %s" % (rows, line))
 
     (dots0,dots1,name,url) = parts
     ip0 = ip2int(dots0)
