@@ -280,6 +280,7 @@
 50.116.0.0,50.116.63.255,Linode,http://www.linode.com/
 50.116.64.0,50.116.127.255,WebsiteWelcome.com,http://www.websitewelcome.com/
 50.117.0.0,50.117.127.255,EGIHosting.com,http://www.egihosting.com/
+54.192.0.0,54.221.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.224.0.0,54.255.255.255,Amazon AWS,http://www.amazon.com/aws/
 59.151.128.0,59.151.191.255,Akamai,http://akamai.com/
 60.254.128.0,60.254.191.255,Akamai,http://akamai.com/
