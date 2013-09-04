@@ -829,7 +829,7 @@
 80.246.62.0,80.246.63.255,alfahosting.de,http://alfahosting.de/
 80.247.192.0,80.247.223.255,trueserver.nl,http://trueserver.nl/
 80.252.241.0,80.252.241.255,WildPark Co,http://wildpark.net/
-80.252.248.0,80.252.255.255,WildPark Co,http://wildpark.net/
+80.252.246.0,80.252.255.255,WildPark Co,http://wildpark.net/
 81.17.16.0,81.17.31.255,Private Layer INC,http://privatelayer.com/
 81.17.96.0,81.17.127.255,IP Exchange GmbH,http://www.ip-exchange.de/
 81.21.64.0,81.21.79.255,Webfusion,http://www.webfusion.com/
@@ -2348,6 +2348,7 @@
 217.72.192.0,217.72.207.255,1&1 Internet,http://www.1and1.com/
 217.72.240.0,217.72.255.255,Datapipe,http://www.datapipe.com/
 217.77.176.0,217.77.191.255,Titan Internet Ltd,http://www.titaninternet.co.uk/index.cfm
+217.77.208.0,217.77.223.255,WildPark Co,http://wildpark.net/
 217.115.128.0,217.115.159.255,Host Europe,http://www.hosteurope.de/
 217.116.0.0,217.116.31.255,acens Technologies S.L.,http://www.acens.com/
 217.116.192.0,217.116.207.255,hosthane.com,http://www.hosthane.com/
