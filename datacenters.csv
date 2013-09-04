@@ -1393,6 +1393,7 @@
 176.65.64.0,176.65.71.255,The Bunker,http://www.thebunker.net/
 176.67.160.0,176.67.175.255,UK2 Group,http://www.uk2.net/
 176.74.160.0,176.74.191.255,PEER 1,http://www.peer1.com/
+176.223.80.0,176.223.87.255,DR SOFT SRL,http://changemyip.com/
 176.223.92.0,176.223.95.255,DR SOFT SRL,http://changemyip.com/
 176.227.192.120,176.227.192.127,Redstation Limited,http://redstation.com/
 176.227.195.0,176.227.195.7,Redstation Limited,http://redstation.com/
@@ -1465,6 +1466,7 @@
 178.79.128.0,178.79.191.255,Linode,http://www.linode.com/
 178.79.192.0,178.79.255.255,Limelight Networks Inc,http://www.limelight.com/
 178.86.0.0,178.87.255.255,hosting.ua,http://hosting.ua/
+178.132.74.0,178.132.74.255,DR SOFT SRL,http://changemyip.com/
 178.156.0.0,178.156.127.255,ServiHosting Networks S.L.,http://servihosting.es
 178.162.128.0,178.162.255.255,Leaseweb,http://www.leaseweb.com/
 178.174.0.0,178.174.127.255,Unbelievable Machine,http://www.unbelievable-machine.com/
@@ -1953,6 +1955,7 @@
 206.130.96.0,206.130.127.255,westhost,http://www.westhost.com/
 206.144.80.0,206.144.87.255,MICFO,http://www.micfo.com/
 206.144.88.0,206.144.95.255,MICFO,http://www.micfo.com/
+206.144.164.0,206.144.167.255,MICFO,http://www.micfo.com/
 206.183.104.0,206.183.111.255,Web Werks,http://www.web-werks.com/
 206.188.0.0,206.188.31.255,Datapipe,http://www.datapipe.com/
 206.196.0.0,206.196.31.255,Peak10,http://www.peak10.com/
