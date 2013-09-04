@@ -844,6 +844,8 @@
 81.93.240.0,81.93.255.255,euro-web.com,http://fr.euro-web.com/
 81.95.144.0,81.95.159.255,SoftLayer,http://www.softlayer.com/
 81.169.128.0,81.169.255.255,Strato,http://www.strato.de
+81.176.224.0,81.176.225.255,eserver.ru,http://www.eserver.ru/
+81.177.26.0,81.177.27.255,erix-colo,http://
 82.98.128.0,82.98.191.255,dinahosting,https://en.dinahosting.com/
 82.103.128.0,82.103.191.255,easyspeedy,http://easyspeedy.com/
 82.113.128.0,82.113.159.255,Xtraordinary Networks Limited,http://xtrahost.co.uk/
@@ -954,6 +956,7 @@
 91.184.0.0,91.184.31.255,hostnet.nl,http://www.hostnet.nl/
 91.186.0.0,91.186.31.255,BlueConnex,http://www.simplytransit.net/
 91.188.64.0,91.188.95.255,ecritel.net,http://www.ecritel.net/
+91.189.80.0,91.189.87.255,eserver.ru,http://www.eserver.ru/
 91.189.176.0,91.189.183.255,availo.no,http://www.availo.no/
 91.190.240.0,91.190.247.255,pgHosting,http://pghosting.de/
 91.191.144.0,91.191.159.255,euro-web.com,http://fr.euro-web.com/
@@ -1494,6 +1497,7 @@
 178.216.224.0,178.216.231.255,comfoplace.com,http://comfoplace.com/
 178.217.80.0,178.217.87.255,h4hosting.eu,http://h4hosting.eu/
 178.217.184.0,178.217.191.255,hosteam.pl,http://hosteam.pl/
+178.218.208.0,178.218.223.255,eserver.ru,http://www.eserver.ru/
 178.236.0.0,178.236.15.255,Amazon AWS,http://www.amazon.com/aws/
 178.236.64.0,178.236.79.255,Excellent Hosting Sweden AB,http://www.excellent-hosting.se/
 178.238.32.0,178.238.47.255,Master Internet S.R.O.,http://www.master.cz/
