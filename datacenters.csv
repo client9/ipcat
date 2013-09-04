@@ -504,6 +504,7 @@
 67.215.112.0,67.215.127.255,Peak Web Hosting,http://www.peakwebhosting.com/
 67.215.160.0,67.215.191.255,Webhosting.net,http://www.webhosting.net/
 67.215.224.0,67.215.255.255,Secure Private Network,http://www.securedprivatenetwork.net/
+67.216.80.0,67.216.95.255,ColocateUSA,http://www.ColocateUSA.com/
 67.216.160.0,67.216.175.255,Peak10,http://www.peak10.com/
 67.217.48.0,67.217.63.255,Host Department LLC,http://www.hostdepartment.com/
 67.217.160.0,67.217.191.255,latisys,http://www.latisys.com/
@@ -1265,6 +1266,7 @@
 147.203.0.0,147.203.255.255,American Internet Services,http://americanis.net/
 147.255.0.0,147.255.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 149.3.128.0,149.3.143.255,Redstation Limited,http://redstation.com/
+149.54.0.0,149.54.255.255,PSINet,http://cogentco.com/
 149.154.152.0,149.154.159.255,EDIS,http://www.edis.at/
 149.255.32.0,149.255.39.255,Swiftway,http://swiftway.net/
 151.236.32.0,151.236.63.255,BlueConnex,http://www.simplytransit.net/
@@ -1950,6 +1952,7 @@
 206.125.40.0,206.125.47.255,calPOP,http://calpop.com/
 206.130.96.0,206.130.127.255,westhost,http://www.westhost.com/
 206.144.80.0,206.144.87.255,MICFO,http://www.micfo.com/
+206.144.88.0,206.144.95.255,MICFO,http://www.micfo.com/
 206.183.104.0,206.183.111.255,Web Werks,http://www.web-werks.com/
 206.188.0.0,206.188.31.255,Datapipe,http://www.datapipe.com/
 206.196.0.0,206.196.31.255,Peak10,http://www.peak10.com/
