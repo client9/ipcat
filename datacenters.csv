@@ -249,6 +249,7 @@
 46.182.240.0,46.182.247.255,Unbelievable Machine,http://www.unbelievable-machine.com/
 46.183.136.0,46.183.143.255,Gigahost ApS,https://gigahost.dk/en
 46.226.8.0,46.226.8.255,Rent a Rack,http://rentarack.no/
+46.227.71.128,46.227.71.255,DR SOFT SRL,http://changemyip.com/
 46.227.80.0,46.227.87.255,ecritel.net,http://www.ecritel.net/
 46.229.160.0,46.229.175.255,advancedhosters.com,http://advancedhosters.com/
 46.231.112.0,46.231.119.255,Tagadab,http://tagadab.com/
@@ -1726,8 +1727,7 @@
 198.13.96.0,198.13.127.255,Psychz Networks,http://psychz.net/
 198.15.64.0,198.15.127.255,Secure Servers,http://www.securedservers.com/
 198.20.64.0,198.20.127.255,SingleHop,http://www.singlehop.com/
-198.20.185.0,198.20.185.255,B2 Net Solutions Inc,http://www.b2netsolutions.com/
-198.20.186.0,198.20.186.255,B2 Net Solutions Inc,http://www.b2netsolutions.com/
+198.20.160.0,198.20.191.255,B2 Net Solutions Inc,http://www.b2netsolutions.com/
 198.23.64.0,198.23.127.255,SoftLayer,http://www.softlayer.com/
 198.23.128.0,198.23.255.255,ColoCrossing,http://www.colocrossing.com/
 198.24.128.0,198.24.191.255,Secure Servers,http://www.securedservers.com/
@@ -2013,6 +2013,7 @@
 208.67.180.0,208.67.183.255,ndchost.com,http://www.ndchost.com/
 208.67.224.0,208.67.227.255,Triple8 Network,http://888.net/
 208.69.56.0,208.69.59.255,Cirrus Tech Ltd,http://www.cirrushosting.com/
+208.69.112.0,208.69.119.255,ColocateUSA,http://www.ColocateUSA.com/
 208.69.176.0,208.69.183.255,Silicon Valley Web Hosting,http://www.svwh.net/
 208.69.228.0,208.69.231.255,netriplex,http://www.netriplex.com/
 208.70.72.0,208.70.79.255,calPOP,http://calpop.com/
