@@ -249,6 +249,7 @@
 46.182.240.0,46.182.247.255,Unbelievable Machine,http://www.unbelievable-machine.com/
 46.183.136.0,46.183.143.255,Gigahost ApS,https://gigahost.dk/en
 46.226.8.0,46.226.8.255,Rent a Rack,http://rentarack.no/
+46.227.68.0,46.227.68.255,DR SOFT SRL,http://changemyip.com/
 46.227.71.128,46.227.71.255,DR SOFT SRL,http://changemyip.com/
 46.227.80.0,46.227.87.255,ecritel.net,http://www.ecritel.net/
 46.229.160.0,46.229.175.255,advancedhosters.com,http://advancedhosters.com/
@@ -344,6 +345,7 @@
 64.79.192.0,64.79.223.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 64.85.0.0,64.85.31.255,Securewebs.com,http://www.securewebs.com/
 64.87.0.0,64.87.31.255,American Internet Services,http://americanis.net/
+64.87.32.0,64.87.63.255,ColocateUSA,http://www.ColocateUSA.com/
 64.90.32.0,64.90.63.255,Dreamhost,http://www.dreamhost.com/
 64.91.224.0,64.91.255.255,Liquid Web,http://www.liquidweb.com/
 64.92.192.0,64.92.223.255,latisys,http://www.latisys.com/
@@ -479,6 +481,7 @@
 67.43.0.0,67.43.15.255,Liquid Web,http://www.liquidweb.com/
 67.55.0.0,67.55.63.255,Canaca-com Inc.,http://canaca.com
 67.55.64.0,67.55.127.255,Webair Internet Development Inc,http://www.webair.com/
+67.58.96.0,67.58.111.255,ColocateUSA,http://www.ColocateUSA.com/
 67.59.128.0,67.59.191.255,HostMySite.com,http://www.webmysite.com/
 67.88.0.0,67.95.255.255,XO Communications,http://www.xo.com/
 67.159.0.0,67.159.63.255,FDC Servers,http://fdcservers.net/
