@@ -11,6 +11,7 @@
 5.34.247.0,5.34.247.255,webexxpurts.com,http://webexxpurts.com/
 5.39.0.0,5.39.127.255,OVH,http://www.ovh.co.uk/
 5.39.216.0,5.39.223.255,HostKey,http://www.hostkey.com/
+5.44.26.144,5.44.26.159,PEER 1,http://www.peer1.com/
 5.77.32.0,5.77.63.255,eukhost.com,http://eukhost.com/
 5.79.0.0,5.79.7.255,Rackspace,http://www.rackspace.com/
 5.79.16.0,5.79.24.255,Rackspace,http://www.rackspace.com/
@@ -74,7 +75,9 @@
 23.32.0.0,23.67.255.255,Akamai,http://akamai.com/
 23.80.0.0,23.83.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 23.90.0.0,23.90.63.255,infinitie.net,http://www.serverhub.com/
+23.91.0.0,23.91.31.255,Psychz Networks,http://psychz.net/
 23.92.16.0,23.92.31.255,Linode,http://www.linode.com/
+23.104.0.0,23.111.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 27.0.0.0,27.0.3.255,Amazon AWS,http://www.amazon.com/aws/
 27.50.32.0,27.50.39.255,Hurricane Electic,http://www.he.net/
 27.131.64.0,27.131.127.254,Micron21,http://www.micron21.com/
@@ -150,11 +153,7 @@
 37.157.246.120,37.157.246.127,almahost.co.uk,http://www.almahost.ir/
 37.157.246.184,37.157.246.191,Redstation Limited,http://redstation.com/
 37.157.247.64,37.157.247.127,Redstation Limited,http://redstation.com/
-37.187.0.0,37.187.35.255,OVH,http://www.ovh.co.uk/
-37.187.48.0,37.187.48.255,OVH,http://www.ovh.co.uk/
-37.187.58.0,37.187.58.255,OVH,http://www.ovh.co.uk/
-37.187.66.0,37.187.66.255,OVH,http://www.ovh.co.uk/
-37.187.72.0,37.187.79.255,OVH,http://www.ovh.co.uk/
+37.187.0.0,37.187.255.255,OVH,http://www.ovh.co.uk/
 37.188.112.0,37.188.117.255,Rackspace,http://www.rackspace.com/
 37.188.120.0,37.188.127.255,Rackspace,http://www.rackspace.com/
 37.220.1.0,37.220.1.95,Redstation Limited,http://redstation.com/
@@ -214,7 +213,7 @@
 37.221.160.192,37.221.160.207,Alibaba Host,http://alibabahost.com/
 37.221.160.224,37.221.160.255,CINIPAC,http://cinipac.com/
 37.235.49.0,37.235.49.255,EDIS,http://www.edis.at/
-37.235.54.0,37.235.55.255,EDIS,http://www.edis.at/
+37.235.53.0,37.235.63.255,EDIS,http://www.edis.at/
 42.1.60.0,42.1.63.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
 46.4.0.0,46.4.255.255,Hetzner Online AG,http://www.hetzner.de/
 46.16.184.0,46.16.191.255,SoftLayer,http://www.softlayer.com/
@@ -1292,6 +1291,7 @@
 149.3.128.0,149.3.143.255,Redstation Limited,http://redstation.com/
 149.154.152.0,149.154.159.255,EDIS,http://www.edis.at/
 149.255.32.0,149.255.39.255,Swiftway,http://swiftway.net/
+151.236.4.0,151.236.4.255,EDIS,http://www.edis.at/
 151.236.32.0,151.236.63.255,BlueConnex,http://www.simplytransit.net/
 151.236.216.0,151.236.223.255,Linode,http://www.linode.com/
 151.237.177.0,151.237.177.255,webexxpurts.com,http://webexxpurts.com/
@@ -1321,10 +1321,13 @@
 159.253.56.0,159.253.63.255,host-it.co.uk,http://www.host-it.co.uk/
 159.253.128.0,159.253.159.255,SoftLayer,http://www.softlayer.com/
 162.209.0.0,162.209.127.255,Rackspace,http://www.rackspace.com/
+162.211.92.0,162.211.95.255,esited.com,http://www.esited.com/
+162.212.252.0,162.212.255.255,awknet,http://awknet.com/
 162.213.24.0,162.213.31.255,Volume Drive,http://volumedrive.com
 162.213.208.0,162.213.211.255,Input Output Flood LLC,http://ioflood.com/
 162.213.216.0,162.213.223.255,wehostwebsites.com,http://wehostwebsites.com/
 162.216.4.0,162.216.7.255,Hivelocity Hosting,http://www.hivelocity.net/
+162.218.112.0,162.218.119.255,Input Output Flood LLC,http://ioflood.com/
 164.40.133.0,164.40.133.255,GoGrid LLC,http://www.gogrid.com/
 164.40.144.0,164.40.144.255,GoGrid LLC,http://www.gogrid.com/
 164.40.147.0,164.40.147.255,GoGrid LLC,http://www.gogrid.com/
@@ -1928,8 +1931,7 @@
 200.219.192.0,200.219.255.255,alog,http://www.alog.com.br/
 201.20.0.0,201.20.31.255,alog,http://www.alog.com.br/
 201.49.208.0,201.49.223.255,alog,http://www.alog.com.br/
-201.182.91.0,201.182.92.255,panamaserver.com,http://panamaserver.com/
-201.182.94.0,201.182.95.255,panamaserver.com,http://panamaserver.com/
+201.182.0.0,201.182.255.255,panamaserver.com,http://panamaserver.com/
 201.190.228.0,201.190.231.255,panamaserver.com,http://panamaserver.com/
 202.9.36.0,202.9.39.255,Gigabit Hosting Sdn Bhd,http://thegigabit.com/
 202.46.192.0,202.46.207.255,Cyquator,http://cyquator.com/
