@@ -715,6 +715,8 @@
 74.118.36.0,74.118.39.255,SevenL Networks Inc,https://www.sevenl.net/
 74.118.192.0,74.118.195.255,Volume Drive,http://volumedrive.com
 74.119.144.0,74.119.147.255,colo@,http://coloat.com/
+74.119.216.0,74.119.219.255,Continuum Data Centers,http://www.continuumdatacenters.com/
+74.121.180.0,74.121.183.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 74.121.192.0,74.121.199.255,BlackMesh,http://www.blackmesh.com/
 74.122.120.0,74.122.123.255,Quasar Data Center,http://quasardata.com/
 74.122.128.0,74.122.135.255,datacenterscanada.com,http://www.datacenterscanada.com/
@@ -1894,6 +1896,7 @@
 199.189.248.0,199.189.255.255,micfo.com,http://micfo.com/
 199.192.72.0,199.192.79.255,Staminus Communications,http://staminus.net/
 199.192.152.0,199.192.159.255,eHostingUSA,http://ehostingusa.com/
+199.192.200.0,199.192.207.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 199.192.228.0,199.192.231.255,ionity,http://ionity.com/
 199.193.64.0,199.193.71.255,eHostingUSA,http://ehostingusa.com/
 199.193.176.0,199.193.179.255,Adhost,http://www.adhost.com/
