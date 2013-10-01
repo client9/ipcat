@@ -35,4 +35,7 @@ end
 
 loopit(100000);
 
+io.write("\n");
+io.write(collectgarbage('count'));
+io.write("\n");
 

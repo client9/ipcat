@@ -2,6 +2,7 @@
 all: lua-ffi lua-native-list lua-native-hash
 
 lua-ffi:
+	@echo ""
 	@echo "FFI"
 	../IpDbGenerate-c.py > junk.c
 	gcc -dynamiclib junk.c -o libjunk.dylib
