@@ -1,5 +1,5 @@
 Test of Lua JIT/FFI Performance
-----------------------------------
+===================================
 
 
 This does a linear scan of the IPCAT datastructure, and does a trivial
@@ -14,7 +14,7 @@ Lua 1 - iterates over a pure-lua table where each record is "{ int, int, string 
 Lua 2 - iterators over a pure-lua table where each record is { ip0=int, ip1=int, owner=string}" (hash-style)
 
 Performance
-=============
+-----------------
 
 In seconds.
 
@@ -26,7 +26,7 @@ In seconds.
 ```
 
 Memory
-=============
+------------------
 
 In KB (1024 bytes kilobytes):
 
