@@ -23,7 +23,7 @@ for line in sys.stdin:
     rows += 1
     parts = line.split(',')
     if len(parts) != 4:
-        raise Exception("Line %d has more than 4 entries: %s" % (row, line))
+        raise Exception("Line %d has more than 4 entries: %s" % (rows, line))
 
     (dots0,dots1,name,url) = parts
     ip0 = ip2int(dots0)
@@ -55,7 +55,7 @@ Licensing -- GPL v3
 The data is licensed under GPL v3, see COPYING for details.
 
 Relaxations and commericial licensing are gladly available by request.
-The use of GPL is to prevent commercial data providers from scoping up
+The use of GPL is to prevent commercial data providers from scooping up
 this data without compensation or attribution.
 
 This may be changed to another less restrictive license later.

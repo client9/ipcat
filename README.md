@@ -11,7 +11,7 @@ Licensing -- GPL v3
 The data is licensed under GPL v3, see COPYING for details.
 
 Relaxations and commericial licensing are gladly available by request.
-The use of GPL is to prevent commercial data providers from scoping up
+The use of GPL is to prevent commercial data providers from scooping up
 this data without compensation or attribution.
 
 This may be changed to another less restrictive license later.
@@ -20,9 +20,9 @@ Statistics
 ------------------------
 
 <table>
-<tr><th>IPs</th><td>31748805</td></tr>
-<tr><th>Records</th><td>2155</td></tr>
-<tr><th>ISPs</th><td>459</td></tr>
+<tr><th>IPs</th><td>37457412</td></tr>
+<tr><th>Records</th><td>2405</td></tr>
+<tr><th>ISPs</th><td>482</td></tr>
 </table>
 
 What is the file format?
