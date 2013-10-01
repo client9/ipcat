@@ -13,11 +13,12 @@ Lua 1 - iterates over a pure-lua table where each record is "{ int, int, string 
 
 Lua 2 - iterators over a pure-lua table where each record is { ip0=int, ip1=int, owner=string}" (hash-style)
 
-
-|       | FFI  | Lua 1 | Lua 2 |
-| jit   | 1.57 | 1.87  | 2.00  |
-| nojit | 55.1 | 5.05  | 5.95  |
-
+```
+|       | FFI   | Lua 1 | Lua 2 |
+|-------|-------|-------|-------|
+| jit   |  1.57 | 1.87  | 2.00  |
+| nojit | 55.1  | 5.05  | 5.95  |
+```
 
 Raw Data
 -----------------------------
