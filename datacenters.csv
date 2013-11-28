@@ -360,6 +360,7 @@
 64.71.128.0,64.71.191.255,Hurricane Electic,http://www.he.net/
 64.71.224.0,64.71.239.255,Webhosting.net,http://www.webhosting.net/
 64.77.0.0,64.77.127.255,PEER 1,http://www.peer1.com/
+64.79.96.0,64.79.111.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 64.79.128.0,64.79.159.255,SWITCH Communications Group LLC,http://www.switchnap.com/
 64.79.192.0,64.79.223.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 64.85.0.0,64.85.31.255,Securewebs.com,http://www.securewebs.com/
@@ -724,12 +725,16 @@
 74.117.132.0,74.117.135.255,Sprocket Networks,http://www.sprocketnetworks.com/
 74.117.152.0,74.117.159.255,simpliq.com,http://www.simpliq.com/
 74.117.208.0,74.117.211.255,Sprocket Networks,http://www.sprocketnetworks.com/
+74.117.236.0,74.117.239.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 74.118.36.0,74.118.39.255,SevenL Networks Inc,https://www.sevenl.net/
 74.118.192.0,74.118.195.255,Volume Drive,http://volumedrive.com
 74.119.144.0,74.119.147.255,colo@,http://coloat.com/
+74.119.216.0,74.119.219.255,Continuum Data Centers,http://www.continuumdatacenters.com/
+74.121.180.0,74.121.183.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 74.121.192.0,74.121.199.255,BlackMesh,http://www.blackmesh.com/
 74.122.120.0,74.122.123.255,Quasar Data Center,http://quasardata.com/
 74.122.128.0,74.122.135.255,datacenterscanada.com,http://www.datacenterscanada.com/
+74.122.192.0,74.122.199.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 74.123.8.0,74.123.11.255,SevenL Networks Inc,https://www.sevenl.net/
 74.126.80.0,74.126.95.255,Peak10,http://www.peak10.com/
 74.200.64.0,74.200.95.255,Virtacore Systems,http://www.virtacore.com/
@@ -1409,6 +1414,7 @@
 173.240.48.0,173.240.63.255,Adhost,http://www.adhost.com/
 173.242.112.0,173.242.127.255,Volume Drive,http://volumedrive.com
 173.242.144.0,173.242.159.255,Ventu,http://Venyu.com/
+173.243.112.0,173.243.127.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 173.244.64.0,173.244.79.255,GoGrid LLC,http://www.gogrid.com/
 173.244.192.0,173.244.223.255,Midphase,http://www.midphase.com/
 173.245.48.0,173.245.63.255,CloudFlare Inc,https://www.cloudflare.com/
@@ -1672,6 +1678,7 @@
 192.198.192.0,192.198.207.255,Secure Servers,http://www.securedservers.com/
 192.199.240.0,192.199.255.255,wehostwebsites.com,http://wehostwebsites.com/
 192.200.96.0,192.200.127.255,Gorilla Servers,http://gorillaservers.com/
+192.208.176.0,192.208.191.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 192.210.48.0,192.210.63.255,Psychz Networks,http://psychz.net/
 192.210.128.0,192.210.255.255,ColoCrossing,http://www.colocrossing.com/
 192.211.48.0,192.211.63.255,Incero,http://www.incero.com/
@@ -1825,6 +1832,7 @@
 198.41.128.0,198.41.255.255,CloudFlare Inc,https://www.cloudflare.com/
 198.46.128.0,198.46.255.255,ColoCrossing,http://www.colocrossing.com/
 198.49.64.0,198.49.79.255,DimeNOC,http://dimenoc.com/
+198.50.24.0,198.50.31.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 198.50.96.0,198.50.127.255,iWeb Technologies Inc.,http://iweb.com/
 198.50.128.0,198.50.255.255,OVH,http://www.ovh.co.uk/
 198.52.96.0,198.52.127.255,multacom.com,http://multacom.com/
@@ -1898,6 +1906,7 @@
 199.83.88.0,199.83.95.255,Psychz Networks,http://psychz.net/
 199.85.208.0,199.85.215.255,HostVentures,http://www.hostventures.com/
 199.87.232.0,199.87.239.255,esited.com,http://www.esited.com/
+199.96.80.0,199.96.87.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 199.101.48.0,199.101.51.255,HostRocket,http://www.hostrocket.com/
 199.102.224.0,199.102.231.255,ServInt,http://www.servint.net/
 199.103.56.0,199.103.63.255,Cirrus Tech Ltd,http://www.cirrushosting.com/
@@ -1942,6 +1951,7 @@
 199.189.248.0,199.189.255.255,micfo.com,http://micfo.com/
 199.192.72.0,199.192.79.255,Staminus Communications,http://staminus.net/
 199.192.152.0,199.192.159.255,eHostingUSA,http://ehostingusa.com/
+199.192.200.0,199.192.207.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 199.192.228.0,199.192.231.255,ionity,http://ionity.com/
 199.193.64.0,199.193.71.255,eHostingUSA,http://ehostingusa.com/
 199.193.176.0,199.193.179.255,Adhost,http://www.adhost.com/
@@ -2401,6 +2411,7 @@
 216.224.112.0,216.224.127.255,ethr.net,http://ethr.net/
 216.227.208.0,216.227.223.255,Lunar Pages,http://www.lunarpages.com/
 216.230.96.0,216.230.127.255,Datapoint,http://www.datapointinc.com/
+216.231.128.0,216.231.143.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 216.234.224.0,216.234.255.255,SoftLayer,http://www.softlayer.com/
 216.238.64.0,216.238.127.255,Razor,http://www.razorservers.com/
 216.238.144.0,216.238.159.255,gorack.net,http://gorack.net/
