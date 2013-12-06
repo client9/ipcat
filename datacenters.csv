@@ -337,6 +337,7 @@
 64.15.128.0,64.15.159.255,iWeb Technologies Inc.,http://iweb.com/
 64.18.128.0,64.18.159.255,Rackvibe.com,http://www.rackvibe.com/
 64.20.32.0,64.20.63.255,InterServer.net,http://www.interserver.net/
+64.22.192.0,64.22.223.255,LightEdge,http://www.lightedge.com
 64.27.0.0,64.27.31.255,calPOP,http://calpop.com/
 64.27.48.0,64.27.63.255,wehostwebsites.com,http://wehostwebsites.com/
 64.27.64.0,64.27.127.255,Datapipe,http://www.datapipe.com/
@@ -385,6 +386,7 @@
 64.150.164.0,64.150.175.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 64.150.176.0,64.150.191.255,Codero,http://www.codero.com/
 64.151.64.0,64.151.127.255,GoGrid,http://www.gogrid.com/
+64.179.224.0,64.179.239.255,LightEdge,http://www.lightedge.com
 64.182.0.0,64.182.255.255,C I Host,http://www.cihost.com/
 64.187.96.0,64.187.127.255,AccelerateBiz Inc.,http://www.acceleratebiz.com/
 64.191.0.0,64.191.127.255,hostnoc,http://www.hostnoc.net/
@@ -398,6 +400,7 @@
 64.239.0.0,64.239.127.255,PEER 1,http://www.peer1.com/
 64.239.240.0,64.239.255.255,Peak10,http://www.peak10.com/
 64.246.0.0,64.246.63.255,SoftLayer,http://www.softlayer.com/
+64.247.192.0,64.247.223.255,LightEdge,http://www.lightedge.com
 64.251.0.0,64.251.31.255,ServerPronto,http://www.serverpronto.com/
 65.17.192.0,65.17.255.255,Datapipe,http://www.datapipe.com/
 65.19.128.0,65.19.191.255,Hurricane Electic,http://www.he.net/
@@ -422,6 +425,7 @@
 65.182.192.0,65.182.223.255,HostMySite.com,http://www.webmysite.com/
 65.254.208.0,65.254.223.255,Peak10,http://www.peak10.com/
 65.254.224.0,65.254.255.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
+66.6.96.0,66.6.127.255,LightEdge,http://www.lightedge.com
 66.7.192.0,66.7.223.255,DimeNOC,http://dimenoc.com/
 66.11.144.0,66.11.159.255,Canada Web Hosting,http://www.canadawebhosting.com/
 66.11.224.0,66.11.239.255,dotster.com,http://www.dotster.com/
@@ -1262,6 +1266,9 @@
 115.124.106.0,115.124.109.255,BODHost,http://bodhost.com/
 115.124.110.0,115.124.111.255,Web Hosting UK,http://www.webhosting.uk.com/
 115.124.112.0,115.124.127.255,esds.co.in,http://www.esds.co.in/
+117.18.65.0,117.18.68.255,GigaHost HK,http://www.sunnyvision.com/
+117.18.73.0,117.18.74.255,GigaHost HK,http://www.sunnyvision.com/
+117.18.77.0,117.18.79.255,GigaHost HK,http://www.sunnyvision.com/
 117.53.152.0,117.53.155.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
 117.120.0.0,117.120.7.255,ReadySpace,http://www.readyspace.com.sg/en/
 117.121.240.0,117.121.247.255,GPLHost,https://www.gplhost.com/
@@ -1281,6 +1288,7 @@
 122.252.32.0,122.252.63.255,Akamai,http://akamai.com/
 122.252.128.0,122.252.143.255,Akamai,http://akamai.com/
 123.100.224.0,123.100.255.255,webvisions.com,http://webvisions.com/
+123.242.227.0,123.242.229.255,GigaHost HK,http://www.sunnyvision.com/
 124.109.0.0,124.109.3.255,Servenet Solution Limited Partnership,http://servenet.co.th/
 124.250.0.0,124.251.255.255,21vianet,http://21vianet.com/
 125.56.128.0,125.56.255.255,Akamai,http://akamai.com/
@@ -2368,6 +2376,7 @@
 216.70.64.0,216.70.127.255,Media Temple,http://www.mediatemple.net/
 216.74.0.0,216.74.63.255,HostMySite.com,http://www.webmysite.com/
 216.75.0.0,216.75.63.255,cari.net,http://cari.net/
+216.81.128.0,216.81.255.255,LightEdge,http://www.lightedge.com
 216.83.32.0,216.83.63.255,ethr.net,http://ethr.net/
 216.86.144.0,216.86.159.255,steadfast.net,http://steadfast.net/
 216.87.0.0,216.87.31.255,PEER 1,http://www.peer1.com/
@@ -2393,6 +2402,7 @@
 216.131.64.0,216.131.127.255,Reliable Hosting,http://reliablehosting.com/
 216.134.192.0,216.134.223.255,Peak10,http://www.peak10.com/
 216.137.32.0,216.137.63.255,Amazon AWS,http://www.amazon.com/aws/
+216.137.64.0,216.137.95.255,LightEdge,http://www.lightedge.com
 216.144.224.0,216.144.239.255,Secure Private Network,http://www.securedprivatenetwork.net/
 216.144.240.0,216.144.255.255,Limestone Networks,http://www.limestonenetworks.com/
 216.146.192.0,216.146.223.255,Pair Networks,http://www.pair.com/
@@ -2404,6 +2414,7 @@
 216.172.160.0,216.172.191.255,WebsiteWelcome.com,http://www.websitewelcome.com/
 216.176.176.0,216.176.191.255,WoW Technologies,http://wowrack.com/
 216.182.80.0,216.182.95.255,Adhost,http://www.adhost.com/
+216.182.176.0,216.182.191.255,LightEdge,http://www.lightedge.com
 216.182.224.0,216.182.239.255,Amazon AWS,http://www.amazon.com/aws/
 216.185.96.0,216.185.127.255,SoftLayer,http://www.softlayer.com/
 216.187.64.0,216.187.127.255,PEER 1,http://www.peer1.com/
@@ -2423,6 +2434,7 @@
 216.239.224.0,216.239.239.255,latisys,http://www.latisys.com/
 216.240.128.0,216.240.159.255,calPOP,http://calpop.com/
 216.243.128.0,216.243.191.255,ipHouse,http://www.iphouse.com/
+216.243.192.0,216.243.239.255,LightEdge,http://www.lightedge.com
 216.244.64.0,216.244.95.255,WoW Technologies,http://wowrack.com/
 216.245.192.0,216.245.223.255,Limestone Networks,http://www.limestonenetworks.com/
 216.246.0.0,216.246.127.255,ServerCentral,http://www.servercentral.net/
