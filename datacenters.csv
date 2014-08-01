@@ -1,6 +1,4 @@
-# https://github.com/client9/ipcat/
-# Copyright 2012-2014 Nick Galbreath http://client9.com/
-# Redistibution under GPL v3. See README/COPYING for details.
+start,end,company,url
 1.201.0.0,1.201.255.255,kinx.net,http://idc.kinx.net/
 2.16.0.0,2.23.255.255,Akamai,http://akamai.com/
 4.78.136.192,4.78.136.223,co-location.com,http://co-location.com/
