@@ -4,13 +4,20 @@ from operator import itemgetter
 from socket import inet_aton
 from struct import unpack
 from urllib import urlopen
+import sys
 
 pp = pprint.PrettyPrinter(indent=4, width=50)
 iplist = {}
 
-#fetch remote datacenter list and convert to searchable datastructure
-external_list = 'https://raw.github.com/client9/ipcat/master/datacenters.csv'
-fp = urlopen(external_list)
+
+if len(sys.argv) > 1:
+    fp = open(sys.argv[1], 'r')
+else:
+    #fetch remote datacenter list and convert to searchable datastructure
+    external_list = 'https://raw.github.com/client9/ipcat/master/datacenters.csv'
+    fp = urlopen(external_list)
+
+fp.readline()
 for line in fp:
     line = line.strip()
     if not line or line[0] == '#':
