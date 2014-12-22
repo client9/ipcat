@@ -35,10 +35,13 @@ for line in fp:
 iplist = tuple(v for (k,v) in sorted(iplist.iteritems(), key=itemgetter(0)))
 
 #autogenerate the class to perform lookups
-print """
+print """#!/usr/bin/env python
+
 from socket import inet_aton
 from struct import unpack
 from math import floor
+
+
 class IpDb(object):
     iplist = %s
 
@@ -57,4 +60,10 @@ class IpDb(object):
             else:
                 return IpDb.iplist[probe]
         return None
+
+
+if __name__ == "__main__":
+    import sys
+    for ip in sys.argv[1:]:
+        print IpDb.find(ip)
 """ % (pp.pformat(iplist), )
