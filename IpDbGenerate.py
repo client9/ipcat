@@ -24,15 +24,15 @@ for line in fp:
         continue
 
     parts = line.split(",")
-    newrow = {
-        '_ip0': unpack("!L", inet_aton(parts[0]))[0],
-        '_ip1': unpack("!L", inet_aton(parts[1]))[0],
-        'owner': parts[3],
-    }
-    iplist[newrow['_ip0']] = newrow
+    newrow = (
+        unpack("!L", inet_aton(parts[0]))[0],
+        unpack("!L", inet_aton(parts[1]))[0],
+        parts[3],
+    )
+    iplist[newrow[0]] = newrow
 
 #return the list of entries, sorted by the lowest ip in the range
-iplist = [v for (k,v) in sorted(iplist.iteritems(), key=itemgetter(0))]
+iplist = tuple(v for (k,v) in sorted(iplist.iteritems(), key=itemgetter(0)))
 
 #autogenerate the class to perform lookups
 print """
@@ -50,9 +50,9 @@ class IpDb(object):
         low = 0
         while high >= low:
             probe = int(floor((high+low)/2))
-            if IpDb.iplist[probe]['_ip0'] > ip:
+            if IpDb.iplist[probe][0] > ip:
                 high = probe - 1
-            elif IpDb.iplist[probe]['_ip1'] < ip:
+            elif IpDb.iplist[probe][1] < ip:
                 low = probe + 1
             else:
                 return IpDb.iplist[probe]
