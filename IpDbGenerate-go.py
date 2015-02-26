@@ -27,12 +27,13 @@ for line in fp:
     if parts[0] == "start":
         continue
 
+    ipint = unpack("!L", inet_aton(parts[0]))[0],
     newrow = {
         '_ip0': parts[0],
         '_ip1': parts[1],
         'owner': parts[3],
     }
-    iplist[newrow['_ip0']] = newrow
+    iplist[ipint] = newrow
 
 #return the list of entries, sorted by the lowest ip in the range
 iplist = [v for (k,v) in sorted(iplist.iteritems(), key=itemgetter(0))]
