@@ -945,6 +945,7 @@ start,end,company,url
 85.158.176.0,85.158.178.255,profihost,http://www.profihost.com/
 85.159.64.8,85.159.64.15,Ares Hosting,http://areshosting.com/
 85.159.64.40,85.159.64.47,Peron Hosting,http://peronhost.com/
+85.195.99.34,85.195.99.35,velia,http://www.velia.net/
 85.214.0.0,85.215.255.255,Strato,http://www.strato.de
 85.232.32.0,85.232.63.255,Titan Internet Ltd,http://www.titaninternet.co.uk/index.cfm
 85.234.128.0,85.234.159.255,BlueConnex,http://www.simplytransit.net/
@@ -1662,6 +1663,7 @@ start,end,company,url
 185.14.184.0,185.14.186.255,DigitalOcean Europe,https://www.digitalocean.com/
 185.14.187.0,185.14.187.255,DigitalOcean Europe,https://www.digitalocean.com/
 185.17.184.0,185.17.187.255,Leaseweb,http://www.leaseweb.com/
+185.19.218.152,185.19.218.159,Velia,http://www.velia.net/
 185.36.100.0,185.36.100.255,go4cloud,http://go4cloud.com/
 186.227.162.128,186.227.162.191,Server Green,http://servergreen.com.br/
 186.251.128.0,186.251.139.255,ipglobe.net,https://www.ipglobe.net/
