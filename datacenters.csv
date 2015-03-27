@@ -1863,6 +1863,7 @@ start,end,company,url
 195.133.0.0,195.133.255.255,demos,http://demos.ru/
 195.144.4.0,195.144.4.255,PatrikWeb,http://patrikweb.net/
 195.162.24.0,195.162.25.255,kylos.pl,http://www.kylos.pl/
+195.162.68.0,195.162.69.255,hostkey,http://www.hostkey.ru/
 195.189.124.0,195.189.127.255,trueserver.nl,http://trueserver.nl/
 195.189.254.0,195.189.255.255,availo.no,http://www.availo.no/
 195.190.3.0,195.190.3.255,euro-web.com,http://fr.euro-web.com/
