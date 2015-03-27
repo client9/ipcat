@@ -826,6 +826,7 @@ start,end,company,url
 78.136.0.0,78.136.63.255,Rackspace,http://www.rackspace.com/
 78.136.64.0,78.136.127.255,ServiHosting Networks S.L.,http://servihosting.es
 78.138.64.0,78.138.127.255,MESH,http://www.mesh.eu/
+78.138.96.0,78.138.99.255,Dediserv,http://www.dediserv.eu/
 78.143.0.0,78.143.63.255,LINK11 Gmbh,http://www.link11.de/
 78.157.192.0,78.157.223.255,UK Dedicated Servers LTD,http://ukservers.com/
 78.159.96.0,78.159.127.255,Leaseweb,http://www.leaseweb.com/
