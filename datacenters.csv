@@ -1673,6 +1673,7 @@ start,end,company,url
 187.84.224.0,187.84.239.255,redehost.com.br,http://www.redehost.com.br/
 188.40.0.0,188.40.255.255,Hetzner Online AG,http://www.hetzner.de/
 188.42.0.0,188.42.255.255,root S.A.,http://www.site.lu/
+188.64.171.182,188.64.171.182,h1host,https://www.h1host.ru/
 188.72.192.0,188.72.255.255,Leaseweb,http://www.leaseweb.com/
 188.95.48.0,188.95.55.255,serverboost.nl,http://serverboost.nl/
 188.95.248.0,188.95.255.255,rackmarkt.com,http://rackmarkt.com/
