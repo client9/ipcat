@@ -259,7 +259,6 @@ start,end,company,url
 46.31.184.0,46.31.191.255,basefarm.com,http://basefarm.com/
 46.32.224.0,46.32.255.255,Webfusion,http://www.webfusion.com/
 46.33.64.0,46.33.77.255,Akamai,http://akamai.com/
-46.33.224.0,46.33.255.255,WildPark Co,http://wildpark.net/
 46.35.192.0,46.35.223.255,23VNet KFT,http://hostit.hu/
 46.37.160.0,46.37.191.255,BurstNET,http://burst.net/
 46.38.160.0,46.38.191.255,Rackspace,http://www.rackspace.com/
