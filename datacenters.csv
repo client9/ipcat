@@ -451,7 +451,6 @@ start,end,company,url
 66.39.0.0,66.39.159.255,Pair Networks,http://www.pair.com/
 66.40.0.0,66.40.255.255,PEER 1,http://www.peer1.com/
 66.45.224.0,66.45.255.255,InterServer.net,http://www.interserver.net/
-66.49.128.0,66.49.255.255,Canaca-com Inc.,http://canaca.com
 66.55.80.0,66.55.95.255,gigeNET,http://www.gigenet.com/
 66.63.160.0,66.63.191.255,QuadraNet,http://quadranet.com/
 66.70.0.0,66.70.127.255,Datapipe,http://www.datapipe.com/
