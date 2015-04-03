@@ -1859,7 +1859,6 @@ start,end,company,url
 195.95.192.0,195.95.195.255,Akamai,http://akamai.com/
 195.114.0.0,195.114.1.255,superhost.pl,http://superhost.pl/
 195.128.160.0,195.128.161.255,providerdienste,http://www.providerdienste.de/
-195.133.0.0,195.133.255.255,demos,http://demos.ru/
 195.144.4.0,195.144.4.255,PatrikWeb,http://patrikweb.net/
 195.162.24.0,195.162.25.255,kylos.pl,http://www.kylos.pl/
 195.162.68.0,195.162.69.255,hostkey,http://www.hostkey.ru/
