@@ -809,7 +809,6 @@ start,end,company,url
 77.245.64.0,77.245.79.255,Redstation Limited,http://redstation.com/
 77.246.32.0,77.246.47.255,Datapipe,http://www.datapipe.com/
 77.246.160.0,77.246.175.255,ServerSpace Limited,http://www.serverspace.co.uk/
-77.247.16.0,77.247.31.255,WildPark Co,http://wildpark.net/
 78.24.8.0,78.24.15.255,vshosting.cz,http://vshosting.cz/
 78.31.48.0,78.31.55.255,trueserver.nl,http://trueserver.nl/
 78.31.104.0,78.31.111.255,Memset Ltd,http://www.memset.com/
@@ -870,8 +869,6 @@ start,end,company,url
 80.246.60.0,80.246.61.255,Host Europe,http://www.hosteurope.de/
 80.246.62.0,80.246.63.255,alfahosting.de,http://alfahosting.de/
 80.247.192.0,80.247.223.255,trueserver.nl,http://trueserver.nl/
-80.252.241.0,80.252.241.255,WildPark Co,http://wildpark.net/
-80.252.246.0,80.252.255.255,WildPark Co,http://wildpark.net/
 81.17.16.0,81.17.31.255,Private Layer INC,http://privatelayer.com/
 81.17.96.0,81.17.127.255,IP Exchange GmbH,http://www.ip-exchange.de/
 81.21.64.0,81.21.79.255,Webfusion,http://www.webfusion.com/
