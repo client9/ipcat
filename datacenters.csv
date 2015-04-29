@@ -2349,6 +2349,7 @@ start,end,company,url
 211.151.0.0,211.151.255.255,21vianet,http://21vianet.com/
 211.152.32.0,211.152.63.255,21vianet,http://21vianet.com/
 212.1.208.0,212.1.215.255,main-hosting.com,http://main-hosting.com/
+212.7.192.0,212.7.223.255,Dediserv,http://www.dediserv.eu
 212.7.220.0,212.7.220.255,Dediserv,http://www.dediserv.eu
 212.19.160.0,212.19.191.255,Netplus Communication,http://www.netplus.fr/
 212.25.160.0,212.25.191.255,seeweb.it,http://seeweb.it/
