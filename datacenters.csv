@@ -339,6 +339,7 @@
 63.140.0.0,63.140.15.255,Fortress Integrated Technologies,http://fortressitx.com/
 63.141.224.0,63.141.255.255,Data Shack,http://datashack.net/
 63.143.32.0,63.143.63.255,Limestone Networks,http://www.limestonenetworks.com/
+63.246.0.0,63.246.31.255,Xiolink,http://xiolink.com
 63.249.128.0,63.249.255.255,C I Host,http://www.cihost.com/
 64.5.32.0,64.5.63.255,SoftLayer,http://www.softlayer.com/
 64.6.96.0,64.6.111.255,amerinoc,https://www.amerinoc.com/
@@ -1090,6 +1091,7 @@
 93.93.64.0,93.93.71.255,comvive.com,https://www.comvive.es/
 93.127.128.0,93.127.255.255,Star-Hosting e.K.,http://star-hosting.de/
 93.168.0.0,93.169.255.255,everhost,http://everhost.co/
+93.174.93.0,93.174.93.255,Ecatel,http://www.ecatel.net/
 93.184.96.0,93.184.111.255,duocast,http://duocast.nl/
 93.185.96.0,93.185.111.255,vshosting.cz,http://vshosting.cz/
 93.186.134.0,93.186.135.255,Akamai,http://akamai.com/
@@ -2169,6 +2171,7 @@
 207.210.192.0,207.210.255.255,colo4dallas.com,http://colo4dallas.com/
 207.218.192.0,207.218.255.255,SoftLayer,http://www.softlayer.com/
 207.223.32.0,207.223.47.255,latisys,http://www.latisys.com/
+207.244.64.0,207.244.127.255,Leaseweb USA,https://www.leaseweb.com/
 207.228.224.0,207.228.255.255,HopOne,http://www.hopone.net/
 208.42.224.0,208.42.255.255,latisys,http://www.latisys.com/
 208.43.0.0,208.43.255.255,SoftLayer,http://www.softlayer.com/
@@ -2295,6 +2298,7 @@
 209.85.0.0,209.85.127.255,SoftLayer,http://www.softlayer.com/
 209.95.96.0,209.95.127.255,PEER 1,http://www.peer1.com/
 209.97.192.0,209.97.223.255,RackForce,http://www.rockforce.com/
+209.99.0.0,209.99.127.255,Data Foundry,http://www.datafoundry.com/
 209.103.160.0,209.103.191.255,HopOne,http://www.hopone.net/
 209.112.240.0,209.112.255.255,American Internet Services,http://americanis.net/
 209.114.32.0,209.114.63.255,Rackspace,http://www.rackspace.com/
@@ -2350,6 +2354,7 @@
 212.112.224.0,212.112.255.255,IP Exchange GmbH,http://www.ip-exchange.de/
 212.117.160.0,212.117.191.255,root S.A.,http://www.site.lu/
 212.123.96.0,212.123.127.255,IP Exchange GmbH,http://www.ip-exchange.de/
+212.124.120.0,212.124.123.255,DigitalOne AG,http://www.digitalone.com/
 212.147.128.0,212.147.255.255,Servercentric,http://servecentric.com/
 212.224.64.0,212.224.127.255,First Colo GmbH,http://www.first-colo.net/EN/
 212.227.0.0,212.227.255.255,1&1 Internet,http://www.1and1.com/
