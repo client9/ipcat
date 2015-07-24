@@ -889,6 +889,7 @@
 75.125.0.0,75.126.255.255,SoftLayer,http://www.softlayer.com/
 76.10.192.0,76.10.223.255,Blue Mile,http://bluemilecloud.com/
 76.12.0.0,76.12.255.255,HostMySite.com,http://www.webmysite.com/
+76.72.160.0,76.72.175.255,Database By Design,http://www.databasebydesignllc.com/
 76.73.0.0,76.73.127.255,FDC Servers,http://fdcservers.net/
 76.74.128.0,76.74.255.255,PEER 1,http://www.peer1.com/
 76.75.192.0,76.75.223.255,Pair Networks,http://www.pair.com/
@@ -1257,6 +1258,7 @@
 94.245.120.160,94.245.123.159,Microsoft Azure,http://www.windowsazure.com/en-us/
 94.245.123.176,94.245.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 94.247.0.0,94.247.7.255,Red Hosting,http://redhosting.nl/
+94.247.168.0,94.247.175.255,GleSYS,http://www.glesys.se
 95.100.0.0,95.101.255.255,Akamai,http://akamai.com/
 95.108.120.0,95.108.127.255,hosteam.pl,http://hosteam.pl/
 95.128.88.0,95.128.95.255,prolocation.net,http://prolocation.net/
@@ -1821,6 +1823,7 @@
 178.251.192.0,178.251.199.255,argeweb,http://www.argeweb.nl/
 178.255.36.0,178.255.38.255,everhost,http://everhost.co/
 178.255.144.0,178.255.151.255,Blix Solutions,http://blixsolutions.no/
+178.255.152.0,178.255.159.255,ANEXIA,https://www.anexia-it.com/
 178.255.192.0,178.255.199.255,qweb,http://www.qweb.nl/
 179.107.32.0,179.107.47.255,alog,http://www.alog.com.br/
 180.92.184.0,180.92.191.255,Voxel,http://www.voxel.net/
@@ -1841,6 +1844,7 @@
 184.24.0.0,184.31.255.255,Akamai,http://akamai.com/
 184.50.0.0,184.51.255.255,Akamai,http://akamai.com/
 184.72.0.0,184.73.255.255,Amazon AWS,http://www.amazon.com/aws/
+184.75.208.0,184.75.223.255,Amanah,https://www.amanah.com/
 184.75.240.0,184.75.255.255,Elvsoft,http://www.elvsoft.com/
 184.82.0.0,184.82.255.255,hostnoc,http://www.hostnoc.net/
 184.84.0.0,184.87.255.255,Akamai,http://akamai.com/
