@@ -1371,6 +1371,7 @@
 104.47.169.0,104.47.169.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.47.200.0,104.47.201.15,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.47.208.0,104.47.209.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+104.130.64.0,104.130.223.255,Rackspace,http://www.rackspace.com/
 104.131.0.0,104.131.255.255,DigitalOcean USA,https://www.digitalocean.com/
 104.208.0.0,104.208.0.79,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.208.1.0,104.208.1.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -1412,6 +1413,7 @@
 104.215.168.0,104.215.199.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.215.201.0,104.215.201.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.215.224.0,104.215.239.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+104.239.192.0,104.239.223.255,Rackspace,http://www.rackspace.com/
 106.186.120.0,106.186.127.255,Linode Japan,https://www.linode.com/
 107.6.0.0,107.6.63.255,PEER 1,http://www.peer1.com/
 107.6.64.0,107.6.127.255,Voxel,http://www.voxel.net/
