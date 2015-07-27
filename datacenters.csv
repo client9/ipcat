@@ -2566,6 +2566,7 @@
 209.80.0.0,209.80.63.255,latisys,http://www.latisys.com/
 209.81.64.0,209.81.95.255,LogicWorks,http://www.logicworks.net/
 209.85.0.0,209.85.127.255,SoftLayer,http://www.softlayer.com/
+209.85.128.0,209.85.255.255,Google,http://google.com
 209.95.96.0,209.95.127.255,PEER 1,http://www.peer1.com/
 209.97.192.0,209.97.223.255,RackForce,http://www.rockforce.com/
 209.99.0.0,209.99.127.255,Data Foundry,http://www.datafoundry.com/
@@ -2690,6 +2691,7 @@
 216.55.136.0,216.55.143.255,Codero,http://www.codero.com/
 216.55.160.0,216.55.171.255,Codero,http://www.codero.com/
 216.55.176.0,216.55.187.255,Codero,http://www.codero.com/
+216.58.192.0,216.58.223.255,Google,http://google.com
 216.59.0.0,216.59.63.255,netriplex,http://www.netriplex.com/
 216.65.0.0,216.65.127.255,PEER 1,http://www.peer1.com/
 216.66.0.0,216.66.95.255,Hurricane Electic,http://www.he.net/
