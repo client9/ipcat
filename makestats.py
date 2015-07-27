@@ -23,16 +23,16 @@ for line in sys.stdin:
     rows += 1
     parts = line.split(',')
     if len(parts) != 4:
-        raise Exception("Line %d has more than 4 entries: %s" % (row, line))
+        raise Exception("Line %d has more than 4 entries: %s" % (rows, line))
 
     (dots0,dots1,name,url) = parts
     ip0 = ip2int(dots0)
     ip1 = ip2int(dots1)
     if ip0 > ip1:
-        raise Exception("Line %d has starting IP > ending IP: %s" % (row, line))
+        raise Exception("Line %d has starting IP > ending IP: %s" % (rows, line))
 
     if ip0 <= lastip1:
-        raise Exception("Line %d is not sorted: %s" % (row, line))
+        raise Exception("Line %d is not sorted: %s" % (rows, line))
 
     # we are correct
     lastip0 = ip0
