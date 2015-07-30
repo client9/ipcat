@@ -1869,6 +1869,7 @@
 184.171.240.0,184.171.255.255,DimeNOC,http://dimenoc.com/
 184.172.0.0,184.173.255.255,SoftLayer,http://www.softlayer.com/
 184.174.0.0,184.174.127.255,Colocation America Inc,http://www.colocationamerica.com/
+185.5.96.0,185.5.99.255,Biznes-Host.pl,http://biznes-host.pl
 185.12.64.0,185.12.67.255,Hetzner Online AG,http://www.hetzner.de/
 185.14.184.0,185.14.187.255,DigitalOcean Europe,https://www.digitalocean.com/
 185.48.120.0,185.48.123.255,Amazon AWS,http://www.amazon.com/aws/
