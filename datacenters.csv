@@ -437,6 +437,7 @@
 54.223.0.0,54.229.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.232.0.0,54.238.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.241.0.0,54.255.255.255,Amazon AWS,http://www.amazon.com/aws/
+58.64.185.0,58.64.185.255,NWT iDC Data Service,http://www.newworldtel.com/
 59.151.0.0,59.151.127.255,21vianet,http://21vianet.com/
 59.151.128.0,59.151.191.255,Akamai,http://akamai.com/
 60.254.128.0,60.254.191.255,Akamai,http://akamai.com/
