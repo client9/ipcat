@@ -367,6 +367,7 @@
 46.102.251.0,46.102.251.255,everhost.ro,http://everhost.ro/
 46.105.0.0,46.105.255.255,OVH,http://www.ovh.co.uk/
 46.137.0.0,46.137.255.255,Amazon AWS,http://www.amazon.com/aws/
+46.148.16.0,46.148.31.255,Infium-1,http://infiumhost.com/
 46.151.160.0,46.151.167.255,Vautron AG,http://www.vautron.de/
 46.163.64.0,46.163.127.255,Host Europe,http://www.hosteurope.de/
 46.165.192.0,46.165.255.255,Leaseweb,http://www.leaseweb.com/
