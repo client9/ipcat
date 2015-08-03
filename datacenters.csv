@@ -1601,6 +1601,7 @@
 151.236.4.0,151.236.4.255,EDIS,http://www.edis.at/
 151.236.8.0,151.236.8.255,EDIS,http://www.edis.at/
 151.236.13.0,151.236.15.255,EDIS,http://www.edis.at/
+151.236.24.0,151.236.24.255,EDIS,http://www.edis.at/
 151.236.32.0,151.236.63.255,BlueConnex,http://www.simplytransit.net/
 151.236.216.0,151.236.223.255,Linode,http://www.linode.com/
 151.237.176.0,151.237.177.255,webexxpurts.com,http://webexxpurts.com/
