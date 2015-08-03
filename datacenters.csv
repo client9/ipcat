@@ -2039,6 +2039,7 @@
 192.232.192.0,192.232.255.255,WebsiteWelcome.com,http://www.websitewelcome.com/
 192.236.128.0,192.236.255.255,hostwinds.com,http://www.hostwinds.com/
 192.237.128.0,192.237.255.255,Rackspace,http://www.rackspace.com/
+192.240.96.0,192.240.127.255,FDCservers,https://www.fdcservers.net/
 192.241.8.0,192.241.15.255,avantehosting.net,https://avantehosting.net/
 192.241.64.0,192.241.127.255,servermania.com,http://www.servermania.com/
 192.241.128.0,192.241.255.255,DigitalOcean USA,https://www.digitalocean.com/
