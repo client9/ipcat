@@ -2,6 +2,7 @@
 4.79.16.128,4.79.16.159,co-location.com,http://co-location.com/
 5.9.0.0,5.9.255.255,Hetzner Online AG,http://www.hetzner.de/
 5.10.64.0,5.10.127.255,SoftLayer,http://www.softlayer.com/
+5.34.182.0,5.34.183.255,UA Servers,https://itldc.com/
 5.34.240.0,5.34.244.255,webexxpurts.com,http://webexxpurts.com/
 5.34.247.0,5.34.247.255,webexxpurts.com,http://webexxpurts.com/
 5.35.248.0,5.35.255.255,Host Europe,http://www.hosteurope.de/
@@ -1905,6 +1906,7 @@
 185.4.92.0,185.4.95.255,inAsset,https://inasset.es/
 185.5.96.0,185.5.99.255,Biznes-Host.pl,http://biznes-host.pl
 185.12.64.0,185.12.67.255,Hetzner Online AG,http://www.hetzner.de/
+185.14.28.0,185.14.29.255,UA Servers,https://itldc.com/
 185.14.184.0,185.14.186.255,DigitalOcean Europe,https://www.digitalocean.com/
 185.14.187.0,185.14.187.255,DigitalOcean Europe,https://www.digitalocean.com/
 185.17.184.0,185.17.187.255,Leaseweb,http://www.leaseweb.com/
