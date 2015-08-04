@@ -174,7 +174,6 @@
 31.207.6.128,31.207.6.255,CEU Servers,http://ceuservers.net/
 31.207.88.0,31.207.95.255,Hispaweb Network,http://hispaweb.net/
 31.210.64.0,31.210.127.255,Radore Hosting,http://as42926.net/
-31.210.100.0,31.210.100.255,Sayfa Net,http://www.sayfa.net.tr/
 31.210.232.0,31.210.239.255,crosspointcolo.co.uk,http://crosspointcolo.co.uk/
 31.214.128.0,31.214.255.255,Optimate Server,http://optimate-server.de/
 31.216.48.0,31.216.55.255,Hosting UK,http://hostinguk.net/
@@ -345,6 +344,7 @@
 40.127.64.0,40.127.111.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.127.128.0,40.127.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 42.1.60.0,42.1.63.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
+45.56.64.0,45.56.127.255,Linode,http://www.linode.com/
 46.4.0.0,46.4.255.255,Hetzner Online AG,http://www.hetzner.de/
 46.16.184.0,46.16.191.255,SoftLayer,http://www.softlayer.com/
 46.17.0.0,46.17.7.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
@@ -958,7 +958,6 @@
 78.136.0.0,78.136.63.255,Rackspace,http://www.rackspace.com/
 78.136.64.0,78.136.127.255,ServiHosting Networks S.L.,http://servihosting.es
 78.138.64.0,78.138.127.255,MESH,http://www.mesh.eu/
-78.138.96.0,78.138.99.255,Dediserv,http://www.dediserv.eu/
 78.143.0.0,78.143.63.255,LINK11 Gmbh,http://www.link11.de/
 78.157.192.0,78.157.223.255,UK Dedicated Servers LTD,http://ukservers.com/
 78.159.96.0,78.159.127.255,Leaseweb,http://www.leaseweb.com/
@@ -2665,7 +2664,6 @@
 211.152.32.0,211.152.63.255,21vianet,http://21vianet.com/
 212.1.208.0,212.1.215.255,main-hosting.com,http://main-hosting.com/
 212.7.192.0,212.7.223.255,Dediserv,http://www.dediserv.eu
-212.7.220.0,212.7.220.255,Dediserv,http://www.dediserv.eu
 212.19.160.0,212.19.191.255,Netplus Communication,http://www.netplus.fr/
 212.25.160.0,212.25.191.255,seeweb.it,http://seeweb.it/
 212.38.160.0,212.38.191.255,Thrust VPS,http://www.thrustvps.com/about/why-thrust/
