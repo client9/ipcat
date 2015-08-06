@@ -354,6 +354,8 @@
 40.127.64.0,40.127.111.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.127.128.0,40.127.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 42.1.60.0,42.1.63.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
+45.33.0.0,45.33.127.255,Linode,http://www.linode.com/
+45.34.0.0,45.35.255.255,Psychz Networks,http://psychz.net/
 45.56.64.0,45.56.127.255,Linode,http://www.linode.com/
 46.4.0.0,46.4.255.255,Hetzner Online AG,http://www.hetzner.de/
 46.16.184.0,46.16.191.255,SoftLayer,http://www.softlayer.com/
@@ -1665,6 +1667,7 @@
 162.221.184.0,162.221.191.255,DimeNOC,http://dimenoc.com/
 162.242.128.0,162.242.255.255,Rackspace,http://www.rackspace.com/
 162.243.0.0,162.243.255.255,DigitalOcean USA,https://www.digitalocean.com/
+162.246.16.0,162.246.23.255,InterServer.net,http://www.interserver.net/
 162.248.72.0,162.248.79.255,Volume Drive,http://volumedrive.com
 162.250.120.0,162.250.127.255,InterServer.net,http://www.interserver.net/
 164.40.133.0,164.40.133.255,GoGrid LLC,http://www.gogrid.com/
