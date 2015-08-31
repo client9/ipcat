@@ -28,9 +28,7 @@
 5.199.132.0,5.199.132.255,myLoc,http://www.myloc.de/
 5.199.135.0,5.199.135.192,myLoc,http://www.myloc.de/
 5.199.137.192,5.199.137.255,myLoc,http://www.myloc.de/
-5.254.97.64,5.254.97.127,ixam-hosting,http://ixam-hosting.com/
-5.254.101.64,5.254.101.127,ixam-hosting,http://ixam-hosting.com/
-5.254.104.0,5.254.104.15,Voxility,https://www.voxility.com/
+5.254.64.0,5.254.127.255,Voxility,https://www.voxility.com/
 8.4.9.128,8.4.9.255,co-location.com,http://co-location.com/
 8.4.34.0,8.4.35.255,Peak Web Hosting,http://www.peakwebhosting.com/
 8.8.40.0,8.8.40.255,co-location.com,http://co-location.com/
