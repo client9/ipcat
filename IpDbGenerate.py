@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+
+"""Generate the ipdb for Python."""
+
 import pprint
 from operator import itemgetter
 from socket import inet_aton
@@ -13,7 +16,7 @@ iplist = {}
 if len(sys.argv) > 1:
     fp = open(sys.argv[1], 'r')
 else:
-    #fetch remote datacenter list and convert to searchable datastructure
+    # fetch remote datacenter list and convert to searchable datastructure
     external_list = 'https://raw.github.com/client9/ipcat/master/datacenters.csv'
     fp = urlopen(external_list)
 
@@ -31,10 +34,11 @@ for line in fp:
     )
     iplist[newrow[0]] = newrow
 
-#return the list of entries, sorted by the lowest ip in the range
-iplist = tuple(v for (k,v) in sorted(iplist.iteritems(), key=itemgetter(0)))
+# return the list of entries, sorted by the lowest ip in the range
+iplist = tuple(v for (k, v) in sorted(iplist.iteritems(),
+                                      key=itemgetter(0)))
 
-#autogenerate the class to perform lookups
+# autogenerate the class to perform lookups
 print """#!/usr/bin/env python
 
 from socket import inet_aton
