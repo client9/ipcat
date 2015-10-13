@@ -17,7 +17,8 @@ if len(sys.argv) > 1:
     fp = open(sys.argv[1], 'r')
 else:
     # fetch remote datacenter list and convert to searchable datastructure
-    external_list = 'https://raw.github.com/client9/ipcat/master/datacenters.csv'
+    external_list = \
+        'https://raw.github.com/client9/ipcat/master/datacenters.csv'
     fp = urlopen(external_list)
 
 fp.readline()

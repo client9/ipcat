@@ -78,8 +78,9 @@ Statistics
 What is the file format?
 -------------------------
 
-Standard CSV with ip-start, ip-end (inclusive, in dot-notation), name of provider, url
-of provider.  IP ranges are non-overlapping, and in sorted order.
+Standard CSV with ip-start, ip-end (inclusive, in dot-notation),
+name of provider, url of provider.  IP ranges are non-overlapping,
+and in sorted order.
 
 Why is hosting provider XXX is missing?
 ---------------------------------------
