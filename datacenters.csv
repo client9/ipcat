@@ -1440,6 +1440,7 @@
 104.47.208.0,104.47.209.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.130.64.0,104.130.223.255,Rackspace,http://www.rackspace.com/
 104.131.0.0,104.131.255.255,DigitalOcean USA,https://www.digitalocean.com/
+104.207.142.0,104.207.143.255,Vultr,https://www.vultr.com/
 104.208.0.0,104.208.0.79,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.208.1.0,104.208.1.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.208.8.0,104.208.40.63,Microsoft Azure,http://www.windowsazure.com/en-us/
