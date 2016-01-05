@@ -1027,7 +1027,7 @@
 83.170.64.0,83.170.127.255,UK2 Group,http://www.uk2.net/
 83.217.64.0,83.217.95.255,easyhost.be,http://easyhost.be/
 83.220.128.0,83.220.159.255,MESH,http://www.mesh.eu/
-83.222.0.0,83.222.1.255,masterhost.ru,http://masterhost.ru/
+83.222.0.0,83.222.31.255,masterhost.ru,http://masterhost.ru/
 83.222.224.0,83.222.255.255,PEER 1,http://www.peer1.com/
 83.243.8.0,83.243.15.255,root S.A.,http://www.site.lu/
 83.243.56.0,83.243.63.255,Vautron AG,http://www.vautron.de/
@@ -1077,7 +1077,7 @@
 87.233.0.0,87.233.255.255,trueserver.nl,http://trueserver.nl/
 87.237.208.0,87.237.215.255,FSdata,http://fsdata.se/
 87.238.168.0,87.238.175.255,duocast,http://duocast.nl/
-87.242.64.0,87.242.79.255,masterhost.ru,http://masterhost.ru/
+87.242.64.0,87.242.127.255,masterhost.ru,http://masterhost.ru/
 87.253.128.0,87.253.159.255,transip,https://www.transip.nl/
 88.80.0.0,88.80.31.255,prq.se,http://prq.se/
 88.80.192.0,88.80.223.255,Host Europe,http://www.hosteurope.de/
@@ -2744,6 +2744,7 @@
 216.182.224.0,216.182.239.255,Amazon AWS,http://www.amazon.com/aws/
 216.185.96.0,216.185.127.255,SoftLayer,http://www.softlayer.com/
 216.187.64.0,216.187.127.255,PEER 1,http://www.peer1.com/
+216.189.144.0,216.189.159.255,Host US,http://hostus.us/
 216.211.128.0,216.211.143.255,Adhost,http://www.adhost.com/
 216.213.0.0,216.213.191.255,thorn.net,http://www.thorn.net/
 216.218.128.0,216.218.255.255,Hurricane Electic,http://www.he.net/
@@ -2771,7 +2772,7 @@
 217.8.1.0,217.8.1.31,iomart,http://www.iomart.com/
 217.8.1.48,217.8.1.63,iomart,http://www.iomart.com/
 217.8.240.0,217.8.255.255,Webfusion,http://www.webfusion.com/
-217.16.16.0,217.16.23.15,masterhost.ru,http://masterhost.ru/
+217.16.16.0,217.16.31.255,masterhost.ru,http://masterhost.ru/
 217.16.176.0,217.16.191.255,vshosting.cz,http://vshosting.cz/
 217.18.64.0,217.18.79.255,qweb,http://www.qweb.nl/
 217.19.224.0,217.19.239.255,Combell,http://www.combell.com/
@@ -2784,6 +2785,8 @@
 217.72.192.0,217.72.207.255,1&1 Internet,http://www.1and1.com/
 217.72.240.0,217.72.255.255,Datapipe,http://www.datapipe.com/
 217.77.176.0,217.77.191.255,Titan Internet Ltd,http://www.titaninternet.co.uk/index.cfm
+217.78.0.0,217.78.15.255,DigiWeb,http://dediserve.com/
+217.107.216.0,217.107.216.255,RTComm,http://rtcomm.ru/
 217.115.128.0,217.115.159.255,Host Europe,http://www.hosteurope.de/
 217.116.0.0,217.116.31.255,acens Technologies S.L.,http://www.acens.com/
 217.116.192.0,217.116.207.255,hosthane.com,http://www.hosthane.com/
@@ -2806,6 +2809,8 @@
 217.198.128.0,217.198.143.255,LINK11 Gmbh,http://www.link11.de/
 217.199.160.0,217.199.191.255,Webfusion,http://www.webfusion.com/
 219.94.128.0,219.94.255.255,Sakura Internet,http://www.sakura.ne.jp/
+221.121.128.0,221.121.159.255,Servers Australia,http://serversaustralia.com.au/
+221.132.16.0,221.132.39.255,Superdata,http://superdata.vn/
 223.25.240.0,223.25.243.255,Gigabit Hosting Sdn Bhd,http://thegigabit.com/
 223.25.245.0,223.25.247.255,Gigabit Hosting Sdn Bhd,http://thegigabit.com/
 223.27.168.0,223.27.175.255,Voxel,http://www.voxel.net/
