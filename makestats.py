@@ -1,6 +1,9 @@
 #!/usr/bin/env python
+
 """
-validates file and produces the README.md file with stats, or pops an exception
+validate file and produces the README.md.
+
+generates README.md file with stats, or pops an exception.
 """
 
 import sys
@@ -8,8 +11,10 @@ import socket
 import struct
 from collections import Counter
 
+
 def ip2int(ip):
-    return struct.unpack('>I',socket.inet_aton(ip))[0]
+    """Convert an IP to an Integer."""
+    return struct.unpack('>I', socket.inet_aton(ip))[0]
 
 rows = 0
 counts = Counter()
@@ -25,11 +30,12 @@ for line in sys.stdin:
     if len(parts) != 4:
         raise Exception("Line %d has more than 4 entries: %s" % (rows, line))
 
-    (dots0,dots1,name,url) = parts
+    (dots0, dots1, name, url) = parts
     ip0 = ip2int(dots0)
     ip1 = ip2int(dots1)
     if ip0 > ip1:
-        raise Exception("Line %d has starting IP > ending IP: %s" % (rows, line))
+        raise Exception("Line %d has starting IP > ending IP: %s" %
+                        (rows, line))
 
     if ip0 <= lastip1:
         raise Exception("Line %d is not sorted: %s" % (rows, line))
@@ -72,8 +78,9 @@ Statistics
 What is the file format?
 -------------------------
 
-Standard CSV with ip-start, ip-end (inclusive, in dot-notation), name of provider, url
-of provider.  IP ranges are non-overlapping, and in sorted order.
+Standard CSV with ip-start, ip-end (inclusive, in dot-notation),
+name of provider, url of provider.  IP ranges are non-overlapping,
+and in sorted order.
 
 Why is hosting provider XXX is missing?
 ---------------------------------------
@@ -105,6 +112,3 @@ Who made this?
 Nick Galbreath.  See more at http://www.client9.com/
 
 """ % (total, rows, len(counts)))
-
-
-

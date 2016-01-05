@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 
-#
-# Generates a C-struct
-#  Doesn't generate the lookup bsearch algorithm
-#
+"""Generate the ipdb for Go."""
 
 import pprint
 from operator import itemgetter
@@ -14,7 +11,7 @@ from urllib import urlopen
 pp = pprint.PrettyPrinter(indent=4, width=50)
 iplist = {}
 
-#fetch remote datacenter list and convert to searchable datastructure
+# fetch remote datacenter list and convert to searchable datastructure
 external_list = 'https://raw.github.com/client9/ipcat/master/datacenters.csv'
 fp = urlopen(external_list)
 for line in fp:
@@ -35,10 +32,10 @@ for line in fp:
     }
     iplist[ipint] = newrow
 
-#return the list of entries, sorted by the lowest ip in the range
-iplist = [v for (k,v) in sorted(iplist.iteritems(), key=itemgetter(0))]
+# return the list of entries, sorted by the lowest ip in the range
+iplist = [v for (k, v) in sorted(iplist.iteritems(), key=itemgetter(0))]
 
-#autogenerate the class to perform lookups
+# autogenerate the class to perform lookups
 print """
 package ipdb
 
@@ -53,10 +50,10 @@ type IpRangeOwner struct {
 }
 """
 
-print "const ipDbLen = {0};".format(len(iplist));
+print "const ipDbLen = {0};".format(len(iplist))
 
 print """
-func Find(ipStr string) bool { 
+func Find(ipStr string) bool {
     ip := net.ParseIP(ipStr)
     if ip != nil {
         high := ipDbLen - 1
@@ -81,7 +78,8 @@ func Find(ipStr string) bool {
 var ipDb = []IpRangeOwner{
 """
 
+constStr = 'IpRangeOwner{{ net.ParseIP("{0}"), net.ParseIP("{1}"),"{2}" }},'
 for val in iplist:
-    print 'IpRangeOwner{{ net.ParseIP("{0}"), net.ParseIP("{1}"),"{2}" }},'.format(val['_ip0'], val['_ip1'], val['owner'])
+    print constStr.format(val['_ip0'], val['_ip1'], val['owner'])
 
 print "}"
