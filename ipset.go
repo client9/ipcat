@@ -1,4 +1,4 @@
-package main
+package ipcat
 
 import (
 	"encoding/csv"
@@ -22,6 +22,26 @@ func dots2uint32(dots string) uint32 {
 		return 0
 	}
 	return uint32(ip[0])<<24 + uint32(ip[1])<<16 + uint32(ip[2])<<8 + uint32(ip[3])
+}
+
+// CIDR2Range converts a CIDR to a dotted IP address pair, or empty strings and error
+//  generic.. does not care if ipv4 or ipv6
+func CIDR2Range(c string) (string, string, error) {
+	left, ipnet, err := net.ParseCIDR(c)
+	if err != nil {
+		return "", "", err
+	}
+	left4 := left.To4()
+	if left4 == nil {
+		return "", "", nil
+	}
+	right := net.IPv4(0, 0, 0, 0).To4()
+	right[0] = left4[0] | ^ipnet.Mask[0]
+	right[1] = left4[1] | ^ipnet.Mask[1]
+	right[2] = left4[2] | ^ipnet.Mask[2]
+	right[3] = left4[3] | ^ipnet.Mask[3]
+
+	return left4.String(), right.To4().String(), nil
 }
 
 // ToDots converts a uint32 to a IPv4 Dotted notation
@@ -81,8 +101,8 @@ func (ipset *IntervalSet) ImportCSV(in io.Reader) error {
 		if len(record) != 4 {
 			return fmt.Errorf("Expected 4 records but got %d", len(record))
 		}
-		if !ipset.AddRange(record[0], record[1], record[2], record[3]) {
-			return fmt.Errorf("Unable to add record")
+		if err = ipset.AddRange(record[0], record[1], record[2], record[3]); err != nil {
+			return err
 		}
 	}
 	return ipset.sort()
@@ -139,25 +159,41 @@ func (ipset IntervalSet) sort() error {
 	return nil
 }
 
-func (ipset *IntervalSet) AddRange(dotsleft, dotsright, name, url string) bool {
+func (ipset *IntervalSet) AddCIDR(cidr, name, url string) error {
+	dotsleft, dotsright, err := CIDR2Range(cidr)
+	if err != nil {
+		return err
+	}
+	return ipset.AddRange(dotsleft, dotsright, name, url)
+}
+
+func (ipset *IntervalSet) AddRange(dotsleft, dotsright, name, url string) error {
 	left := dots2uint32(dotsleft)
 	if left == 0 && dotsleft != "0.0.0.0" {
-		return false
+		return fmt.Errorf("Unable to convert %s", dotsleft)
 	}
 	right := dots2uint32(dotsright)
 	if right == 0 && dotsright != "0.0.0.0" {
-		return false
+		return fmt.Errorf("Unable to convert %s", dotsright)
 	}
 	if left > right {
-		return false
+		return fmt.Errorf("%s > %s", dotsleft, dotsright)
 	}
 	if right-left >= uint32(1)<<24 {
-		return false
+		return fmt.Errorf("Range too big")
 	}
 	ipset.sorted = false
 	ipset.btree = append(ipset.btree,
-		interval{Left: left, Right: right, LeftDots: dotsleft, RightDots: dotsright, Name: name, URL: url})
-	return true
+		interval{
+			Left:      left,
+			Right:     right,
+			LeftDots:  dotsleft,
+			RightDots: dotsright,
+			Name:      name,
+			URL:       url,
+		},
+	)
+	return nil
 }
 
 func (ipset IntervalSet) Len() int {
