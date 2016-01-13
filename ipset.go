@@ -89,8 +89,10 @@ func NewIntervalSet(capacity int) *IntervalSet {
 func (ipset *IntervalSet) ImportCSV(in io.Reader) error {
 	ipset.btree = nil
 	ipset.sorted = false
+	line := 0
 	r := csv.NewReader(in)
 	for {
+		line++
 		record, err := r.Read()
 		if err == io.EOF {
 			break
@@ -99,7 +101,7 @@ func (ipset *IntervalSet) ImportCSV(in io.Reader) error {
 			return err
 		}
 		if len(record) != 4 {
-			return fmt.Errorf("Expected 4 records but got %d", len(record))
+			return fmt.Errorf("line %d: expected 4 records but got %d %v", line, len(record), record)
 		}
 		if err = ipset.AddRange(record[0], record[1], record[2], record[3]); err != nil {
 			return err
