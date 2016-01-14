@@ -405,16 +405,20 @@
 50.117.0.0,50.117.127.255,EGIHosting.com,http://www.egihosting.com/
 51.254.0.0,51.255.255.255,OVH,http://www.ovh.co.uk/
 52.0.0.0,52.13.255.255,Amazon AWS,http://www.amazon.com/aws/
-52.16.0.0,52.35.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.16.0.0,52.43.255.255,Amazon AWS,http://www.amazon.com/aws/
 52.48.0.0,52.53.255.255,Amazon AWS,http://www.amazon.com/aws/
 52.58.0.0,52.59.255.255,Amazon AWS,http://www.amazon.com/aws/
 52.62.0.0,52.65.255.255,Amazon AWS,http://www.amazon.com/aws/
-52.68.0.0,52.74.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.67.0.0,52.74.255.255,Amazon AWS,http://www.amazon.com/aws/
 52.76.0.0,52.77.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.79.0.0,52.79.255.255,Amazon AWS,http://www.amazon.com/aws/
 52.86.0.0,52.91.255.255,Amazon AWS,http://www.amazon.com/aws/
 52.95.240.0,52.95.249.255,Amazon AWS,http://www.amazon.com/aws/
+52.95.252.0,52.95.252.255,Amazon AWS,http://www.amazon.com/aws/
 52.95.255.0,52.95.255.159,Amazon AWS,http://www.amazon.com/aws/
 52.192.0.0,52.193.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.196.0.0,52.215.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.220.0.0,52.221.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.64.0.0,54.95.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.144.0.0,54.179.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.183.0.0,54.191.255.255,Amazon AWS,http://www.amazon.com/aws/
