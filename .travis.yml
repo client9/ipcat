@@ -2,8 +2,8 @@ sudo: required
 dist: trusty
 language: generic
 
-services:
-  - docker
+#services:
+#  - docker
 
 script:
   - make -e docker-ci
