@@ -198,7 +198,7 @@ func (ipset *IntervalSet) AddRange(dotsleft, dotsright, name, url string) error 
 	return nil
 }
 
-func (ipset* IntervalSet) DeleteByName(name string) {
+func (ipset *IntervalSet) DeleteByName(name string) {
 	newlist := intervallist{}
 	for _, entry := range ipset.btree {
 		if entry.Name != name {
