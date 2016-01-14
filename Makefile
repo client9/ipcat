@@ -2,7 +2,7 @@
 all: generate
 
 generate:
-	go run golang/ipset.go < datacenters.csv > tmp.txt
+	go run ./cmd/ipcat/main.go < datacenters.csv > tmp.txt
 	cp tmp.txt datacenters.csv
 	./makestats.py < datacenters.csv > README.md
 
