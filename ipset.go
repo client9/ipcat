@@ -4,7 +4,6 @@ import (
 	"encoding/csv"
 	"fmt"
 	"io"
-
 	"net"
 	"sort"
 )
@@ -52,7 +51,7 @@ func ToDots(val uint32) string {
 		val&0xFF)
 }
 
-// IpRange is a closed interval
+// interval is a closed interval
 type interval struct {
 	Left      uint32
 	Right     uint32
@@ -64,27 +63,36 @@ type interval struct {
 
 type intervallist []interval
 
+// Len satifies the sort.Sortable interface
 func (ipset intervallist) Len() int {
 	return len(ipset)
 }
+
+// Less satifies the sort.Sortable interface
 func (ipset intervallist) Less(i, j int) bool {
 	return ipset[i].Left < ipset[j].Left
 }
+
+// Swap satifies the sort.Sortable interface
 func (ipset intervallist) Swap(i, j int) {
 	ipset[i], ipset[j] = ipset[j], ipset[i]
 }
 
+// IntervalSet is a mapping of an IP range (the closed interval)
+//  to additional data
 type IntervalSet struct {
 	btree  intervallist
 	sorted bool
 }
 
+// NewIntervalSet creates a new set with a capacity
 func NewIntervalSet(capacity int) *IntervalSet {
 	return &IntervalSet{
 		btree: make([]interval, 0, capacity),
 	}
 }
 
+// ImportCSV imports data from a CSV file
 func (ipset *IntervalSet) ImportCSV(in io.Reader) error {
 	ipset.btree = nil
 	ipset.sorted = false
@@ -181,6 +189,7 @@ func (ipset *IntervalSet) sort() error {
 	return nil
 }
 
+// AddCIDR adds an entry based on a CIDR range
 func (ipset *IntervalSet) AddCIDR(cidr, name, url string) error {
 	dotsleft, dotsright, err := CIDR2Range(cidr)
 	if err != nil {
@@ -189,6 +198,7 @@ func (ipset *IntervalSet) AddCIDR(cidr, name, url string) error {
 	return ipset.AddRange(dotsleft, dotsright, name, url)
 }
 
+// AddRange adds an entry based on an IP range
 func (ipset *IntervalSet) AddRange(dotsleft, dotsright, name, url string) error {
 	left := dots2uint32(dotsleft)
 	if left == 0 && dotsleft != "0.0.0.0" {
@@ -218,6 +228,7 @@ func (ipset *IntervalSet) AddRange(dotsleft, dotsright, name, url string) error 
 	return nil
 }
 
+// DeleteByName deletes all entries with the given name
 func (ipset *IntervalSet) DeleteByName(name string) {
 	newlist := intervallist{}
 	for _, entry := range ipset.btree {
@@ -228,10 +239,13 @@ func (ipset *IntervalSet) DeleteByName(name string) {
 	ipset.btree = newlist
 }
 
+// Len returns the number of elements in the set
 func (ipset IntervalSet) Len() int {
 	return ipset.btree.Len()
 }
 
+// Contains returns true if the IP address is in some interval
+//  else false or error
 func (ipset IntervalSet) Contains(dots string) (bool, error) {
 	if !ipset.sorted {
 		err := ipset.sort()

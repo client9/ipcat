@@ -21,6 +21,7 @@ type AWS struct {
 	Prefixes   []AWSPrefix `json:"prefixes"`
 }
 
+// DownloadAWS downloads the latest AWS IP ranges list
 func DownloadAWS() ([]byte, error) {
 	const (
 		awsDownload = "https://ip-ranges.amazonaws.com/ip-ranges.json"
@@ -41,7 +42,7 @@ func DownloadAWS() ([]byte, error) {
 
 }
 
-// UpdateAWS
+// UpdateAWS parses the AWS IP json file and updates the interval set
 func UpdateAWS(ipmap *IntervalSet, body []byte) error {
 	const (
 		awsName = "Amazon AWS"
