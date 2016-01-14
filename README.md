@@ -1,6 +1,6 @@
 ipcat: datasets for categorizing IP addresses.
 
-[![Go Report Card](http://goreportcard.com/badge/client9/ipcat)](http://goreportcard.com/report/client9/ipcat)[![GoDoc](https://godoc.org/github.com/client9/ipcat?status.svg)](https://godoc.org/github.com/client9/ipcat) [![Coverage](http://gocover.io/_badge/github.com/client9/ipcat)](http://gocover.io/github.com/client9/ipcat)
+[![Go Report Card](http://goreportcard.com/badge/client9/ipcat)](http://goreportcard.com/report/client9/ipcat) [![GoDoc](https://godoc.org/github.com/client9/ipcat?status.svg)](https://godoc.org/github.com/client9/ipcat) [![Coverage](http://gocover.io/_badge/github.com/client9/ipcat)](http://gocover.io/github.com/client9/ipcat)
 
 The first release "datacenters.csv" is focusing
 on IPv4 address that correspond to datacenters, co-location centers,
