@@ -169,7 +169,7 @@ func (ipset *IntervalSet) sort() error {
 			last = val
 			continue
 		}
-		if last.Right + 1 == val.Left && last.Name == val.Name {
+		if last.Right+1 == val.Left && last.Name == val.Name {
 			last.Right = val.Right
 			newtree[len(newtree)-1] = last
 			continue
@@ -252,4 +252,3 @@ func (ipset IntervalSet) Contains(dots string) (bool, error) {
 	}
 	return false, nil
 }
-
