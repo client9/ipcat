@@ -4,9 +4,8 @@ import (
 	"encoding/csv"
 	"fmt"
 	"io"
-	"log"
+
 	"net"
-	"os"
 	"sort"
 )
 
@@ -135,12 +134,14 @@ func (ipset *IntervalSet) ExportCSV(in io.Writer) error {
 	return nil
 }
 
-func (ipset IntervalSet) sort() error {
+func (ipset *IntervalSet) sort() error {
 	if ipset.sorted {
 		return nil
 	}
 	sort.Sort(ipset.btree)
+
 	last := interval{}
+	// check validity -- probably worth ripping out
 	for pos, val := range ipset.btree {
 		if val.Left > val.Right {
 			return fmt.Errorf("left %d > right %d at pos %d",
@@ -158,6 +159,25 @@ func (ipset IntervalSet) sort() error {
 		last = val
 	}
 	ipset.sorted = true
+
+	// now merge adjacent items
+	newtree := make([]interval, 0, len(ipset.btree))
+	last = interval{}
+	for pos, val := range ipset.btree {
+		if pos == 0 {
+			newtree = append(newtree, val)
+			last = val
+			continue
+		}
+		if last.Right + 1 == val.Left && last.Name == val.Name {
+			last.Right = val.Right
+			newtree[len(newtree)-1] = last
+			continue
+		}
+		newtree = append(newtree, val)
+		last = val
+	}
+	ipset.btree = newtree
 	return nil
 }
 
@@ -233,14 +253,3 @@ func (ipset IntervalSet) Contains(dots string) (bool, error) {
 	return false, nil
 }
 
-func main() {
-	set := IntervalSet{}
-	err := set.ImportCSV(os.Stdin)
-	if err != nil {
-		log.Fatalf("Unable to import: %s", err)
-	}
-	err = set.ExportCSV(os.Stdout)
-	if err != nil {
-		log.Fatalf("Unable to export: %s", err)
-	}
-}

@@ -7,7 +7,7 @@ import (
 	"net/http"
 )
 
-// Prefix is an AWS Prefix
+// AWSPrefix is AWS prefix in their IP ranges file
 type AWSPrefix struct {
 	IPPrefix string `json:"ip_prefix"`
 	Region   string `json:"region"`
