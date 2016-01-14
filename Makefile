@@ -2,13 +2,11 @@
 all: generate
 
 generate:
-	go run ./cmd/ipcat/main.go < datacenters.csv > tmp.txt
-	cp tmp.txt datacenters.csv
+	go run ./cmd/ipcat/main.go
 	./makestats.py < datacenters.csv > README.md
 
 aws:
-	go run ./cmd/ipcat/main.go -aws < datacenters.csv > tmp.txt
-	cp tmp.txt datacenters.csv
+	go run ./cmd/ipcat/main.go -aws
 	./makestats.py < datacenters.csv > README.md
 
 README.md: makestats.py datacenters.csv

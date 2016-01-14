@@ -10,13 +10,19 @@ import (
 
 func main() {
 	updateAWS := flag.Bool("aws", false, "update AWS records")
+	datafile := flag.String("csvfile", "datacenters.csv", "read/write from this file")
 	flag.Parse()
 
+	filein, err := os.Open(*datafile)
+	if err != nil {
+		log.Fatalf("Unable to read %s: %s", *datafile, err)
+	}
 	set := ipcat.IntervalSet{}
-	err := set.ImportCSV(os.Stdin)
+	err = set.ImportCSV(filein)
 	if err != nil {
 		log.Fatalf("Unable to import: %s", err)
 	}
+	filein.Close()
 
 	if *updateAWS {
 		body, err := ipcat.DownloadAWS()
@@ -29,8 +35,13 @@ func main() {
 		}
 	}
 
-	err = set.ExportCSV(os.Stdout)
+	fileout, err := os.OpenFile(*datafile, os.O_WRONLY, 0)
+	if err != nil {
+		log.Fatalf("Unable to open file to write: %s", err)
+	}
+	err = set.ExportCSV(fileout)
 	if err != nil {
 		log.Fatalf("Unable to export: %s", err)
 	}
+	fileout.Close()
 }
