@@ -3,12 +3,11 @@ all: generate
 
 generate:
 	go run ./cmd/ipcat/main.go
-	./makestats.py < datacenters.csv > README.md
 
 aws:
 	go run ./cmd/ipcat/main.go -aws
-	./makestats.py < datacenters.csv > README.md
 
+# todo change to golang
 README.md: makestats.py datacenters.csv
 	./makestats.py < datacenters.csv > README.md
 
@@ -21,3 +20,16 @@ test:
 
 clean:
 	rm -f *~
+
+
+ci: generate test
+
+docker-ci:
+	docker run --rm \
+		-e COVERALLS_REPO_TOKEN=$(COVERALLS_REPO_TOKEN) \
+		-v $(PWD):/go/src/github.com/client9/ipcat \
+		-w /go/src/github.com/client9/ipcat \
+		nickg/golang-dev-docker \
+		make ci
+
+.PHONY: ci docker-ci
