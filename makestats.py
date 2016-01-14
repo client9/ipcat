@@ -50,10 +50,9 @@ for line in sys.stdin:
 
 print("""ipcat: datasets for categorizing IP addresses.
 
-The first release "datacenters.csv" is focusing
-on IPv4 address that correspond to datacenters, co-location centers,
-shared and virtual webhosting providers.  In other words, ip addresses
-that end web consumers should not be using.
+This is a list of IPv4 address that correspond to datacenters,
+co-location centers, shared and virtual webhosting providers.  In
+other words, ip addresses that end web consumers should not be using.
 
 Licensing -- GPL v3
 ------------------------

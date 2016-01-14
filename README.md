@@ -1,7 +1,5 @@
 ipcat: datasets for categorizing IP addresses.
 
-[![Build Status](https://travis-ci.org/client9/ipcat.svg)](https://travis-ci.org/client9/ipcat) [![Go Report Card](http://goreportcard.com/badge/client9/ipcat)](http://goreportcard.com/report/client9/ipcat) [![GoDoc](https://godoc.org/github.com/client9/ipcat?status.svg)](https://godoc.org/github.com/client9/ipcat) [![Coverage](http://gocover.io/_badge/github.com/client9/ipcat)](http://gocover.io/github.com/client9/ipcat)
-
 This is a list of IPv4 address that correspond to datacenters,
 co-location centers, shared and virtual webhosting providers.  In
 other words, ip addresses that end web consumers should not be using.
