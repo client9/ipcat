@@ -167,6 +167,7 @@
 31.187.64.0,31.187.66.255,servhost.de,http://servhost.de/
 31.187.74.0,31.187.75.255,servhost.de,http://servhost.de/
 31.192.104.0,31.192.111.255,HostKey,http://www.hostkey.com/
+31.192.224.0,31.192.231.255,GleSys,http://glesys.se/
 31.193.0.0,31.193.15.255,BurstNET,http://burst.net/
 31.193.128.0,31.193.143.255,BlueConnex,http://www.simplytransit.net/
 31.193.192.0,31.193.199.255,hostex.lt,http://hostex.lt/
@@ -330,6 +331,7 @@
 46.20.10.0,46.20.10.255,Turkiye Telekom Datacenter,http://ttnetdc.com/
 46.20.12.1,46.20.12.128,Turkiye Telekom Datacenter,http://ttnetdc.com/
 46.20.112.0,46.20.127.255,PEER 1,http://www.peer1.com/
+46.21.96.0,46.21.111.255,GleSys,http://glesys.se/
 46.21.144.0,46.21.159.255,Swiftway,http://swiftway.net/
 46.21.160.0,46.21.175.255,rijndata.nl,http://rijndata.nl/
 46.21.192.0,46.21.207.255,euro-web.com,http://fr.euro-web.com/
@@ -948,6 +950,7 @@
 78.157.192.0,78.157.223.255,UK Dedicated Servers LTD,http://ukservers.com/
 78.159.96.0,78.159.127.255,Leaseweb,http://www.leaseweb.com/
 79.98.128.0,79.98.135.255,Radore Hosting,http://as42926.net/
+79.99.0.0,79.99.7.255,GleSys,http://glesys.se/
 79.125.0.0,79.125.127.255,Amazon AWS,http://www.amazon.com/aws/
 79.133.32.0,79.133.63.255,First Colo GmbH,http://www.first-colo.net/EN/
 79.137.208.0,79.137.239.255,Digital Network JSC,http://www.di-net.ru/
@@ -1443,6 +1446,7 @@
 109.73.64.0,109.73.79.255,Redstation Limited,http://redstation.com/
 109.73.112.0,109.73.127.255,The Bunker,http://www.thebunker.net/
 109.73.160.0,109.73.175.255,DimeNOC,http://dimenoc.com/
+109.74.0.0,109.74.15.255,GleSys,http://glesys.se/
 109.74.192.0,109.74.207.255,Linode,http://www.linode.com/
 109.75.160.0,109.75.175.255,Web Hosting UK,http://www.webhosting.uk.com/
 109.104.64.0,109.104.95.255,Webfusion,http://www.webfusion.com/
@@ -1585,6 +1589,7 @@
 158.255.0.0,158.255.7.255,HostKey,http://www.hostkey.com/
 158.255.40.0,158.255.47.255,eukhost.com,http://eukhost.com/
 158.255.208.0,158.255.215.255,EDIS,http://www.edis.at/
+159.253.24.0,159.253.31.255,GleSys,http://glesys.se/
 159.253.56.0,159.253.63.255,host-it.co.uk,http://www.host-it.co.uk/
 159.253.128.0,159.253.159.255,SoftLayer,http://www.softlayer.com/
 162.158.0.0,162.159.255.255,CloudFlare Inc,https://www.cloudflare.com/
