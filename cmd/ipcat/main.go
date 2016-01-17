@@ -1,8 +1,8 @@
 package main
 
 import (
-	"fmt"
 	"flag"
+	"fmt"
 	"log"
 	"os"
 
@@ -38,7 +38,7 @@ func main() {
 	}
 
 	if *statsfile != "" {
-		fileout, err := os.OpenFile(*statsfile, os.O_WRONLY | os.O_CREATE | os.O_TRUNC, 0644)
+		fileout, err := os.OpenFile(*statsfile, os.O_WRONLY|os.O_CREATE|os.O_TRUNC, 0644)
 		if err != nil {
 			log.Fatalf("Unable to open file to write: %s", err)
 		}
@@ -50,7 +50,7 @@ func main() {
 		fileout.Close()
 	}
 
-	fileout, err := os.OpenFile(*datafile, os.O_WRONLY | os.O_CREATE, 0644)
+	fileout, err := os.OpenFile(*datafile, os.O_WRONLY|os.O_CREATE, 0644)
 	if err != nil {
 		log.Fatalf("Unable to open file to write: %s", err)
 	}

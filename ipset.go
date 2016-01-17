@@ -267,11 +267,13 @@ func (ipset IntervalSet) Contains(dots string) (bool, error) {
 	return false, nil
 }
 
+// NameSize is a tuple mapping name with a size
 type NameSize struct {
 	Name string
 	Size int
 }
 
+// NameSizeList is a list of NameSize
 type NameSizeList []NameSize
 
 // Len satifies the sort.Sortable interface
@@ -291,7 +293,7 @@ func (list NameSizeList) Swap(i, j int) {
 	list[i], list[j] = list[j], list[i]
 }
 
-// RankBySize
+// RankBySize returns a list ISP and how many IPs they have
 //  From this it's easy to compute
 //    * Lastest providers
 //    * Number of providers
@@ -300,7 +302,7 @@ func (list NameSizeList) Swap(i, j int) {
 func (ipset IntervalSet) RankBySize() NameSizeList {
 	counts := make(map[string]int, ipset.Len())
 	for _, val := range ipset.btree {
-		counts[val.Name] += int(val.Right - val.Left) + 1
+		counts[val.Name] += int(val.Right-val.Left) + 1
 	}
 	rank := make(NameSizeList, 0, len(counts))
 	for k, v := range counts {

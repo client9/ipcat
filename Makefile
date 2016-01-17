@@ -14,6 +14,10 @@ test:
 	golint ./...
 	go test .
 
+misspell:
+	misspell README.md
+	find . -name '*.go' | misspell
+
 clean:
 	rm -f *~
 
