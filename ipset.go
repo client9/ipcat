@@ -266,3 +266,44 @@ func (ipset IntervalSet) Contains(dots string) (bool, error) {
 	}
 	return false, nil
 }
+
+type NameSize struct {
+	Name string
+	Size int
+}
+
+type NameSizeList []NameSize
+
+// Len satifies the sort.Sortable interface
+func (list NameSizeList) Len() int {
+	return len(list)
+}
+
+// Less satifies the sort.Sortable interface
+func (list NameSizeList) Less(i, j int) bool {
+	return list[i].Size < list[j].Size
+}
+
+// Swap satifies the sort.Sortable interface
+func (list NameSizeList) Swap(i, j int) {
+	list[i], list[j] = list[j], list[i]
+}
+
+// RankBySize
+//  From this it's easy to compute
+//    * Lastest providers
+//    * Number of providers
+//    * Total number IPs address
+//
+func (ipset IntervalSet) RankBySize() NameSizeList {
+	counts := make(map[string]int, ipset.Len())
+	for _, val := range ipset.btree {
+		counts[val.Name] += int(val.Right - val.Left) + 1
+	}
+	rank := make(NameSizeList, 0, len(counts))
+	for k, v := range counts {
+		rank = append(rank, NameSize{k, v})
+	}
+	sort.Sort(rank)
+	return rank
+}
