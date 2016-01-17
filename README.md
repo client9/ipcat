@@ -20,11 +20,7 @@ This may be changed to another less restrictive license later.
 Statistics
 ------------------------
 
-<table>
-<tr><th>IPs</th><td>57003088</td></tr>
-<tr><th>Records</th><td>2828</td></tr>
-<tr><th>ISPs</th><td>586</td></tr>
-</table>
+Check out the new [datacenter stats](/datacenter-stats.csv)
 
 What is the file format?
 -------------------------

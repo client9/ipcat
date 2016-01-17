@@ -7,10 +7,6 @@ generate:
 aws:
 	go run ./cmd/ipcat/main.go -aws
 
-# todo change to golang
-README.md: makestats.py datacenters.csv
-	./makestats.py < datacenters.csv > README.md
-
 test:
 	find . -name '*.go' | xargs gofmt -w -s
 	find . -name '*.go' | xargs goimports -w
