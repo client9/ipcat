@@ -280,8 +280,10 @@ func (list NameSizeList) Len() int {
 }
 
 // Less satifies the sort.Sortable interface
+// THIS IS DESCENDING SORT, the sign is flipped
+//  MORE = FIRST
 func (list NameSizeList) Less(i, j int) bool {
-	return list[i].Size < list[j].Size
+	return list[i].Size > list[j].Size
 }
 
 // Swap satifies the sort.Sortable interface
