@@ -20,7 +20,7 @@ This may be changed to another less restrictive license later.
 Statistics
 ------------------------
 
-Check out the new [datacenter stats](/datacenter-stats.csv)
+Check out the new [datacenter stats](/datacenters-stats.csv)
 
 What is the file format?
 -------------------------
