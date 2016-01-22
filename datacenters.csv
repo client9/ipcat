@@ -207,6 +207,9 @@
 37.123.114.0,37.123.115.255,UK2 Group,http://www.vps.net/
 37.123.118.0,37.123.118.255,UK2 Group,http://www.vps.net/
 37.128.129.0,37.128.129.255,Memset Ltd,http://www.memset.com/
+37.130.225.0,37.130.225.255,UK2 Hosting Services,https://www.uk2.net/
+37.130.226.0,37.130.227.255,UK2 Hosting Services,https://www.uk2.net/
+37.130.228.0,37.130.229.255,UK2 Hosting Services,https://www.uk2.net/
 37.139.52.0,37.139.52.255,MrHost,http://mrhost.biz/
 37.140.192.0,37.140.195.255,Reg.ru,https://www.reg.ru/
 37.143.8.0,37.143.15.255,ihc.ru,http://www.ihc.ru/
@@ -1144,6 +1147,7 @@
 91.90.24.0,91.90.31.255,PatrikWeb,http://patrikweb.net/
 91.102.88.0,91.102.95.255,Solido Hosting A/S,http://solidohosting.com/
 91.105.232.0,91.105.239.255,H1 Host,https://www.h1host.ru/
+91.109.240.0,91.109.247.255,UK2,https://www.uk2.net/
 91.121.0.0,91.121.255.255,OVH,http://www.ovh.co.uk/
 91.184.0.0,91.184.31.255,hostnet.nl,http://www.hostnet.nl/
 91.186.0.0,91.186.31.255,BlueConnex,http://www.simplytransit.net/
