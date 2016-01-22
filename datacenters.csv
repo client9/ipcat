@@ -577,6 +577,7 @@
 66.55.80.0,66.55.95.255,gigeNET,http://www.gigenet.com/
 66.63.160.0,66.63.191.255,QuadraNet,http://quadranet.com/
 66.70.0.0,66.70.127.255,Datapipe,http://www.datapipe.com/
+66.71.240.0,66.71.255.255,Total Server Solutions,http://totalserversolutions.com/
 66.84.0.0,66.84.63.255,Jumpline Inc,http://www.jumpline.com/
 66.85.128.0,66.85.191.255,Secure Servers,http://www.securedservers.com/
 66.90.64.0,66.90.127.255,FDC Servers,http://fdcservers.net/
@@ -1343,6 +1344,7 @@
 98.126.0.0,98.126.255.255,VPLS Inc. d/b/a Krypt Technologies,http://krypt.com/
 98.129.0.0,98.129.255.255,Rackspace,http://www.rackspace.com/
 98.142.0.0,98.142.15.255,travailsystems.com,http://travailsystems.com/
+98.142.208.0,98.142.223.255,Total Server Solutions,http://totalserversolutions.com/
 98.143.144.0,98.143.159.255,QuadraNet,http://quadranet.com/
 98.158.112.0,98.158.127.255,Reliable Hosting,http://reliablehosting.com/
 98.158.144.0,98.158.159.255,US Colo,http://uscolo.com/
@@ -1391,6 +1393,7 @@
 104.130.64.0,104.130.223.255,Rackspace,http://www.rackspace.com/
 104.131.0.0,104.131.255.255,DigitalOcean USA,https://www.digitalocean.com/
 104.167.96.0,104.167.127.255,KW Datacenter CA,http://www.kwdatacentre.com/
+104.200.128.0,104.200.159.255,Total Server Solutions,http://totalserversolutions.com/
 104.207.142.0,104.207.143.255,Vultr,https://www.vultr.com/
 104.208.0.0,104.208.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.208.80.0,104.208.128.47,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -1425,10 +1428,12 @@
 107.150.32.0,107.150.63.255,Data Shack,https://www.datashack.net/
 107.150.96.0,107.150.127.255,Zenlayer,http://www.zenlayer.com/
 107.151.128.0,107.151.191.255,Zenlayer,http://www.zenlayer.com/
+107.152.96.0,107.152.111.255,Total Server Solutions,http://totalserversolutions.com/
 107.152.128.0,107.152.255.255,servermania.com,http://www.servermania.com/
 107.155.0.0,107.155.63.255,Zenlayer,http://www.zenlayer.com/
 107.160.0.0,107.160.255.255,Psychz Networks,http://psychz.net/
 107.170.0.0,107.170.255.255,DigitalOcean USA,https://www.digitalocean.com/
+107.181.160.0,107.181.191.255,Total Server Solutions,http://totalserversolutions.com/
 108.59.0.0,108.59.15.255,Leaseweb,http://www.leaseweb.com/
 108.59.240.0,108.59.255.255,EarthLink Cloud,http://www.earthlinkcloud.com/
 108.60.64.0,108.60.95.255,Techie Media,http://techiemedia.net/
@@ -1655,6 +1660,7 @@
 168.63.160.192,168.63.162.159,Microsoft Azure,http://www.windowsazure.com/en-us/
 168.63.162.176,168.63.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 168.235.144.0,168.235.159.255,CLOUD-52 (KW Datacenter),http://www.kwdatacentre.com/
+172.98.64.0,172.98.95.255,Total Server Solutions,http://totalserversolutions.com/
 172.122.0.0,172.123.255.255,KW Datacenter CA,http://www.kwdatacentre.com/
 172.240.0.0,172.241.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 172.245.0.0,172.245.255.255,ColoCrossing,http://www.colocrossing.com/
@@ -1992,6 +1998,7 @@
 192.30.136.0,192.30.139.255,Input Output Flood LLC,http://ioflood.com/
 192.34.56.0,192.34.63.255,DigitalOcean USA,https://www.digitalocean.com/
 192.34.108.0,192.34.111.255,WoW Technologies,http://wowrack.com/
+192.40.56.0,192.40.59.255,Total Server Solutions,http://totalserversolutions.com/
 192.40.112.0,192.40.115.255,ihnetworks.net,http://ihnetworks.net/
 192.64.80.0,192.64.87.255,InterServer.net,http://www.interserver.net/
 192.65.240.0,192.65.243.255,ionity,http://ionity.com/
@@ -2007,6 +2014,7 @@
 192.96.200.0,192.96.207.255,Leaseweb,http://www.leaseweb.com/
 192.99.0.0,192.99.255.255,OVH,http://www.ovh.co.uk/
 192.110.160.0,192.110.167.255,Input Output Flood LLC,http://ioflood.com/
+192.111.128.0,192.111.143.255,Total Server Solutions,http://totalserversolutions.com/
 192.119.64.0,192.119.127.255,hostwinds.com,http://www.hostwinds.com/
 192.119.144.0,192.119.159.255,avantehosting.net,https://avantehosting.net/
 192.124.170.0,192.124.219.255,demos,http://demos.ru/
@@ -2046,6 +2054,7 @@
 192.241.8.0,192.241.15.255,avantehosting.net,https://avantehosting.net/
 192.241.64.0,192.241.127.255,servermania.com,http://www.servermania.com/
 192.241.128.0,192.241.255.255,DigitalOcean USA,https://www.digitalocean.com/
+192.252.208.0,192.252.223.255,Total Server Solutions,http://totalserversolutions.com/
 192.254.80.0,192.254.95.255,Zenlayer,http://www.zenlayer.com/
 192.249.112.0,192.249.127.255,inmotion hosting,http://www.inmotionhosting.com/
 192.252.208.0,192.252.223.255,colo@,http://coloat.com/
@@ -2227,6 +2236,7 @@
 198.143.96.0,198.143.127.255,hostwinds.com,http://www.hostwinds.com/
 198.143.128.0,198.143.191.255,SingleHop,http://www.singlehop.com/
 198.144.176.0,198.144.191.255,ColoCrossing,http://www.colocrossing.com/
+198.147.20.0,198.147.23.255,Total Server Solutions,http://totalserversolutions.com/
 198.148.80.0,198.148.95.255,SharkTECH Internet Services,http://sharktech.net/
 198.148.96.0,198.148.127.255,multacom.com,http://multacom.com/
 198.154.60.0,198.154.63.255,Forta Trust,http://www.fortatrust.com/
@@ -2262,6 +2272,7 @@
 199.33.120.0,199.33.127.255,Rebel Hosting,http://rebelhosting.net/
 199.34.228.0,199.34.231.255,Weebly,http://www.weebly.com/
 199.36.72.0,199.36.79.255,eHostingUSA,http://ehostingusa.com/
+199.36.220.0,199.36.223.255,Total Server Solutions,http://totalserversolutions.com/
 199.38.180.0,199.38.183.255,Host Virtual,http://www.vr.org/
 199.47.208.0,199.47.211.255,fiberhub.com,http://www.fiberhub.com/
 199.47.220.0,199.47.223.255,Firehost,http://www.firehost.com/
@@ -2443,6 +2454,7 @@
 206.183.104.0,206.183.111.255,Web Werks,http://www.web-werks.com/
 206.188.0.0,206.188.31.255,Datapipe,http://www.datapipe.com/
 206.196.0.0,206.196.31.255,Peak10,http://www.peak10.com/
+206.220.172.0,206.220.175.255,Total Server Solutions,http://totalserversolutions.com/
 206.212.240.0,206.212.255.255,ColoStore,http://colostore.com/
 206.214.64.0,206.214.95.255,infinitie.net,http://www.serverhub.com/
 206.214.208.0,206.214.223.255,ServInt,http://www.servint.net/
@@ -2525,6 +2537,7 @@
 208.76.220.0,208.76.223.255,Razor,http://www.razorservers.com/
 208.76.248.0,208.76.255.255,Colocation America Inc,http://www.colocationamerica.com/
 208.77.88.0,208.77.91.255,HostVentures,http://www.hostventures.com/
+208.78.40.0,208.78.43.255,Total Server Solutions,http://totalserversolutions.com/
 208.78.96.0,208.78.103.255,Rackspace,http://www.rackspace.com/
 208.78.168.0,208.78.175.255,latisys,http://www.latisys.com/
 208.78.240.0,208.78.247.255,Silicon Valley Web Hosting,http://www.svwh.net/
@@ -2544,6 +2557,7 @@
 208.83.208.0,208.83.215.255,datacenterscanada.com,http://www.datacenterscanada.com/
 208.83.220.0,208.83.223.255,Applied Operations,http://www.appliedops.net/
 208.83.232.0,208.83.239.255,Razor,http://www.razorservers.com/
+208.84.152.0,208.84.155.255,Total Server Solutions,http://totalserversolutions.com/
 208.85.0.0,208.85.7.255,Turnkey Internet,http://turnkeyinternet.net/
 208.85.16.0,208.85.23.255,Razor,http://www.razorservers.com/
 208.85.172.0,208.85.175.255,HostVentures,http://www.hostventures.com/
@@ -2560,8 +2574,10 @@
 208.90.152.0,208.90.155.255,Techie Media,http://techiemedia.net/
 208.91.48.0,208.91.51.255,Connectria,http://www.connectria.com/
 208.91.128.0,208.91.135.255,netriplex,http://www.netriplex.com/
+208.93.192.0,208.93.195.255,Total Server Solutions,http://totalserversolutions.com/
 208.91.196.0,208.91.199.255,Confluence Networks Inc,http://confluence-networks.com/
 208.92.232.0,208.92.235.255,SevenL Networks Inc,https://www.sevenl.net/
+208.93.194.0,208.93.194.255,Total Server Solutions,http://totalserversolutions.com/
 208.93.232.0,208.93.239.255,datacenterscanada.com,http://www.datacenterscanada.com/
 208.94.240.0,208.94.247.255,Joe's Datacenter,http://www.joesdatacenter.com/
 208.95.152.0,208.95.159.255,Layered Technologies Inc,http://www.layeredtech.com/
