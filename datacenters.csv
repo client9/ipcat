@@ -25,6 +25,7 @@
 5.152.192.0,5.152.223.255,Redstation Limited,http://redstation.com/
 5.153.0.0,5.153.63.255,SoftLayer,http://www.softlayer.com/
 5.189.144.0,5.189.159.255,Contabo GmbH,https://contabo.de/
+5.196.1.0,5.196.255.255,OVH FR,http://www.ovh.com
 5.199.129.64,5.199.129.95,myLoc,http://www.myloc.de/
 5.199.132.0,5.199.132.255,myLoc,http://www.myloc.de/
 5.199.135.0,5.199.135.192,myLoc,http://www.myloc.de/
@@ -1583,6 +1584,7 @@
 149.202.98.160,149.202.98.175,OVH NL,https://www.ovh.nl/
 149.210.164.0,149.210.164.255,TransIP,https://www.transip.nl/
 149.255.32.0,149.255.39.255,Swiftway,http://swiftway.net/
+151.80.128.0,151.80.159.255,OVH FR,https://www.ovh.ie/
 151.236.4.0,151.236.4.255,EDIS,http://www.edis.at/
 151.236.8.0,151.236.8.255,EDIS,http://www.edis.at/
 151.236.13.0,151.236.15.255,EDIS,http://www.edis.at/
