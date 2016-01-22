@@ -1033,6 +1033,7 @@
 80.246.60.0,80.246.61.255,Host Europe,http://www.hosteurope.de/
 80.246.62.0,80.246.63.255,alfahosting.de,http://alfahosting.de/
 80.247.192.0,80.247.223.255,trueserver.nl,http://trueserver.nl/
+81.7.17.0,81.7.0.255,ISPpro Germany,http://isppro.de/
 81.17.16.0,81.17.31.255,Private Layer INC,http://privatelayer.com/
 81.17.96.0,81.17.127.255,IP Exchange GmbH,http://www.ip-exchange.de/
 81.21.64.0,81.21.79.255,Webfusion,http://www.webfusion.com/
@@ -1042,6 +1043,7 @@
 81.31.32.0,81.31.47.255,Master Internet S.R.O.,http://www.master.cz/
 81.31.144.0,81.31.159.255,DNS Hosting,http://www.dnshosting.it/
 81.88.48.0,81.88.63.255,register.it,http://we.register.it/
+81.89.96.0,81.89.111.255,ISPpro Germany,http://isppro.de/
 81.91.64.0,81.91.79.255,ecritel.net,http://www.ecritel.net/
 81.93.160.0,81.93.175.255,basefarm.com,http://basefarm.com/
 81.93.240.0,81.93.255.255,euro-web.com,http://fr.euro-web.com/
@@ -1081,7 +1083,7 @@
 83.243.56.0,83.243.63.255,Vautron AG,http://www.vautron.de/
 84.16.224.0,84.16.255.255,Leaseweb,http://www.leaseweb.com/
 84.22.160.0,84.22.191.255,iomart,http://www.iomart.com/
-84.23.64.0,84.23.64.255,nbiserv.de,http://nbiserv.de/
+84.23.64.0,84.23.95.255,ISPpro Germany,http://isppro.de/
 84.33.39.0,84.33.39.255,incubatec GmbH - Srl,http://www.incubatec.com
 84.40.0.0,84.40.63.255,Hostway Corporation,http://hostway.co.uk/
 84.53.128.0,84.53.191.255,Akamai,http://akamai.com/
@@ -1097,6 +1099,7 @@
 85.17.0.0,85.17.255.255,Leaseweb,http://www.leaseweb.com/
 85.25.0.0,85.25.255.255,plusserver.de,http://plusserver.de/
 85.31.101.0,85.31.101.255,NANO IT,https://www.nano.lv/
+85.31.184.0,85.31.191.255,ISPpro Germany,http://isppro.de/
 85.94.192.0,85.94.223.255,seeweb.it,http://seeweb.it/
 85.119.104.0,85.119.104.31,prolocation.net,http://prolocation.net/
 85.119.104.64,85.119.105.23,prolocation.net,http://prolocation.net/
@@ -1172,6 +1175,7 @@
 91.105.232.0,91.105.239.255,H1 Host,https://www.h1host.ru/
 91.109.240.0,91.109.247.255,UK2,https://www.uk2.net/
 91.121.0.0,91.121.255.255,OVH,http://www.ovh.co.uk/
+91.143.80.0,91.143.95.255,ISPpro Germany,http://isppro.de/
 91.184.0.0,91.184.31.255,hostnet.nl,http://www.hostnet.nl/
 91.186.0.0,91.186.31.255,BlueConnex,http://www.simplytransit.net/
 91.188.64.0,91.188.95.255,ecritel.net,http://www.ecritel.net/
@@ -1958,6 +1962,7 @@
 185.14.184.0,185.14.187.255,DigitalOcean Europe,https://www.digitalocean.com/
 185.17.184.0,185.17.187.255,Leaseweb,http://www.leaseweb.com/
 185.19.218.152,185.19.218.159,Velia,http://www.velia.net/
+185.2.8.0,185.2.11.255,ISPpro Germany,http://isppro.de/
 185.28.193.0,185.28.193.255,Regtons CZ,https://regtons.com/en/
 185.29.8.0,185.29.8.255,DataClub,https://www.dataclub.biz/
 185.36.100.0,185.36.100.255,go4cloud,http://go4cloud.com/
