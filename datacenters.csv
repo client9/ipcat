@@ -276,6 +276,7 @@
 37.220.29.0,37.220.29.7,almahost.co.uk,http://www.almahost.ir/
 37.220.29.96,37.220.29.111,Redstation Limited,http://redstation.com/
 37.220.30.0,37.220.30.63,almahost.co.uk,http://www.almahost.ir/
+37.220.35.0,37.220.35.255,yisp Netherlands,http://yisp.nl/
 37.220.97.240,37.220.97.247,Tagadab,http://tagadab.com/
 37.220.98.8,37.220.98.15,Tagadab,http://tagadab.com/
 37.221.160.0,37.221.160.31,LippunerHosting,http://server4.pro/
@@ -1927,6 +1928,7 @@
 185.28.193.0,185.28.193.255,Regtons CZ,https://regtons.com/en/
 185.29.8.0,185.29.8.255,DataClub,https://www.dataclub.biz/
 185.36.100.0,185.36.100.255,go4cloud,http://go4cloud.com/
+185.38.12.0,185.38.15.255,yisp Netherlands,http://yisp.nl/
 185.40.4.0,185.40.4.255,Hostgrad,http://hostgrad.ru/
 185.48.120.0,185.48.123.255,Amazon AWS,http://www.amazon.com/aws/
 185.62.190.0,185.62.191.255,BlazingFast,https://blazingfast.io/
