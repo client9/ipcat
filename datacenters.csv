@@ -192,6 +192,7 @@
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
 37.9.224.0,37.9.228.223,seeweb.it,http://seeweb.it/
 37.10.0.0,37.10.127.255,Optimate Server,http://optimate-server.de/
+37.26.240.0,37.26.247.255,DigiCube,http://digicube.fr/
 37.34.59.0,37.34.60.255,transip,https://www.transip.nl/
 37.34.62.0,37.34.62.255,transip,https://www.transip.nl/
 37.46.112.0,37.46.117.255,AltusHost,http://www.altushost.com/
@@ -1350,6 +1351,7 @@
 95.128.168.0,95.128.168.255,everhost,http://everhost.co/
 95.129.48.0,95.129.55.255,TwooIT,http://www.twooit.de/
 95.129.104.0,95.129.111.255,iomart,http://www.iomart.com/
+95.130.8.0,95.130.15.255,DigiCube,http://digicube.fr/
 95.130.72.0,95.130.79.255,NetBenefit,http://www.netbenefit.com/
 95.140.32.0,95.140.47.255,Szervernet,http://szervernet.hu/
 95.142.32.0,95.142.47.255,mchost.ru,http://mchost.ru/
@@ -1977,6 +1979,10 @@
 185.2.8.0,185.2.11.255,ISPpro Germany,http://isppro.de/
 185.28.193.0,185.28.193.255,Regtons CZ,https://regtons.com/en/
 185.29.8.0,185.29.8.255,DataClub,https://www.dataclub.biz/
+185.32.216.0,185.32.216.255,DigiCube,http://digicube.fr/
+185.32.217.0,185.32.217.255,DigiCube,http://digicube.fr/
+185.32.218.0,185.32.218.255,DigiCube,http://digicube.fr/
+185.32.219.0,185.32.219.255,DigiCube,http://digicube.fr/
 185.36.100.0,185.36.100.255,go4cloud,http://go4cloud.com/
 185.38.12.0,185.38.15.255,yisp Netherlands,http://yisp.nl/
 185.40.4.0,185.40.4.255,Hostgrad,http://hostgrad.ru/
