@@ -329,11 +329,14 @@
 40.127.64.0,40.127.111.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.127.128.0,40.127.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 42.1.60.0,42.1.63.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
+45.32.0.0,45.32.255.255,Choopa,https://www.choopa.com/
 45.33.0.0,45.33.127.255,Linode,http://www.linode.com/
 45.34.0.0,45.35.255.255,Psychz Networks,http://psychz.net/
 45.56.64.0,45.56.127.255,Linode,http://www.linode.com/
 45.59.128.0,45.59.191.255,Roya Hosting,http://www.royahosting.com/
 45.62.192.0,45.62.255.255,KW Datacenter CA,http://www.kwdatacentre.com/
+45.63.0.0,45.63.127.255,Choopa,https://www.choopa.com/
+45.76.0.0,45.77.255.255,Choopa,https://www.choopa.com/
 46.4.0.0,46.4.255.255,Hetzner Online AG,http://www.hetzner.de/
 46.16.184.0,46.16.191.255,SoftLayer,http://www.softlayer.com/
 46.17.0.0,46.17.7.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
@@ -1400,9 +1403,10 @@
 104.47.200.0,104.47.215.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.130.64.0,104.130.223.255,Rackspace,http://www.rackspace.com/
 104.131.0.0,104.131.255.255,DigitalOcean USA,https://www.digitalocean.com/
+04.156.224.0,104.156.255.255,Choopa,https://www.choopa.com/
 104.167.96.0,104.167.127.255,KW Datacenter CA,http://www.kwdatacentre.com/
 104.200.128.0,104.200.159.255,Total Server Solutions,http://totalserversolutions.com/
-104.207.142.0,104.207.143.255,Vultr,https://www.vultr.com/
+104.207.128.0,104.207.159.255,Choopa,https://www.choopa.com/
 104.208.0.0,104.208.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.208.80.0,104.208.128.47,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.208.129.0,104.208.129.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -1425,6 +1429,7 @@
 104.215.240.80,104.215.240.175,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.215.240.192,104.215.240.223,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.233.64.0,104.233.127.255,KW Datacenter CA,http://www.kwdatacentre.com/
+104.238.128.0,104.238.191.255,Choopa,https://www.choopa.com/
 104.239.192.0,104.239.223.255,Rackspace,http://www.rackspace.com/
 104.245.96.0,104.245.103.255,VolumeDrive,http://volumedrive.com/
 104.255.64.0,104.255.71.255,Volume Drive,http://volumedrive.com
@@ -1442,6 +1447,7 @@
 107.160.0.0,107.160.255.255,Psychz Networks,http://psychz.net/
 107.170.0.0,107.170.255.255,DigitalOcean USA,https://www.digitalocean.com/
 107.181.160.0,107.181.191.255,Total Server Solutions,http://totalserversolutions.com/
+107.191.32.0,107.191.63.255,Choopa,https://www.choopa.com/
 108.59.0.0,108.59.15.255,Leaseweb,http://www.leaseweb.com/
 108.59.240.0,108.59.255.255,EarthLink Cloud,http://www.earthlinkcloud.com/
 108.60.64.0,108.60.95.255,Techie Media,http://techiemedia.net/
