@@ -390,6 +390,7 @@
 46.183.216.0,46.183.218.255,DataClub,https://www.dataclub.biz/
 46.183.221.128,46.183.221.255,DataClub,https://www.dataclub.biz/
 46.226.8.0,46.226.8.255,Rent a Rack,http://rentarack.no/
+46.226.104.0,46.226.107.255,Gandi.net,http://www.gandi.net/
 46.227.80.0,46.227.87.255,ecritel.net,http://www.ecritel.net/
 46.229.160.0,46.229.175.255,advancedhosters.com,http://advancedhosters.com/
 46.231.112.0,46.231.119.255,Tagadab,http://tagadab.com/
@@ -1275,6 +1276,7 @@
 92.114.98.0,92.114.98.255,Elvsoft,http://www.elvsoft.com/
 92.122.0.0,92.123.255.255,Akamai,http://akamai.com/
 92.241.160.0,92.241.191.255,Webalta,http://www.wahome.ru/
+92.243.0.0,92.243.7.255,Gandi.net,http://www.gandi.net/
 93.90.16.0,93.90.31.255,acens Technologies S.L.,http://www.acens.com/
 93.91.16.0,93.91.31.255,The Bunker,http://www.thebunker.net/
 93.92.24.0,93.92.31.255,Hostex Internet Services,http://hostex.no/
@@ -1356,6 +1358,7 @@
 95.140.32.0,95.140.47.255,Szervernet,http://szervernet.hu/
 95.142.32.0,95.142.47.255,mchost.ru,http://mchost.ru/
 95.143.32.0,95.143.47.255,inline.de,http://www.inline.de/
+95.142.160.0,95.142.167.255,Gandi.net,http://www.gandi.net/
 95.154.192.0,95.154.255.255,iomart Hosting Ltd,http://www.rapidswitch.com/
 95.156.192.0,95.156.255.255,Optimate Server,http://optimate-server.de/
 95.162.0.0,95.162.255.255,xservers.ro,http://www.xservers.ro/
@@ -1771,6 +1774,7 @@
 173.244.192.0,173.244.223.255,Midphase,http://www.midphase.com/
 173.245.48.0,173.245.63.255,CloudFlare Inc,https://www.cloudflare.com/
 173.245.64.0,173.245.95.255,EGIHosting.com,http://www.egihosting.com/
+173.246.96.0,173.246.111.255,Gandi.net US,http://www.gandi.net/
 173.248.128.0,173.248.191.255,wehostwebsites.com,http://wehostwebsites.com/
 173.248.192.0,173.248.255.255,Canaca-com Inc.,http://canaca.com
 173.249.144.0,173.249.159.255,Future Hosting Inc,http://vpsdatacenter.com/
@@ -2813,6 +2817,8 @@
 213.163.64.0,213.163.95.255,i3d.net,http://i3d.net/
 213.165.64.0,213.165.95.255,1&1 Internet,http://www.1and1.com/
 213.166.160.0,213.166.191.255,availo.no,http://www.availo.no/
+213.167.229.0,213.167.229.255,Gandi.net,http://www.gandi.net/
+213.167.240.0,213.167.255.255,Gandi.net,http://www.gandi.net/
 213.171.192.0,213.171.223.255,Fasthosts Internet Ltd,http://www.fasthosts.co.uk/
 213.174.128.0,213.174.159.255,advancedhosters.com,http://advancedhosters.com/
 213.175.192.0,213.175.223.255,eUKhost,http://www.eukhost.com/
@@ -2955,6 +2961,7 @@
 217.23.0.0,217.23.15.255,WorldStream,http://www.worldstream.nl/
 217.64.192.0,217.64.207.255,seeweb.it,http://seeweb.it/
 217.67.224.0,217.67.255.255,datahouse.nl,http://datahouse.nl/
+217.70.176.0,217.70.183.255,Gandi.net,http://www.gandi.net/
 217.72.192.0,217.72.207.255,1&1 Internet,http://www.1and1.com/
 217.72.240.0,217.72.255.255,Datapipe,http://www.datapipe.com/
 217.77.176.0,217.77.191.255,Titan Internet Ltd,http://www.titaninternet.co.uk/index.cfm
