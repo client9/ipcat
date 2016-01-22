@@ -614,6 +614,8 @@
 66.159.64.0,66.159.95.255,Datapoint,http://www.datapointinc.com/
 66.160.128.0,66.160.207.255,Hurricane Electic,http://www.he.net/
 66.165.128.0,66.165.159.255,ActiveHost,http://www.activehost.com/
+66.172.0.0,66.172.63.255,Cyberverse,http://www.cyberverse.com/
+66.180.192.0,66.180.207.255,Cyberverse,http://www.cyberverse.com/
 66.197.128.0,66.197.255.255,hostnoc,http://www.hostnoc.net/
 66.199.128.0,66.199.191.255,PEER 1,http://www.peer1.com/
 66.206.32.0,66.206.47.255,Turnkey Internet,http://turnkeyinternet.net/
@@ -916,6 +918,7 @@
 75.102.0.0,75.102.63.255,ServerCentral,http://www.servercentral.net/
 75.119.192.0,75.119.223.255,Dreamhost,http://www.dreamhost.com/
 75.125.0.0,75.126.255.255,SoftLayer,http://www.softlayer.com/
+76.8.16.0,76.8.31.255,Cyberverse,http://www.cyberverse.com/
 76.10.192.0,76.10.223.255,Blue Mile,http://bluemilecloud.com/
 76.12.0.0,76.12.255.255,HostMySite.com,http://www.webmysite.com/
 76.72.160.0,76.72.175.255,Database By Design,http://www.databasebydesignllc.com/
@@ -2697,6 +2700,7 @@
 209.141.32.0,209.141.63.255,buyvm.net,http://buyvm.net/?from=frantech
 209.143.64.0,209.143.127.255,Datapoint,http://www.datapointinc.com/
 209.151.64.0,209.151.95.255,latisys,http://www.latisys.com/
+209.151.224.0,209.151.255.255,Cyberverse,http://www.cyberverse.com/
 209.159.144.0,209.159.159.255,InterServer.net,http://www.interserver.net/
 209.160.0.0,209.160.79.255,HopOne,http://www.hopone.net/
 209.164.0.0,209.164.63.255,HostMySite.com,http://www.webmysite.com/
@@ -2866,6 +2870,7 @@
 216.172.128.0,216.172.159.255,EGIHosting.com,http://www.egihosting.com/
 216.172.160.0,216.172.191.255,WebsiteWelcome.com,http://www.websitewelcome.com/
 216.176.176.0,216.176.191.255,WoW Technologies,http://wowrack.com/
+216.176.192.0,216.176.207.255,Cyberverse,http://www.cyberverse.com/
 216.182.80.0,216.182.95.255,Adhost,http://www.adhost.com/
 216.182.176.0,216.182.191.255,LightEdge,http://www.lightedge.com
 216.182.224.0,216.182.239.255,Amazon AWS,http://www.amazon.com/aws/
