@@ -35,6 +35,7 @@
 5.254.64.0,5.254.127.255,Voxility,https://www.voxility.com/
 8.4.9.128,8.4.9.255,co-location.com,http://co-location.com/
 8.4.34.0,8.4.35.255,Peak Web Hosting,http://www.peakwebhosting.com/
+8.6.220.0,8.6.223.255,Hostway,http://www.hostway.com/
 8.8.40.0,8.8.40.255,co-location.com,http://co-location.com/
 8.15.3.0,8.15.3.255,co-location.com,http://co-location.com/
 8.24.248.0,8.24.255.255,gorack.net,http://gorack.net/
@@ -482,6 +483,7 @@
 64.18.128.0,64.18.159.255,Rackvibe.com,http://www.rackvibe.com/
 64.20.32.0,64.20.63.255,InterServer.net,http://www.interserver.net/
 64.22.192.0,64.22.223.255,LightEdge,http://www.lightedge.com
+64.26.0.0,64.26.63.255,Hostway,http://www.hostway.com/
 64.27.0.0,64.27.31.255,calPOP,http://calpop.com/
 64.27.48.0,64.27.63.255,wehostwebsites.com,http://wehostwebsites.com/
 64.27.64.0,64.27.127.255,Datapipe,http://www.datapipe.com/
@@ -493,6 +495,7 @@
 64.38.0.0,64.38.63.255,Layered Technologies Inc,http://www.layeredtech.com/
 64.39.0.0,64.39.31.255,Rackspace,http://www.rackspace.com/
 64.40.96.0,64.40.127.255,NetNation,http://www.netnation.com/
+64.41.64.0,64.41.127.255,Hostway,http://www.hostway.com/
 64.45.0.0,64.45.63.255,PEER 1,http://www.peer1.com/
 64.46.32.0,64.46.63.255,RackForce,http://www.rockforce.com/
 64.49.192.0,64.49.255.255,Rackspace,http://www.rackspace.com/
@@ -503,6 +506,7 @@
 64.64.0.0,64.64.31.255,ServInt,http://www.servint.net/
 64.64.224.0,64.64.255.255,Carat Networks,http://www.caratnetworks.com/
 64.65.0.0,64.65.63.255,PEER 1,http://www.peer1.com/
+64.66.128.0,64.66.191.255,Hostway,http://www.hostway.com/
 64.69.32.0,64.69.47.255,calPOP,http://calpop.com/
 64.69.64.0,64.69.95.255,PEER 1,http://www.peer1.com/
 64.71.128.0,64.71.191.255,Hurricane Electic,http://www.he.net/
@@ -531,6 +535,7 @@
 64.150.164.0,64.150.175.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 64.150.176.0,64.150.191.255,Codero,http://www.codero.com/
 64.151.64.0,64.151.127.255,GoGrid,http://www.gogrid.com/
+64.156.112.0,64.156.127.255,Hostway,http://www.hostway.com/
 64.179.224.0,64.179.239.255,LightEdge,http://www.lightedge.com
 64.182.0.0,64.182.255.255,C I Host,http://www.cihost.com/
 64.187.96.0,64.187.127.255,AccelerateBiz Inc.,http://www.acceleratebiz.com/
@@ -600,6 +605,7 @@
 66.98.128.0,66.98.255.255,SoftLayer,http://www.softlayer.com/
 66.111.64.0,66.111.95.255,PEER 1,http://www.peer1.com/
 66.111.96.0,66.111.111.255,Neospire,http://www.neospire.net/
+66.113.128.0,66.113.255.255,Hostway,http://www.hostway.com/
 66.116.96.0,66.116.127.255,SWITCH Communications Group LLC,http://www.switchnap.com/
 66.129.64.0,66.129.127.255,Peak10,http://www.peak10.com/
 66.132.128.0,66.132.255.255,PEER 1,http://www.peer1.com/
@@ -632,6 +638,7 @@
 66.228.32.0,66.228.63.255,Linode,http://www.linode.com/
 66.228.112.0,66.228.127.255,SoftLayer,http://www.softlayer.com/
 66.232.96.0,66.232.127.255,Hivelocity Hosting,http://www.hivelocity.net/
+66.232.128.0,66.232.159.255,Hostway,http://www.hostway.com/
 66.234.0.0,66.234.15.255,PEER 1,http://www.peer1.com/
 66.235.160.0,66.235.191.255,HopOne,http://www.hopone.net/
 66.235.192.0,66.235.193.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
@@ -825,6 +832,7 @@
 72.1.240.0,72.1.255.255,ndchost.com,http://www.ndchost.com/
 72.3.128.0,72.3.255.255,Rackspace,http://www.rackspace.com/
 72.4.112.0,72.4.127.255,Rackspace,http://www.rackspace.com/
+72.4.143.0,72.4.143.255,Hostway,http://www.hostway.com/
 72.8.128.0,72.8.191.255,Staminus Communications,http://staminus.net/
 72.9.144.0,72.9.159.255,dfw-datacenter.com,http://dfw-datacenter.com/
 72.10.32.0,72.10.63.255,Media Temple,http://www.mediatemple.net/
@@ -2817,6 +2825,7 @@
 216.25.0.0,216.25.127.255,PEER 1,http://www.peer1.com/
 216.26.128.0,216.26.191.255,Peak10,http://www.peak10.com/
 216.36.48.0,216.36.63.255,EarthLink Cloud,http://www.earthlinkcloud.com/
+216.36.192.0,216.36.255.255,Hostway,http://www.hostway.com/
 216.38.48.0,216.38.63.255,ServInt,http://www.servint.net/
 216.38.128.0,216.38.159.255,Fastmetrics,http://fastmetrics.com/
 216.40.192.0,216.40.255.255,SoftLayer,http://www.softlayer.com/
@@ -2875,6 +2884,8 @@
 216.182.176.0,216.182.191.255,LightEdge,http://www.lightedge.com
 216.182.224.0,216.182.239.255,Amazon AWS,http://www.amazon.com/aws/
 216.185.96.0,216.185.127.255,SoftLayer,http://www.softlayer.com/
+216.185.129.0,216.185.129.255,Hostway,http://www.hostway.com/
+216.185.130.0,216.185.130.255,Hostway,http://www.hostway.com/
 216.187.64.0,216.187.127.255,PEER 1,http://www.peer1.com/
 216.189.144.0,216.189.159.255,Host US,http://hostus.us/
 216.211.128.0,216.211.143.255,Adhost,http://www.adhost.com/
@@ -2886,6 +2897,7 @@
 216.224.112.0,216.224.127.255,ethr.net,http://ethr.net/
 216.227.208.0,216.227.223.255,Lunar Pages,http://www.lunarpages.com/
 216.230.96.0,216.230.127.255,Datapoint,http://www.datapointinc.com/
+216.230.192.0,216.230.223.255,Hostway,http://www.hostway.com/
 216.231.128.0,216.231.143.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 216.234.224.0,216.234.255.255,SoftLayer,http://www.softlayer.com/
 216.238.64.0,216.238.127.255,Razor,http://www.razorservers.com/
