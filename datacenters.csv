@@ -461,6 +461,7 @@
 62.122.248.0,62.122.255.255,availo.no,http://www.availo.no/
 62.128.128.0,62.128.159.255,NetBenefit,http://www.netbenefit.com/
 62.128.192.0,62.128.223.255,iomart,http://www.iomart.com/
+62.141.48.0,62.141.55.255,Keyweb Germany Erfurt,https://www.keyweb.de/en/
 62.146.0.0,62.146.255.255,IP Exchange GmbH,http://www.ip-exchange.de/
 62.149.0.0,62.149.31.255,colocall.net,http://colocall.net/
 62.204.64.0,62.204.95.255,prolocation.net,http://prolocation.net/
@@ -1082,6 +1083,7 @@
 83.243.8.0,83.243.15.255,root S.A.,http://www.site.lu/
 83.243.56.0,83.243.63.255,Vautron AG,http://www.vautron.de/
 84.16.224.0,84.16.255.255,Leaseweb,http://www.leaseweb.com/
+84.19.176.0,84.19.191.255,Keyweb Germany,https://www.keyweb.de/en/
 84.22.160.0,84.22.191.255,iomart,http://www.iomart.com/
 84.23.64.0,84.23.95.255,ISPpro Germany,http://isppro.de/
 84.33.39.0,84.33.39.255,incubatec GmbH - Srl,http://www.incubatec.com
@@ -1121,6 +1123,7 @@
 87.98.128.0,87.98.255.255,OVH,http://www.ovh.co.uk/
 87.106.0.0,87.106.255.255,1&1 Internet,http://www.1and1.com/
 87.117.192.0,87.117.255.255,iomart Hosting Ltd,http://www.rapidswitch.com/
+87.118.64.0,87.118.64.31,Keyweb Germany Leipzig,https://www.keyweb.de/en/
 87.119.192.0,87.119.223.255,MESH,http://www.mesh.eu/
 87.229.7.0,87.229.7.255,Szervernet,http://szervernet.hu/
 87.230.0.0,87.230.63.255,Host Europe,http://www.hosteurope.de/
@@ -1348,6 +1351,7 @@
 95.162.0.0,95.162.255.255,xservers.ro,http://www.xservers.ro/
 95.168.160.0,95.168.191.255,Leaseweb,http://www.leaseweb.com/
 95.168.192.0,95.168.223.255,SuperNetwork,http://www.superhosting.cz/
+95.169.160.0,95.169.191.255,Keyweb Germany,http://www.keyweb.de/en/
 95.170.64.0,95.170.95.255,transip,https://www.transip.nl/
 95.172.0.0,95.172.31.255,Tagadab,http://tagadab.com/
 95.174.0.0,95.174.31.255,seeweb.it,http://seeweb.it/
@@ -2126,9 +2130,11 @@
 192.249.112.0,192.249.127.255,inmotion hosting,http://www.inmotionhosting.com/
 192.252.208.0,192.252.223.255,colo@,http://coloat.com/
 192.254.128.0,192.254.255.255,WebsiteWelcome.com,http://www.websitewelcome.com/
+193.16.98.0,193.16.98.255,Keyweb Germany,https://www.keyweb.de/en/
 193.17.225.0,193.17.225.255,xservers.ro,http://www.xservers.ro/
 193.19.106.0,193.19.107.255,xservers.ro,http://www.xservers.ro/
 193.19.118.0,193.19.119.255,IP Server,https://www.ipserver.su/
+193.22.254.0,193.22.254.255,Keyweb Switzerland,https://www.keyweb.de/en/
 193.27.246.0,193.27.247.255,wehostall,http://wehostall.ru/
 193.28.228.0,193.28.228.255,T-N Media Network,http://t-n-media.de/
 193.34.88.0,193.34.91.255,easyhost.be,http://easyhost.be/
@@ -2940,6 +2946,7 @@
 217.77.176.0,217.77.191.255,Titan Internet Ltd,http://www.titaninternet.co.uk/index.cfm
 217.78.0.0,217.78.15.255,DigiWeb,http://dediserve.com/
 217.107.216.0,217.107.216.255,RTComm,http://rtcomm.ru/
+217.114.208.0,217.114.208.255,Keyweb Germany Berlin,https://www.keyweb.de/en/
 217.115.128.0,217.115.159.255,Host Europe,http://www.hosteurope.de/
 217.116.0.0,217.116.31.255,acens Technologies S.L.,http://www.acens.com/
 217.116.192.0,217.116.207.255,hosthane.com,http://www.hosthane.com/
