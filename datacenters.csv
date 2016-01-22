@@ -1832,6 +1832,8 @@
 178.18.16.0,178.18.19.255,Fibermax,http://fibermax.nl/
 178.18.128.0,178.18.143.255,nedzone.nl,https://www.nedzone.nl/
 178.18.240.0,178.18.255.255,inline.de,http://www.inline.de/
+178.19.96.0,178.19.96.255,Slask Data Center PL,https://sldc.eu/
+178.19.104.0,178.19.111.255,Slask Data Center PL,https://sldc.eu/
 178.20.168.0,178.20.175.255,Its Hosted,http://www.itshosted.nl/
 178.21.16.0,178.21.23.255,Servinus,http://serverius.nl/
 178.21.112.0,178.21.118.255,DirectVPS,https://www.directvps.nl/
