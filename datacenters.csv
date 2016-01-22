@@ -323,6 +323,7 @@
 45.34.0.0,45.35.255.255,Psychz Networks,http://psychz.net/
 45.56.64.0,45.56.127.255,Linode,http://www.linode.com/
 45.59.128.0,45.59.191.255,Roya Hosting,http://www.royahosting.com/
+45.62.192.0,45.62.255.255,KW Datacenter CA,http://www.kwdatacentre.com/
 46.4.0.0,46.4.255.255,Hetzner Online AG,http://www.hetzner.de/
 46.16.184.0,46.16.191.255,SoftLayer,http://www.softlayer.com/
 46.17.0.0,46.17.7.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
@@ -507,6 +508,7 @@
 64.120.128.0,64.120.255.255,hostnoc,http://www.hostnoc.net/
 64.130.0.0,64.130.63.255,Pair Networks,http://www.pair.com/
 64.131.64.0,64.131.95.255,ServInt,http://www.servint.net/
+64.137.128.0,64.137.255.255,KW Datacenter CA,http://www.kwdatacentre.com/
 64.150.160.0,64.150.162.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 64.150.164.0,64.150.175.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 64.150.176.0,64.150.191.255,Codero,http://www.codero.com/
@@ -1382,6 +1384,7 @@
 104.47.200.0,104.47.215.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.130.64.0,104.130.223.255,Rackspace,http://www.rackspace.com/
 104.131.0.0,104.131.255.255,DigitalOcean USA,https://www.digitalocean.com/
+104.167.96.0,104.167.127.255,KW Datacenter CA,http://www.kwdatacentre.com/
 104.207.142.0,104.207.143.255,Vultr,https://www.vultr.com/
 104.208.0.0,104.208.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.208.80.0,104.208.128.47,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -1404,6 +1407,7 @@
 104.215.240.32,104.215.240.63,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.215.240.80,104.215.240.175,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.215.240.192,104.215.240.223,Microsoft Azure,http://www.windowsazure.com/en-us/
+104.233.64.0,104.233.127.255,KW Datacenter CA,http://www.kwdatacentre.com/
 104.239.192.0,104.239.223.255,Rackspace,http://www.rackspace.com/
 104.245.96.0,104.245.103.255,VolumeDrive,http://volumedrive.com/
 104.255.64.0,104.255.71.255,Volume Drive,http://volumedrive.com
@@ -1615,9 +1619,13 @@
 162.221.184.0,162.221.191.255,DimeNOC,http://dimenoc.com/
 162.242.128.0,162.242.255.255,Rackspace,http://www.rackspace.com/
 162.243.0.0,162.243.255.255,DigitalOcean USA,https://www.digitalocean.com/
+162.244.24.0,162.244.31.255,KW Datacenter CA,http://www.kwdatacentre.com/
 162.246.16.0,162.246.23.255,InterServer.net,http://www.interserver.net/
+162.248.8.0,162.248.11.255,KW Datacenter CA,http://www.kwdatacentre.com/
 162.248.72.0,162.248.79.255,Volume Drive,http://volumedrive.com
+162.248.160.0,162.248.167.255,KW Datacenter CA,http://www.kwdatacentre.com/
 162.250.120.0,162.250.127.255,InterServer.net,http://www.interserver.net/
+162.252.240.0,162.252.243.255,KW Datacenter CA,http://www.kwdatacentre.com/
 164.40.133.0,164.40.133.255,GoGrid LLC,http://www.gogrid.com/
 164.40.144.0,164.40.144.255,GoGrid LLC,http://www.gogrid.com/
 164.40.147.0,164.40.147.255,GoGrid LLC,http://www.gogrid.com/
@@ -1625,6 +1633,7 @@
 164.177.128.0,164.177.159.255,Rackspace,http://www.rackspace.com/
 166.62.0.0,166.62.127.255,GoDaddy.com Inc,http://www.godaddy.com/
 166.78.0.0,166.78.255.255,Rackspace,http://www.rackspace.com/
+167.88.32.0,167.88.47.255,KW Datacenter CA,http://www.kwdatacentre.com/
 167.160.32.0,167.160.63.255,Web2Objects,https://web2objects.com/
 168.61.0.0,168.62.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 168.62.96.0,168.62.251.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -1634,6 +1643,8 @@
 168.63.92.0,168.63.160.159,Microsoft Azure,http://www.windowsazure.com/en-us/
 168.63.160.192,168.63.162.159,Microsoft Azure,http://www.windowsazure.com/en-us/
 168.63.162.176,168.63.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+168.235.144.0,168.235.159.255,CLOUD-52 (KW Datacenter),http://www.kwdatacentre.com/
+172.122.0.0,172.123.255.255,KW Datacenter CA,http://www.kwdatacentre.com/
 172.240.0.0,172.241.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 172.245.0.0,172.245.255.255,ColoCrossing,http://www.colocrossing.com/
 173.0.48.0,173.0.63.255,Virpus Networks,http://myvirpus.com/
@@ -2217,6 +2228,7 @@
 198.211.96.0,198.211.127.255,DigitalOcean USA,https://www.digitalocean.com/
 198.245.48.0,198.245.63.255,OVH,http://www.ovh.co.uk/
 198.245.64.0,198.245.79.255,servermania.com,http://www.servermania.com/
+198.246.44.0,198.246.47.255,KW Datacenter CA,http://www.kwdatacentre.com/
 198.246.132.0,198.246.133.255,XMission,http://xmission.com/
 198.251.64.0,198.251.79.255,1&1 Internet,http://www.1and1.com/
 198.251.80.0,198.251.95.255,buyvm.net,http://buyvm.net/?from=frantech
