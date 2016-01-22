@@ -30,6 +30,7 @@
 5.199.132.0,5.199.132.255,myLoc,http://www.myloc.de/
 5.199.135.0,5.199.135.192,myLoc,http://www.myloc.de/
 5.199.137.192,5.199.137.255,myLoc,http://www.myloc.de/
+5.199.162.0,5.199.163.255,Duomenu Centras Lithuania,http://www.duomenucentras.lt/lt/
 5.254.64.0,5.254.127.255,Voxility,https://www.voxility.com/
 8.4.9.128,8.4.9.255,co-location.com,http://co-location.com/
 8.4.34.0,8.4.35.255,Peak Web Hosting,http://www.peakwebhosting.com/
@@ -375,6 +376,8 @@
 46.163.64.0,46.163.127.255,Host Europe,http://www.hosteurope.de/
 46.165.192.0,46.165.255.255,Leaseweb,http://www.leaseweb.com/
 46.166.128.0,46.166.191.255,Santrex Internet Services,http://www.santrex.net/
+46.166.160.0,46.166.167.255,Duomenu Centras Lithuania,http://www.duomenucentras.lt/lt/
+46.166.168.0,46.166.171.255,Duomenu Centras Lithuania,http://www.duomenucentras.lt/lt/
 46.167.244.0,46.167.246.255,FinalTek.com,http://www.finaltek.com/
 46.175.56.0,46.175.63.255,Vautron AG,http://www.vautron.de/
 46.182.16.0,46.182.23.255,nbiserv.de,http://nbiserv.de/
@@ -1249,6 +1252,7 @@
 93.92.24.0,93.92.31.255,Hostex Internet Services,http://hostex.no/
 93.92.144.0,93.92.151.255,Host Europe,http://www.hosteurope.de/
 93.93.64.0,93.93.71.255,comvive.com,https://www.comvive.es/
+93.115.24.0,93.115.31.255,Duomenu Centras Lithuania,http://www.duomenucentras.lt/lt/
 93.115.80.0,93.115.87.255,Voxility,https://www.voxility.com/
 93.127.128.0,93.127.255.255,Star-Hosting e.K.,http://star-hosting.de/
 93.168.0.0,93.169.255.255,everhost,http://everhost.co/
@@ -1930,7 +1934,8 @@
 185.4.92.0,185.4.95.255,inAsset,https://inasset.es/
 185.5.96.0,185.5.99.255,Biznes-Host.pl,http://biznes-host.pl
 185.5.249.0,185.5.249.255,Marosnet,https://www.ihor.ru/
-185.8.107.0,185.8.107.255,balticservers.eu,https://www.balticservers.com/
+185.8.104.0,185.8.105.255,Duomenu Centras Lithuania,http://www.duomenucentras.lt/lt/
+185.8.106.0,185.8.107.255,Duomenu Centras Lithuania,http://www.duomenucentras.lt/lt/
 185.12.64.0,185.12.67.255,Hetzner Online AG,http://www.hetzner.de/
 185.14.28.0,185.14.29.255,UA Servers,https://itldc.com/
 185.14.184.0,185.14.187.255,DigitalOcean Europe,https://www.digitalocean.com/
@@ -1973,6 +1978,7 @@
 188.166.0.0,188.166.127.255,DigitalOcean Netherlands,https://www.digitalocean.com/
 188.172.0.0,188.172.255.255,xservers.ro,http://www.xservers.ro/
 188.190.96.0,188.190.127.255,infiumhost.com,http://infiumhost.com/
+188.214.128.0,188.214.135.255,Duomenu Centras Lithuania,http://www.duomenucentras.lt/lt/
 188.226.128.0,188.226.191.255,DigitalOcean Netherlands,https://www.digitalocean.com/
 188.227.160.0,188.227.191.255,Redstation Limited,http://redstation.com/
 188.240.2.0,188.240.3.255,mxhost,http://www.mxhost.ro/
