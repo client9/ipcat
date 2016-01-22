@@ -74,6 +74,7 @@
 23.80.0.0,23.83.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 23.90.0.0,23.90.63.255,infinitie.net,http://www.serverhub.com/
 23.91.0.0,23.91.31.255,Psychz Networks,http://psychz.net/
+23.91.96.0,23.91.111.255,Zenlayer,http://www.zenlayer.com/
 23.91.112.0,23.91.127.255,Arvixe,http://www.arvixe.com/
 23.92.16.0,23.92.31.255,Linode,http://www.linode.com/
 23.94.0.0,23.95.255.255,ColoCrossing,http://www.colocrossing.com/
@@ -125,10 +126,13 @@
 23.229.0.0,23.229.127.255,servermania.com,http://www.servermania.com/
 23.231.0.0,23.231.127.255,infinitie.net,http://www.serverhub.com/
 23.235.224.0,23.235.255.255,Secure Servers,http://www.securedservers.com/
+23.236.96.0,23.236.111.255,Zenlayer,http://www.zenlayer.com/
+23.236.112.0,23.236.127.255,Zenlayer,http://www.zenlayer.com/
 23.238.128.0,23.238.255.255,Psychz Networks,http://psychz.net/
 23.239.0.0,23.239.31.255,Linode,http://www.linode.com/
 23.239.96.0,23.239.127.255,Gorilla Servers,http://gorillaservers.com/
 23.239.192.0,23.239.223.255,wehostwebsites.com,http://wehostwebsites.com/
+23.248.160.0,23.248.191.255,Zenlayer,http://www.zenlayer.com/
 23.250.0.0,23.250.127.255,servermania.com,http://www.servermania.com/
 23.252.112.0,23.252.127.255,WebNX Internet Services,http://webnx.com/
 23.253.0.0,23.253.255.255,Rackspace,http://www.rackspace.com/
@@ -555,6 +559,7 @@
 65.182.192.0,65.182.223.255,HostMySite.com,http://www.webmysite.com/
 65.254.208.0,65.254.223.255,Peak10,http://www.peak10.com/
 65.254.224.0,65.254.255.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
+65.255.32.0,65.255.47.255,Zenlayer,http://www.zenlayer.com/
 66.6.96.0,66.6.127.255,LightEdge,http://www.lightedge.com
 66.7.192.0,66.7.223.255,DimeNOC,http://dimenoc.com/
 66.11.144.0,66.11.159.255,Canada Web Hosting,http://www.canadawebhosting.com/
@@ -722,6 +727,7 @@
 69.20.0.0,69.20.127.255,Rackspace,http://www.rackspace.com/
 69.24.64.0,69.24.95.255,Gearhost,http://www.gearhost.com/
 69.27.32.0,69.27.47.255,EBOUNDHOST.com ADF,http://eboundhost.com/
+69.28.48.0,69.28.63.255,Zenlayer,http://www.zenlayer.com/
 69.28.128.0,69.28.191.255,Limelight Networks Inc,http://www.limelight.com/
 69.28.192.0,69.28.255.255,PEER 1,http://www.peer1.com/
 69.30.192.0,69.30.255.255,WholeSale Internet Inc,http://www.wholesaleinternet.com/
@@ -1417,7 +1423,10 @@
 107.6.128.0,107.6.191.255,SingleHop,http://www.singlehop.com/
 107.20.0.0,107.23.255.255,Amazon AWS,http://www.amazon.com/aws/
 107.150.32.0,107.150.63.255,Data Shack,https://www.datashack.net/
+107.150.96.0,107.150.127.255,Zenlayer,http://www.zenlayer.com/
+107.151.128.0,107.151.191.255,Zenlayer,http://www.zenlayer.com/
 107.152.128.0,107.152.255.255,servermania.com,http://www.servermania.com/
+107.155.0.0,107.155.63.255,Zenlayer,http://www.zenlayer.com/
 107.160.0.0,107.160.255.255,Psychz Networks,http://psychz.net/
 107.170.0.0,107.170.255.255,DigitalOcean USA,https://www.digitalocean.com/
 108.59.0.0,108.59.15.255,Leaseweb,http://www.leaseweb.com/
@@ -1616,7 +1625,9 @@
 162.218.112.0,162.218.119.255,Input Output Flood LLC,http://ioflood.com/
 162.220.32.0,162.220.35.255,Staminus Communications,http://staminus.net/
 162.220.160.0,162.220.167.255,InterServer.net,http://www.interserver.net/
+162.221.4.0,162.221.7.255,Zenlayer,http://www.zenlayer.com/
 162.221.184.0,162.221.191.255,DimeNOC,http://dimenoc.com/
+162.221.192.0,162.221.199.255,Zenlayer,http://www.zenlayer.com/
 162.242.128.0,162.242.255.255,Rackspace,http://www.rackspace.com/
 162.243.0.0,162.243.255.255,DigitalOcean USA,https://www.digitalocean.com/
 162.244.24.0,162.244.31.255,KW Datacenter CA,http://www.kwdatacentre.com/
@@ -2035,6 +2046,7 @@
 192.241.8.0,192.241.15.255,avantehosting.net,https://avantehosting.net/
 192.241.64.0,192.241.127.255,servermania.com,http://www.servermania.com/
 192.241.128.0,192.241.255.255,DigitalOcean USA,https://www.digitalocean.com/
+192.254.80.0,192.254.95.255,Zenlayer,http://www.zenlayer.com/
 192.249.112.0,192.249.127.255,inmotion hosting,http://www.inmotionhosting.com/
 192.252.208.0,192.252.223.255,colo@,http://coloat.com/
 192.254.128.0,192.254.255.255,WebsiteWelcome.com,http://www.websitewelcome.com/
@@ -2269,6 +2281,7 @@
 199.83.88.0,199.83.95.255,Psychz Networks,http://psychz.net/
 199.85.208.0,199.85.215.255,HostVentures,http://www.hostventures.com/
 199.87.232.0,199.87.239.255,esited.com,http://www.esited.com/
+199.91.72.0,199.91.75.255,Zenlayer,http://www.zenlayer.com/
 199.91.96.0,199.91.103.255,HelloVPS,http://www.hellovps.com/
 199.96.80.0,199.96.87.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 199.101.48.0,199.101.51.255,HostRocket,http://www.hostrocket.com/
@@ -2312,6 +2325,7 @@
 199.189.84.0,199.189.87.255,Hosting Solutions Internationa,http://www.server4you.com/
 199.189.104.0,199.189.111.255,uk2group,http://uk2group.com/
 199.189.248.0,199.189.255.255,micfo.com,http://micfo.com/
+199.190.44.0,199.190.47.255,Zenlayer,http://www.zenlayer.com/
 199.192.72.0,199.192.79.255,Staminus Communications,http://staminus.net/
 199.192.152.0,199.192.159.255,eHostingUSA,http://ehostingusa.com/
 199.192.200.0,199.192.207.255,Continuum Data Centers,http://www.continuumdatacenters.com/
@@ -2338,6 +2352,7 @@
 199.241.136.0,199.241.143.255,fiberhub.com,http://www.fiberhub.com/
 199.241.144.0,199.241.147.255,hugeserver,http://www.hugeserver.com/
 199.244.112.0,199.244.119.255,hugeserver,http://www.hugeserver.com/
+199.245.56.0,199.245.63.255,Zenlayer,http://www.zenlayer.com/
 200.35.144.0,200.35.151.255,ServerPronto,http://www.serverpronto.com/
 200.50.224.0,200.50.231.255,abdicar.com,http://abdicar.com/
 200.63.40.0,200.63.47.255,panamaserver.com,http://panamaserver.com/
@@ -2520,6 +2535,7 @@
 208.79.232.0,208.79.239.255,wiredtree,http://www.wiredtree.com/
 208.80.180.0,208.80.183.255,Triple8 Network,http://888.net/
 208.81.164.0,208.81.167.255,awknet,http://awknet.com/
+208.81.200.0,208.81.203.255,Zenlayer,http://www.zenlayer.com/
 208.82.112.0,208.82.119.255,ndchost.com,http://www.ndchost.com/
 208.82.144.0,208.82.151.255,Datotel,http://www.datotel.com/
 208.82.204.0,208.82.207.255,Connectria,http://www.connectria.com/
@@ -2618,6 +2634,7 @@
 209.164.64.0,209.164.127.255,C I Host,http://www.cihost.com/
 209.172.32.0,209.172.63.255,iWeb Technologies Inc.,http://iweb.com/
 209.173.240.0,209.173.255.255,Securewebs.com,http://www.securewebs.com/
+209.177.80.0,209.177.95.255,Zenlayer,http://www.zenlayer.com/
 209.177.144.0,209.177.159.255,Host Virtual,http://www.vr.org/
 209.188.0.0,209.188.31.255,Secure Servers,http://www.securedservers.com/
 209.188.80.0,209.188.95.255,wiredtree,http://www.wiredtree.com/
