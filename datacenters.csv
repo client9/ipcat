@@ -1474,6 +1474,8 @@
 109.190.0.0,109.190.255.255,OVH,http://www.ovh.co.uk/
 109.200.0.0,109.200.31.255,Redstation Limited,http://redstation.com/
 109.200.192.0,109.200.223.255,i3d.net,http://i3d.net/
+109.201.133.0,109.201.133.255,NFOrce,https://www.nforce.com/
+109.201.143.192,109.201.143.255,NFOrce,https://www.nforce.com/
 109.202.96.0,109.202.111.255,serverboost.nl,http://serverboost.nl/
 109.203.96.0,109.203.127.255,eUKhost,http://www.eukhost.com/
 109.228.0.0,109.228.63.255,Fasthosts Internet Ltd,http://www.fasthosts.co.uk/
