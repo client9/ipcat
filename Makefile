@@ -20,7 +20,7 @@ misspell:
 
 clean:
 	rm -f *~
-
+	git gc
 
 ci: generate test
 
