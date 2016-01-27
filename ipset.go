@@ -212,7 +212,7 @@ func (ipset *IntervalSet) AddRange(dotsleft, dotsright, name, url string) error 
 		return fmt.Errorf("%s > %s", dotsleft, dotsright)
 	}
 	if right-left >= uint32(1)<<24 {
-		return fmt.Errorf("Range too big")
+		return fmt.Errorf("Range too big for [%s %s] %s %s", dotsleft, dotsright, name, url)
 	}
 	ipset.sorted = false
 	ipset.btree = append(ipset.btree,
