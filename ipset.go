@@ -51,8 +51,8 @@ func ToDots(val uint32) string {
 		val&0xFF)
 }
 
-// interval is a closed interval
-type interval struct {
+// Interval is a closed interval [a,b] of an IPv4 range
+type Interval struct {
 	Left      uint32
 	Right     uint32
 	LeftDots  string
@@ -61,7 +61,7 @@ type interval struct {
 	URL       string
 }
 
-type intervallist []interval
+type intervallist []Interval
 
 // Len satifies the sort.Sortable interface
 func (ipset intervallist) Len() int {
@@ -88,7 +88,7 @@ type IntervalSet struct {
 // NewIntervalSet creates a new set with a capacity
 func NewIntervalSet(capacity int) *IntervalSet {
 	return &IntervalSet{
-		btree: make([]interval, 0, capacity),
+		btree: make([]Interval, 0, capacity),
 	}
 }
 
@@ -148,7 +148,7 @@ func (ipset *IntervalSet) sort() error {
 	}
 	sort.Sort(ipset.btree)
 
-	last := interval{}
+	last := Interval{}
 	// check validity -- probably worth ripping out
 	for pos, val := range ipset.btree {
 		if val.Left > val.Right {
@@ -169,8 +169,8 @@ func (ipset *IntervalSet) sort() error {
 	ipset.sorted = true
 
 	// now merge adjacent items
-	newtree := make([]interval, 0, len(ipset.btree))
-	last = interval{}
+	newtree := make([]Interval, 0, len(ipset.btree))
+	last = Interval{}
 	for pos, val := range ipset.btree {
 		if pos == 0 {
 			newtree = append(newtree, val)
@@ -216,7 +216,7 @@ func (ipset *IntervalSet) AddRange(dotsleft, dotsright, name, url string) error 
 	}
 	ipset.sorted = false
 	ipset.btree = append(ipset.btree,
-		interval{
+		Interval{
 			Left:      left,
 			Right:     right,
 			LeftDots:  dotsleft,
