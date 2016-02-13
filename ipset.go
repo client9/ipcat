@@ -262,7 +262,16 @@ func (ipset IntervalSet) Contains(dots string) (*Interval, error) {
 	i := sort.Search(len(ipset.btree), func(i int) bool {
 		return ipset.btree[i].Left >= val
 	})
-	if i < ipset.btree.Len() && ipset.btree[i].Left >= val && ipset.btree[i].Right <= val {
+
+	// lots of cases in the lookup here.
+	// if exactly equals, then compare with [i]
+	if i < ipset.Len() && ipset.btree[i].Left == val && val <= ipset.btree[i].Right {
+		return &ipset.btree[i], nil
+	}
+
+	// ok then it's the record before
+	i--
+	if i >= 0 && ipset.btree[i].Left < val && val <= ipset.btree[i].Right {
 		return &ipset.btree[i], nil
 	}
 	return nil, nil

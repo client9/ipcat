@@ -10,6 +10,7 @@ import (
 )
 
 func main() {
+	lookup := flag.String("l", "", "lookup an IP address")
 	updateAWS := flag.Bool("aws", false, "update AWS records")
 	datafile := flag.String("csvfile", "datacenters.csv", "read/write from this file")
 	statsfile := flag.String("statsfile", "datacenters-stats.csv", "write statistics to this file")
@@ -25,6 +26,19 @@ func main() {
 		log.Fatalf("Unable to import: %s", err)
 	}
 	filein.Close()
+	log.Printf("Loaded %d entries", set.Len())
+
+	if *lookup != "" {
+		rec, err := set.Contains(*lookup)
+		if err != nil {
+			log.Fatalf("Unable to find %s: %s", *lookup, err)
+		}
+		if rec == nil {
+			log.Fatalf("Not found: %s", *lookup)
+		}
+		fmt.Printf("[%s:%s] %s %s\n", rec.LeftDots, rec.RightDots, rec.Name, rec.URL)
+		return
+	}
 
 	if *updateAWS {
 		body, err := ipcat.DownloadAWS()
