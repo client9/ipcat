@@ -244,27 +244,28 @@ func (ipset IntervalSet) Len() int {
 	return ipset.btree.Len()
 }
 
-// Contains returns true if the IP address is in some interval
-//  else false or error
-func (ipset IntervalSet) Contains(dots string) (bool, error) {
+// Contains returns the internal record if the IP address is in some
+// interval else nil or error.  It returns a pointer to the internal
+// record, so be careful.
+func (ipset IntervalSet) Contains(dots string) (*Interval, error) {
 	if !ipset.sorted {
 		err := ipset.sort()
 		if err != nil {
-			return false, err
+			return nil, err
 		}
 	}
 
 	val := dots2uint32(dots)
 	if val == 0 && dots != "0.0.0.0" {
-		return false, fmt.Errorf("Invalid input: %q", dots)
+		return nil, fmt.Errorf("Invalid input: %q", dots)
 	}
 	i := sort.Search(len(ipset.btree), func(i int) bool {
 		return ipset.btree[i].Left >= val
 	})
 	if i < ipset.btree.Len() && ipset.btree[i].Left >= val && ipset.btree[i].Right <= val {
-		return true, nil
+		return &ipset.btree[i], nil
 	}
-	return false, nil
+	return nil, nil
 }
 
 // NameSize is a tuple mapping name with a size
