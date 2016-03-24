@@ -27,7 +27,7 @@ type AzureRegion struct {
 
 // AzurePublicIPAddresses is a listing of regions
 type AzurePublicIPAddresses struct {
-	AzureRegion []AzureRegion
+	AzureRegion []AzureRegion `xml:"Region"`
 }
 
 // DownloadAzure downloads and return raw bytes of the MS Azure ip
@@ -35,7 +35,7 @@ type AzurePublicIPAddresses struct {
 func DownloadAzure() ([]byte, error) {
 	// http://www.microsoft.com/en-us/download/confirmation.aspx?id=41653
 	const (
-		msazure = "https://download.microsoft.com/download/0/1/8/018E208D-54F8-44CD-AA26-CD7BC9524A8C/PublicIPs_20151130.xml"
+		msazure = "https://download.microsoft.com/download/0/1/8/018E208D-54F8-44CD-AA26-CD7BC9524A8C/PublicIPs_20160314.xml"
 	)
 	resp, err := http.Get(msazure)
 	if err != nil {
