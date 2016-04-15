@@ -63,17 +63,17 @@ type Interval struct {
 
 type intervallist []Interval
 
-// Len satifies the sort.Sortable interface
+// Len satisfies the sort.Sortable interface
 func (ipset intervallist) Len() int {
 	return len(ipset)
 }
 
-// Less satifies the sort.Sortable interface
+// Less satisfies the sort.Sortable interface
 func (ipset intervallist) Less(i, j int) bool {
 	return ipset[i].Left < ipset[j].Left
 }
 
-// Swap satifies the sort.Sortable interface
+// Swap satisfies the sort.Sortable interface
 func (ipset intervallist) Swap(i, j int) {
 	ipset[i], ipset[j] = ipset[j], ipset[i]
 }
@@ -286,19 +286,19 @@ type NameSize struct {
 // NameSizeList is a list of NameSize
 type NameSizeList []NameSize
 
-// Len satifies the sort.Sortable interface
+// Len satisfies the sort.Sortable interface
 func (list NameSizeList) Len() int {
 	return len(list)
 }
 
-// Less satifies the sort.Sortable interface
+// Less satisfies the sort.Sortable interface
 // THIS IS DESCENDING SORT, the sign is flipped
 //  MORE = FIRST
 func (list NameSizeList) Less(i, j int) bool {
 	return list[i].Size > list[j].Size
 }
 
-// Swap satifies the sort.Sortable interface
+// Swap satisfies the sort.Sortable interface
 func (list NameSizeList) Swap(i, j int) {
 	list[i], list[j] = list[j], list[i]
 }
