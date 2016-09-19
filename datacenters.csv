@@ -142,7 +142,7 @@
 23.253.0.0,23.253.255.255,Rackspace,http://www.rackspace.com/
 23.254.0.0,23.254.127.255,B2 NET Solutions,http://www.servermania.com/
 25.66.8.0,25.66.15.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-27.50.32.0,27.50.39.255,Hurricane Electic,http://www.he.net/
+27.50.32.0,27.50.39.255,Hurricane Electric,http://www.he.net/
 27.131.64.0,27.131.127.254,Micron21,http://www.micron21.com/
 31.3.104.0,31.3.111.255,tuxis.nl,http://tuxis.nl/
 31.3.152.0,31.3.159.255,AltusHost,http://www.altushost.com/
@@ -499,14 +499,14 @@
 64.50.160.0,64.50.191.255,Lunar Pages,http://www.lunarpages.com/
 64.56.64.0,64.56.79.255,Perfect IP,http://www.perfectip.net/
 64.59.64.0,64.59.127.255,MojoHost,http://www.mojohost.com
-64.62.128.0,64.62.255.255,Hurricane Electic,http://www.he.net/
+64.62.128.0,64.62.255.255,Hurricane Electric,http://www.he.net/
 64.64.0.0,64.64.31.255,ServInt,http://www.servint.net/
 64.64.224.0,64.64.255.255,Carat Networks,http://www.caratnetworks.com/
 64.65.0.0,64.65.63.255,PEER 1,http://www.peer1.com/
 64.66.128.0,64.66.191.255,Hostway,http://www.hostway.com/
 64.69.32.0,64.69.47.255,calPOP,http://calpop.com/
 64.69.64.0,64.69.95.255,PEER 1,http://www.peer1.com/
-64.71.128.0,64.71.191.255,Hurricane Electic,http://www.he.net/
+64.71.128.0,64.71.191.255,Hurricane Electric,http://www.he.net/
 64.71.224.0,64.71.239.255,Webhosting.net,http://www.webhosting.net/
 64.77.0.0,64.77.127.255,PEER 1,http://www.peer1.com/
 64.79.96.0,64.79.111.255,Continuum Data Centers,http://www.continuumdatacenters.com/
@@ -550,11 +550,11 @@
 64.247.192.0,64.247.223.255,LightEdge,http://www.lightedge.com
 64.251.0.0,64.251.31.255,ServerPronto,http://www.serverpronto.com/
 65.17.192.0,65.17.255.255,Datapipe,http://www.datapipe.com/
-65.19.128.0,65.19.191.255,Hurricane Electic,http://www.he.net/
+65.19.128.0,65.19.191.255,Hurricane Electric,http://www.he.net/
 65.36.128.0,65.36.255.255,HostMySite.com,http://www.webmysite.com/
 65.38.160.0,65.38.191.255,latisys,http://www.latisys.com/
 65.39.128.0,65.39.255.255,PEER 1,http://www.peer1.com/
-65.49.0.0,65.49.127.255,Hurricane Electic,http://www.he.net/
+65.49.0.0,65.49.127.255,Hurricane Electric,http://www.he.net/
 65.52.0.0,65.52.39.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 65.52.48.0,65.52.79.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 65.52.106.16,65.52.106.31,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -615,7 +615,7 @@
 66.154.0.0,66.154.95.255,cyberwurx.com,http://www.cyberwurx.com/
 66.155.0.0,66.155.127.255,PEER 1,http://www.peer1.com/
 66.159.64.0,66.159.95.255,Datapoint,http://www.datapointinc.com/
-66.160.128.0,66.160.207.255,Hurricane Electic,http://www.he.net/
+66.160.128.0,66.160.207.255,Hurricane Electric,http://www.he.net/
 66.165.128.0,66.165.159.255,ActiveHost,http://www.activehost.com/
 66.172.0.0,66.172.63.255,Cyberverse,http://www.cyberverse.com/
 66.180.192.0,66.180.207.255,Cyberverse,http://www.cyberverse.com/
@@ -627,7 +627,7 @@
 66.216.64.0,66.216.127.255,Rackspace,http://www.rackspace.com/
 66.219.16.0,66.219.31.255,netriplex,http://www.netriplex.com/
 66.219.96.0,66.219.111.255,Advanced Internet Technologies,http://www.ait.com/
-66.220.0.0,66.220.31.255,Hurricane Electic,http://www.he.net/
+66.220.0.0,66.220.31.255,Hurricane Electric,http://www.he.net/
 66.221.0.0,66.221.255.255,C I Host,http://www.cihost.com/
 66.223.0.0,66.223.127.255,PEER 1,http://www.peer1.com/
 66.225.192.0,66.225.255.255,ServerCentral,http://www.servercentral.net/
@@ -859,7 +859,7 @@
 72.46.128.0,72.46.159.255,VersaWeb,http://www.versaweb.com/
 72.47.192.0,72.47.255.255,Media Temple,http://www.mediatemple.net/
 72.51.0.0,72.51.63.255,PEER 1,http://www.peer1.com/
-72.52.64.0,72.52.127.255,Hurricane Electic,http://www.he.net/
+72.52.64.0,72.52.127.255,Hurricane Electric,http://www.he.net/
 72.52.128.0,72.52.255.255,Liquid Web,http://www.liquidweb.com/
 72.55.128.0,72.55.191.255,iWeb Technologies Inc.,http://iweb.com/
 72.167.0.0,72.167.255.255,GoDaddy.com Inc,http://www.godaddy.com/
@@ -879,7 +879,7 @@
 74.63.192.0,74.63.255.255,Limestone Networks,http://www.limestonenetworks.com/
 74.80.128.0,74.80.191.255,ColoStore,http://colostore.com/
 74.81.32.0,74.81.63.255,Perfect IP,http://www.perfectip.net/
-74.82.0.0,74.82.63.255,Hurricane Electic,http://www.he.net/
+74.82.0.0,74.82.63.255,Hurricane Electric,http://www.he.net/
 74.82.160.0,74.82.191.255,Take 2 Hosting,http://www.take2hosting.com/
 74.82.192.0,74.82.223.255,Carat Networks,http://www.caratnetworks.com/
 74.84.128.0,74.84.159.255,HopOne,http://www.hopone.net/
@@ -1952,7 +1952,7 @@
 184.84.0.0,184.87.255.255,Akamai,http://akamai.com/
 184.94.144.0,184.94.159.255,MojoHost,http://www.mojohost.com
 184.95.32.0,184.95.63.255,Secure Servers,http://www.securedservers.com/
-184.104.0.0,184.105.255.255,Hurricane Electic,http://www.he.net/
+184.104.0.0,184.105.255.255,Hurricane Electric,http://www.he.net/
 184.106.0.0,184.106.255.255,Rackspace,http://www.rackspace.com/
 184.107.0.0,184.107.255.255,iWeb Technologies Inc.,http://iweb.com/
 184.154.0.0,184.154.255.255,SingleHop,http://www.singlehop.com/
@@ -2394,7 +2394,7 @@
 199.115.96.0,199.115.103.255,SharkTECH Internet Services,http://sharktech.net/
 199.115.112.0,199.115.119.255,Leaseweb,http://www.leaseweb.com/
 199.115.124.0,199.115.127.255,ecritel.net,http://www.ecritel.net/
-199.115.144.0,199.115.147.255,Hurricane Electic,http://www.he.net/
+199.115.144.0,199.115.147.255,Hurricane Electric,http://www.he.net/
 199.115.164.0,199.115.167.255,Sprocket Networks,http://www.sprocketnetworks.com/
 199.115.228.0,199.115.231.255,Volume Drive,http://volumedrive.com
 199.116.84.0,199.116.87.255,lionlink.net,http://www.lionlink.net/
@@ -2708,7 +2708,7 @@
 209.41.160.0,209.41.191.255,HostMySite.com,http://www.webmysite.com/
 209.44.96.0,209.44.127.255,Netelligent,http://www.netelligent.ca/en/ca
 209.50.224.0,209.50.255.255,ServInt,http://www.servint.net/
-209.51.160.0,209.51.191.255,Hurricane Electic,http://www.he.net/
+209.51.160.0,209.51.191.255,Hurricane Electric,http://www.he.net/
 209.54.48.0,209.54.63.255,Native Hosting,http://nativehosting.com/
 209.54.96.0,209.54.111.255,DiaHosting,https://www.diahosting.com/en/
 209.59.128.0,209.59.191.255,Liquid Web,http://www.liquidweb.com/
@@ -2863,7 +2863,7 @@
 216.55.176.0,216.55.187.255,Codero,http://www.codero.com/
 216.59.0.0,216.59.63.255,netriplex,http://www.netriplex.com/
 216.65.0.0,216.65.127.255,PEER 1,http://www.peer1.com/
-216.66.0.0,216.66.95.255,Hurricane Electic,http://www.he.net/
+216.66.0.0,216.66.95.255,Hurricane Electric,http://www.he.net/
 216.67.224.0,216.67.255.255,Fortress Integrated Technologies,http://fortressitx.com/
 216.69.128.0,216.69.191.255,GoDaddy.com Inc,http://www.godaddy.com/
 216.70.64.0,216.70.127.255,Media Temple,http://www.mediatemple.net/
@@ -2915,7 +2915,7 @@
 216.189.144.0,216.189.159.255,Host US,http://hostus.us/
 216.211.128.0,216.211.143.255,Adhost,http://www.adhost.com/
 216.213.0.0,216.213.191.255,thorn.net,http://www.thorn.net/
-216.218.128.0,216.218.255.255,Hurricane Electic,http://www.he.net/
+216.218.128.0,216.218.255.255,Hurricane Electric,http://www.he.net/
 216.219.80.0,216.219.95.255,Host Department LLC,http://www.hostdepartment.com/
 216.221.160.0,216.221.191.255,C I Host,http://www.cihost.com/
 216.222.192.0,216.222.207.255,Jumpline Inc,http://www.jumpline.com/
