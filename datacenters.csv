@@ -189,6 +189,7 @@
 31.216.48.0,31.216.55.255,Hosting UK,http://hostinguk.net/
 31.220.128.0,31.220.131.255,everhost,http://everhost.co/
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
+35.156.0.0,35.167.255.255,Amazon AWS,http://www.amazon.com/aws/
 37.9.224.0,37.9.228.223,seeweb.it,http://seeweb.it/
 37.10.0.0,37.10.127.255,Optimate Server,http://optimate-server.de/
 37.26.240.0,37.26.247.255,DigiCube,http://digicube.fr/
@@ -424,16 +425,14 @@
 50.117.0.0,50.117.127.255,EGIHosting.com,http://www.egihosting.com/
 51.254.0.0,51.255.255.255,OVH,http://www.ovh.co.uk/
 52.0.0.0,52.13.255.255,Amazon AWS,http://www.amazon.com/aws/
-52.16.0.0,52.43.255.255,Amazon AWS,http://www.amazon.com/aws/
-52.48.0.0,52.53.255.255,Amazon AWS,http://www.amazon.com/aws/
-52.58.0.0,52.59.255.255,Amazon AWS,http://www.amazon.com/aws/
-52.62.0.0,52.65.255.255,Amazon AWS,http://www.amazon.com/aws/
-52.67.0.0,52.74.255.255,Amazon AWS,http://www.amazon.com/aws/
-52.76.0.0,52.77.255.255,Amazon AWS,http://www.amazon.com/aws/
-52.79.0.0,52.79.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.15.0.0,52.45.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.48.0.0,52.55.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.57.0.0,52.59.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.62.0.0,52.74.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.76.0.0,52.80.255.255,Amazon AWS,http://www.amazon.com/aws/
 52.86.0.0,52.91.255.255,Amazon AWS,http://www.amazon.com/aws/
 52.95.240.0,52.95.249.255,Amazon AWS,http://www.amazon.com/aws/
-52.95.252.0,52.95.252.255,Amazon AWS,http://www.amazon.com/aws/
+52.95.251.0,52.95.252.255,Amazon AWS,http://www.amazon.com/aws/
 52.95.255.0,52.95.255.159,Amazon AWS,http://www.amazon.com/aws/
 52.192.0.0,52.193.255.255,Amazon AWS,http://www.amazon.com/aws/
 52.196.0.0,52.215.255.255,Amazon AWS,http://www.amazon.com/aws/
