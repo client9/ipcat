@@ -2038,45 +2038,7 @@
 190.123.32.0,190.123.47.255,panamaserver.com,http://panamaserver.com/
 190.151.128.0,190.151.131.255,corponetsa.net,http://www.corponetsa.net/
 190.242.28.0,190.242.28.255,corponetsa.net,http://www.corponetsa.net/
-191.232.32.0,191.232.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.233.32.0,191.233.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.233.144.0,191.233.144.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.233.168.0,191.233.183.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.234.2.16,191.234.2.191,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.234.3.0,191.234.3.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.234.16.0,191.234.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.234.138.0,191.234.138.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.235.128.0,191.235.193.111,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.235.193.128,191.235.195.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.235.208.0,191.235.223.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.235.255.0,191.235.255.95,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.235.255.128,191.237.38.31,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.237.39.0,191.237.165.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.237.168.0,191.237.194.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.237.196.0,191.237.196.15,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.237.208.0,191.237.223.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.237.232.0,191.237.236.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.237.238.0,191.237.238.15,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.237.238.32,191.237.238.95,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.237.238.112,191.237.238.127,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.237.240.0,191.237.240.79,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.237.241.0,191.237.241.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.237.248.0,191.238.4.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.238.6.0,191.238.6.79,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.238.7.0,191.238.64.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.238.66.0,191.238.66.175,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.238.67.0,191.238.68.63,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.238.69.0,191.238.71.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.238.80.0,191.238.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.238.136.0,191.238.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.238.224.0,191.239.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.239.160.0,191.239.192.175,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.239.192.192,191.239.192.223,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.239.193.0,191.239.195.15,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.239.200.0,191.239.203.31,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.239.203.64,191.239.203.95,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.239.208.0,191.239.224.127,Microsoft Azure,http://www.windowsazure.com/en-us/
-191.239.240.0,191.239.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+191.232.0.0,191.239.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 192.3.0.0,192.3.255.255,ColoCrossing,http://www.colocrossing.com/
 192.30.136.0,192.30.139.255,Input Output Flood LLC,http://ioflood.com/
 192.34.56.0,192.34.63.255,DigitalOcean USA,https://www.digitalocean.com/
