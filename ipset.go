@@ -23,7 +23,8 @@ func dots2uint32(dots string) uint32 {
 }
 
 // CIDR2Range converts a CIDR to a dotted IP address pair, or empty strings and error
-// generic.. does not care if ipv4 or ipv6
+//
+// Generic.. does not care if ipv4 or ipv6
 func CIDR2Range(c string) (string, string, error) {
 	left, ipnet, err := net.ParseCIDR(c)
 	if err != nil {
