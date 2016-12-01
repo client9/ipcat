@@ -28,7 +28,7 @@ type AzurePublicIPAddresses struct {
 	AzureRegion []AzureRegion `xml:"Region"`
 }
 
-// DownloadAzure downloads and return raw bytes of the MS Azure ip
+// DownloadAzure downloads and returns raw bytes of the MS Azure ip
 // range list
 func DownloadAzure() ([]byte, error) {
 	resp, err := http.Get(msazure)
