@@ -304,10 +304,14 @@ func (list NameSizeList) Swap(i, j int) {
 }
 
 // RankBySize returns a list ISP and how many IPs they have
-// From this it's easy to compute
-//   * Lastest providers
-//   * Number of providers
-//   * Total number IPs address
+// From this it's easy to compute:
+//
+// * Lastest providers
+//
+// * Number of providers
+//
+// * Total number IP address
+//
 func (ipset IntervalSet) RankBySize() NameSizeList {
 	counts := make(map[string]int, ipset.Len())
 	for _, val := range ipset.btree {
