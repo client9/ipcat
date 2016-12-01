@@ -7,6 +7,10 @@ import (
 	"net/http"
 )
 
+var (
+	awsDownload = "https://ip-ranges.amazonaws.com/ip-ranges.json"
+)
+
 // AWSPrefix is AWS prefix in their IP ranges file
 type AWSPrefix struct {
 	IPPrefix string `json:"ip_prefix"`
@@ -23,9 +27,6 @@ type AWS struct {
 
 // DownloadAWS downloads the latest AWS IP ranges list
 func DownloadAWS() ([]byte, error) {
-	const (
-		awsDownload = "https://ip-ranges.amazonaws.com/ip-ranges.json"
-	)
 	resp, err := http.Get(awsDownload)
 	if err != nil {
 		return nil, err
