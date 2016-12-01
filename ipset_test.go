@@ -83,3 +83,28 @@ func TestCIDR2Range(t *testing.T) {
 		}
 	}
 }
+
+func TestIntervalSet(t *testing.T) {
+	ipset := NewIntervalSet(256)
+	ipset.AddCIDR("1.1.1.1/24", "Test Range", "Test URL")
+	rec, err := ipset.Contains("1.1.1.2")
+	if err != nil {
+		t.Fatalf("ipset.Contains(%q) error :%s", "1.1.1.2", err)
+	}
+	if rec == nil {
+		t.Errorf("ipset.Contains(%q) record is nil", "1.1.1.2")
+	}
+	if _, err := ipset.Contains("0"); err == nil {
+		t.Errorf("ipset.Contains(%q) = %v, want error", "1.1.1.2", err)
+	}
+
+	ipset.AddCIDR("2.2.2.2/24", "Another Test Range", "Another Test URL")
+	ipset.DeleteByName("Test Range")
+	rec, err = ipset.Contains("1.1.1.2")
+	if err != nil {
+		t.Fatalf("ipset.Contains(%q) error :%s", "1.1.1.2", err)
+	}
+	if rec != nil {
+		t.Errorf("ipset.Contains(%q) record is not nil after DeleteByName: %v", "1.1.1.2", rec)
+	}
+}
