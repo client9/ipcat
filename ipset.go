@@ -23,7 +23,7 @@ func dots2uint32(dots string) uint32 {
 }
 
 // CIDR2Range converts a CIDR to a dotted IP address pair, or empty strings and error
-//  generic.. does not care if ipv4 or ipv6
+// generic.. does not care if ipv4 or ipv6
 func CIDR2Range(c string) (string, string, error) {
 	left, ipnet, err := net.ParseCIDR(c)
 	if err != nil {
@@ -79,7 +79,7 @@ func (ipset intervallist) Swap(i, j int) {
 }
 
 // IntervalSet is a mapping of an IP range (the closed interval)
-//  to additional data
+// to additional data
 type IntervalSet struct {
 	btree  intervallist
 	sorted bool
@@ -293,7 +293,7 @@ func (list NameSizeList) Len() int {
 
 // Less satisfies the sort.Sortable interface
 // THIS IS DESCENDING SORT, the sign is flipped
-//  MORE = FIRST
+// MORE = FIRST
 func (list NameSizeList) Less(i, j int) bool {
 	return list[i].Size > list[j].Size
 }
@@ -304,11 +304,10 @@ func (list NameSizeList) Swap(i, j int) {
 }
 
 // RankBySize returns a list ISP and how many IPs they have
-//  From this it's easy to compute
-//    * Lastest providers
-//    * Number of providers
-//    * Total number IPs address
-//
+// From this it's easy to compute
+//   * Lastest providers
+//   * Number of providers
+//   * Total number IPs address
 func (ipset IntervalSet) RankBySize() NameSizeList {
 	counts := make(map[string]int, ipset.Len())
 	for _, val := range ipset.btree {
