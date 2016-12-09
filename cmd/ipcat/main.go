@@ -12,6 +12,7 @@ import (
 func main() {
 	lookup := flag.String("l", "", "lookup an IP address")
 	updateAWS := flag.Bool("aws", false, "update AWS records")
+	updateAzure := flag.Bool("azure", false, "update Azure records")
 	datafile := flag.String("csvfile", "datacenters.csv", "read/write from this file")
 	statsfile := flag.String("statsfile", "datacenters-stats.csv", "write statistics to this file")
 	flag.Parse()
@@ -48,6 +49,17 @@ func main() {
 		err = ipcat.UpdateAWS(&set, body)
 		if err != nil {
 			log.Fatalf("Unable to parse AWS rules: %s", err)
+		}
+	}
+
+	if *updateAzure {
+		body, err := ipcat.DownloadAzure()
+		if err != nil {
+			log.Fatalf("Unable to download Azure rules: %s", err)
+		}
+		err = ipcat.UpdateAzure(&set, body)
+		if err != nil {
+			log.Fatalf("Unable to parse Azure rules: %s", err)
 		}
 	}
 

@@ -7,6 +7,9 @@ generate:
 aws:
 	go run ./cmd/ipcat/main.go -aws
 
+azure:
+	go run ./cmd/ipcat/main.go -azure
+
 test:
 	find . -name '*.go' | xargs gofmt -w -s
 	find . -name '*.go' | xargs goimports -w
