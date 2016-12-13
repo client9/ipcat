@@ -66,6 +66,7 @@
 13.80.88.0,13.86.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 14.102.144.0,14.102.146.255,IP ServerOne,http://ipserverone.com/
 14.128.8.0,14.128.11.255,Servenet Solution Limited Partnership,http://servenet.co.th/
+23.80.0.0,23.83.207.255,Nobis Technology Group,http://www.nobistech.net/
 21.0.0.0,21.0.0.87,Microsoft Azure,http://www.windowsazure.com/en-us/
 23.0.0.0,23.15.255.255,Akamai,http://akamai.com/
 23.19.0.0,23.19.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
@@ -1996,6 +1997,7 @@
 185.12.64.0,185.12.67.255,Hetzner Online AG,http://www.hetzner.de/
 185.14.28.0,185.14.29.255,UA Servers,https://itldc.com/
 185.14.184.0,185.14.187.255,DigitalOcean Europe,https://www.digitalocean.com/
+185.14.194.0,185.14.194.127,Atomohost,http://www.atomohost.com/
 185.17.184.0,185.17.187.255,Leaseweb,http://www.leaseweb.com/
 185.19.218.152,185.19.218.159,Velia,http://www.velia.net/
 185.27.236.0,185.27.236.255,3W Infra,https://ccc.3winfra.com/
@@ -2016,6 +2018,7 @@
 185.102.27.0,185.102.27.255,Cloudzilla Netherlands,http://cloudzilla.nl/
 185.108.84.0,185.108.85.255,Ardis Russia,https://ardis.ru/
 185.121.120.0,185.121.121.255,Trabia Network,https://www.trabia.com/
+186.0.0.0,186.255.255.255,Locaweb,http://www.locaweb.com.br/
 186.227.162.128,186.227.162.191,Server Green,http://servergreen.com.br/
 186.251.128.0,186.251.139.255,ipglobe.net,https://www.ipglobe.net/
 187.0.192.0,187.0.223.255,alog,http://www.alog.com.br/
@@ -2025,6 +2028,7 @@
 188.40.0.0,188.40.255.255,Hetzner Online AG,http://www.hetzner.de/
 188.42.0.0,188.42.255.255,root S.A.,http://www.site.lu/
 188.64.171.182,188.64.171.182,h1host,https://www.h1host.ru/
+188.72.126.0,188.72.126.255,Depo40,http://depo40.ru/
 188.72.192.0,188.72.255.255,Leaseweb,http://www.leaseweb.com/
 188.95.48.0,188.95.55.255,serverboost.nl,http://serverboost.nl/
 188.95.248.0,188.95.255.255,rackmarkt.com,http://rackmarkt.com/
@@ -2121,6 +2125,7 @@
 192.241.8.0,192.241.15.255,avantehosting.net,https://avantehosting.net/
 192.241.64.0,192.241.127.255,servermania.com,http://www.servermania.com/
 192.241.128.0,192.241.255.255,DigitalOcean USA,https://www.digitalocean.com/
+192.243.48.0,192.243.63.255,Advanced Hosters,https://advancedhosters.com/
 192.249.112.0,192.249.127.255,inmotion hosting,http://www.inmotionhosting.com/
 192.252.208.0,192.252.223.255,Total Server Solutions,http://totalserversolutions.com/
 192.254.80.0,192.254.95.255,Zenlayer,http://www.zenlayer.com/
@@ -2777,6 +2782,7 @@
 212.123.96.0,212.123.127.255,IP Exchange GmbH,http://www.ip-exchange.de/
 212.124.120.0,212.124.123.255,DigitalOne AG,http://www.digitalone.com/
 212.147.128.0,212.147.255.255,Servercentric,http://servecentric.com/
+212.192.192.0,212.192.199.255,RU-CENTER,https://www.nic.ru/en/
 212.224.64.0,212.224.127.255,First Colo GmbH,http://www.first-colo.net/EN/
 212.227.0.0,212.227.255.255,1&1 Internet,http://www.1and1.com/
 213.5.64.0,213.5.71.255,AltusHost,http://www.altushost.com/
