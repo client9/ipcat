@@ -65,6 +65,18 @@ func main() {
 		}
 	}
 
+	if *addCIDR != "" {
+		t := strings.Split(*addCIDR, ",")
+		if len(t) != 3 {
+			log.Fatal("range must be in format: CIDR,name,url")
+		}
+		err := set.AddCIDR(t[0], t[1], t[2])
+		if err != nil {
+			log.Fatalf("Could not add range: %v", err)
+		}
+		log.Println("Range added successfully")
+	}
+
 	if *statsfile != "" {
 		fileout, err := os.OpenFile(*statsfile, os.O_WRONLY|os.O_CREATE|os.O_TRUNC, 0644)
 		if err != nil {
@@ -80,18 +92,6 @@ func main() {
 			fileout.WriteString(fmt.Sprintf("%s,%d\n", name, val.Size))
 		}
 		fileout.Close()
-	}
-
-	if *addCIDR != "" {
-		t := strings.Split(*addCIDR, ",")
-		if len(t) != 3 {
-			log.Fatal("range must be in format: CIDR,name,url")
-		}
-		err := set.AddCIDR(t[0], t[1], t[2])
-		if err != nil {
-			log.Fatalf("Could not add range: %v", err)
-		}
-		log.Println("Range added successfully")
 	}
 
 	fileout, err := os.OpenFile(*datafile, os.O_WRONLY|os.O_CREATE|os.O_TRUNC, 0644)
