@@ -6,6 +6,7 @@ import (
 	"io"
 	"net"
 	"sort"
+	"strings"
 )
 
 // generic utility function
@@ -287,21 +288,63 @@ type NameSize struct {
 // NameSizeList is a list of NameSize
 type NameSizeList []NameSize
 
-// Len satisfies the sort.Sortable interface
-func (list NameSizeList) Len() int {
-	return len(list)
+type lessFunc func(p1, p2 *NameSize) bool
+
+// multiSorter implements the Sort interface, sorting the NameSizes within.
+// from https://golang.org/pkg/sort/#example__sortMultiKeys
+type multiSorter struct {
+	nameSizes []NameSize
+	less      []lessFunc
 }
 
-// Less satisfies the sort.Sortable interface
-// THIS IS DESCENDING SORT, the sign is flipped
-// MORE = FIRST
-func (list NameSizeList) Less(i, j int) bool {
-	return list[i].Size > list[j].Size
+// Sort sorts the argument slice according to the less functions passed to OrderedBy.
+func (ms *multiSorter) Sort(nameSizes []NameSize) {
+	ms.nameSizes = nameSizes
+	sort.Sort(ms)
 }
 
-// Swap satisfies the sort.Sortable interface
-func (list NameSizeList) Swap(i, j int) {
-	list[i], list[j] = list[j], list[i]
+// OrderedBy returns a Sorter that sorts using the less functions, in order.
+// Call its Sort method to sort the data.
+func OrderedBy(less ...lessFunc) *multiSorter {
+	return &multiSorter{
+		less: less,
+	}
+}
+
+// Len is part of sort.Interface.
+func (ms *multiSorter) Len() int {
+	return len(ms.nameSizes)
+}
+
+// Swap is part of sort.Interface.
+func (ms *multiSorter) Swap(i, j int) {
+	ms.nameSizes[i], ms.nameSizes[j] = ms.nameSizes[j], ms.nameSizes[i]
+}
+
+// Less is part of sort.Interface. It is implemented by looping along the
+// less functions until it finds a comparison that is either Less or
+// !Less. Note that it can call the less functions twice per call. We
+// could change the functions to return -1, 0, 1 and reduce the
+// number of calls for greater efficiency: an exercise for the reader.
+func (ms *multiSorter) Less(i, j int) bool {
+	p, q := &ms.nameSizes[i], &ms.nameSizes[j]
+	// Try all but the last comparison.
+	var k int
+	for k = 0; k < len(ms.less)-1; k++ {
+		less := ms.less[k]
+		switch {
+		case less(p, q):
+			// p < q, so we have a decision.
+			return true
+		case less(q, p):
+			// p > q, so we have a decision.
+			return false
+		}
+		// p == q; try the next comparison.
+	}
+	// All comparisons to here said "equal", so just return whatever
+	// the final comparison reports.
+	return ms.less[k](p, q)
 }
 
 // RankBySize returns a list ISP and how many IPs they have
@@ -322,6 +365,15 @@ func (ipset IntervalSet) RankBySize() NameSizeList {
 	for k, v := range counts {
 		rank = append(rank, NameSize{k, v})
 	}
-	sort.Sort(rank)
+
+	size := func(l1, l2 *NameSize) bool {
+		return l1.Size > l2.Size
+	}
+
+	name := func(l1, l2 *NameSize) bool {
+		return strings.ToLower(l1.Name) < strings.ToLower(l2.Name)
+	}
+
+	OrderedBy(size, name).Sort(rank)
 	return rank
 }
