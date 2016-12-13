@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"strings"
 
 	"github.com/client9/ipcat"
 )
@@ -15,6 +16,7 @@ func main() {
 	updateAzure := flag.Bool("azure", false, "update Azure records")
 	datafile := flag.String("csvfile", "datacenters.csv", "read/write from this file")
 	statsfile := flag.String("statsfile", "datacenters-stats.csv", "write statistics to this file")
+	addCIDR := flag.String("addcidr", "", "add this CIDR range to the data file [CIDR,name,url]")
 	flag.Parse()
 
 	filein, err := os.Open(*datafile)
@@ -74,6 +76,18 @@ func main() {
 			fileout.WriteString(fmt.Sprintf("%s,%d\n", val.Name, val.Size))
 		}
 		fileout.Close()
+	}
+
+	if *addCIDR != "" {
+		t := strings.Split(*addCIDR, ",")
+		if len(t) != 3 {
+			log.Fatal("range must be in format: CIDR,name,url")
+		}
+		err := set.AddCIDR(t[0], t[1], t[2])
+		if err != nil {
+			log.Fatalf("Could not add range: %v", err)
+		}
+		log.Println("Range added successfully")
 	}
 
 	fileout, err := os.OpenFile(*datafile, os.O_WRONLY|os.O_CREATE|os.O_TRUNC, 0644)
