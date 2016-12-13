@@ -73,7 +73,11 @@ func main() {
 		list := set.RankBySize()
 		fileout.WriteString("Datacenter Name, Total IPs\n")
 		for _, val := range list {
-			fileout.WriteString(fmt.Sprintf("%s,%d\n", val.Name, val.Size))
+			name := val.Name
+			if strings.Contains(name, ",") {
+				name = fmt.Sprintf("%q", val.Name)
+			}
+			fileout.WriteString(fmt.Sprintf("%s,%d\n", name, val.Size))
 		}
 		fileout.Close()
 	}
