@@ -159,6 +159,7 @@
 13.95.192.0,13.95.240.111,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.95.241.0,13.95.241.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.95.248.0,13.95.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+13.112.0.0,13.115.255.255,Amazon AWS,http://www.amazon.com/aws/
 14.102.144.0,14.102.146.255,IP ServerOne,http://ipserverone.com/
 14.128.8.0,14.128.11.255,Servenet Solution Limited Partnership,http://servenet.co.th/
 23.0.0.0,23.15.255.255,Akamai,http://akamai.com/
@@ -290,6 +291,7 @@
 31.220.128.0,31.220.131.255,everhost,http://everhost.co/
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
 34.192.0.0,34.207.255.255,Amazon AWS,http://www.amazon.com/aws/
+34.248.0.0,34.255.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.154.0.0,35.154.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.156.0.0,35.167.255.255,Amazon AWS,http://www.amazon.com/aws/
 37.9.224.0,37.9.228.223,seeweb.it,http://seeweb.it/
