@@ -8,6 +8,8 @@ aws:
 	go run ./cmd/ipcat/main.go -aws
 
 azure:
+	grep -v "Microsoft Azure" datacenters.csv > datacenters.csv.bk
+	mv datacenters.csv.bk datacenters.csv
 	go run ./cmd/ipcat/main.go -azure
 
 test:
