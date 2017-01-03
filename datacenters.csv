@@ -53,7 +53,7 @@
 12.188.78.96,12.188.78.127,Media Temple,http://www.mediatemple.net/
 12.193.182.56,12.193.182.63,Ventu,http://Venyu.com/
 12.209.217.96,12.209.217.103,Media Temple,http://www.mediatemple.net/
-13.54.0.0,13.55.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.54.0.0,13.56.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.64.0.0,13.65.103.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.65.104.16,13.65.104.31,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.65.104.64,13.66.39.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -160,6 +160,7 @@
 13.95.241.0,13.95.241.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.95.248.0,13.95.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.112.0.0,13.115.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.124.0.0,13.124.255.255,Amazon AWS,http://www.amazon.com/aws/
 14.102.144.0,14.102.146.255,IP ServerOne,http://ipserverone.com/
 14.128.8.0,14.128.11.255,Servenet Solution Limited Partnership,http://servenet.co.th/
 23.0.0.0,23.15.255.255,Akamai,http://akamai.com/
