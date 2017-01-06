@@ -12,6 +12,9 @@ azure:
 	mv datacenters.csv.bk datacenters.csv
 	go run ./cmd/ipcat/main.go -azure
 
+appengine:
+	go run ./cmd/ipcat/main.go -appengine
+
 test:
 	find . -name '*.go' | xargs gofmt -w -s
 	find . -name '*.go' | xargs goimports -w

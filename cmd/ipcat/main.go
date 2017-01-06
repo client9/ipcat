@@ -14,6 +14,7 @@ func main() {
 	lookup := flag.String("l", "", "lookup an IP address")
 	updateAWS := flag.Bool("aws", false, "update AWS records")
 	updateAzure := flag.Bool("azure", false, "update Azure records")
+	updateAppEngine := flag.Bool("appengine", false, "update AppEngine (Google App Engine) records")
 	datafile := flag.String("csvfile", "datacenters.csv", "read/write from this file")
 	statsfile := flag.String("statsfile", "datacenters-stats.csv", "write statistics to this file")
 	addCIDR := flag.String("addcidr", "", "add this CIDR range to the data file [CIDR,name,url]")
@@ -62,6 +63,17 @@ func main() {
 		err = ipcat.UpdateAzure(&set, body)
 		if err != nil {
 			log.Fatalf("Unable to parse Azure rules: %s", err)
+		}
+	}
+
+	if *updateAppEngine {
+		body, err := ipcat.DownloadAppEngine()
+		if err != nil {
+			log.Fatalf("Unable to download AppEngine rules: %s", err)
+		}
+		err = ipcat.UpdateAppEngine(&set, body)
+		if err != nil {
+			log.Fatalf("Unable to parse AppEngine rules: %s", err)
 		}
 	}
 
