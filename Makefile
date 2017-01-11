@@ -13,6 +13,8 @@ azure:
 	go run ./cmd/ipcat/main.go -azure
 
 appengine:
+	grep -v "Google App Engine" datacenters.csv > datacenters.csv.bk
+	mv datacenters.csv.bk datacenters.csv
 	go run ./cmd/ipcat/main.go -appengine
 
 test:
