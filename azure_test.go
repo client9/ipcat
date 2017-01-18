@@ -26,7 +26,7 @@ func TestAzure(t *testing.T) {
 	}))
 
 	defer ts.Close()
-	msazure = ts.URL
+	msAzure = ts.URL
 	b, err := DownloadAzure()
 	if err != nil {
 		t.Fatalf("DownloadAzure() error: %v", err)
