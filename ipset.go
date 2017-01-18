@@ -297,15 +297,15 @@ type multiSorter struct {
 	less      []lessFunc
 }
 
-// Sort sorts the argument slice according to the less functions passed to OrderedBy.
+// Sort sorts the argument slice according to the less functions passed to orderedBy.
 func (ms *multiSorter) Sort(nameSizes []NameSize) {
 	ms.nameSizes = nameSizes
 	sort.Sort(ms)
 }
 
-// OrderedBy returns a Sorter that sorts using the less functions, in order.
+// orderedBy returns a Sorter that sorts using the less functions, in order.
 // Call its Sort method to sort the data.
-func OrderedBy(less ...lessFunc) *multiSorter {
+func orderedBy(less ...lessFunc) *multiSorter {
 	return &multiSorter{
 		less: less,
 	}
@@ -374,6 +374,6 @@ func (ipset IntervalSet) RankBySize() NameSizeList {
 		return strings.ToLower(l1.Name) < strings.ToLower(l2.Name)
 	}
 
-	OrderedBy(size, name).Sort(rank)
+	orderedBy(size, name).Sort(rank)
 	return rank
 }
