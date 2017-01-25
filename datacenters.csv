@@ -574,7 +574,8 @@
 51.140.0.0,51.140.16.47,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.140.17.0,51.140.17.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.140.24.0,51.140.55.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-51.140.128.0,51.140.128.15,Microsoft Azure,http://www.windowsazure.com/en-us/
+51.140.88.0,51.140.88.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+51.140.96.0,51.140.128.15,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.140.129.0,51.140.129.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.140.136.0,51.140.168.159,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.140.169.0,51.140.169.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -593,7 +594,8 @@
 52.86.0.0,52.91.255.255,Amazon AWS,http://www.amazon.com/aws/
 52.95.240.0,52.95.253.255,Amazon AWS,http://www.amazon.com/aws/
 52.95.255.0,52.95.255.159,Amazon AWS,http://www.amazon.com/aws/
-52.152.128.0,52.152.151.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.152.128.0,52.152.152.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.152.160.0,52.152.207.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.153.0.0,52.153.39.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.160.25.16,52.160.25.31,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.160.26.0,52.160.26.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -944,7 +946,7 @@
 52.245.8.0,52.245.8.47,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.245.8.64,52.245.8.79,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.245.8.112,52.245.8.127,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.245.8.160,52.245.8.175,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.245.8.160,52.245.8.191,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.245.9.0,52.245.9.15,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.245.12.16,52.245.12.127,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.245.12.160,52.245.13.15,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -971,7 +973,7 @@
 52.245.52.48,52.245.52.63,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.245.56.0,52.245.56.15,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.245.60.16,52.245.60.31,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.245.64.0,52.245.64.15,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.245.64.0,52.245.64.31,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.245.68.0,52.245.68.127,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.245.76.0,52.245.76.15,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.245.76.32,52.245.76.47,Microsoft Azure,http://www.windowsazure.com/en-us/
