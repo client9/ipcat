@@ -294,10 +294,11 @@
 31.216.48.0,31.216.55.255,Hosting UK,http://hostinguk.net/
 31.220.128.0,31.220.131.255,everhost,http://everhost.co/
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
-34.192.0.0,34.207.255.255,Amazon AWS,http://www.amazon.com/aws/
+34.192.0.0,34.223.255.255,Amazon AWS,http://www.amazon.com/aws/
 34.248.0.0,34.255.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.154.0.0,35.154.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.156.0.0,35.167.255.255,Amazon AWS,http://www.amazon.com/aws/
+35.176.0.0,35.177.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.184.0.0,35.188.255.255,Google App Engine,https://cloud.google.com/appengine
 37.9.224.0,37.9.228.223,seeweb.it,http://seeweb.it/
 37.10.0.0,37.10.127.255,Optimate Server,http://optimate-server.de/
