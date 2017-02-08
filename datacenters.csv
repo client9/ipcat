@@ -3397,6 +3397,7 @@
 209.44.96.0,209.44.127.255,Netelligent,http://www.netelligent.ca/en/ca
 209.50.224.0,209.50.255.255,ServInt,http://www.servint.net/
 209.51.160.0,209.51.191.255,Hurricane Electric,http://www.he.net/
+209.51.191.0,209.51.223.255,XLHost,http://www.xlhost.com/
 209.54.48.0,209.54.63.255,Native Hosting,http://nativehosting.com/
 209.54.96.0,209.54.111.255,DiaHosting,https://www.diahosting.com/en/
 209.59.128.0,209.59.191.255,Liquid Web,http://www.liquidweb.com/
@@ -3435,6 +3436,7 @@
 209.177.144.0,209.177.159.255,Host Virtual,http://www.vr.org/
 209.188.0.0,209.188.31.255,Secure Servers,http://www.securedservers.com/
 209.188.80.0,209.188.95.255,wiredtree,http://www.wiredtree.com/
+209.190.0.0,209.190.127.255,XLHost,http://www.xlhost.com/
 209.196.128.0,209.196.191.255,PEER 1,http://www.peer1.com/
 209.197.64.0,209.197.127.255,Pair Networks,http://www.pair.com/
 209.197.224.0,209.197.255.255,latisys,http://www.latisys.com/
