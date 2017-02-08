@@ -3397,7 +3397,7 @@
 209.44.96.0,209.44.127.255,Netelligent,http://www.netelligent.ca/en/ca
 209.50.224.0,209.50.255.255,ServInt,http://www.servint.net/
 209.51.160.0,209.51.191.255,Hurricane Electric,http://www.he.net/
-209.51.191.0,209.51.223.255,XLHost,http://www.xlhost.com/
+209.51.192.0,209.51.223.255,XLHost,http://www.xlhost.com/
 209.54.48.0,209.54.63.255,Native Hosting,http://nativehosting.com/
 209.54.96.0,209.54.111.255,DiaHosting,https://www.diahosting.com/en/
 209.59.128.0,209.59.191.255,Liquid Web,http://www.liquidweb.com/
