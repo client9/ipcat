@@ -297,7 +297,7 @@
 31.216.48.0,31.216.55.255,Hosting UK,http://hostinguk.net/
 31.220.128.0,31.220.131.255,everhost,http://everhost.co/
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
-34.192.0.0,34.223.255.255,Amazon AWS,http://www.amazon.com/aws/
+34.192.0.0,34.239.255.255,Amazon AWS,http://www.amazon.com/aws/
 34.248.0.0,34.255.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.154.0.0,35.154.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.156.0.0,35.167.255.255,Amazon AWS,http://www.amazon.com/aws/
