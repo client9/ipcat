@@ -2068,6 +2068,7 @@
 104.215.224.0,104.215.240.175,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.215.240.192,104.215.240.223,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.215.248.0,104.215.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+104.223.0.0,104.223.127.255,Quadra Net,https://www.quadranet.com/
 104.233.64.0,104.233.127.255,KW Datacenter CA,http://www.kwdatacentre.com/
 104.238.128.0,104.238.191.255,Choopa,https://www.choopa.com/
 104.239.192.0,104.239.223.255,Rackspace,http://www.rackspace.com/
