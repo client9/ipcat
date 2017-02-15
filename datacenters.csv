@@ -1183,7 +1183,7 @@
 66.55.80.0,66.55.95.255,gigeNET,http://www.gigenet.com/
 66.55.152.32,66.55.152.95,Choopa,https://www.choopa.com/
 66.55.152.128,66.55.152.151,Choopa,https://www.choopa.com/
-66.63.160.0,66.63.191.255,QuadraNet,http://quadranet.com/
+66.63.160.0,66.63.191.255,QuadraNet,https://quadranet.com/
 66.70.0.0,66.70.127.255,Datapipe,http://www.datapipe.com/
 66.71.240.0,66.71.255.255,Total Server Solutions,http://totalserversolutions.com/
 66.84.0.0,66.84.63.255,Jumpline Inc,http://www.jumpline.com/
@@ -1425,7 +1425,7 @@
 72.8.128.0,72.8.191.255,Staminus Communications,http://staminus.net/
 72.9.144.0,72.9.159.255,dfw-datacenter.com,http://dfw-datacenter.com/
 72.10.32.0,72.10.63.255,Media Temple,http://www.mediatemple.net/
-72.11.128.0,72.11.159.255,QuadraNet,http://quadranet.com/
+72.11.128.0,72.11.159.255,QuadraNet,https://quadranet.com/
 72.13.80.0,72.13.95.255,EGIHosting.com,http://www.egihosting.com/
 72.14.176.0,72.14.191.255,Linode,http://www.linode.com/
 72.15.192.0,72.15.255.255,Peak10,http://www.peak10.com/
@@ -1969,7 +1969,7 @@
 96.43.80.0,96.43.95.255,multacom.com,http://multacom.com/
 96.43.96.0,96.43.111.255,ethr.net,http://ethr.net/
 96.43.128.0,96.43.143.255,Joe's Datacenter,http://www.joesdatacenter.com/
-96.44.128.0,96.44.191.255,QuadraNet,http://quadranet.com/
+96.44.128.0,96.44.191.255,QuadraNet,https://quadranet.com/
 96.45.112.0,96.45.127.255,Peak10,http://www.peak10.com/
 96.45.160.0,96.45.175.255,multacom.com,http://multacom.com/
 96.45.176.0,96.45.191.255,Carat Networks,http://www.caratnetworks.com/
@@ -1986,7 +1986,7 @@
 98.129.0.0,98.129.255.255,Rackspace,http://www.rackspace.com/
 98.142.0.0,98.142.15.255,travailsystems.com,http://travailsystems.com/
 98.142.208.0,98.142.223.255,Total Server Solutions,http://totalserversolutions.com/
-98.143.144.0,98.143.159.255,QuadraNet,http://quadranet.com/
+98.143.144.0,98.143.159.255,QuadraNet,https://quadranet.com/
 98.158.112.0,98.158.127.255,Reliable Hosting,http://reliablehosting.com/
 98.158.144.0,98.158.159.255,US Colo,http://uscolo.com/
 98.158.176.0,98.158.191.255,Midphase,http://www.midphase.com/
@@ -2068,7 +2068,7 @@
 104.215.224.0,104.215.240.175,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.215.240.192,104.215.240.223,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.215.248.0,104.215.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-104.223.0.0,104.223.127.255,Quadra Net,https://www.quadranet.com/
+104.223.0.0,104.223.127.255,QuadraNet,https://www.quadranet.com/
 104.233.64.0,104.233.127.255,KW Datacenter CA,http://www.kwdatacentre.com/
 104.238.128.0,104.238.191.255,Choopa,https://www.choopa.com/
 104.239.192.0,104.239.223.255,Rackspace,http://www.rackspace.com/
@@ -2433,7 +2433,7 @@
 173.249.144.0,173.249.159.255,Future Hosting Inc,http://vpsdatacenter.com/
 173.252.192.0,173.252.255.255,Take 2 Hosting,http://www.take2hosting.com/
 173.254.0.0,173.254.127.255,Bluehost.com,http://www.bluehost.com/
-173.254.192.0,173.254.255.255,QuadraNet,http://quadranet.com/
+173.254.192.0,173.254.255.255,QuadraNet,https://quadranet.com/
 173.255.112.0,173.255.127.255,Google App Engine,https://cloud.google.com/appengine
 173.255.128.0,173.255.143.255,Midphase,http://www.midphase.com/
 173.255.160.0,173.255.191.255,Reliable Hosting,http://reliablehosting.com/
@@ -2790,8 +2790,8 @@
 192.155.192.0,192.155.255.255,SoftLayer,http://www.softlayer.com/
 192.157.48.0,192.157.63.255,servermania.com,http://www.servermania.com/
 192.158.28.0,192.158.31.255,Google App Engine,https://cloud.google.com/appengine
-192.161.48.0,192.161.63.255,QuadraNet,http://quadranet.com/
-192.161.160.0,192.161.191.255,QuadraNet,http://quadranet.com/
+192.161.48.0,192.161.63.255,QuadraNet,https://quadranet.com/
+192.161.160.0,192.161.191.255,QuadraNet,https://quadranet.com/
 192.162.19.0,192.162.19.255,galahost,http://galahost.net/
 192.162.24.0,192.162.27.255,sologigabit.com,http://www.sologigabit.com/en/Dedicated-Servers
 192.162.102.0,192.162.102.255,ntx.ru,http://ntx.ru/
@@ -2990,7 +2990,7 @@
 198.50.128.0,198.50.255.255,OVH,http://www.ovh.co.uk/
 198.52.96.0,198.52.127.255,multacom.com,http://multacom.com/
 198.52.128.0,198.52.255.255,avantehosting.net,https://avantehosting.net/
-198.55.96.0,198.55.127.255,QuadraNet,http://quadranet.com/
+198.55.96.0,198.55.127.255,QuadraNet,https://quadranet.com/
 198.58.96.0,198.58.127.255,Linode,http://www.linode.com/
 198.61.128.0,198.61.255.255,Rackspace,http://www.rackspace.com/
 198.71.48.0,198.71.63.255,1&1 Internet,http://www.1and1.com/
@@ -3000,7 +3000,7 @@
 198.84.64.0,198.84.127.255,hostwinds.com,http://www.hostwinds.com/
 198.89.96.0,198.89.127.255,Silicon Valley Web Hosting,http://www.svwh.net/
 198.91.80.0,198.91.95.255,x10hosting,http://x10hosting.com/
-198.96.88.0,198.96.95.255,QuadraNet,http://quadranet.com/
+198.96.88.0,198.96.95.255,QuadraNet,https://quadranet.com/
 198.98.48.0,198.98.63.255,buyvm.net,http://buyvm.net/?from=frantech
 198.100.96.0,198.100.127.255,Gorilla Servers,http://gorillaservers.com/
 198.100.144.0,198.100.159.255,OVH,http://www.ovh.co.uk/
@@ -3201,7 +3201,7 @@
 204.93.128.0,204.93.255.255,ServerCentral,http://www.servercentral.net/
 204.109.56.0,204.109.63.255,Tranquil Hosting,http://www.tqhosting.com/
 204.124.180.0,204.124.183.255,Volume Drive,http://volumedrive.com
-204.152.192.0,204.152.223.255,QuadraNet,http://quadranet.com/
+204.152.192.0,204.152.223.255,QuadraNet,https://quadranet.com/
 204.152.240.0,204.152.255.255,brinkster,http://brinkster.com/
 204.153.192.0,204.153.195.255,Fastmetrics,http://fastmetrics.com/
 204.174.223.0,204.174.223.255,NetNation,http://www.netnation.com/
@@ -3546,7 +3546,7 @@
 216.38.48.0,216.38.63.255,ServInt,http://www.servint.net/
 216.38.128.0,216.38.159.255,Fastmetrics,http://fastmetrics.com/
 216.40.192.0,216.40.255.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
-216.45.48.0,216.45.63.255,QuadraNet,http://quadranet.com/
+216.45.48.0,216.45.63.255,QuadraNet,https://quadranet.com/
 216.55.64.0,216.55.79.255,latisys,http://www.latisys.com/
 216.55.128.0,216.55.131.255,Codero,http://www.codero.com/
 216.55.136.0,216.55.143.255,Codero,http://www.codero.com/
