@@ -2045,10 +2045,13 @@
 103.11.152.0,103.11.155.255,Web Werks,http://www.web-werks.com/
 103.11.244.0,103.11.247.255,easyhost.com.hk,http://easyhost.com.hk/
 103.21.58.0,103.21.59.255,Confluence Networks Inc,http://confluence-networks.com/
+103.21.244.0,103.21.247.255,CloudFlare Inc,https://www.cloudflare.com
 103.22.128.0,103.22.131.254,Voxel,http://www.voxel.net/
+103.22.200.0,103.22.203.255,CloudFlare Inc,https://www.cloudflare.com
 103.23.20.0,103.23.23.255,Infinys,http://isi.co.id/
 103.23.152.0,103.23.155.255,ozhosting.com,http://ozhosting.com/
 103.28.148.0,103.28.149.255,Argon Data Communication,http://easyway.co.id
+103.31.4.0,103.31.7.255,CloudFlare Inc,https://www.cloudflare.com
 103.197.148.0,103.197.148.255,Trabia,https://www.trabia.com/
 103.246.248.0,103.246.248.255,quickweb.co.nz,http://quickweb.co.nz/
 103.246.250.0,103.246.251.255,quickweb.co.nz,http://quickweb.co.nz/
@@ -2246,6 +2249,7 @@
 130.185.144.0,130.185.151.255,Titan Internet Ltd,http://www.titaninternet.co.uk/index.cfm
 130.185.152.0,130.185.155.255,webexxpurts.com,http://webexxpurts.com/
 130.211.4.0,130.211.255.255,Google App Engine,https://cloud.google.com/appengine
+131.0.72.0,131.0.75.255,CloudFlare Inc,https://www.cloudflare.com
 134.0.24.0,134.0.31.255,TwooIT,http://www.twooit.de/
 134.19.176.0,134.19.191.255,serverboost.nl,http://serverboost.nl/
 134.170.192.0,134.170.199.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -2420,6 +2424,7 @@
 169.53.0.0,169.55.255.255,SoftLayer,http://www.softlayer.com/
 169.56.64.0,169.56.159.255,SoftLayer,http://www.softlayer.com/
 169.57.0.0,169.57.255.255,SoftLayer,http://www.softlayer.com/
+172.64.0.0,172.71.255.255,CloudFlare Inc,https://www.cloudflare.com
 172.98.64.0,172.98.95.255,Total Server Solutions,http://totalserversolutions.com/
 172.122.0.0,172.123.255.255,KW Datacenter CA,http://www.kwdatacentre.com/
 172.240.0.0,172.241.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
@@ -2716,6 +2721,7 @@
 188.72.192.0,188.72.255.255,Leaseweb,http://www.leaseweb.com/
 188.95.48.0,188.95.55.255,serverboost.nl,http://serverboost.nl/
 188.95.248.0,188.95.255.255,rackmarkt.com,http://rackmarkt.com/
+188.114.96.0,188.114.111.255,CloudFlare Inc,https://www.cloudflare.com
 188.116.54.0,188.116.54.255,HitMe.pl,https://hitme.pl/
 188.120.224.0,188.120.255.255,ISPserver,http://ispserver.com/
 188.121.32.0,188.121.47.255,GoDaddy.com NL,http://www.godaddy.com/
@@ -3015,6 +3021,7 @@
 195.242.212.0,195.242.215.255,OpenHosting UK Internet Solutions,http://openhosting.co.uk/
 195.245.124.0,195.245.127.255,Akamai,http://akamai.com/
 195.248.78.0,195.248.78.255,availo.no,http://www.availo.no/
+197.234.240.0,197.234.243.255,CloudFlare Inc,https://www.cloudflare.com
 198.7.56.0,198.7.63.255,Leaseweb,http://www.leaseweb.com/
 198.8.80.0,198.8.95.255,colo@,http://coloat.com/
 198.11.192.0,198.11.255.255,SoftLayer,http://www.softlayer.com/
