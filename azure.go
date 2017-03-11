@@ -96,6 +96,9 @@ func UpdateAzure(ipmap *IntervalSet, body []byte) error {
 		return err
 	}
 
+	// delete all existing records
+	ipmap.DeleteByName(dcName)
+
 	for _, region := range azure.AzureRegion {
 		for _, rng := range region.IPRange {
 			err = ipmap.AddCIDR(rng.Subnet, dcName, dcURL)

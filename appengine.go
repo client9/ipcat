@@ -52,6 +52,9 @@ func UpdateAppEngine(ipmap *IntervalSet, ranges []string) error {
 		dcURL  = "https://cloud.google.com/appengine"
 	)
 
+	// delete all existing records
+	ipmap.DeleteByName(dcName)
+
 	for _, ipRange := range ranges {
 		err := ipmap.AddCIDR(ipRange, dcName, dcURL)
 		if err != nil {
