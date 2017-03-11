@@ -7,15 +7,13 @@ import (
 	"net/http"
 )
 
-const (
-	cloudflareDownloadPage = "https://www.cloudflare.com/ips-v4"
-	cloudflareName         = "Cloudflare Inc"
-	cloudflareURL          = "https://www.cloudflare.com/"
+var (
+	cloudflareDownload = "https://www.cloudflare.com/ips-v4"
 )
 
 // DownloadCloudflare downloads the latest Cloudflare IP ranges list
 func DownloadCloudflare() ([]byte, error) {
-	resp, err := http.Get(cloudflareDownloadPage)
+	resp, err := http.Get(cloudflareDownload)
 	if err != nil {
 		return nil, err
 	}
@@ -33,6 +31,11 @@ func DownloadCloudflare() ([]byte, error) {
 
 // UpdateCloudflare parses the Cloudflare IP text file and updates the interval set
 func UpdateCloudflare(ipmap *IntervalSet, body []byte) error {
+	const (
+		cloudflareName = "Cloudflare Inc"
+		cloudflareURL  = "https://www.cloudflare.com/"
+	)
+
 	// delete all existing records
 	ipmap.DeleteByName(cloudflareName)
 
