@@ -17,6 +17,9 @@ appengine:
 	mv datacenters.csv.bk datacenters.csv
 	go run ./cmd/ipcat/main.go -appengine
 
+cloudflare:
+	go run ./cmd/ipcat/main.go -cloudflare
+
 test:
 	find . -name '*.go' | xargs gofmt -w -s
 	find . -name '*.go' | xargs goimports -w
