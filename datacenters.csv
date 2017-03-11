@@ -162,6 +162,7 @@
 13.95.248.0,13.95.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.112.0.0,13.115.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.124.0.0,13.124.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.228.0.0,13.229.255.255,Amazon AWS,http://www.amazon.com/aws/
 14.102.144.0,14.102.146.255,IP ServerOne,http://ipserverone.com/
 14.128.8.0,14.128.11.255,Servenet Solution Limited Partnership,http://servenet.co.th/
 23.0.0.0,23.15.255.255,Akamai,http://akamai.com/
