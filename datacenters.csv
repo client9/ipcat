@@ -2416,6 +2416,7 @@
 168.63.162.176,168.63.163.191,Microsoft Azure,http://www.windowsazure.com/en-us/
 168.63.163.224,168.63.180.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 168.63.181.48,168.63.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+168.197.12.0,168.197.15.255,Imperanet,http://imperanet.com.br/
 168.235.144.0,168.235.159.255,CLOUD-52 (KW Datacenter),http://www.kwdatacentre.com/
 169.38.64.0,169.38.127.255,SoftLayer,http://www.softlayer.com/
 169.44.0.0,169.47.63.255,SoftLayer,http://www.softlayer.com/
