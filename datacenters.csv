@@ -56,6 +56,7 @@
 12.193.182.56,12.193.182.63,Ventu,http://Venyu.com/
 12.209.217.96,12.209.217.103,Media Temple,http://www.mediatemple.net/
 13.54.0.0,13.56.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.58.0.0,13.59.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.64.0.0,13.65.103.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.65.104.16,13.65.104.31,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.65.104.64,13.66.39.255,Microsoft Azure,http://www.windowsazure.com/en-us/
