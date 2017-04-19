@@ -8,6 +8,7 @@
 5.39.216.0,5.39.223.255,HostKey,http://www.hostkey.com/
 5.44.26.144,5.44.26.159,PEER 1,http://www.peer1.com/
 5.45.72.0,5.45.75.255,3NT UK,http://3nt.com/
+5.45.84.0,5.45.87.255,3NT UK,http://3nt.com/
 5.77.32.0,5.77.63.255,eukhost.com,http://eukhost.com/
 5.79.0.0,5.79.7.255,Rackspace,http://www.rackspace.com/
 5.79.16.0,5.79.24.255,Rackspace,http://www.rackspace.com/
@@ -1610,6 +1611,7 @@
 78.41.200.0,78.41.207.255,Snel Internet Services B.V.,https://www.snelserver.com/
 78.41.232.0,78.41.239.255,euro-web.com,http://fr.euro-web.com/
 78.46.0.0,78.47.255.255,Hetzner Online AG,http://www.hetzner.de/
+78.108.176.0,78.108.191.255,Yeshost,http://yeshost.ru/
 78.109.16.0,78.109.31.255,hosting.ua,http://hosting.ua/
 78.110.160.0,78.110.175.255,UK Dedicated Servers LTD,http://ukservers.com/
 78.129.128.0,78.129.255.255,iomart Hosting Ltd,http://www.rapidswitch.com/
@@ -1956,6 +1958,7 @@
 94.185.80.0,94.185.87.255,Netrouting,http://www.netrouting.com/
 94.198.56.0,94.198.63.255,Unbelievable Machine,http://www.unbelievable-machine.com/
 94.198.167.64,94.198.167.95,easyhost.be,http://easyhost.be/
+94.198.240.0,94.198.247.255,Yeshost,http://yeshost.ru/
 94.199.48.0,94.199.55.255,23VNet KFT,http://hostit.hu/
 94.199.176.0,94.199.177.255,Szervernet,http://szervernet.hu/
 94.199.179.0,94.199.179.255,Szervernet,http://szervernet.hu/
