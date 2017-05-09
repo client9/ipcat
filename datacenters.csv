@@ -612,12 +612,11 @@
 51.143.88.0,51.143.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.254.0.0,51.255.255.255,OVH,http://www.ovh.co.uk/
 52.0.0.0,52.45.255.255,Amazon AWS,http://www.amazon.com/aws/
-52.48.0.0,52.60.255.255,Amazon AWS,http://www.amazon.com/aws/
-52.62.0.0,52.74.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.47.0.0,52.74.255.255,Amazon AWS,http://www.amazon.com/aws/
 52.76.0.0,52.80.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.83.0.0,52.83.255.255,Amazon AWS,http://www.amazon.com/aws/
 52.86.0.0,52.91.255.255,Amazon AWS,http://www.amazon.com/aws/
-52.95.240.0,52.95.253.255,Amazon AWS,http://www.amazon.com/aws/
-52.95.255.0,52.95.255.159,Amazon AWS,http://www.amazon.com/aws/
+52.95.240.0,52.95.255.159,Amazon AWS,http://www.amazon.com/aws/
 52.138.0.0,52.138.47.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.152.0.0,52.152.111.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.152.128.0,52.152.152.255,Microsoft Azure,http://www.windowsazure.com/en-us/
