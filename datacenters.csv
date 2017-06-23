@@ -57,7 +57,7 @@
 12.188.78.96,12.188.78.127,Media Temple,http://www.mediatemple.net/
 12.193.182.56,12.193.182.63,Ventu,http://Venyu.com/
 12.209.217.96,12.209.217.103,Media Temple,http://www.mediatemple.net/
-13.54.0.0,13.59.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.52.0.0,13.59.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.64.0.0,13.65.103.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.65.104.16,13.65.104.31,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.65.104.64,13.66.39.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -162,13 +162,13 @@
 13.95.241.0,13.95.241.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.95.248.0,13.95.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.112.0.0,13.115.255.255,Amazon AWS,http://www.amazon.com/aws/
-13.124.0.0,13.124.255.255,Amazon AWS,http://www.amazon.com/aws/
-13.126.0.0,13.127.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.124.0.0,13.127.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.210.0.0,13.211.255.255,Amazon AWS,http://www.amazon.com/aws/
-13.228.0.0,13.229.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.228.0.0,13.239.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.250.0.0,13.251.255.255,Amazon AWS,http://www.amazon.com/aws/
 14.102.144.0,14.102.146.255,IP ServerOne,http://ipserverone.com/
 14.128.8.0,14.128.11.255,Servenet Solution Limited Partnership,http://servenet.co.th/
+18.184.0.0,18.185.255.255,Amazon AWS,http://www.amazon.com/aws/
 18.194.0.0,18.197.255.255,Amazon AWS,http://www.amazon.com/aws/
 18.220.0.0,18.223.255.255,Amazon AWS,http://www.amazon.com/aws/
 18.231.0.0,18.231.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -311,8 +311,7 @@
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
 34.192.0.0,34.255.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.154.0.0,35.154.255.255,Amazon AWS,http://www.amazon.com/aws/
-35.156.0.0,35.177.255.255,Amazon AWS,http://www.amazon.com/aws/
-35.182.0.0,35.183.255.255,Amazon AWS,http://www.amazon.com/aws/
+35.156.0.0,35.183.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.184.0.0,35.190.239.255,Google App Engine,https://cloud.google.com/appengine
 35.192.0.0,35.199.191.255,Google App Engine,https://cloud.google.com/appengine
 35.200.0.0,35.201.127.255,Google App Engine,https://cloud.google.com/appengine
