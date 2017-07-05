@@ -248,6 +248,7 @@
 23.228.192.0,23.228.255.255,Psychz Networks,http://psychz.net/
 23.229.0.0,23.229.127.255,servermania.com,http://www.servermania.com/
 23.231.0.0,23.231.127.255,infinitie.net,http://www.serverhub.com/
+23.235.32.0,23.235.47.255,Fastly,https://www.fastly.com/
 23.235.224.0,23.235.255.255,Secure Servers,http://www.securedservers.com/
 23.236.48.0,23.236.63.255,Google App Engine,https://cloud.google.com/appengine
 23.236.96.0,23.236.127.255,Zenlayer,http://www.zenlayer.com/
@@ -502,6 +503,7 @@
 40.127.64.0,40.127.111.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.127.128.0,40.127.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 42.1.60.0,42.1.63.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
+43.249.72.0,43.249.75.255,Fastly,https://www.fastly.com/
 45.32.0.0,45.32.255.255,Choopa,https://www.choopa.com/
 45.33.0.0,45.33.127.255,Linode,http://www.linode.com/
 45.34.0.0,45.35.255.255,Psychz Networks,http://psychz.net/
@@ -2176,6 +2178,8 @@
 103.28.148.0,103.28.149.255,Argon Data Communication,http://easyway.co.id
 103.31.4.0,103.31.7.255,Cloudflare Inc,https://www.cloudflare.com/
 103.197.148.0,103.197.148.255,Trabia,https://www.trabia.com/
+103.244.50.0,103.244.50.255,Fastly,https://www.fastly.com/
+103.245.222.0,103.245.224.255,Fastly,https://www.fastly.com/
 103.246.248.0,103.246.248.255,quickweb.co.nz,http://quickweb.co.nz/
 103.246.250.0,103.246.251.255,quickweb.co.nz,http://quickweb.co.nz/
 104.16.0.0,104.31.255.255,Cloudflare Inc,https://www.cloudflare.com/
@@ -2207,6 +2211,7 @@
 104.130.64.0,104.130.223.255,Rackspace,http://www.rackspace.com/
 104.131.0.0,104.131.255.255,DigitalOcean USA,https://www.digitalocean.com/
 104.154.0.0,104.155.255.255,Google App Engine,https://cloud.google.com/appengine
+104.156.80.0,104.156.95.255,Fastly,https://www.fastly.com/
 104.156.224.0,104.156.255.255,Choopa,https://www.choopa.com/
 104.167.96.0,104.167.127.255,KW Datacenter CA,http://www.kwdatacentre.com/
 104.196.0.0,104.199.255.255,Google App Engine,https://cloud.google.com/appengine
@@ -2418,6 +2423,7 @@
 149.210.164.0,149.210.164.255,TransIP,https://www.transip.nl/
 149.255.32.0,149.255.39.255,Swiftway,http://swiftway.net/
 151.80.128.0,151.80.159.255,OVH FR,https://www.ovh.ie/
+151.101.0.0,151.101.255.255,Fastly,https://www.fastly.com/
 151.236.4.0,151.236.4.255,EDIS,http://www.edis.at/
 151.236.8.0,151.236.8.255,EDIS,http://www.edis.at/
 151.236.13.0,151.236.15.255,EDIS,http://www.edis.at/
@@ -2427,6 +2433,7 @@
 151.237.176.0,151.237.177.255,webexxpurts.com,http://webexxpurts.com/
 151.237.181.0,151.237.181.255,webexxpurts.com,http://webexxpurts.com/
 151.237.184.0,151.237.184.255,webexxpurts.com,http://webexxpurts.com/
+157.52.64.0,157.52.127.255,Fastly,https://www.fastly.com/
 157.55.24.0,157.55.31.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.60.224,157.55.60.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.73.32,157.55.73.47,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -2549,6 +2556,7 @@
 169.57.0.0,169.57.255.255,SoftLayer,http://www.softlayer.com/
 172.64.0.0,172.71.255.255,Cloudflare Inc,https://www.cloudflare.com/
 172.98.64.0,172.98.95.255,Total Server Solutions,http://totalserversolutions.com/
+172.111.64.0,172.111.127.255,Fastly,https://www.fastly.com/
 172.122.0.0,172.123.255.255,KW Datacenter CA,http://www.kwdatacentre.com/
 172.240.0.0,172.241.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 172.245.0.0,172.245.255.255,ColoCrossing,http://www.colocrossing.com/
@@ -2814,6 +2822,7 @@
 185.27.236.0,185.27.236.255,3W Infra,https://ccc.3winfra.com/
 185.28.193.0,185.28.193.255,Regtons CZ,https://regtons.com/en/
 185.29.8.0,185.29.8.255,DataClub,https://www.dataclub.biz/
+185.31.16.0,185.31.19.255,Fastly,https://www.fastly.com/
 185.32.216.0,185.32.219.255,DigiCube,http://digicube.fr/
 185.36.100.0,185.36.100.255,go4cloud,http://go4cloud.com/
 185.38.12.0,185.38.15.255,yisp Netherlands,http://yisp.nl/
@@ -3224,6 +3233,7 @@
 199.19.224.0,199.19.227.255,buyvm.net,http://buyvm.net/?from=frantech
 199.21.112.0,199.21.115.255,ColoCrossing,http://www.colocrossing.com/
 199.26.84.0,199.26.87.255,dfw-datacenter.com,http://dfw-datacenter.com/
+199.27.72.0,199.27.79.255,Fastly,https://www.fastly.com/
 199.30.48.0,199.30.55.255,Input Output Flood LLC,http://ioflood.com/
 199.33.120.0,199.33.127.255,Rebel Hosting,http://rebelhosting.net/
 199.34.228.0,199.34.231.255,Weebly,http://www.weebly.com/
@@ -3317,6 +3327,7 @@
 199.231.128.0,199.231.150.255,HostMySite.com,http://www.webmysite.com/
 199.231.184.0,199.231.191.255,InterServer.net,http://www.interserver.net/
 199.231.224.0,199.231.227.255,ionity,http://ionity.com/
+199.232.0.0,199.232.255.255,Fastly,https://www.fastly.com/
 199.233.180.0,199.233.180.255,XMission,http://xmission.com/
 199.241.136.0,199.241.143.255,fiberhub.com,http://www.fiberhub.com/
 199.241.144.0,199.241.147.255,hugeserver,http://www.hugeserver.com/
@@ -3338,6 +3349,7 @@
 201.182.0.0,201.182.255.255,panamaserver.com,http://panamaserver.com/
 201.190.228.0,201.190.231.255,panamaserver.com,http://panamaserver.com/
 202.9.36.0,202.9.39.255,Gigabit Hosting Sdn Bhd,http://thegigabit.com/
+202.21.128.11,202.21.128.12,Fastly,https://www.fastly.com/
 202.46.192.0,202.46.207.255,Cyquator,http://cyquator.com/
 202.60.64.0,202.60.95.255,Dedicated Servers,http://dedicatedservers.net.au/
 202.65.128.0,202.65.159.255,CtrlS,http://www.ctrls.in/
@@ -3347,6 +3359,7 @@
 202.157.128.0,202.157.191.255,webvisions.com,http://webvisions.com/
 202.168.208.0,202.168.215.255,Datapipe,http://www.datapipe.com/
 203.19.59.0,203.19.59.255,Digital Pacific,http://www.digitalpacific.com.au/
+203.57.145.11,203.57.145.12,Fastly,https://www.fastly.com/
 203.77.184.0,203.77.191.255,Limelight Networks Inc,http://www.limelight.com/
 203.84.240.0,203.84.255.255,kinx.net,http://idc.kinx.net/
 203.123.59.0,203.123.59.255,Digital Pacific,http://www.digitalpacific.com.au/
