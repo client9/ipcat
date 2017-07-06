@@ -10,6 +10,8 @@ import (
 	"regexp"
 )
 
+var msAzure string
+
 // AzureIPRange is a MS Azure record
 type AzureIPRange struct {
 	Subnet string `xml:"Subnet,attr"`
@@ -59,7 +61,8 @@ func DownloadAzure() ([]byte, error) {
 	}
 
 	log.Printf("Attempting ip range download with url %s...", url)
-	resp, err := http.Get(url)
+	msAzure = url
+	resp, err := http.Get(msAzure)
 	if err != nil {
 		return nil, err
 	}
