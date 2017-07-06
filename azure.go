@@ -10,10 +10,6 @@ import (
 	"regexp"
 )
 
-var (
-	msAzure = "https://download.microsoft.com/download/0/1/8/018E208D-54F8-44CD-AA26-CD7BC9524A8C/PublicIPs_20170306.xml"
-)
-
 // AzureIPRange is a MS Azure record
 type AzureIPRange struct {
 	Subnet string `xml:"Subnet,attr"`
@@ -57,25 +53,17 @@ func findPublicIPsURL() (string, error) {
 // DownloadAzure downloads and returns raw bytes of the MS Azure ip
 // range list
 func DownloadAzure() ([]byte, error) {
-	resp, err := http.Get(msAzure)
+	url, err := findPublicIPsURL()
+	if err != nil {
+		return nil, fmt.Errorf("failed to find public IPs url during retry: %s", err)
+	}
+
+	log.Printf("Attempting ip range download with url %s...", url)
+	resp, err := http.Get(url)
 	if err != nil {
 		return nil, err
 	}
-	if resp.StatusCode != 200 {
-		if !retried {
-			url, err := findPublicIPsURL()
-			if err != nil {
-				return nil, fmt.Errorf("failed to find public IPs url during retry: %s", err)
-			}
 
-			log.Printf("Retrying ip range download with url %s...", url)
-			msAzure = url
-			retried = true
-			return DownloadAzure()
-		}
-
-		return nil, fmt.Errorf("Failed to download Azure ranges: status code %s", resp.Status)
-	}
 	body, err := ioutil.ReadAll(resp.Body)
 	if err != nil {
 		return nil, fmt.Errorf("unable read body: %s", err)
