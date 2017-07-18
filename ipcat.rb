@@ -1,4 +1,5 @@
 require "ipaddr"
+require "csv"
 
 module IPCat
 
@@ -9,7 +10,7 @@ module IPCat
       @ends = Array.new
       @urls = Array.new
       File.open(file, "r").readlines.map do |line|
-        add(*line.chomp.split(','))
+        add(*CSV.parse_line(line))
       end
     end
 
