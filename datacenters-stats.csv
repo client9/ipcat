@@ -13,7 +13,7 @@ OVH,1090048
 21vianet,794624
 GoDaddy.com Inc,635912
 Hetzner Online AG,632064
-ColoCrossing,419840
+ColoCrossing,452608
 1&1 Internet,368640
 Hurricane Electric,359424
 C I Host,352256
@@ -48,6 +48,7 @@ Strato,163840
 hostwinds.com,161792
 Peak10,155912
 servermania.com,155648
+QuadraNet,153600
 Datapipe,151040
 American Internet Services,147456
 plusserver.de,147456
@@ -60,7 +61,6 @@ colo4dallas.com,139264
 Enzu USA,131072
 Dedibox SAS,130304
 Optimate Server,122880
-QuadraNet,120832
 Hostway,120576
 kinx.net,110592
 Secure Servers,110592
@@ -400,6 +400,7 @@ ionity,4096
 Local Dedicated,4096
 main-hosting.com,4096
 nbiserv.de,4096
+Netirons,4096
 QWK.net,4096
 rapidhost.co.uk,4096
 RapidSpeeds Servers LTD,4096
