@@ -1905,7 +1905,7 @@
 87.98.128.0,87.98.255.255,OVH,http://www.ovh.co.uk/
 87.106.0.0,87.106.255.255,1&1 Internet,http://www.1and1.com/
 87.117.192.0,87.117.255.255,iomart Hosting Ltd,http://www.rapidswitch.com/
-87.118.64.0,87.118.64.31,Keyweb Germany Leipzig,https://www.keyweb.de/en/
+87.118.64.0,87.118.127.255,Keyweb Germany Leipzig,https://www.keyweb.de/en/
 87.119.192.0,87.119.223.255,MESH,http://www.mesh.eu/
 87.229.7.0,87.229.7.255,Szervernet,http://szervernet.hu/
 87.230.0.0,87.230.63.255,Host Europe,http://www.hosteurope.de/
@@ -2601,6 +2601,7 @@
 173.0.48.0,173.0.63.255,Virpus Networks,http://myvirpus.com/
 173.0.176.0,173.0.191.255,Techie Media,http://techiemedia.net/
 173.1.0.0,173.1.255.255,GoGrid,http://www.gogrid.com/
+173.44.32.0,173.44.63.255,QuadraNet,https://quadranet.com/
 173.44.128.0,173.44.255.255,infinitie.net,http://www.serverhub.com/
 173.45.224.0,173.45.255.255,Rackspace,http://www.rackspace.com/
 173.192.0.0,173.192.245.255,SoftLayer,http://www.softlayer.com/
