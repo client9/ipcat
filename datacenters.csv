@@ -2607,6 +2607,7 @@
 172.98.64.0,172.98.95.255,Total Server Solutions,http://totalserversolutions.com/
 172.111.64.0,172.111.127.255,Fastly,https://www.fastly.com/
 172.122.0.0,172.123.255.255,KW Datacenter CA,http://www.kwdatacentre.com/
+176.126.240.0,176.126.247.255,BHost Inc,https://www.bhost.net/
 172.240.0.0,172.241.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 172.245.0.0,172.245.255.255,ColoCrossing,http://www.colocrossing.com/
 173.0.48.0,173.0.63.255,Virpus Networks,http://myvirpus.com/
@@ -2878,6 +2879,7 @@
 185.36.100.0,185.36.100.255,go4cloud,http://go4cloud.com/
 185.38.12.0,185.38.15.255,yisp Netherlands,http://yisp.nl/
 185.40.4.0,185.40.4.255,Hostgrad,http://hostgrad.ru/
+185.47.60.0,185.47.63.255,BHost Inc,https://www.bhost.net/
 185.48.120.0,185.48.123.255,Amazon AWS,http://www.amazon.com/aws/
 185.62.190.0,185.62.191.255,BlazingFast,https://blazingfast.io/
 185.68.180.128,185.68.180.255,Internet Unie,https://iu.nl/
@@ -2886,11 +2888,13 @@
 185.100.84.0,185.100.85.255,FlokiNET Romania,https://www.flokinet.is/en/
 185.100.86.0,185.100.86.255,FlokiNET Finland,https://www.flokinet.is/en/
 185.101.69.0,185.101.69.255,Depo40,http://depo40.ru/
+185.101.96.0,185.101.99.255,BHost Inc,https://www.bhost.net/
 185.101.107.0,185.101.107.255,ZET servers Romania,https://zetservers.com/
 185.102.27.0,185.102.27.255,Cloudzilla Netherlands,http://cloudzilla.nl/
 185.102.219.0,185.102.219.255,10Gbps.IO,https://10gbps.io/
 185.108.84.0,185.108.85.255,Ardis Russia,https://ardis.ru/
 185.121.120.0,185.121.121.255,Trabia Network,https://www.trabia.com/
+185.139.144.0,185.139.147.255,BHost Inc,https://www.bhost.net/
 185.158.112.0,185.158.115.255,IP Server,https://www.ipserver.su/
 186.227.162.128,186.227.162.191,Server Green,http://servergreen.com.br/
 186.251.128.0,186.251.139.255,ipglobe.net,https://www.ipglobe.net/
