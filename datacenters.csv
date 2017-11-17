@@ -2000,6 +2000,7 @@
 89.19.6.112,89.19.6.119,Ares Hosting,http://areshosting.com/
 89.21.0.0,89.21.31.255,Telecity Group,http://www.ukgrid.net/
 89.32.144.0,89.32.151.255,Elvsoft,http://www.elvsoft.com/
+89.34.96.0,89.34.99.255,Zare,https://zare.com/
 89.34.237.0,89.34.237.255,Zservers Romania,https://zetservers.com/
 89.36.21.0,89.36.21.255,simpliq.com,http://www.simpliq.com/
 89.45.192.0,89.45.199.255,xservers.ro,http://www.xservers.ro/
@@ -2934,7 +2935,9 @@
 185.32.216.0,185.32.219.255,DigiCube,http://digicube.fr/
 185.36.100.0,185.36.100.255,go4cloud,http://go4cloud.com/
 185.38.12.0,185.38.15.255,yisp Netherlands,http://yisp.nl/
+185.38.148.0,185.38.151.255,Zare,https://zare.com/
 185.40.4.0,185.40.4.255,Hostgrad,http://hostgrad.ru/
+185.44.76.0,185.44.79.255,Zare,https://zare.com/
 185.47.60.0,185.47.63.255,BHost Inc,https://www.bhost.net/
 185.48.120.0,185.48.123.255,Amazon AWS,http://www.amazon.com/aws/
 185.62.190.0,185.62.191.255,BlazingFast,https://blazingfast.io/
