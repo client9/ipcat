@@ -1912,6 +1912,7 @@
 82.211.0.0,82.211.63.255,accelerated.de,http://accelerated.de/
 83.98.128.0,83.98.128.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
 83.136.80.0,83.136.87.255,myLoc,http://www.myloc.de/
+83.136.248.0,83.136.255.255,UpCloud,https://www.upcloud.com/
 83.137.144.0,83.137.151.255,duocast,http://duocast.nl/
 83.138.128.0,83.138.191.255,Rackspace,http://www.rackspace.com/
 83.142.224.0,83.142.231.255,iomart Hosting Ltd,http://www.rapidswitch.com/
@@ -2934,7 +2935,9 @@
 185.14.194.0,185.14.194.127,Atomohost,http://www.atomohost.com/
 185.17.184.0,185.17.187.255,Leaseweb,http://www.leaseweb.com/
 185.19.218.152,185.19.218.159,Velia,http://www.velia.net/
+185.20.136.0,185.20.139.255,UpCloud,https://www.upcloud.com/
 185.22.172.0,185.22.172.255,Veesp,https://veesp.com/en/
+185.26.48.0,185.26.51.255,UpCloud,https://www.upcloud.com/
 185.27.236.0,185.27.236.255,3W Infra,https://ccc.3winfra.com/
 185.28.193.0,185.28.193.255,Regtons CZ,https://regtons.com/en/
 185.29.8.0,185.29.8.255,DataClub,https://www.dataclub.biz/
