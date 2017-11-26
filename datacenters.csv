@@ -605,7 +605,6 @@
 49.247.0.0,49.247.255.255,1000dedi.net,http://www.1000dedi.net/
 50.2.0.0,50.3.255.255,infinitie.net,http://www.serverhub.com/
 50.7.0.0,50.7.255.255,FDC Servers,http://fdcservers.net/
-51.15.0.0,51.15.255.255,Online.net,https://www.online.net/en
 50.16.0.0,50.19.255.255,Amazon AWS,http://www.amazon.com/aws/
 50.21.176.0,50.21.191.255,1&1 Internet,http://www.1and1.com/
 50.22.0.0,50.23.255.255,SoftLayer,http://www.softlayer.com/
@@ -628,6 +627,7 @@
 50.116.0.0,50.116.63.255,Linode,http://www.linode.com/
 50.116.64.0,50.116.127.255,WebsiteWelcome.com,http://www.websitewelcome.com/
 50.117.0.0,50.117.127.255,EGIHosting.com,http://www.egihosting.com/
+51.15.0.0,51.15.255.255,Online.net,https://www.online.net/en
 51.136.0.0,51.136.3.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.136.8.0,51.136.41.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.136.48.0,51.136.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
