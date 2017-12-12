@@ -2513,6 +2513,7 @@
 138.91.128.48,138.91.129.79,Microsoft Azure,http://www.windowsazure.com/en-us/
 138.91.136.0,138.91.199.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 138.91.224.0,138.91.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+139.162.0.0,139.162.255.255,Linode,http://www.linode.com/
 141.0.160.0,141.0.167.255,NuFuture Ltd,http://www.nublue.co.uk/
 141.101.64.0,141.101.127.255,Cloudflare Inc,https://www.cloudflare.com/
 141.105.64.0,141.105.71.255,HostKey,http://www.hostkey.com/
