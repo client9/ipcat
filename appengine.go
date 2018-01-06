@@ -1,45 +1,51 @@
 package ipcat
 
 import (
-	"os/exec"
+	"net"
 	"strings"
 )
 
-func answers(prefix string, lines []string) []string {
-	var answers []string
-	for i, line := range lines {
-		if strings.HasPrefix(line, ";; ANSWER SECTION:") {
-			for _, v := range strings.Fields(lines[i+1]) {
-				if strings.HasPrefix(v, prefix) {
-					nb := strings.TrimPrefix(v, prefix)
-					answers = append(answers, nb)
-				}
+func lookupSPFRecord(name string, f func(dir string) error) error {
+	txt, err := net.LookupTXT(name)
+	if err != nil {
+		return err
+	}
+
+	for _, rec := range txt {
+		spf := strings.TrimPrefix(rec, "v=spf1 ")
+		if spf == rec {
+			continue
+		}
+
+		for _, dir := range strings.Split(spf, " ") {
+			if err := f(dir); err != nil {
+				return err
 			}
 		}
 	}
 
-	return answers
+	return nil
 }
 
 // DownloadAppEngine downloads and returns raw bytes of the Google App Engine ip
 // range list
 func DownloadAppEngine() ([]string, error) {
-	out, err := exec.Command("dig", "-t", "TXT", "_cloud-netblocks.googleusercontent.com", "@ns1.google.com").Output()
-	if err != nil {
-		return []string{}, err
-	}
-	lines := strings.Split(string(out), "\n")
-	netblocks := answers("include:", lines)
-
 	var ranges []string
-	for _, nb := range netblocks {
-		out, err := exec.Command("dig", "-t", "TXT", nb, "@ns1.google.com").Output()
-		if err != nil {
-			return []string{}, err
+	if err := lookupSPFRecord("_cloud-netblocks.googleusercontent.com", func(dir string) error {
+		inc := strings.TrimPrefix(dir, "include:")
+		if dir == inc {
+			return nil
 		}
-		lines := strings.Split(string(out), "\n")
-		rs := answers("ip4:", lines)
-		ranges = append(ranges, rs...)
+
+		return lookupSPFRecord(inc, func(dir string) error {
+			if ip4 := strings.TrimPrefix(dir, "ip4:"); dir != ip4 {
+				ranges = append(ranges, ip4)
+			}
+
+			return nil
+		})
+	}); err != nil {
+		return nil, err
 	}
 
 	return ranges, nil
