@@ -2,12 +2,10 @@ package ipcat
 
 import (
 	"os/exec"
+	"reflect"
 	"sort"
 	"strings"
 	"testing"
-
-	"github.com/stretchr/testify/assert"
-	"github.com/stretchr/testify/require"
 )
 
 func answers(prefix string, lines []string) []string {
@@ -50,27 +48,39 @@ func testDownloadAppEngine() ([]string, error) {
 
 func TestDownloadAppEngine(t *testing.T) {
 	r1, err := DownloadAppEngine()
-	require.NoError(t, err)
+	if err != nil {
+		t.Fatal(err)
+	}
 
 	r2, err := testDownloadAppEngine()
-	require.NoError(t, err)
+	if err != nil {
+		t.Fatal(err)
+	}
 
 	sort.Strings(r1)
 	sort.Strings(r2)
 
-	assert.Equal(t, r1, r2)
+	if !reflect.DeepEqual(r1, r2) {
+		t.Error("result differs")
+		t.Logf("expected: %q", r2)
+		t.Logf("got: %q", r1)
+	}
 }
 
 func BenchmarkDownloadAppEngine(b *testing.B) {
 	for n := 0; n < b.N; n++ {
 		_, err := DownloadAppEngine()
-		require.NoError(b, err)
+		if err != nil {
+			b.Fatal(err)
+		}
 	}
 }
 
 func BenchmarkTestDownloadAppEngine(b *testing.B) {
 	for n := 0; n < b.N; n++ {
 		_, err := testDownloadAppEngine()
-		require.NoError(b, err)
+		if err != nil {
+			b.Fatal(err)
+		}
 	}
 }
