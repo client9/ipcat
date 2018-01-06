@@ -47,23 +47,27 @@ func testDownloadAppEngine() ([]string, error) {
 }
 
 func TestDownloadAppEngine(t *testing.T) {
-	r1, err := DownloadAppEngine()
+	expect, err := testDownloadAppEngine()
+	if err != nil {
+		if err, ok := err.(*exec.Error); ok && err.Err == exec.ErrNotFound {
+			t.Skip("dig executable file not found in $PATH")
+		}
+
+		t.Fatal(err)
+	}
+
+	got, err := DownloadAppEngine()
 	if err != nil {
 		t.Fatal(err)
 	}
 
-	r2, err := testDownloadAppEngine()
-	if err != nil {
-		t.Fatal(err)
-	}
+	sort.Strings(expect)
+	sort.Strings(got)
 
-	sort.Strings(r1)
-	sort.Strings(r2)
-
-	if !reflect.DeepEqual(r1, r2) {
+	if !reflect.DeepEqual(expect, got) {
 		t.Error("result differs")
-		t.Logf("expected: %q", r2)
-		t.Logf("got: %q", r1)
+		t.Logf("expected: %q", expect)
+		t.Logf("got: %q", got)
 	}
 }
 
