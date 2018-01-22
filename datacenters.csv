@@ -72,10 +72,15 @@
 14.102.144.0,14.102.146.255,IP ServerOne,http://ipserverone.com/
 14.128.8.0,14.128.11.255,Servenet Solution Limited Partnership,http://servenet.co.th/
 18.144.0.0,18.145.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.179.0.0,18.179.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.182.0.0,18.182.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.184.0.0,18.185.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.188.0.0,18.188.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.191.0.0,18.191.255.255,Amazon AWS,http://www.amazon.com/aws/
 18.194.0.0,18.197.255.255,Amazon AWS,http://www.amazon.com/aws/
 18.200.0.0,18.200.255.255,Amazon AWS,http://www.amazon.com/aws/
-18.216.0.0,18.223.255.255,Amazon AWS,http://www.amazon.com/aws/
-18.231.0.0,18.231.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.204.0.0,18.227.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.231.0.0,18.235.255.255,Amazon AWS,http://www.amazon.com/aws/
 18.253.0.0,18.253.255.255,Amazon AWS,http://www.amazon.com/aws/
 20.36.0.0,20.36.31.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 20.36.128.0,20.36.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -177,7 +182,8 @@
 31.220.128.0,31.220.131.255,everhost,http://everhost.co/
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
 34.192.0.0,34.255.255.255,Amazon AWS,http://www.amazon.com/aws/
-35.153.0.0,35.183.255.255,Amazon AWS,http://www.amazon.com/aws/
+35.153.0.0,35.180.255.255,Amazon AWS,http://www.amazon.com/aws/
+35.182.0.0,35.183.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.184.0.0,35.190.239.255,Google App Engine,https://cloud.google.com/appengine
 35.192.0.0,35.199.191.255,Google App Engine,https://cloud.google.com/appengine
 35.200.0.0,35.203.223.255,Google App Engine,https://cloud.google.com/appengine
@@ -464,6 +470,10 @@
 52.83.0.0,52.83.255.255,Amazon AWS,http://www.amazon.com/aws/
 52.86.0.0,52.91.255.255,Amazon AWS,http://www.amazon.com/aws/
 52.94.116.0,52.94.119.255,Amazon AWS,http://www.amazon.com/aws/
+52.94.248.0,52.94.248.239,Amazon AWS,http://www.amazon.com/aws/
+52.94.249.0,52.94.249.47,Amazon AWS,http://www.amazon.com/aws/
+52.94.249.64,52.94.249.95,Amazon AWS,http://www.amazon.com/aws/
+52.94.249.112,52.94.249.127,Amazon AWS,http://www.amazon.com/aws/
 52.95.240.0,52.95.255.159,Amazon AWS,http://www.amazon.com/aws/
 52.108.0.0,52.108.7.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.108.16.0,52.108.51.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -501,8 +511,7 @@
 52.182.128.0,52.191.104.31,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.191.105.0,52.191.106.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.191.112.0,52.191.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.192.0.0,52.193.255.255,Amazon AWS,http://www.amazon.com/aws/
-52.196.0.0,52.215.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.192.0.0,52.215.255.255,Amazon AWS,http://www.amazon.com/aws/
 52.220.0.0,52.222.127.255,Amazon AWS,http://www.amazon.com/aws/
 52.224.0.0,52.226.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.228.0.0,52.235.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
