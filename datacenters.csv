@@ -2274,6 +2274,7 @@
 190.123.32.0,190.123.47.255,panamaserver.com,http://panamaserver.com/
 190.151.128.0,190.151.131.255,corponetsa.net,http://www.corponetsa.net/
 190.242.28.0,190.242.28.255,corponetsa.net,http://www.corponetsa.net/
+190.228.29.0,190.228.29.255,elserver,https://www.elserver.com/
 191.232.32.0,191.232.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 191.232.137.0,191.232.140.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 191.232.160.0,191.233.128.255,Microsoft Azure,http://www.windowsazure.com/en-us/
