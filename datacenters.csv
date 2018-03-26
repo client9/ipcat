@@ -798,6 +798,7 @@
 67.204.0.0,67.204.63.255,Canaca-com Inc.,http://canaca.com
 67.205.0.0,67.205.63.255,Dreamhost,http://www.dreamhost.com/
 67.205.64.0,67.205.127.255,iWeb Technologies Inc.,http://iweb.com/
+67.205.128.0,67.205.191.255,DigitalOcean,https://www.digitalocean.com/
 67.207.128.0,67.207.159.255,Rackspace,http://www.rackspace.com/
 67.207.160.0,67.207.191.255,Colocation America Inc,http://www.colocationamerica.com/
 67.207.192.0,67.207.207.255,Silicon Valley Web Hosting,http://www.svwh.net/
@@ -1903,6 +1904,7 @@
 164.40.147.0,164.40.147.255,GoGrid LLC,http://www.gogrid.com/
 164.138.220.0,164.138.221.255,SuperHosting.BG,http://www.superhosting.bg/
 164.177.128.0,164.177.159.255,Rackspace,http://www.rackspace.com/
+165.227.0.0,165.227.255.255,DigitalOcean,https://www.digitalocean.com/
 166.62.0.0,166.62.127.255,GoDaddy.com Inc,http://www.godaddy.com/
 166.78.0.0,166.78.255.255,Rackspace,http://www.rackspace.com/
 167.88.32.0,167.88.47.255,KW Datacenter CA,http://www.kwdatacentre.com/
