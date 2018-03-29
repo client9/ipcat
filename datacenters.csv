@@ -1283,6 +1283,7 @@
 88.80.192.0,88.80.223.255,Host Europe,http://www.hosteurope.de/
 88.86.96.0,88.86.127.255,SuperNetwork,http://www.superhosting.cz/
 88.87.32.0,88.87.63.255,availo.no,http://www.availo.no/
+88.99.211.0,88.99.211.63,Hetzner Online AG,http://www.hetzner.de/
 88.148.0.0,88.148.127.255,ServiHosting Networks S.L.,http://servihosting.es
 88.190.1.0,88.190.254.255,Dedibox SAS,http://www.dedibox.fr
 88.191.1.0,88.191.255.255,Dedibox SAS,http://www.dedibox.fr
