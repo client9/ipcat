@@ -20,8 +20,7 @@ func TestAzure(t *testing.T) {
     <IpRange Subnet="23.96.0.0/18" />
     <IpRange Subnet="23.96.64.0/28" />
   </Region>
-</AzurePublicIpAddresses>
-`)
+</AzurePublicIpAddresses>`)
 
 	}))
 
