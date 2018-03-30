@@ -10,8 +10,6 @@ import (
 	"regexp"
 )
 
-var msAzure string
-
 // AzureIPRange is a MS Azure record
 type AzureIPRange struct {
 	Subnet string `xml:"Subnet,attr"`
@@ -30,7 +28,7 @@ type AzurePublicIPAddresses struct {
 
 var retried bool
 
-func findPublicIPsURL() (string, error) {
+var findPublicIPsURL = func() (string, error) {
 	downloadPage := "http://www.microsoft.com/en-us/download/confirmation.aspx?id=41653"
 
 	resp, err := http.Get(downloadPage)
@@ -61,8 +59,7 @@ func DownloadAzure() ([]byte, error) {
 	}
 
 	log.Printf("Attempting ip range download with url %s...", url)
-	msAzure = url
-	resp, err := http.Get(msAzure)
+	resp, err := http.Get(url)
 	if err != nil {
 		return nil, err
 	}

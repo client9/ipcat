@@ -25,7 +25,7 @@ func TestAzure(t *testing.T) {
 	}))
 
 	defer ts.Close()
-	msAzure = ts.URL
+	findPublicIPsURL = func() (string, error) { return ts.URL, nil }
 	b, err := DownloadAzure()
 	if err != nil {
 		t.Fatalf("DownloadAzure() error: %v", err)
