@@ -213,6 +213,7 @@
 37.123.118.0,37.123.118.255,UK2 Group,http://www.vps.net/
 37.128.129.0,37.128.129.255,Memset Ltd,http://www.memset.com/
 37.130.225.0,37.130.229.255,UK2 Hosting Services,https://www.uk2.net/
+37.139.0.0,37.139.31.255,DigitalOcean,https://www.digitalocean.com/
 37.139.52.0,37.139.52.255,MrHost,http://mrhost.biz/
 37.140.192.0,37.140.195.255,Reg.ru,https://www.reg.ru/
 37.143.8.0,37.143.15.255,ihc.ru,http://www.ihc.ru/
@@ -1168,6 +1169,7 @@
 80.95.144.0,80.95.159.255,LINK11 Gmbh,http://www.link11.de/
 80.190.0.0,80.190.255.255,IP Exchange GmbH,http://www.ip-exchange.de/
 80.237.128.0,80.237.255.255,Host Europe,http://www.hosteurope.de/
+80.240.128.0,80.240.143.255,DigitalOcean,https://www.digitalocean.com/
 80.243.176.0,80.243.191.255,Redstation Limited,http://redstation.com/
 80.246.52.0,80.246.52.127,Host Europe,http://www.hosteurope.de/
 80.246.54.0,80.246.57.255,Host Europe,http://www.hosteurope.de/
@@ -1506,7 +1508,7 @@
 94.247.0.0,94.247.7.255,Red Hosting,http://redhosting.nl/
 94.247.168.0,94.247.175.255,GleSYS,http://www.glesys.se
 95.57.120.0,95.57.120.255,Kazakhtelecom Colocation,
-95.85.40.0,95.85.47.255,DigitalOcean Netherlands,https://www.digitalocean.com/
+95.85.0.0,95.85.63.255,DigitalOcean,https://www.digitalocean.com/
 95.100.0.0,95.101.255.255,Akamai,http://akamai.com/
 95.108.120.0,95.108.127.255,hosteam.pl,http://hosteam.pl/
 95.128.88.0,95.128.95.255,prolocation.net,http://prolocation.net/

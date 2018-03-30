@@ -38,6 +38,7 @@ Pair Networks,188416
 Host Europe,179328
 Layered Technologies Inc,178176
 Fastly,177156
+DigitalOcean,176128
 ServerCentral,172032
 xservers.ro,168960
 Dreamhost,167936
@@ -51,7 +52,6 @@ Peak10,155904
 servermania.com,155648
 Datapipe,151040
 American Internet Services,147456
-DigitalOcean,147456
 plusserver.de,147456
 hosting.ua,144384
 Colocation America Inc,143360
@@ -125,8 +125,8 @@ wehostwebsites.com,53248
 UK2 Group,52480
 Staminus Communications,52224
 Data Shack,51200
-DigitalOcean Netherlands,51200
 simcentric,50176
+DigitalOcean Netherlands,49152
 Reliable Hosting,48192
 easyhost.be,46112
 ColoStore,45056
@@ -466,6 +466,7 @@ tilaa,2304
 abdicar.com,2048
 ANEXIA,2048
 Angel Hosting,2048
+Cloud South,2048
 Datacheap,2048
 datahata.by,2048
 e24cloud,2048
