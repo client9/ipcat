@@ -2772,6 +2772,7 @@
 204.27.56.0,204.27.63.255,Joe's Datacenter,http://www.joesdatacenter.com/
 204.28.100.0,204.28.103.255,Immedion,http://immedion.com/
 204.45.0.0,204.45.255.255,FDC Servers,http://fdcservers.net/
+204.48.16.0,204.48.31.255,DigitalOcean,https://www.digitalocean.com/
 204.51.128.0,204.51.255.255,GoGrid,http://www.gogrid.com/
 204.61.220.0,204.61.223.255,Quasar Data Center,http://quasardata.com/
 204.68.96.0,204.68.127.255,American Internet Services,http://americanis.net/
@@ -2805,12 +2806,14 @@
 206.51.224.0,206.51.239.255,Hivelocity Hosting,http://www.hivelocity.net/
 206.71.160.0,206.71.191.255,American Internet Services,http://americanis.net/
 206.72.192.0,206.72.207.255,InterServer.net,http://www.interserver.net/
+206.81.0.0,206.81.31.255,DigitalOcean,https://www.digitalocean.com/
 206.82.192.0,206.82.223.255,latisys,http://www.latisys.com/
 206.123.64.0,206.123.127.255,colo4dallas.com,http://colo4dallas.com/
 206.125.40.0,206.125.47.255,calPOP,http://calpop.com/
 206.130.96.0,206.130.127.255,westhost,http://www.westhost.com/
 206.183.104.0,206.183.111.255,Web Werks,http://www.web-werks.com/
 206.188.0.0,206.188.31.255,Datapipe,http://www.datapipe.com/
+206.189.0.0,206.189.255.255,DigitalOcean,https://www.digitalocean.com/
 206.196.0.0,206.196.31.255,Peak10,http://www.peak10.com/
 206.212.240.0,206.212.255.255,ColoStore,http://colostore.com/
 206.214.64.0,206.214.95.255,infinitie.net,http://www.serverhub.com/
@@ -3002,6 +3005,7 @@
 209.81.64.0,209.81.95.255,LogicWorks,http://www.logicworks.net/
 209.85.0.0,209.85.127.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
 209.95.96.0,209.95.127.255,PEER 1,http://www.peer1.com/
+209.97.128.0,209.97.191.255,DigitalOcean,https://www.digitalocean.com/
 209.97.192.0,209.97.223.255,RackForce,http://www.rockforce.com/
 209.99.0.0,209.99.127.255,Data Foundry,http://www.datafoundry.com/
 209.103.160.0,209.103.191.255,HopOne,http://www.hopone.net/
