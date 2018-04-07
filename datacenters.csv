@@ -1196,6 +1196,7 @@
 81.169.128.0,81.169.255.255,Strato,http://www.strato.de
 81.176.224.0,81.176.225.255,eserver.ru,http://www.eserver.ru/
 81.177.26.0,81.177.27.255,erix-colo,http://
+81.177.32.0,81.177.33.255,1gb,https://www.1gb.ru/
 82.98.128.0,82.98.191.255,dinahosting,https://en.dinahosting.com/
 82.103.128.0,82.103.191.255,easyspeedy,http://easyspeedy.com/
 82.113.128.0,82.113.159.255,Xtraordinary Networks Limited,http://xtrahost.co.uk/
@@ -3102,6 +3103,7 @@
 213.179.209.0,213.179.211.255,Reliable Hosting,http://reliablehosting.com/
 213.179.212.128,213.179.212.255,Reliable Hosting,http://reliablehosting.com/
 213.182.32.0,213.182.63.255,ecritel.net,http://www.ecritel.net/
+213.183.51.0,213.183.51.255,Melbicom,https://melbicom.net/
 213.185.64.0,213.185.95.255,pce-net,http://www.pce.de/
 213.186.32.0,213.186.63.255,OVH,http://www.ovh.co.uk/
 213.193.192.0,213.193.255.255,trueserver.nl,http://trueserver.nl/
