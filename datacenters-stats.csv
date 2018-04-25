@@ -479,6 +479,7 @@ FirstVDS,2048
 Gigahost ApS,2048
 GleSYS,2048
 H1 Host,2048
+h1host,2048
 h4hosting.eu,2048
 HelloVPS,2048
 Hostex Internet Services,2048
@@ -588,6 +589,7 @@ NFOrce,592
 Apollon,512
 Ardis Russia,512
 Argon Data Communication,512
+Aruba,512
 BlazingFast,512
 CCPG Solutions,512
 Creanova,512
@@ -626,6 +628,7 @@ DHAP center,256
 Dominios,256
 elserver,256
 eurobyte,256
+Eurohoster,256
 EvoVPS,256
 FlokiNET Finland,256
 General Servers,256
@@ -661,6 +664,7 @@ Root Level Technology,256
 RTComm,256
 Sadecehosting Turkey,256
 ServerClub Inc,256
+Serveroffer,256
 smart-hosting.ro,256
 SunnyVision,256
 T-N Media,256
@@ -670,6 +674,7 @@ Trabia,256
 TransIP,256
 Veesp,256
 VPS4Less,256
+WebSupport,256
 xentime.com,256
 Yourserver Latvia,256
 ZET servers Romania,256
@@ -694,5 +699,4 @@ Velia,10
 AlphaRacks,8
 Peron Hosting,8
 velia,2
-h1host,1
 Vnet Slovakia,1
