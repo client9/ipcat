@@ -1158,6 +1158,7 @@
 80.76.144.0,80.76.159.255,basefarm.com,http://basefarm.com/
 80.77.80.0,80.77.92.255,Hqhost.net,http://hqhost.net/en/index.html
 80.77.98.32,80.77.98.63,Akamai,http://akamai.com/
+80.78.250.0,80.78.250.255,Reg.ru,https://www.reg.ru/
 80.79.16.0,80.79.31.255,Master Internet S.R.O.,http://www.master.cz/
 80.80.224.0,80.80.239.255,Safe Host SA,http://safehost.net/
 80.82.65.0,80.82.65.255,Ecatel,http://ecatel.net/
