@@ -2338,6 +2338,7 @@
 191.238.80.0,191.238.93.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 191.238.96.0,191.239.197.15,Microsoft Azure,http://www.windowsazure.com/en-us/
 191.239.200.0,191.239.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+191.252.0.0,191.252.255.255,Locaweb,https://www.locaweb.com.br/
 192.3.0.0,192.3.255.255,ColoCrossing,http://www.colocrossing.com/
 192.30.136.0,192.30.139.255,Input Output Flood LLC,http://ioflood.com/
 192.34.56.0,192.34.63.255,DigitalOcean USA,https://www.digitalocean.com/
