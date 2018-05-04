@@ -1,6 +1,8 @@
 package ipcat
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestSetting(t *testing.T) {
 	const (
@@ -17,10 +19,6 @@ func TestSetting(t *testing.T) {
 		// Smoke test
 		// major pass-by-val, not pass-by-ref problem
 		t.Fatalf("Added entry but size %d != 1", set.Len())
-	}
-
-	if err := set.AddRange("10.0.0.0", "11.0.0.0", dcName, dcURL); err == nil {
-		t.Errorf("Allowed adding something larger than class A network")
 	}
 
 	if err := set.AddRange("1.0.0.0", "1.255.255.255", dcName, dcURL); err != nil {
@@ -44,18 +42,17 @@ func TestSetting(t *testing.T) {
 	}
 }
 
-var toDotsTests = []struct {
-	ip   uint32
-	want string
-}{
-	{67372036, "4.4.4.4"},
-	{3232235777, "192.168.1.1"},
+var ipStringTests = []string{
+	"4.4.4.4",
+	"192.168.1.1",
+	"fe80:cd00::211e:729c",
 }
 
-func TestToDots(t *testing.T) {
-	for _, tt := range toDotsTests {
-		if got := ToDots(tt.ip); got != tt.want {
-			t.Errorf("ToDots(%d) = %q, want %q", tt.ip, got, tt.want)
+func TestIPString(t *testing.T) {
+	for _, tt := range ipStringTests {
+		ip := IPParse(tt)
+		if got := IPString(ip); got != tt {
+			t.Errorf("IPString(%d) = %q, want %q", ip, got, tt)
 		}
 	}
 }
