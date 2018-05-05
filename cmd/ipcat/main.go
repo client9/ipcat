@@ -4,6 +4,7 @@ import (
 	"flag"
 	"fmt"
 	"log"
+	"net"
 	"os"
 	"strings"
 
@@ -41,7 +42,7 @@ func main() {
 		if rec == nil {
 			log.Fatalf("Not found: %s", *lookup)
 		}
-		fmt.Printf("[%s:%s] %s %s\n", rec.LeftDots, rec.RightDots, rec.Name, rec.URL)
+		fmt.Printf("[%s:%s] %s %s\n", net.IP(rec.Left[:]), net.IP(rec.Right[:]), rec.Name, rec.URL)
 		return
 	}
 
