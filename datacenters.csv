@@ -54,7 +54,12 @@
 12.188.78.96,12.188.78.127,Media Temple,http://www.mediatemple.net/
 12.193.182.56,12.193.182.63,Ventu,http://Venyu.com/
 12.209.217.96,12.209.217.103,Media Temple,http://www.mediatemple.net/
-13.52.0.0,13.59.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.52.0.0,13.52.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.53.0.0,13.53.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.54.0.0,13.55.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.56.0.0,13.56.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.57.0.0,13.57.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.58.0.0,13.59.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.64.0.0,13.71.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.72.64.0,13.72.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.72.192.0,13.73.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -63,24 +68,44 @@
 13.78.0.0,13.88.193.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.88.200.0,13.95.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.112.0.0,13.115.255.255,Amazon AWS,http://www.amazon.com/aws/
-13.124.0.0,13.127.255.255,Amazon AWS,http://www.amazon.com/aws/
-13.208.0.0,13.211.255.255,Amazon AWS,http://www.amazon.com/aws/
-13.228.0.0,13.239.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.124.0.0,13.124.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.125.0.0,13.125.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.126.0.0,13.127.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.208.0.0,13.208.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.209.0.0,13.209.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.210.0.0,13.211.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.228.0.0,13.229.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.230.0.0,13.231.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.232.0.0,13.235.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.236.0.0,13.239.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.250.0.0,13.251.255.255,Amazon AWS,http://www.amazon.com/aws/
 14.102.144.0,14.102.146.255,IP ServerOne,http://ipserverone.com/
 14.128.8.0,14.128.11.255,Servenet Solution Limited Partnership,http://servenet.co.th/
 18.130.0.0,18.130.255.255,Amazon AWS,http://www.amazon.com/aws/
 18.136.0.0,18.136.255.255,Amazon AWS,http://www.amazon.com/aws/
 18.144.0.0,18.145.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.153.0.0,18.153.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.175.0.0,18.175.255.255,Amazon AWS,http://www.amazon.com/aws/
 18.179.0.0,18.179.255.255,Amazon AWS,http://www.amazon.com/aws/
 18.182.0.0,18.182.255.255,Amazon AWS,http://www.amazon.com/aws/
 18.184.0.0,18.185.255.255,Amazon AWS,http://www.amazon.com/aws/
 18.188.0.0,18.188.255.255,Amazon AWS,http://www.amazon.com/aws/
 18.191.0.0,18.191.255.255,Amazon AWS,http://www.amazon.com/aws/
-18.194.0.0,18.197.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.194.0.0,18.195.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.196.0.0,18.197.255.255,Amazon AWS,http://www.amazon.com/aws/
 18.200.0.0,18.200.255.255,Amazon AWS,http://www.amazon.com/aws/
-18.204.0.0,18.228.255.255,Amazon AWS,http://www.amazon.com/aws/
-18.231.0.0,18.237.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.201.0.0,18.201.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.202.0.0,18.203.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.204.0.0,18.207.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.208.0.0,18.215.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.216.0.0,18.219.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.220.0.0,18.223.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.224.0.0,18.227.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.228.0.0,18.228.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.231.0.0,18.231.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.232.0.0,18.235.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.236.0.0,18.237.255.255,Amazon AWS,http://www.amazon.com/aws/
+18.246.0.0,18.246.255.255,Amazon AWS,http://www.amazon.com/aws/
 18.253.0.0,18.253.255.255,Amazon AWS,http://www.amazon.com/aws/
 20.36.0.0,20.36.119.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 20.36.128.0,20.37.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -181,8 +206,20 @@
 31.220.104.0,31.220.104.255,Hostinger,https://www.hostinger.com/
 31.220.128.0,31.220.131.255,everhost,http://everhost.co/
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
-34.192.0.0,34.255.255.255,Amazon AWS,http://www.amazon.com/aws/
-35.153.0.0,35.180.255.255,Amazon AWS,http://www.amazon.com/aws/
+34.192.0.0,34.207.255.255,Amazon AWS,http://www.amazon.com/aws/
+34.208.0.0,34.223.255.255,Amazon AWS,http://www.amazon.com/aws/
+34.224.0.0,34.239.255.255,Amazon AWS,http://www.amazon.com/aws/
+34.240.0.0,34.247.255.255,Amazon AWS,http://www.amazon.com/aws/
+34.248.0.0,34.255.255.255,Amazon AWS,http://www.amazon.com/aws/
+35.153.0.0,35.153.255.255,Amazon AWS,http://www.amazon.com/aws/
+35.154.0.0,35.154.255.255,Amazon AWS,http://www.amazon.com/aws/
+35.155.0.0,35.155.255.255,Amazon AWS,http://www.amazon.com/aws/
+35.156.0.0,35.159.255.255,Amazon AWS,http://www.amazon.com/aws/
+35.160.0.0,35.167.255.255,Amazon AWS,http://www.amazon.com/aws/
+35.168.0.0,35.175.255.255,Amazon AWS,http://www.amazon.com/aws/
+35.176.0.0,35.177.255.255,Amazon AWS,http://www.amazon.com/aws/
+35.178.0.0,35.179.255.255,Amazon AWS,http://www.amazon.com/aws/
+35.180.0.0,35.180.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.182.0.0,35.183.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.184.0.0,35.190.239.255,Google App Engine,https://cloud.google.com/appengine
 35.192.0.0,35.199.191.255,Google App Engine,https://cloud.google.com/appengine
@@ -400,14 +437,19 @@
 46.38.160.0,46.38.191.255,Rackspace,http://www.rackspace.com/
 46.45.128.0,46.45.191.255,Radore Hosting,http://as42926.net/
 46.51.96.0,46.51.96.255,everhost,http://everhost.co/
-46.51.128.0,46.51.207.255,Amazon AWS,http://www.amazon.com/aws/
-46.51.216.0,46.51.255.255,Amazon AWS,http://www.amazon.com/aws/
+46.51.128.0,46.51.191.255,Amazon AWS,http://www.amazon.com/aws/
+46.51.192.0,46.51.207.255,Amazon AWS,http://www.amazon.com/aws/
+46.51.216.0,46.51.223.255,Amazon AWS,http://www.amazon.com/aws/
+46.51.224.0,46.51.255.255,Amazon AWS,http://www.amazon.com/aws/
 46.101.0.0,46.101.127.255,DigitalOcean Great Britain,https://www.digitalocean.com/
 46.102.224.0,46.102.231.255,simpliq.com,http://www.simpliq.com/
 46.102.240.0,46.102.247.255,Elvsoft,http://www.elvsoft.com/
 46.102.251.0,46.102.251.255,everhost.ro,http://everhost.ro/
 46.105.0.0,46.105.255.255,OVH,http://www.ovh.co.uk/
-46.137.0.0,46.137.255.255,Amazon AWS,http://www.amazon.com/aws/
+46.137.0.0,46.137.127.255,Amazon AWS,http://www.amazon.com/aws/
+46.137.128.0,46.137.191.255,Amazon AWS,http://www.amazon.com/aws/
+46.137.192.0,46.137.223.255,Amazon AWS,http://www.amazon.com/aws/
+46.137.224.0,46.137.255.255,Amazon AWS,http://www.amazon.com/aws/
 46.148.16.0,46.148.31.255,Infium-1,http://infiumhost.com/
 46.151.160.0,46.151.167.255,Vautron AG,http://www.vautron.de/
 46.163.64.0,46.163.127.255,Host Europe,http://www.hosteurope.de/
@@ -438,7 +480,9 @@
 49.247.0.0,49.247.255.255,1000dedi.net,http://www.1000dedi.net/
 50.2.0.0,50.3.255.255,infinitie.net,http://www.serverhub.com/
 50.7.0.0,50.7.255.255,FDC Servers,http://fdcservers.net/
-50.16.0.0,50.19.255.255,Amazon AWS,http://www.amazon.com/aws/
+50.16.0.0,50.17.255.255,Amazon AWS,http://www.amazon.com/aws/
+50.18.0.0,50.18.255.255,Amazon AWS,http://www.amazon.com/aws/
+50.19.0.0,50.19.255.255,Amazon AWS,http://www.amazon.com/aws/
 50.21.176.0,50.21.191.255,1&1 Internet,http://www.1and1.com/
 50.22.0.0,50.23.255.255,SoftLayer,http://www.softlayer.com/
 50.28.0.0,50.28.127.255,Liquid Web,http://www.liquidweb.com/
@@ -468,19 +512,113 @@
 51.141.132.0,51.141.137.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.141.144.0,51.145.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.254.0.0,51.255.255.255,OVH,http://www.ovh.co.uk/
-52.0.0.0,52.45.255.255,Amazon AWS,http://www.amazon.com/aws/
-52.46.180.0,52.46.187.255,Amazon AWS,http://www.amazon.com/aws/
-52.47.0.0,52.82.127.255,Amazon AWS,http://www.amazon.com/aws/
-52.82.176.0,52.82.183.255,Amazon AWS,http://www.amazon.com/aws/
+52.0.0.0,52.1.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.2.0.0,52.3.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.4.0.0,52.7.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.8.0.0,52.8.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.9.0.0,52.9.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.10.0.0,52.11.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.12.0.0,52.13.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.14.0.0,52.14.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.15.0.0,52.15.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.16.0.0,52.17.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.18.0.0,52.19.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.20.0.0,52.23.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.24.0.0,52.27.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.28.0.0,52.28.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.29.0.0,52.29.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.30.0.0,52.31.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.32.0.0,52.35.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.36.0.0,52.39.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.40.0.0,52.43.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.44.0.0,52.45.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.46.180.0,52.46.183.255,Amazon AWS,http://www.amazon.com/aws/
+52.46.184.0,52.46.187.255,Amazon AWS,http://www.amazon.com/aws/
+52.47.0.0,52.47.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.48.0.0,52.51.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.52.0.0,52.53.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.54.0.0,52.55.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.56.0.0,52.56.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.57.0.0,52.57.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.58.0.0,52.59.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.60.0.0,52.60.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.61.0.0,52.61.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.62.0.0,52.63.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.64.0.0,52.64.127.255,Amazon AWS,http://www.amazon.com/aws/
+52.64.128.0,52.64.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.65.0.0,52.65.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.66.0.0,52.66.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.67.0.0,52.67.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.68.0.0,52.69.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.70.0.0,52.71.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.72.0.0,52.73.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.74.0.0,52.74.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.75.0.0,52.75.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.76.0.0,52.76.127.255,Amazon AWS,http://www.amazon.com/aws/
+52.76.128.0,52.76.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.77.0.0,52.77.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.78.0.0,52.78.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.79.0.0,52.79.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.80.0.0,52.80.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.81.0.0,52.81.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.82.0.0,52.82.127.255,Amazon AWS,http://www.amazon.com/aws/
+52.82.176.0,52.82.179.255,Amazon AWS,http://www.amazon.com/aws/
+52.82.180.0,52.82.183.255,Amazon AWS,http://www.amazon.com/aws/
 52.83.0.0,52.83.255.255,Amazon AWS,http://www.amazon.com/aws/
-52.86.0.0,52.91.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.86.0.0,52.87.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.88.0.0,52.89.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.90.0.0,52.91.255.255,Amazon AWS,http://www.amazon.com/aws/
 52.94.116.0,52.94.119.255,Amazon AWS,http://www.amazon.com/aws/
-52.94.248.0,52.94.248.239,Amazon AWS,http://www.amazon.com/aws/
-52.94.249.0,52.94.249.47,Amazon AWS,http://www.amazon.com/aws/
-52.94.249.64,52.94.249.127,Amazon AWS,http://www.amazon.com/aws/
+52.94.248.0,52.94.248.15,Amazon AWS,http://www.amazon.com/aws/
+52.94.248.16,52.94.248.31,Amazon AWS,http://www.amazon.com/aws/
+52.94.248.32,52.94.248.47,Amazon AWS,http://www.amazon.com/aws/
+52.94.248.48,52.94.248.63,Amazon AWS,http://www.amazon.com/aws/
+52.94.248.64,52.94.248.79,Amazon AWS,http://www.amazon.com/aws/
+52.94.248.80,52.94.248.95,Amazon AWS,http://www.amazon.com/aws/
+52.94.248.96,52.94.248.111,Amazon AWS,http://www.amazon.com/aws/
+52.94.248.112,52.94.248.127,Amazon AWS,http://www.amazon.com/aws/
+52.94.248.128,52.94.248.143,Amazon AWS,http://www.amazon.com/aws/
+52.94.248.144,52.94.248.159,Amazon AWS,http://www.amazon.com/aws/
+52.94.248.160,52.94.248.175,Amazon AWS,http://www.amazon.com/aws/
+52.94.248.176,52.94.248.191,Amazon AWS,http://www.amazon.com/aws/
+52.94.248.192,52.94.248.207,Amazon AWS,http://www.amazon.com/aws/
+52.94.248.208,52.94.248.223,Amazon AWS,http://www.amazon.com/aws/
+52.94.248.224,52.94.248.239,Amazon AWS,http://www.amazon.com/aws/
+52.94.249.0,52.94.249.15,Amazon AWS,http://www.amazon.com/aws/
+52.94.249.16,52.94.249.31,Amazon AWS,http://www.amazon.com/aws/
+52.94.249.32,52.94.249.47,Amazon AWS,http://www.amazon.com/aws/
+52.94.249.64,52.94.249.79,Amazon AWS,http://www.amazon.com/aws/
+52.94.249.80,52.94.249.95,Amazon AWS,http://www.amazon.com/aws/
+52.94.249.96,52.94.249.111,Amazon AWS,http://www.amazon.com/aws/
+52.94.249.112,52.94.249.127,Amazon AWS,http://www.amazon.com/aws/
+52.94.249.128,52.94.249.143,Amazon AWS,http://www.amazon.com/aws/
 52.95.225.0,52.95.225.255,Amazon AWS,http://www.amazon.com/aws/
 52.95.227.0,52.95.227.255,Amazon AWS,http://www.amazon.com/aws/
-52.95.240.0,52.95.255.159,Amazon AWS,http://www.amazon.com/aws/
+52.95.240.0,52.95.240.255,Amazon AWS,http://www.amazon.com/aws/
+52.95.241.0,52.95.241.255,Amazon AWS,http://www.amazon.com/aws/
+52.95.242.0,52.95.242.255,Amazon AWS,http://www.amazon.com/aws/
+52.95.243.0,52.95.243.255,Amazon AWS,http://www.amazon.com/aws/
+52.95.244.0,52.95.244.255,Amazon AWS,http://www.amazon.com/aws/
+52.95.245.0,52.95.245.255,Amazon AWS,http://www.amazon.com/aws/
+52.95.246.0,52.95.246.255,Amazon AWS,http://www.amazon.com/aws/
+52.95.247.0,52.95.247.255,Amazon AWS,http://www.amazon.com/aws/
+52.95.248.0,52.95.248.255,Amazon AWS,http://www.amazon.com/aws/
+52.95.249.0,52.95.249.255,Amazon AWS,http://www.amazon.com/aws/
+52.95.250.0,52.95.250.255,Amazon AWS,http://www.amazon.com/aws/
+52.95.251.0,52.95.251.255,Amazon AWS,http://www.amazon.com/aws/
+52.95.252.0,52.95.252.255,Amazon AWS,http://www.amazon.com/aws/
+52.95.253.0,52.95.253.255,Amazon AWS,http://www.amazon.com/aws/
+52.95.254.0,52.95.254.255,Amazon AWS,http://www.amazon.com/aws/
+52.95.255.0,52.95.255.15,Amazon AWS,http://www.amazon.com/aws/
+52.95.255.16,52.95.255.31,Amazon AWS,http://www.amazon.com/aws/
+52.95.255.32,52.95.255.47,Amazon AWS,http://www.amazon.com/aws/
+52.95.255.48,52.95.255.63,Amazon AWS,http://www.amazon.com/aws/
+52.95.255.64,52.95.255.79,Amazon AWS,http://www.amazon.com/aws/
+52.95.255.80,52.95.255.95,Amazon AWS,http://www.amazon.com/aws/
+52.95.255.96,52.95.255.111,Amazon AWS,http://www.amazon.com/aws/
+52.95.255.112,52.95.255.127,Amazon AWS,http://www.amazon.com/aws/
+52.95.255.128,52.95.255.143,Amazon AWS,http://www.amazon.com/aws/
+52.95.255.144,52.95.255.159,Amazon AWS,http://www.amazon.com/aws/
 52.96.11.0,52.96.11.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.108.0.0,52.108.7.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.108.16.0,52.108.53.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -528,8 +666,13 @@
 52.185.120.0,52.191.104.31,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.191.105.0,52.191.106.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.191.112.0,52.191.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.192.0.0,52.215.255.255,Amazon AWS,http://www.amazon.com/aws/
-52.220.0.0,52.222.127.255,Amazon AWS,http://www.amazon.com/aws/
+52.192.0.0,52.193.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.194.0.0,52.195.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.196.0.0,52.199.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.200.0.0,52.207.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.208.0.0,52.215.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.220.0.0,52.221.255.255,Amazon AWS,http://www.amazon.com/aws/
+52.222.0.0,52.222.127.255,Amazon AWS,http://www.amazon.com/aws/
 52.224.0.0,52.225.136.79,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.225.137.0,52.225.137.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.225.144.0,52.226.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -558,14 +701,93 @@
 52.249.128.0,52.253.219.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.253.224.0,52.253.239.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.254.0.0,52.255.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-54.64.0.0,54.95.255.255,Amazon AWS,http://www.amazon.com/aws/
-54.144.0.0,54.179.255.255,Amazon AWS,http://www.amazon.com/aws/
-54.183.0.0,54.191.255.255,Amazon AWS,http://www.amazon.com/aws/
-54.193.0.0,54.221.255.255,Amazon AWS,http://www.amazon.com/aws/
-54.222.32.0,54.222.39.255,Amazon AWS,http://www.amazon.com/aws/
-54.222.128.0,54.229.255.255,Amazon AWS,http://www.amazon.com/aws/
-54.232.0.0,54.238.255.255,Amazon AWS,http://www.amazon.com/aws/
-54.241.0.0,54.255.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.64.0.0,54.65.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.66.0.0,54.66.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.67.0.0,54.67.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.68.0.0,54.71.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.72.0.0,54.73.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.74.0.0,54.75.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.76.0.0,54.77.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.78.0.0,54.78.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.79.0.0,54.79.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.80.0.0,54.87.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.88.0.0,54.91.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.92.0.0,54.92.127.255,Amazon AWS,http://www.amazon.com/aws/
+54.92.128.0,54.92.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.93.0.0,54.93.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.94.0.0,54.94.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.95.0.0,54.95.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.144.0.0,54.147.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.148.0.0,54.149.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.150.0.0,54.150.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.151.0.0,54.151.127.255,Amazon AWS,http://www.amazon.com/aws/
+54.151.128.0,54.151.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.152.0.0,54.152.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.153.0.0,54.153.127.255,Amazon AWS,http://www.amazon.com/aws/
+54.153.128.0,54.153.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.154.0.0,54.154.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.155.0.0,54.155.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.156.0.0,54.159.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.160.0.0,54.167.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.168.0.0,54.168.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.169.0.0,54.169.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.170.0.0,54.171.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.172.0.0,54.173.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.174.0.0,54.175.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.176.0.0,54.177.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.178.0.0,54.178.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.179.0.0,54.179.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.180.0.0,54.181.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.183.0.0,54.183.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.184.0.0,54.191.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.193.0.0,54.193.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.194.0.0,54.195.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.196.0.0,54.197.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.198.0.0,54.198.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.199.0.0,54.199.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.200.0.0,54.201.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.202.0.0,54.203.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.204.0.0,54.205.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.206.0.0,54.206.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.207.0.0,54.207.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.208.0.0,54.209.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.210.0.0,54.211.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.212.0.0,54.213.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.214.0.0,54.214.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.215.0.0,54.215.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.216.0.0,54.217.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.218.0.0,54.218.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.219.0.0,54.219.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.220.0.0,54.220.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.221.0.0,54.221.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.222.32.0,54.222.35.255,Amazon AWS,http://www.amazon.com/aws/
+54.222.36.0,54.222.39.255,Amazon AWS,http://www.amazon.com/aws/
+54.222.128.0,54.222.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.223.0.0,54.223.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.224.0.0,54.225.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.226.0.0,54.227.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.228.0.0,54.228.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.229.0.0,54.229.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.232.0.0,54.232.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.233.0.0,54.233.63.255,Amazon AWS,http://www.amazon.com/aws/
+54.233.64.0,54.233.127.255,Amazon AWS,http://www.amazon.com/aws/
+54.233.128.0,54.233.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.234.0.0,54.235.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.236.0.0,54.237.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.238.0.0,54.238.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.241.0.0,54.241.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.242.0.0,54.243.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.244.0.0,54.244.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.245.0.0,54.245.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.246.0.0,54.246.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.247.0.0,54.247.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.248.0.0,54.249.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.250.0.0,54.250.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.251.0.0,54.251.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.252.0.0,54.252.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.253.0.0,54.253.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.254.0.0,54.254.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.255.0.0,54.255.255.255,Amazon AWS,http://www.amazon.com/aws/
 58.64.185.0,58.64.185.255,NWT iDC Data Service,http://www.newworldtel.com/
 59.151.0.0,59.151.127.255,21vianet,http://21vianet.com/
 59.151.128.0,59.151.191.255,Akamai,http://akamai.com/
@@ -587,6 +809,7 @@
 62.210.128.0,62.210.255.255,Iliad-Entreprises Business Hosting,http://iliad-entreprises.fr/
 62.212.64.0,62.212.95.255,Leaseweb,http://www.leaseweb.com/
 62.233.64.0,62.233.127.255,iomart,http://www.iomart.com/
+63.32.0.0,63.35.255.255,Amazon AWS,http://www.amazon.com/aws/
 63.131.128.0,63.131.159.255,Datapipe,http://www.datapipe.com/
 63.131.224.0,63.131.239.255,TierPoint,http://tierpoint.com/
 63.140.0.0,63.140.15.255,Fortress Integrated Technologies,http://fortressitx.com/
@@ -1572,8 +1795,12 @@
 98.158.144.0,98.158.159.255,US Colo,http://uscolo.com/
 98.158.176.0,98.158.191.255,Midphase,http://www.midphase.com/
 98.158.224.0,98.158.239.255,AccelerateBiz Inc.,http://www.acceleratebiz.com/
+99.79.0.0,99.79.255.255,Amazon AWS,http://www.amazon.com/aws/
+99.80.0.0,99.81.255.255,Amazon AWS,http://www.amazon.com/aws/
 99.192.128.0,99.192.255.255,MojoHost,http://www.mojohost.com
 99.198.96.0,99.198.127.255,SingleHop,http://www.singlehop.com/
+100.20.0.0,100.23.255.255,Amazon AWS,http://www.amazon.com/aws/
+100.24.0.0,100.31.255.255,Amazon AWS,http://www.amazon.com/aws/
 100.42.64.0,100.42.79.255,multacom.com,http://multacom.com/
 100.42.208.0,100.42.223.255,WebNX Internet Services,http://webnx.com/
 101.0.64.0,101.0.127.255,Digital Pacific,http://www.digitalpacific.com.au/
@@ -2050,13 +2277,17 @@
 174.141.224.0,174.141.239.255,BODHost,http://bodhost.com/
 174.142.0.0,174.142.255.255,iWeb Technologies Inc.,http://iweb.com/
 174.143.0.0,174.143.255.255,Rackspace,http://www.rackspace.com/
-175.41.128.0,175.41.255.255,Amazon AWS,http://www.amazon.com/aws/
+175.41.128.0,175.41.191.255,Amazon AWS,http://www.amazon.com/aws/
+175.41.192.0,175.41.255.255,Amazon AWS,http://www.amazon.com/aws/
 176.9.0.0,176.9.255.255,Hetzner Online AG,http://www.hetzner.de/
 176.28.0.0,176.28.63.255,Host Europe,http://www.hosteurope.de/
 176.28.96.0,176.28.127.255,acens Technologies S.L.,http://www.acens.com/
 176.31.0.0,176.31.255.255,OVH,http://www.ovh.co.uk/
 176.32.64.0,176.32.95.255,Amazon AWS,http://www.amazon.com/aws/
-176.34.0.0,176.34.255.255,Amazon AWS,http://www.amazon.com/aws/
+176.34.0.0,176.34.31.255,Amazon AWS,http://www.amazon.com/aws/
+176.34.32.0,176.34.63.255,Amazon AWS,http://www.amazon.com/aws/
+176.34.64.0,176.34.127.255,Amazon AWS,http://www.amazon.com/aws/
+176.34.128.0,176.34.255.255,Amazon AWS,http://www.amazon.com/aws/
 176.53.0.0,176.53.127.255,Radore Hosting,http://as42926.net/
 176.56.56.0,176.56.56.15,nimbushosting.co.uk,http://nimbushosting.co.uk/
 176.56.225.64,176.56.225.127,knownsrv.com,http://knownsrv.com/
@@ -2200,7 +2431,10 @@
 183.84.0.0,183.85.255.255,21vianet,http://21vianet.com/
 184.24.0.0,184.31.255.255,Akamai,http://akamai.com/
 184.50.0.0,184.51.255.255,Akamai,http://akamai.com/
-184.72.0.0,184.73.255.255,Amazon AWS,http://www.amazon.com/aws/
+184.72.0.0,184.72.63.255,Amazon AWS,http://www.amazon.com/aws/
+184.72.64.0,184.72.127.255,Amazon AWS,http://www.amazon.com/aws/
+184.72.128.0,184.72.255.255,Amazon AWS,http://www.amazon.com/aws/
+184.73.0.0,184.73.255.255,Amazon AWS,http://www.amazon.com/aws/
 184.75.208.0,184.75.223.255,Amanah,https://www.amanah.com/
 184.75.240.0,184.75.255.255,Elvsoft,http://www.elvsoft.com/
 184.82.0.0,184.82.255.255,hostnoc,http://www.hostnoc.net/
@@ -2800,7 +3034,8 @@
 204.197.240.0,204.197.255.255,PrivateSystems.net,http://privatesystems.net/
 204.231.197.0,204.231.197.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 204.232.128.0,204.232.255.255,Rackspace,http://www.rackspace.com/
-204.236.128.0,204.236.255.255,Amazon AWS,http://www.amazon.com/aws/
+204.236.128.0,204.236.191.255,Amazon AWS,http://www.amazon.com/aws/
+204.236.192.0,204.236.255.255,Amazon AWS,http://www.amazon.com/aws/
 204.246.32.0,204.246.63.255,Gearhost,http://www.gearhost.com/
 205.134.160.0,205.134.191.255,AiNET,http://www.ai.net/
 205.164.0.0,205.164.63.255,EGIHosting.com,http://www.egihosting.com/
@@ -3208,7 +3443,10 @@
 216.176.192.0,216.176.207.255,Cyberverse,http://www.cyberverse.com/
 216.182.80.0,216.182.95.255,Adhost,http://www.adhost.com/
 216.182.176.0,216.182.191.255,LightEdge,http://www.lightedge.com
-216.182.224.0,216.182.239.255,Amazon AWS,http://www.amazon.com/aws/
+216.182.224.0,216.182.231.255,Amazon AWS,http://www.amazon.com/aws/
+216.182.232.0,216.182.235.255,Amazon AWS,http://www.amazon.com/aws/
+216.182.236.0,216.182.237.255,Amazon AWS,http://www.amazon.com/aws/
+216.182.238.0,216.182.239.255,Amazon AWS,http://www.amazon.com/aws/
 216.185.96.0,216.185.127.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
 216.185.129.0,216.185.130.255,Hostway,http://www.hostway.com/
 216.187.64.0,216.187.127.255,PEER 1,http://www.peer1.com/
@@ -3288,3 +3526,10 @@
 223.25.240.0,223.25.243.255,Gigabit Hosting Sdn Bhd,http://thegigabit.com/
 223.25.245.0,223.25.247.255,Gigabit Hosting Sdn Bhd,http://thegigabit.com/
 223.27.168.0,223.27.175.255,Voxel,http://www.voxel.net/
+2400:cb00::,2400:cb00:ffff:ffff:ffff:ffff:ffff:ffff,Cloudflare Inc,https://www.cloudflare.com/
+2405:8100::,2405:8100:ffff:ffff:ffff:ffff:ffff:ffff,Cloudflare Inc,https://www.cloudflare.com/
+2405:b500::,2405:b500:ffff:ffff:ffff:ffff:ffff:ffff,Cloudflare Inc,https://www.cloudflare.com/
+2606:4700::,2606:4700:ffff:ffff:ffff:ffff:ffff:ffff,Cloudflare Inc,https://www.cloudflare.com/
+2803:f800::,2803:f800:ffff:ffff:ffff:ffff:ffff:ffff,Cloudflare Inc,https://www.cloudflare.com/
+2a06:98c0::,2a06:98c7:ffff:ffff:ffff:ffff:ffff:ffff,Cloudflare Inc,https://www.cloudflare.com/
+2c0f:f248::,2c0f:f248:ffff:ffff:ffff:ffff:ffff:ffff,Cloudflare Inc,https://www.cloudflare.com/
