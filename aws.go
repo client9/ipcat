@@ -13,9 +13,10 @@ var (
 
 // AWSPrefix is AWS prefix in their IP ranges file
 type AWSPrefix struct {
-	IPPrefix string `json:"ip_prefix"`
-	Region   string `json:"region"`
-	Service  string `json:"service"`
+	IPPrefix   string `json:"ip_prefix"`
+	IPv6Prefix string `json:"ipv6_prefix"`
+	Region     string `json:"region"`
+	Service    string `json:"service"`
 }
 
 // AWS is main record for AWS IP info
@@ -62,7 +63,11 @@ func UpdateAWS(ipmap *IntervalSet, body []byte) error {
 	// and add back
 	for _, rec := range aws.Prefixes {
 		if rec.Service == "EC2" {
-			err := ipmap.AddCIDR(rec.IPPrefix, awsName, awsURL)
+			prefix := rec.IPPrefix
+			if prefix == "" {
+				prefix = rec.IPv6Prefix
+			}
+			err := ipmap.AddCIDR(prefix, awsName, awsURL)
 			if err != nil {
 				return err
 			}
