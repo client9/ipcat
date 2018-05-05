@@ -291,7 +291,7 @@ func (ipset IntervalSet) Contains(dots string) (*Interval, error) {
 	index := sort.Search(len, func(i int) bool {
 		left := ipset.btree[i].Left[:]
 		cmp := bytes.Compare(left, ip)
-		return cmp <= 0
+		return cmp >= 0
 	})
 
 	if index < len {
@@ -301,13 +301,13 @@ func (ipset IntervalSet) Contains(dots string) (*Interval, error) {
 		if interval.Contains(ip) {
 			return interval, nil
 		}
+	}
 
-		// ok then it's the record before
-		if index > 0 {
-			interval = &ipset.btree[index-1]
-			if interval.Contains(ip) {
-				return interval, nil
-			}
+	// ok then it's the record before
+	if index > 0 {
+		interval := &ipset.btree[index-1]
+		if interval.Contains(ip) {
+			return interval, nil
 		}
 	}
 
