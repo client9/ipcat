@@ -54,12 +54,12 @@ func TestAWS(t *testing.T) {
 		IP       string
 		Contains bool
 	}{
-		// UpdateAWS should only add EC2 IP ranges
-		{IP: "216.182.224.0", Contains: false},
-		{IP: "2a05:d016::20", Contains: false},
+		{IP: "216.182.224.0", Contains: true},
+		{IP: "2a05:d016::20", Contains: true},
 
-		{IP: "13.54.0.1", Contains: true},
-		{IP: "2a05:d018::20", Contains: true},
+		// Only AMAZON services will be contained (superset of all)
+		{IP: "13.54.0.1", Contains: false},
+		{IP: "2a05:d018::20", Contains: false},
 	}
 
 	for _, test := range tests {
