@@ -81,6 +81,20 @@ func TestCIDR2Range(t *testing.T) {
 	}
 }
 
+func TestMergeAdjacent(t *testing.T) {
+	ipset := NewIntervalSet(256)
+
+	ipset.AddCIDR("1.1.1.1/24", "Test Range", "url")
+	ipset.AddCIDR("1.1.2.1/24", "Test Range", "url")
+	ipset.AddCIDR("1.1.4.1/24", "Test Range", "url")
+
+	ipset.Contains("1.1.1.1") // calls sort()
+
+	if ipset.Len() != 2 {
+		t.Errorf("ipset contains %d items, want %d", ipset.Len(), 2)
+	}
+}
+
 func TestIntervalSet(t *testing.T) {
 	ipset := NewIntervalSet(256)
 	ipset.AddCIDR("1.1.1.1/24", "Test Range", "Test URL")

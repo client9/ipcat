@@ -21,8 +21,8 @@ func IPString(ip []byte) string {
 	return net.IP(ip).String()
 }
 
-// IPIncrementEquals returns true if the first IP + 1 equals the second.
-func IPIncrementEquals(bytes, bytesinc []byte) bool {
+// IPIsAdjacent returns true if the first IP + 1 equals the second.
+func IPIsAdjacent(bytes, bytesinc []byte) bool {
 	if len(bytes) != len(bytesinc) {
 		return false
 	}
@@ -34,7 +34,7 @@ func IPIncrementEquals(bytes, bytesinc []byte) bool {
 		if inc != bytesinc[i] {
 			return false
 		}
-		if inc == 0 {
+		if carry == 1 && bytes[i] == 0xff {
 			carry = 1
 		} else {
 			carry = 0
@@ -93,6 +93,11 @@ func (interval *Interval) Size() *big.Int {
 	size.Add(size, new(big.Int).SetBytes(interval.Right[:]))
 	size.Sub(size, new(big.Int).SetBytes(interval.Left[:]))
 	return size
+}
+
+func (interval Interval) String() string {
+	return IPString(interval.Left[:]) + " to " + IPString(interval.Right[:]) + " (" +
+		interval.Name + " <" + interval.URL + ">)"
 }
 
 type intervallist []Interval
@@ -186,12 +191,12 @@ func (ipset *IntervalSet) sort() error {
 	// check validity -- probably worth ripping out
 	for pos, val := range ipset.btree {
 		if bytes.Compare(val.Left[:], val.Right[:]) > 0 {
-			return fmt.Errorf("left %d > right %d at pos %d",
-				val.Left, val.Right, pos)
+			return fmt.Errorf("left %s > right %s at pos %d",
+				IPString(val.Left[:]), IPString(val.Right[:]), pos)
 		}
 		if pos > 0 {
 			if bytes.Compare(val.Left[:], last.Right[:]) <= 0 || bytes.Compare(val.Right[:], last.Right[:]) <= 0 {
-				return fmt.Errorf("Overlapping regions %v vs. %v", last, val)
+				return fmt.Errorf("Overlapping regions %s and %s", last, val)
 			}
 		}
 		last = val
@@ -199,23 +204,21 @@ func (ipset *IntervalSet) sort() error {
 	ipset.sorted = true
 
 	// now merge adjacent items
-	newtree := make([]Interval, 0, len(ipset.btree))
-	last = Interval{}
-	for pos, val := range ipset.btree {
-		if pos == 0 {
-			newtree = append(newtree, val)
-			last = val
+	merged := ipset.btree[:0]
+	for index, interval := range ipset.btree {
+		if index == 0 {
+			merged = append(merged, interval)
 			continue
 		}
-		if last.Name == val.Name && IPIncrementEquals(last.Right[:], val.Left[:]) {
-			last.Right = val.Right
-			newtree[len(newtree)-1] = last
+		last := &merged[len(merged)-1]
+		if interval.Name == last.Name && IPIsAdjacent(last.Right[:], interval.Left[:]) {
+			last.Right = interval.Right
 			continue
 		}
-		newtree = append(newtree, val)
-		last = val
+		merged = append(merged, interval)
 	}
-	ipset.btree = newtree
+	ipset.btree = merged
+
 	return nil
 }
 
@@ -269,14 +272,14 @@ func (ipset *IntervalSet) DeleteByName(name string) {
 }
 
 // Len returns the number of elements in the set
-func (ipset IntervalSet) Len() int {
+func (ipset *IntervalSet) Len() int {
 	return ipset.btree.Len()
 }
 
 // Contains returns the internal record if the IP address is in some
 // interval else nil or error.  It returns a pointer to the internal
 // record, so be careful.
-func (ipset IntervalSet) Contains(dots string) (*Interval, error) {
+func (ipset *IntervalSet) Contains(dots string) (*Interval, error) {
 	if err := ipset.sort(); err != nil {
 		return nil, err
 	}
