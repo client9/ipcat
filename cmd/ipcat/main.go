@@ -17,6 +17,7 @@ func main() {
 	updateAzure := flag.Bool("azure", false, "update Azure records")
 	updateAppEngine := flag.Bool("appengine", false, "update AppEngine (Google App Engine) records")
 	updateCloudflare := flag.Bool("cloudflare", false, "update Cloudflare records")
+	updateTor := flag.Bool("tor", false, "update Tor records")
 	datafile := flag.String("csvfile", "datacenters.csv", "read/write from this file")
 	statsfile := flag.String("statsfile", "datacenters-stats.csv", "write statistics to this file")
 	addCIDR := flag.String("addcidr", "", "add this CIDR range to the data file [CIDR,name,url]")
@@ -87,6 +88,13 @@ func main() {
 		err = ipcat.UpdateCloudflare(&set, body)
 		if err != nil {
 			log.Fatalf("Unable to parse Cloudflare IP ranges: %s", err)
+		}
+	}
+
+	if *updateTor {
+		err = ipcat.UpdateTor(&set)
+		if err != nil {
+			log.Fatalf("Unable to update Tor IP ranges: %s", err)
 		}
 	}
 
