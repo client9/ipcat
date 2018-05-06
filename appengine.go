@@ -41,6 +41,9 @@ func DownloadAppEngine() ([]string, error) {
 			if ip4 := strings.TrimPrefix(dir, "ip4:"); dir != ip4 {
 				ranges = append(ranges, ip4)
 			}
+			if ip6 := strings.TrimPrefix(dir, "ip6:"); dir != ip6 {
+				ranges = append(ranges, ip6)
+			}
 
 			return nil
 		})
