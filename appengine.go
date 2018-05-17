@@ -30,25 +30,31 @@ func lookupSPFRecord(name string, f func(dir string) error) error {
 // DownloadAppEngine downloads and returns raw bytes of the Google App Engine ip
 // range list
 func DownloadAppEngine() ([]string, error) {
-	var ranges []string
-	if err := lookupSPFRecord("_cloud-netblocks.googleusercontent.com", func(dir string) error {
-		inc := strings.TrimPrefix(dir, "include:")
-		if dir == inc {
-			return nil
-		}
+	ranges := []string{}
+	domainList := []string{"_cloud-netblocks.googleusercontent.com"}
 
-		return lookupSPFRecord(inc, func(dir string) error {
+	for len(domainList) > 0 {
+		// Dequeue a domain from this list
+		var domain string
+		domain, domainList = domainList[0], domainList[1:]
+		err := lookupSPFRecord(domain, func(dir string) error {
+			// Enqueue domain from this record
+			if inc := strings.TrimPrefix(dir, "include:"); dir != inc {
+				domainList = append(domainList, inc)
+			}
+			// Add IPv4 range
 			if ip4 := strings.TrimPrefix(dir, "ip4:"); dir != ip4 {
 				ranges = append(ranges, ip4)
 			}
+			// Add IPv6 range
 			if ip6 := strings.TrimPrefix(dir, "ip6:"); dir != ip6 {
 				ranges = append(ranges, ip6)
 			}
-
 			return nil
 		})
-	}); err != nil {
-		return nil, err
+		if err != nil {
+			return nil, err
+		}
 	}
 
 	return ranges, nil
