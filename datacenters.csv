@@ -1454,6 +1454,7 @@
 93.127.128.0,93.127.255.255,Star-Hosting e.K.,http://star-hosting.de/
 93.168.0.0,93.169.255.255,everhost,http://everhost.co/
 93.170.128.0,93.170.131.255,Adman,https://adman.com/
+93.170.168.0,93.170.169.255,Zomro,http://zomro.com/
 93.171.200.0,93.171.203.255,mirahost,http://mirahub.com/
 93.174.88.0,93.174.90.255,Ecatel,http://www.ecatel.net/
 93.174.93.0,93.174.93.255,Ecatel,http://www.ecatel.net/
@@ -1544,6 +1545,7 @@
 95.172.0.0,95.172.31.255,Tagadab,http://tagadab.com/
 95.174.0.0,95.174.31.255,seeweb.it,http://seeweb.it/
 95.211.0.0,95.211.255.255,Leaseweb,http://www.leaseweb.com/
+95.215.44.0,95.215.47.255,Yourserver,https://yourserver.se
 95.215.60.0,95.215.63.255,sologigabit.com,http://www.sologigabit.com/en/Dedicated-Servers
 96.6.0.0,96.7.255.255,Akamai,http://akamai.com/
 96.8.112.0,96.8.127.255,Velocity Servers,http://www.velocity-servers.net/
@@ -1722,6 +1724,7 @@
 109.237.16.0,109.237.31.255,Telecity Group,http://www.ukgrid.net/
 109.237.128.0,109.237.143.255,alfahosting.de,http://alfahosting.de/
 109.238.48.0,109.238.63.255,Solido Hosting A/S,http://solidohosting.com/
+109.248.32.0,109.248.33.255,Zomro,http://zomro.com/
 110.4.40.0,110.4.47.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
 111.91.236.0,111.91.239.255,ReadySpace,http://www.readyspace.com.sg/en/
 111.221.29.0,111.221.31.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -3076,6 +3079,7 @@
 211.152.32.0,211.152.63.255,21vianet,http://21vianet.com/
 212.1.208.0,212.1.215.255,main-hosting.com,http://main-hosting.com/
 212.7.192.0,212.7.223.255,Dediserv,http://www.dediserv.eu
+212.8.245.0,212.8.245.255,Zomro,http://zomro.com/
 212.19.160.0,212.19.191.255,Netplus Communication,http://www.netplus.fr/
 212.21.64.0,212.21.95.255,D-hosting Germany,http://www.d-hosting.de/
 212.25.160.0,212.25.191.255,seeweb.it,http://seeweb.it/

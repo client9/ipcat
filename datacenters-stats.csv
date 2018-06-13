@@ -33,6 +33,7 @@ KW Datacenter CA,216064
 hostnoc,212992
 GoGrid,204800
 latisys,202752
+Tencent Cloud,196608
 Liquid Web,192512
 WebsiteWelcome.com,192512
 Pair Networks,188416
@@ -59,6 +60,7 @@ Server Network Technologies,143360
 VPLS Inc. d/b/a Krypt Technologies,143360
 everhost,141312
 colo4dallas.com,139264
+The Endurance International Group Inc,132096
 1000dedi.net,131072
 Enzu USA,131072
 OVH CA,131072
@@ -74,7 +76,6 @@ iomart Hosting Ltd,105984
 HopOne,102400
 steadfast.net,102400
 accelerated.de,99840
-The Endurance International Group Inc,99328
 Webair Internet Development Inc,98816
 Voxel,97535
 root S.A.,94720
@@ -104,9 +105,9 @@ WebNX Internet Services,69632
 Alibaba,65536
 DigitalOcean Singapore,65536
 Energy Group Networks,65536
+Locaweb,65536
 Online.net,65536
 Star-Hosting e.K.,65536
-Tencent Cloud,65536
 unitedcolo.de,65536
 Razor,63488
 LINK11 Gmbh,61440
@@ -378,11 +379,12 @@ XServer,4608
 BlackMesh,4352
 superhost.pl,4352
 Ecatel,4342
-Arvixe,4128
 180Servers,4096
+A Small Orange,4096
 Advanced Hosters,4096
 Airnet Group,4096
 Amanah,4096
+Arvixe,4096
 Cirrus Tech Ltd,4096
 CLOUD-52 (KW Datacenter),4096
 comvive.com,4096
@@ -518,6 +520,7 @@ deltahost,1536
 Depo40,1536
 IP Server,1536
 nthost.ru,1536
+Reg.ru,1536
 Tangram Ukraine,1536
 Biznes-Host.pl,1280
 CoolVDS,1280
@@ -525,6 +528,7 @@ Hosteur,1280
 UK2 Hosting Services,1280
 vds64.com,1280
 yisp Netherlands,1280
+Zomro,1280
 DataClub,1152
 webhoster.de,1152
 0x2A Datacenter,1024
@@ -565,7 +569,6 @@ ozhosting.com,1024
 ProHoster.info,1024
 Prometey,1024
 r01,1024
-Reg.ru,1024
 SeFlow.it Internet Services,1024
 SimpleCloud,1024
 SpaceWeb,1024
@@ -576,6 +579,7 @@ VHoster UA,1024
 VooServers,1024
 Voxility Romania,1024
 wehostall,1024
+Yourserver,1024
 almahost.co.uk,944
 Delta Bulgaria,768
 FinalTek.com,768
@@ -607,6 +611,7 @@ ISPSystem,512
 ix-host.ru,512
 myhost.ua,512
 Rackplace NL,512
+Selectel,512
 SuperHosting.BG,512
 Totalin,512
 ukwebhosting.ltd.uk,512
@@ -618,6 +623,7 @@ EpioHost,272
 1 Gbits,256
 10Gbps.IO,256
 3W Infra,256
+Avguro,256
 Beget,256
 best-hosting.ro,256
 budgetbytes,256
@@ -654,6 +660,7 @@ MrHost,256
 mrhost.biz,256
 myh2oservers.com,256
 NANO IT,256
+Natro,256
 Netinternet,256
 ntx.ru,256
 NWT iDC Data Service,256
@@ -695,8 +702,7 @@ e-commercepark.com,24
 Alibaba Host,16
 Ares Hosting,16
 nimbushosting.co.uk,16
-Velia,10
+Velia,12
 AlphaRacks,8
 Peron Hosting,8
-velia,2
 Vnet Slovakia,1
