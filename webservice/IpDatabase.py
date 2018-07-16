@@ -1,4 +1,6 @@
-from multiprocessing import Lock
+#from subprocess import _args_from_interpreter_flags
+#from multiprocessing.dummy import Lock
+from threading import Lock
 from operator import itemgetter
 from datetime import datetime
 from struct import unpack
@@ -14,7 +16,6 @@ class IpDatabase(object):
 #	on the cachelimit param so as to not constantly refresh and bottleneck seeks
 
 	ext_list = "https://raw.github.com/client9/ipcat/master/datacenters.csv"
-	
 	def __init__(self):
 		self.db = [] 
 		self.refreshed_at = 0
@@ -43,9 +44,10 @@ class IpDatabase(object):
 			)
 			tdb.append(row)
 			tdb.sort(key=itemgetter(0))
-		with self.mutex:
-			self.db = tdb
-			self.refreshed_at = datetime.now()
+                self.mutex.acquire()
+                self.db = tdb
+                self.refreshed_at = datetime.now()
+                self.mutex.release()
 
 	def needs_update(self, cachelimit):
 		# compare cachelimit to elapsed_since_refresh and return true / false
@@ -57,14 +59,16 @@ class IpDatabase(object):
 		ip_int = unpack("!L", inet_aton(ip))[0]
 		hlimit = len(self.db) - 1
 		llimit = 0
-		while self.mutex:
-			while hlimit >= llimit:
-				midpoint = int(floor((hlimit + llimit) / 2))
-				if self.db[midpoint][0] > ip_int:
-					hlimit = midpoint - 1
-				elif self.db[midpoint][1] < ip_int:
-					llimit = midpoint + 1
-				else:
-					return self.db[midpoint]
-			return None
+                self.mutex.acquire()
+		while hlimit >= llimit:
+			midpoint = int(floor((hlimit + llimit) / 2))
+			if self.db[midpoint][0] > ip_int:
+				hlimit = midpoint - 1
+			elif self.db[midpoint][1] < ip_int:
+				llimit = midpoint + 1
+			else:
+                                self.mutex.release()
+				return self.db[midpoint]
+                self.mutex.release()
+		return None
 
