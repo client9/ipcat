@@ -1667,6 +1667,7 @@
 107.160.0.0,107.160.255.255,Psychz Networks,http://psychz.net/
 107.167.160.0,107.167.191.255,Google App Engine,https://cloud.google.com/appengine
 107.170.0.0,107.170.255.255,DigitalOcean USA,https://www.digitalocean.com/
+107.172.0.0,107.175.255.255,ColoCrossing,http://www.colocrossing.com/
 107.178.192.0,107.178.255.255,Google App Engine,https://cloud.google.com/appengine
 107.180.0.0,107.180.127.255,GoDaddy.com Inc,http://www.godaddy.com/
 107.181.160.0,107.181.191.255,Total Server Solutions,http://totalserversolutions.com/
