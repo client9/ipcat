@@ -1755,6 +1755,7 @@
 117.120.0.0,117.120.7.255,ReadySpace,http://www.readyspace.com.sg/en/
 117.121.240.0,117.121.247.255,GPLHost,https://www.gplhost.com/
 118.24.0.0,118.25.255.255,Tencent Cloud,https://intl.cloud.tencent.com/
+118.67.248.0,118.67.248.255,net4,https://www.net4.com/
 118.127.0.0,118.127.63.255,Dedicated Servers,http://dedicatedservers.net.au/
 118.139.160.0,118.139.191.255,GoDaddy.com Inc,http://www.godaddy.com/
 118.214.0.0,118.215.255.255,Akamai,http://akamai.com/
