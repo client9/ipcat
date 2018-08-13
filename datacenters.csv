@@ -368,6 +368,7 @@
 45.34.0.0,45.35.255.255,Psychz Networks,http://psychz.net/
 45.40.128.0,45.40.191.255,GoDaddy.com Inc,http://www.godaddy.com/
 45.43.128.0,45.43.191.255,Server Network Technologies,http://www.hoststore.com/
+45.55.0.0,45.55.255.255,DigitalOcean,https://www.digitalocean.com/
 45.56.64.0,45.56.127.255,Linode,http://www.linode.com/
 45.59.128.0,45.59.191.255,Roya Hosting,http://www.royahosting.com/
 45.62.192.0,45.62.255.255,KW Datacenter CA,http://www.kwdatacentre.com/
@@ -1918,6 +1919,7 @@
 158.255.208.0,158.255.215.255,EDIS,http://www.edis.at/
 159.8.0.0,159.8.255.255,SoftLayer,http://www.softlayer.com/
 159.122.0.0,159.122.255.255,SoftLayer,http://www.softlayer.com/
+159.203.0.0,159.203.255.255,DigitalOcean,https://www.digitalocean.com/
 159.253.24.0,159.253.31.255,GleSys,http://glesys.se/
 159.253.56.0,159.253.63.255,host-it.co.uk,http://www.host-it.co.uk/
 159.253.128.0,159.253.159.255,SoftLayer,http://www.softlayer.com/
