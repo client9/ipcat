@@ -9,11 +9,11 @@ Cloudflare Inc,1786880
 PEER 1,1462288
 Ubiquity Server Solutions,1441792
 Rackspace,1350658
-OVH,1090048
+OVH,1135104
 21vianet,794624
+ColoCrossing,714752
 GoDaddy.com Inc,635904
 Hetzner Online AG,632128
-ColoCrossing,452608
 1&1 Internet,368640
 Hurricane Electric,359424
 C I Host,352256
@@ -24,16 +24,16 @@ Choopa,286808
 HostMySite.com,280320
 DigitalOcean,270336
 SingleHop,266240
+Tencent Cloud,262144
 DigitalOcean USA,261120
 Linode,259072
 iWeb Technologies Inc.,245760
 Fortress Integrated Technologies,237568
 FDC Servers,229376
 KW Datacenter CA,216064
-hostnoc,212992
 GoGrid,204800
 latisys,202752
-Tencent Cloud,196608
+hostnoc,196608
 Liquid Web,192512
 WebsiteWelcome.com,192512
 Pair Networks,188416
@@ -202,6 +202,7 @@ PrivateSystems.net,21504
 WoW Technologies,21504
 serverboost.nl,20544
 Advanced Internet Technologies,20480
+Contabo GmbH,20480
 ethr.net,20480
 Gearhost,20480
 UK Dedicated Servers LTD,20480
@@ -246,6 +247,7 @@ Input Output Flood LLC,14336
 Netrouting,14336
 Telecity Group,14336
 Titan Internet Ltd,14336
+AltusHost,13568
 XMission,13568
 Ventu,13320
 Fastmetrics,13312
@@ -254,7 +256,6 @@ HostRocket,13312
 ihnetworks.net,13312
 ISPserver,13312
 nedzone.nl,12800
-AltusHost,12544
 Keyweb Germany,12544
 Xtraordinary Networks Limited,12544
 Swiftway,12416
@@ -381,6 +382,7 @@ superhost.pl,4352
 Ecatel,4342
 180Servers,4096
 A Small Orange,4096
+ActiveCloud,4096
 Advanced Hosters,4096
 Airnet Group,4096
 Amanah,4096
@@ -389,7 +391,6 @@ Cirrus Tech Ltd,4096
 CLOUD-52 (KW Datacenter),4096
 comvive.com,4096
 Conetix,4096
-Contabo GmbH,4096
 Cyquator,4096
 Database By Design,4096
 Datotel,4096
@@ -483,6 +484,7 @@ GleSYS,2048
 H1 Host,2048
 h1host,2048
 h4hosting.eu,2048
+H88,2048
 HelloVPS,2048
 Hostex Internet Services,2048
 hostinet.com,2048
@@ -548,6 +550,7 @@ Ekvia,1024
 EstroWeb,1024
 Fibermax,1024
 Flops,1024
+Genesys Informatica,1024
 GoodNet,1024
 Hosta Rica,1024
 icn.bg,1024
@@ -564,6 +567,7 @@ Managed Hosting Services (Gorack),1024
 mirahost,1024
 mxhost,1024
 NetAngels,1024
+Netcup,1024
 netzozeker.nl,1024
 ozhosting.com,1024
 ProHoster.info,1024
@@ -583,6 +587,7 @@ Yourserver,1024
 almahost.co.uk,944
 Delta Bulgaria,768
 FinalTek.com,768
+Hostinger,768
 leaderhost.ru,768
 quickweb.co.nz,768
 vstoike.com Russia,768
@@ -610,8 +615,10 @@ IPServer,512
 ISPSystem,512
 ix-host.ru,512
 myhost.ua,512
+Offshore Servers,512
 Rackplace NL,512
 Selectel,512
+Servage,512
 SuperHosting.BG,512
 Totalin,512
 ukwebhosting.ltd.uk,512
@@ -644,7 +651,6 @@ Gyron,256
 Heart Internet,256
 HitMe.pl,256
 Hostgrad,256
-Hostinger,256
 incubatec GmbH - Srl,256
 Integrity,256
 ITL Ukraine,256
@@ -654,6 +660,7 @@ Kazakhtelecom Colocation,256
 Keyweb Germany Berlin,256
 Keyweb Switzerland,256
 kievhosting,256
+Loopia,256
 Marosnet,256
 Melbicom,256
 MrHost,256
@@ -661,7 +668,9 @@ mrhost.biz,256
 myh2oservers.com,256
 NANO IT,256
 Natro,256
+net4,256
 Netinternet,256
+NETIO,256
 ntx.ru,256
 NWT iDC Data Service,256
 One.com,256
@@ -693,6 +702,7 @@ Serverius,128
 Inferno Solutions,64
 ixam-hosting,64
 Persona Host,64
+Realcomm,64
 Server Green,64
 Volia Datacenter,64
 Dedizull,36
