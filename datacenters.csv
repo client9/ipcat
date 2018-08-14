@@ -1620,6 +1620,7 @@
 103.245.222.0,103.245.224.255,Fastly,https://www.fastly.com/
 103.246.248.0,103.246.248.255,quickweb.co.nz,http://quickweb.co.nz/
 103.246.250.0,103.246.251.255,quickweb.co.nz,http://quickweb.co.nz/
+103.251.24.0,103.251.27.255,LoopByte,https://loopbyte.com/
 104.16.0.0,104.31.255.255,Cloudflare Inc,https://www.cloudflare.com/
 104.40.0.0,104.43.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.44.88.0,104.44.95.255,Microsoft Azure,http://www.windowsazure.com/en-us/
