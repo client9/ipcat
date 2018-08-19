@@ -1234,6 +1234,7 @@
 83.217.64.0,83.217.95.255,easyhost.be,http://easyhost.be/
 83.220.128.0,83.220.159.255,MESH,http://www.mesh.eu/
 83.222.0.0,83.222.31.255,masterhost.ru,http://masterhost.ru/
+83.222.116.64,83.222.116.79,MnogoByte,https://mnogobyte.ru/
 83.222.224.0,83.222.255.255,PEER 1,http://www.peer1.com/
 83.243.8.0,83.243.15.255,root S.A.,http://www.site.lu/
 83.243.56.0,83.243.63.255,Vautron AG,http://www.vautron.de/
