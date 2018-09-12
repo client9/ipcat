@@ -1847,6 +1847,7 @@
 146.0.231.216,146.0.231.223,AlphaRacks,https://www.alpharacks.com/
 146.148.2.0,146.148.127.255,Google App Engine,https://cloud.google.com/appengine
 146.185.16.0,146.185.31.255,UK2 Group,http://www.100tb.com/
+146.185.152.0,146.185.159.255,DigitalOcean,https://www.digitalocean.com/
 146.255.24.0,146.255.31.255,Angel Hosting,http://www.angel-hosting.cz/
 146.255.32.0,146.255.47.255,GoDaddy.com Inc,http://www.godaddy.com/
 146.255.168.0,146.255.175.255,WEBAXYS,http://www.webaxys.fr/
