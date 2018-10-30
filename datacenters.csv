@@ -8,8 +8,7 @@
 5.39.216.0,5.39.223.255,HostKey,http://www.hostkey.com/
 5.44.26.144,5.44.26.159,PEER 1,http://www.peer1.com/
 5.45.72.0,5.45.75.255,3NT UK,http://3nt.com/
-5.45.80.0,5.45.83.255,3NT UK,http://3nt.com/
-5.45.84.0,5.45.87.255,3NT UK,http://3nt.com/
+5.45.80.0,5.45.87.255,3NT UK,http://3nt.com/
 5.77.32.0,5.77.63.255,eukhost.com,http://eukhost.com/
 5.79.0.0,5.79.7.255,Rackspace,http://www.rackspace.com/
 5.79.16.0,5.79.24.255,Rackspace,http://www.rackspace.com/
@@ -1274,7 +1273,6 @@
 85.159.237.0,85.159.237.255,NFOrce,https://www.nforce.com/
 85.195.99.34,85.195.99.35,Velia,https://www.velia.net/
 85.214.0.0,85.215.255.255,Strato,http://www.strato.de
-185.217.93.0,185.217.93.255,AbeloHost,https://abelohost.com/
 85.232.32.0,85.232.63.255,Titan Internet Ltd,http://www.titaninternet.co.uk/index.cfm
 85.234.128.0,85.234.159.255,BlueConnex,http://www.simplytransit.net/
 85.235.216.0,85.235.219.255,Prometey,http://ptspb.ru/
@@ -1776,7 +1774,6 @@
 118.67.244.0,118.67.244.255,net4,https://www.net4.com/
 118.67.248.0,118.67.248.255,net4,https://www.net4.com/
 118.127.0.0,118.127.63.255,Dedicated Servers,http://dedicatedservers.net.au/
-188.127.239.0,188.127.239.255,SmartApe,https://www.smartape.eu/
 118.139.160.0,118.139.191.255,GoDaddy.com Inc,http://www.godaddy.com/
 118.214.0.0,118.215.255.255,Akamai,http://akamai.com/
 119.31.224.0,119.31.231.255,Micron21,http://www.micron21.com/
@@ -1870,8 +1867,8 @@
 149.202.0.0,149.202.255.255,OVH,https://www.ovh.co.uk/
 149.210.164.0,149.210.164.255,TransIP,https://www.transip.nl/
 149.255.32.0,149.255.39.255,Swiftway,http://swiftway.net/
-151.80.128.0,151.80.159.255,OVH FR,https://www.ovh.ie/
 151.1.0.0,151.2.255.255,IT.NET,https://www.it.net/
+151.80.128.0,151.80.159.255,OVH FR,https://www.ovh.ie/
 151.101.0.0,151.101.255.255,Fastly,https://www.fastly.com/
 151.236.4.0,151.236.4.255,EDIS,http://www.edis.at/
 151.236.8.0,151.236.8.255,EDIS,http://www.edis.at/
@@ -2320,6 +2317,7 @@
 185.158.112.0,185.158.115.255,IP Server,https://www.ipserver.su/
 185.162.130.0,185.162.130.255,King Servers,https://www.king-servers.com/
 185.181.16.0,185.181.19.255,Datasfera,http://datasfera.com/
+185.217.93.0,185.217.93.255,AbeloHost,https://abelohost.com/
 185.224.136.0,185.224.137.255,Hostinger,https://www.hostinger.com/
 185.239.50.0,185.239.50.255,MGNHost,https://www.mgnhost.ru/
 186.227.162.128,186.227.162.191,Server Green,http://servergreen.com.br/
@@ -2342,6 +2340,7 @@
 188.121.32.0,188.121.47.255,GoDaddy.com NL,http://www.godaddy.com/
 188.122.64.0,188.122.95.255,i3d.net,http://i3d.net/
 188.126.64.0,188.126.95.255,Portlane,http://www.portlane.com/
+188.127.239.0,188.127.239.255,SmartApe,https://www.smartape.eu/
 188.138.0.0,188.138.127.255,plusserver.de,http://plusserver.de/
 188.165.0.0,188.165.255.255,OVH,http://www.ovh.co.uk/
 188.166.0.0,188.166.127.255,DigitalOcean Netherlands,https://www.digitalocean.com/

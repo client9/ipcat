@@ -9,12 +9,12 @@ Cloudflare Inc,1786880
 PEER 1,1462288
 Ubiquity Server Solutions,1441792
 Rackspace,1350658
-OVH,1135104
+OVH,1200640
 21vianet,794624
 ColoCrossing,714752
-GoDaddy.com Inc,635904
-Hetzner Online AG,632128
-DigitalOcean,401408
+Hetzner Online AG,697664
+GoDaddy.com Inc,668672
+DigitalOcean,403456
 1&1 Internet,368640
 Hurricane Electric,359424
 C I Host,352256
@@ -33,6 +33,7 @@ FDC Servers,229376
 KW Datacenter CA,216064
 GoGrid,204800
 latisys,202752
+Alibaba,196608
 hostnoc,196608
 Liquid Web,192512
 WebsiteWelcome.com,192512
@@ -63,6 +64,7 @@ colo4dallas.com,139264
 The Endurance International Group Inc,132096
 1000dedi.net,131072
 Enzu USA,131072
+IT.NET,131072
 OVH CA,131072
 Dedibox SAS,130304
 Optimate Server,122880
@@ -102,7 +104,6 @@ ServInt,70656
 alog,69632
 MojoHost,69632
 WebNX Internet Services,69632
-Alibaba,65536
 DigitalOcean Singapore,65536
 Energy Group Networks,65536
 Locaweb,65536
@@ -190,6 +191,7 @@ Volume Drive,25600
 SuperNetwork,24832
 23Media,24576
 calPOP,24576
+Contabo GmbH,24576
 First Colo GmbH,24576
 RackForce,24576
 VersaWeb,24576
@@ -202,7 +204,6 @@ PrivateSystems.net,21504
 WoW Technologies,21504
 serverboost.nl,20544
 Advanced Internet Technologies,20480
-Contabo GmbH,20480
 ethr.net,20480
 Gearhost,20480
 UK Dedicated Servers LTD,20480
@@ -416,6 +417,7 @@ ionity,4096
 Local Dedicated,4096
 main-hosting.com,4096
 nbiserv.de,4096
+Netinternet,4096
 Netirons,4096
 QWK.net,4096
 rapidhost.co.uk,4096
@@ -441,6 +443,7 @@ OpenHosting UK Internet Solutions,3584
 servhost.de,3584
 hostpro.ua,3328
 netrouting.com,3328
+3NT UK,3072
 Applied Operations,3072
 Confluence Networks Inc,3072
 esited.com,3072
@@ -467,10 +470,10 @@ activewebs.dk,2304
 RU-CENTER,2304
 Slask Data Center PL,2304
 tilaa,2304
-3NT UK,2048
 abdicar.com,2048
 ANEXIA,2048
 Angel Hosting,2048
+Braslink,2048
 Cloud South,2048
 Datacheap,2048
 datahata.by,2048
@@ -496,6 +499,7 @@ Its Hosted,2048
 Keyweb Germany Erfurt,2048
 Linode Japan,2048
 micfo.com,2048
+Natro,2048
 Netsys Global Telecom Limited,2048
 NuFuture Ltd,2048
 Petersburg Internet Network ltd.,2048
@@ -509,6 +513,7 @@ Switch Media Ltd,2048
 tuxis.nl,2048
 UK2,2048
 Unithost,2048
+Usonyx,2048
 vexxhost web hosting,2048
 VolumeDrive,2048
 VPS.net,2048
@@ -544,9 +549,12 @@ comfoplace.com,1024
 cybernetic-servers.co.uk,1024
 Data Xata,1024
 data-xata.com,1024
+Datasfera,1024
 DigitalOne AG,1024
 Dream Line Holding,1024
+Easyname,1024
 Ekvia,1024
+ESC,1024
 EstroWeb,1024
 Fibermax,1024
 Flops,1024
@@ -562,6 +570,7 @@ iqhost.ru,1024
 JustHost,1024
 Kualo,1024
 lionlink.net,1024
+LoopByte,1024
 Loose Foot Computing Limited,1024
 Managed Hosting Services (Gorack),1024
 mirahost,1024
@@ -585,15 +594,17 @@ Voxility Romania,1024
 wehostall,1024
 Yourserver,1024
 almahost.co.uk,944
+NFOrce,848
 Delta Bulgaria,768
 FinalTek.com,768
+forpsi,768
 Hostinger,768
 leaderhost.ru,768
 quickweb.co.nz,768
 vstoike.com Russia,768
 idealhosting,704
 co-location.com,640
-NFOrce,592
+NiobeWeb,579
 1gb,512
 Apollon,512
 Ardis Russia,512
@@ -614,7 +625,9 @@ hostkey,512
 IPServer,512
 ISPSystem,512
 ix-host.ru,512
+Melbicom,512
 myhost.ua,512
+net4,512
 Offshore Servers,512
 Rackplace NL,512
 Selectel,512
@@ -630,6 +643,8 @@ EpioHost,272
 1 Gbits,256
 10Gbps.IO,256
 3W Infra,256
+AbeloHost,256
+as.net,256
 Avguro,256
 Beget,256
 best-hosting.ro,256
@@ -640,6 +655,7 @@ deziweb,256
 DHAP center,256
 Dominios,256
 elserver,256
+Estoxy,256
 eurobyte,256
 Eurohoster,256
 EvoVPS,256
@@ -660,28 +676,29 @@ Kazakhtelecom Colocation,256
 Keyweb Germany Berlin,256
 Keyweb Switzerland,256
 kievhosting,256
+King Servers,256
 Loopia,256
 Marosnet,256
-Melbicom,256
+MGNHost,256
 MrHost,256
 mrhost.biz,256
 myh2oservers.com,256
 NANO IT,256
-Natro,256
-net4,256
-Netinternet,256
 NETIO,256
 ntx.ru,256
 NWT iDC Data Service,256
+o2switch,256
 One.com,256
 Regtons CZ,256
 Rent a Rack,256
 Root Level Technology,256
 RTComm,256
 Sadecehosting Turkey,256
+SBY Telecom,256
 ServerClub Inc,256
 Serveroffer,256
 smart-hosting.ro,256
+SmartApe,256
 SunnyVision,256
 T-N Media,256
 T-N Media Network,256
@@ -711,8 +728,10 @@ LippunerHosting,32
 e-commercepark.com,24
 Alibaba Host,16
 Ares Hosting,16
+MnogoByte,16
 nimbushosting.co.uk,16
 Velia,12
 AlphaRacks,8
 Peron Hosting,8
+Hosixy,4
 Vnet Slovakia,1
