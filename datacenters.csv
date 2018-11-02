@@ -112,6 +112,7 @@
 23.104.0.0,23.111.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 23.192.0.0,23.223.255.255,Akamai,http://akamai.com/
 23.226.64.0,23.226.79.255,Input Output Flood LLC,http://ioflood.com/
+23.227.160.0,23.227.191.255,Incero,http://www.incero.com/
 23.228.192.0,23.228.255.255,Psychz Networks,http://psychz.net/
 23.229.0.0,23.229.127.255,servermania.com,http://www.servermania.com/
 23.231.0.0,23.231.127.255,infinitie.net,http://www.serverhub.com/
@@ -817,6 +818,7 @@
 67.59.128.0,67.59.191.255,HostMySite.com,http://www.webmysite.com/
 67.159.0.0,67.159.63.255,FDC Servers,http://fdcservers.net/
 67.192.0.0,67.192.255.255,Rackspace,http://www.rackspace.com/
+67.198.128.0,67.198.255.255,VPLS Inc. d/b/a Krypt Technologies,http://krypt.com/
 67.202.0.0,67.202.63.255,Amazon AWS,http://www.amazon.com/aws/
 67.202.64.0,67.202.127.255,steadfast.net,http://steadfast.net/
 67.203.0.0,67.203.63.255,Colocation America Inc,http://www.colocationamerica.com/
@@ -894,6 +896,7 @@
 69.9.160.0,69.9.191.255,Voxel,http://www.voxel.net/
 69.10.32.0,69.10.63.255,InterServer.net,http://www.interserver.net/
 69.10.128.0,69.10.159.255,RackForce,http://www.rockforce.com/
+69.12.64.0,69.12.95.255,QuadraNet,https://quadranet.com/
 69.13.0.0,69.13.255.255,C I Host,http://www.cihost.com/
 69.16.192.0,69.16.255.255,Liquid Web,http://www.liquidweb.com/
 69.20.0.0,69.20.127.255,Rackspace,http://www.rackspace.com/
@@ -1070,6 +1073,7 @@
 75.119.192.0,75.119.223.255,Dreamhost,http://www.dreamhost.com/
 75.125.0.0,75.125.255.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
 75.126.0.0,75.126.255.255,SoftLayer,http://www.softlayer.com/
+75.127.0.0,75.127.15.255,ColoCrossing,http://www.colocrossing.com/
 76.8.16.0,76.8.31.255,Cyberverse,http://www.cyberverse.com/
 76.10.192.0,76.10.223.255,Blue Mile,http://bluemilecloud.com/
 76.12.0.0,76.12.255.255,HostMySite.com,http://www.webmysite.com/
