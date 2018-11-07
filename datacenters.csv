@@ -17,6 +17,7 @@
 5.79.39.4,5.79.39.5,Rackspace,http://www.rackspace.com/
 5.79.64.0,5.79.123.255,Leaseweb,http://www.leaseweb.com/
 5.100.152.0,5.100.153.255,Confluence Networks Inc,http://confluence-networks.com/
+5.101.96.0,5.101.111.255,DigitalOcean,https://www.digitalocean.com/
 5.101.156.0,5.101.156.255,Beget,https://beget.com/en
 5.104.106.0,5.104.106.255,myLoc,http://www.myloc.de/
 5.104.108.0,5.104.108.255,myLoc,http://www.myloc.de/
@@ -1939,6 +1940,7 @@
 158.255.40.0,158.255.47.255,eukhost.com,http://eukhost.com/
 158.255.208.0,158.255.215.255,EDIS,http://www.edis.at/
 159.8.0.0,159.8.255.255,SoftLayer,http://www.softlayer.com/
+159.65.0.0,159.65.255.255,DigitalOcean,https://www.digitalocean.com/
 159.122.0.0,159.122.255.255,SoftLayer,http://www.softlayer.com/
 159.203.0.0,159.203.255.255,DigitalOcean,https://www.digitalocean.com/
 159.253.24.0,159.253.31.255,GleSys,http://glesys.se/
@@ -1987,6 +1989,7 @@
 166.62.0.0,166.62.127.255,GoDaddy.com Inc,http://www.godaddy.com/
 166.78.0.0,166.78.255.255,Rackspace,http://www.rackspace.com/
 167.88.32.0,167.88.47.255,KW Datacenter CA,http://www.kwdatacentre.com/
+167.99.0.0,167.99.255.255,DigitalOcean,https://www.digitalocean.com/
 167.160.32.0,167.160.63.255,Web2Objects,https://web2objects.com/
 168.1.0.0,168.1.255.255,SoftLayer,http://www.softlayer.com/
 168.61.0.0,168.61.129.191,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -2673,12 +2676,14 @@
 198.205.112.0,198.205.127.255,GoRack,http://www.gorack.net/
 198.211.0.0,198.211.63.255,multacom.com,http://multacom.com/
 198.211.96.0,198.211.127.255,DigitalOcean USA,https://www.digitalocean.com/
+198.232.147.0,198.232.147.255,DigitalOcean,https://www.digitalocean.com/
 198.245.48.0,198.245.63.255,OVH,http://www.ovh.co.uk/
 198.245.64.0,198.245.79.255,servermania.com,http://www.servermania.com/
 198.246.44.0,198.246.47.255,KW Datacenter CA,http://www.kwdatacentre.com/
 198.246.132.0,198.246.133.255,XMission,http://xmission.com/
 198.251.64.0,198.251.79.255,1&1 Internet,http://www.1and1.com/
 198.251.80.0,198.251.95.255,buyvm.net,http://buyvm.net/?from=frantech
+199.4.223.0,199.4.223.255,DigitalOcean,https://www.digitalocean.com/
 199.7.232.0,199.7.239.255,datacenterscanada.com,http://www.datacenterscanada.com/
 199.15.112.0,199.15.119.255,Psychz Networks,http://psychz.net/
 199.15.168.0,199.15.175.255,Immedion,http://immedion.com/
