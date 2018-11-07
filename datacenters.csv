@@ -1815,6 +1815,7 @@
 114.141.192.0,114.141.193.255,Dedicated Servers,http://dedicatedservers.net.au/
 114.141.195.0,114.141.195.255,Dedicated Servers,http://dedicatedservers.net.au/
 114.141.200.0,114.141.203.255,Dedicated Servers,http://dedicatedservers.net.au/
+114.215.0.0,114.215.255.255,Alibaba,https://www.alibabacloud.com/
 115.68.0.0,115.68.255.255,1000dedi.net,http://www.1000dedi.net/
 115.124.96.0,115.124.103.255,BODHost,http://bodhost.com/
 115.124.104.0,115.124.105.255,esds.co.in,http://www.esds.co.in/
