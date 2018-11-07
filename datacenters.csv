@@ -1859,7 +1859,7 @@
 146.0.231.216,146.0.231.223,AlphaRacks,https://www.alpharacks.com/
 146.148.2.0,146.148.127.255,Google App Engine,https://cloud.google.com/appengine
 146.185.16.0,146.185.31.255,UK2 Group,http://www.100tb.com/
-146.185.152.0,146.185.159.255,DigitalOcean,https://www.digitalocean.com/
+146.185.128.0,146.185.191.255,DigitalOcean,https://www.digitalocean.com/
 146.255.24.0,146.255.31.255,Angel Hosting,http://www.angel-hosting.cz/
 146.255.32.0,146.255.47.255,GoDaddy.com Inc,http://www.godaddy.com/
 146.255.168.0,146.255.175.255,WEBAXYS,http://www.webaxys.fr/
@@ -1977,6 +1977,7 @@
 162.248.160.0,162.248.167.255,KW Datacenter CA,http://www.kwdatacentre.com/
 162.250.120.0,162.250.127.255,InterServer.net,http://www.interserver.net/
 162.252.240.0,162.252.243.255,KW Datacenter CA,http://www.kwdatacentre.com/
+163.47.8.0,163.47.11.255,DigitalOcean,https://www.digitalocean.com/
 164.40.133.0,164.40.133.255,GoGrid LLC,http://www.gogrid.com/
 164.40.144.0,164.40.144.255,GoGrid LLC,http://www.gogrid.com/
 164.40.147.0,164.40.147.255,GoGrid LLC,http://www.gogrid.com/
