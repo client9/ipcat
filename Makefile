@@ -16,6 +16,9 @@ appengine:
 cloudflare:
 	go run ./cmd/ipcat/main.go -cloudflare
 
+tor:
+	go run ./cmd/ipcat/main.go -tor -csvfile tor.csv -statsfile=""
+
 test:
 	find . -name '*.go' | xargs gofmt -w -s
 	find . -name '*.go' | xargs goimports -w

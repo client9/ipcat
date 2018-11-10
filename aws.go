@@ -13,16 +13,18 @@ var (
 
 // AWSPrefix is AWS prefix in their IP ranges file
 type AWSPrefix struct {
-	IPPrefix string `json:"ip_prefix"`
-	Region   string `json:"region"`
-	Service  string `json:"service"`
+	IPPrefix   string `json:"ip_prefix"`
+	IPv6Prefix string `json:"ipv6_prefix"`
+	Region     string `json:"region"`
+	Service    string `json:"service"`
 }
 
 // AWS is main record for AWS IP info
 type AWS struct {
-	SyncToken  string      `json:"syncToken"`
-	CreateDate string      `json:"createDate"`
-	Prefixes   []AWSPrefix `json:"prefixes"`
+	SyncToken    string      `json:"syncToken"`
+	CreateDate   string      `json:"createDate"`
+	Prefixes     []AWSPrefix `json:"prefixes"`
+	IPv6Prefixes []AWSPrefix `json:"ipv6_prefixes"`
 }
 
 // DownloadAWS downloads the latest AWS IP ranges list
@@ -60,9 +62,23 @@ func UpdateAWS(ipmap *IntervalSet, body []byte) error {
 	ipmap.DeleteByName(awsName)
 
 	// and add back
-	for _, rec := range aws.Prefixes {
-		if rec.Service == "EC2" {
-			err := ipmap.AddCIDR(rec.IPPrefix, awsName, awsURL)
+	for _, prefixList := range []*[]AWSPrefix{&aws.Prefixes, &aws.IPv6Prefixes} {
+		for _, rec := range *prefixList {
+			if rec.Service != "AMAZON" {
+				// Service is the subset of IP address ranges. Specify AMAZON to get
+				// all IP address ranges (for example, the ranges in the EC2 subset
+				// are also in the AMAZON subset). Note that some IP address ranges
+				// are only in the AMAZON subset.
+				// <https://docs.aws.amazon.com/general/latest/gr/aws-ip-ranges.html>
+				continue
+			}
+
+			prefix := rec.IPPrefix
+			if prefix == "" {
+				prefix = rec.IPv6Prefix
+			}
+
+			err := ipmap.AddCIDR(prefix, awsName, awsURL)
 			if err != nil {
 				return err
 			}

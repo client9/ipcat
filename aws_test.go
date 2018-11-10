@@ -23,6 +23,16 @@ func TestAWS(t *testing.T) {
 				  "ip_prefix": "13.54.0.0/15",
 				  "region": "ap-southeast-2",
 				  "service": "EC2"
+				},
+				{
+				  "ipv6_prefix": "2a05:d016::/36",
+				  "region": "eu-north-1",
+				  "service": "AMAZON"
+				},
+				{
+				  "ipv6_prefix": "2a05:d018::/36",
+				  "region": "eu-west-1",
+				  "service": "EC2"
 				}
 			]
 		}`)
@@ -39,19 +49,27 @@ func TestAWS(t *testing.T) {
 	if err != nil {
 		t.Fatalf("UpdateAWS error: %v", err)
 	}
-	// UpdateAWS should only add EC2 IP ranges
-	rec, err := ipset.Contains("216.182.224.0")
-	if err != nil {
-		t.Fatalf("ipset.Contains(%q) error: %v", "216.182.224.0", err)
+
+	tests := []struct {
+		IP       string
+		Contains bool
+	}{
+		{IP: "216.182.224.0", Contains: true},
+		{IP: "2a05:d016::20", Contains: true},
+
+		// Only AMAZON services will be contained (superset of all)
+		{IP: "13.54.0.1", Contains: false},
+		{IP: "2a05:d018::20", Contains: false},
 	}
-	if rec != nil {
-		t.Errorf("ipset.Contains(%q) rec = %v, want nil", "216.182.224.0", rec)
-	}
-	rec, err = ipset.Contains("13.54.0.1")
-	if err != nil {
-		t.Fatalf("ipset.Contains(%q) error: %v", "13.54.0.0", err)
-	}
-	if rec == nil {
-		t.Errorf("ipset.Contains(%q) rec = nil, want exists", "13.54.0.0")
+
+	for _, test := range tests {
+		record, err := ipset.Contains(test.IP)
+		if err != nil {
+			t.Fatalf("ipset.Contains(%q) error: %v", test.IP, err)
+		}
+		if (record != nil) != test.Contains {
+			t.Errorf("ipset.Contains(%q) rec = %v, want rec != nil to be %v",
+				test.IP, record, test.Contains)
+		}
 	}
 }

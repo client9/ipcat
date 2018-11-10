@@ -3,28 +3,44 @@ package ipcat
 import (
 	"bytes"
 	"fmt"
+	"io"
 	"io/ioutil"
 	"net/http"
 )
 
 var (
-	cloudflareDownload = "https://www.cloudflare.com/ips-v4"
+	cloudflareDownload = []string{
+		"https://www.cloudflare.com/ips-v4",
+		"https://www.cloudflare.com/ips-v6",
+	}
 )
 
 // DownloadCloudflare downloads the latest Cloudflare IP ranges list
 func DownloadCloudflare() ([]byte, error) {
-	resp, err := http.Get(cloudflareDownload)
+	readers := make([]io.Reader, 0, len(cloudflareDownload))
+
+	defer func() {
+		for _, reader := range readers {
+			reader.(io.ReadCloser).Close()
+		}
+	}()
+
+	for _, uri := range cloudflareDownload {
+		resp, err := http.Get(uri)
+		if err != nil {
+			return nil, err
+		}
+		readers = append(readers, resp.Body)
+
+		if resp.StatusCode != 200 {
+			return nil, fmt.Errorf("Failed to download Cloudflare ranges: status code %s", resp.Status)
+		}
+	}
+
+	body, err := ioutil.ReadAll(io.MultiReader(readers...))
 	if err != nil {
 		return nil, err
 	}
-	if resp.StatusCode != 200 {
-		return nil, fmt.Errorf("Failed to download Cloudflare ranges: status code %s", resp.Status)
-	}
-	body, err := ioutil.ReadAll(resp.Body)
-	if err != nil {
-		return nil, err
-	}
-	resp.Body.Close()
 
 	return bytes.TrimSpace(body), nil
 }

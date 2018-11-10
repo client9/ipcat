@@ -1,66 +1,103 @@
 package ipcat
 
 import (
+	"bytes"
 	"encoding/csv"
 	"fmt"
 	"io"
+	"math/big"
 	"net"
 	"sort"
 	"strings"
 )
 
-// generic utility function
-//    returns 0 if not valid
-func dots2uint32(dots string) uint32 {
-	ip := net.ParseIP(dots)
-	if ip == nil {
-		return 0
+// IPParse converts a string IP address to a byte slice, or nil on error.
+func IPParse(dots string) []byte {
+	return net.ParseIP(dots)
+}
+
+// IPString converts a byte slice representing an IP address to a string.
+func IPString(ip []byte) string {
+	return net.IP(ip).String()
+}
+
+// IPIsAdjacent returns true if the first IP + 1 equals the second.
+func IPIsAdjacent(bytes, bytesinc []byte) bool {
+	if len(bytes) != len(bytesinc) {
+		return false
 	}
-	ip = ip.To4()
-	if ip == nil {
-		return 0
+
+	// Iterate backwards
+	var carry byte = 1
+	for i := len(bytes) - 1; i >= 0; i-- {
+		inc := bytes[i] + carry
+		if inc != bytesinc[i] {
+			return false
+		}
+		if carry == 1 && bytes[i] == 0xff {
+			carry = 1
+		} else {
+			carry = 0
+		}
 	}
-	return uint32(ip[0])<<24 + uint32(ip[1])<<16 + uint32(ip[2])<<8 + uint32(ip[3])
+
+	return true
 }
 
 // CIDR2Range converts a CIDR to a dotted IP address pair, or empty strings and error
 //
-// Generic.. does not care if ipv4 or ipv6
+// Generic.. does not care if ipv4 or ipv6 (for sure this time)
 func CIDR2Range(c string) (string, string, error) {
-	left, ipnet, err := net.ParseCIDR(c)
+	// Parse CIDR notation
+	addr, network, err := net.ParseCIDR(c)
 	if err != nil {
 		return "", "", err
 	}
-	left4 := left.To4()
-	if left4 == nil {
-		return "", "", nil
+
+	// Create new bounds addresses
+	left := make(net.IP, 16)
+	right := make(net.IP, 16)
+
+	// Pad mask to 16 bytes with 1 bits
+	mask := make([]byte, 16)
+	for i := 0; i < 16; i++ {
+		mask[i] = 0xff
 	}
-	right := net.IPv4(0, 0, 0, 0).To4()
-	right[0] = left4[0] | ^ipnet.Mask[0]
-	right[1] = left4[1] | ^ipnet.Mask[1]
-	right[2] = left4[2] | ^ipnet.Mask[2]
-	right[3] = left4[3] | ^ipnet.Mask[3]
+	copy(mask[16-len(network.Mask):], network.Mask)
 
-	return left4.String(), right.To4().String(), nil
+	// Mask address for left and right bounds
+	for i := range left {
+		left[i] = addr[i] & mask[i]
+		right[i] = addr[i] | ^mask[i]
+	}
+
+	return left.String(), right.String(), nil
 }
 
-// ToDots converts a uint32 to a IPv4 Dotted notation
-func ToDots(val uint32) string {
-	return fmt.Sprintf("%d.%d.%d.%d",
-		val>>24,
-		(val>>16)&0xFF,
-		(val>>8)&0xFF,
-		val&0xFF)
-}
-
-// Interval is a closed interval [a,b] of an IPv4 range
+// Interval is a closed interval [a,b] of an IP range
 type Interval struct {
-	Left      uint32
-	Right     uint32
-	LeftDots  string
-	RightDots string
-	Name      string
-	URL       string
+	Left  [16]byte
+	Right [16]byte
+	Name  string
+	URL   string
+}
+
+// Contains returns true if the IP address is found within the interval.
+func (interval *Interval) Contains(ip []byte) bool {
+	return bytes.Compare(ip, interval.Left[:]) >= 0 && bytes.Compare(ip, interval.Right[:]) <= 0
+}
+
+// Size returns the number of IP addresses that fit in the range
+func (interval *Interval) Size() *big.Int {
+	size := big.NewInt(1)
+	size.Add(size, new(big.Int).SetBytes(interval.Right[:]))
+	size.Sub(size, new(big.Int).SetBytes(interval.Left[:]))
+	return size
+}
+
+func (interval Interval) String() string {
+	return IPString(interval.Left[:]) + " to " + IPString(interval.Right[:]) + " (" +
+		interval.Name + " <" + interval.URL + ">)"
 }
 
 type intervallist []Interval
@@ -72,7 +109,7 @@ func (ipset intervallist) Len() int {
 
 // Less satisfies the sort.Sortable interface
 func (ipset intervallist) Less(i, j int) bool {
-	return ipset[i].Left < ipset[j].Left
+	return bytes.Compare(ipset[i].Left[:], ipset[j].Left[:]) < 0
 }
 
 // Swap satisfies the sort.Sortable interface
@@ -129,7 +166,7 @@ func (ipset *IntervalSet) ExportCSV(in io.Writer) error {
 	}
 	w := csv.NewWriter(in)
 	for _, val := range ipset.btree {
-		rec := []string{ToDots(val.Left), ToDots(val.Right), val.Name, val.URL}
+		rec := []string{IPString(val.Left[:]), IPString(val.Right[:]), val.Name, val.URL}
 		if err := w.Write(rec); err != nil {
 			return err
 		}
@@ -153,17 +190,13 @@ func (ipset *IntervalSet) sort() error {
 	last := Interval{}
 	// check validity -- probably worth ripping out
 	for pos, val := range ipset.btree {
-		if val.Left > val.Right {
-			return fmt.Errorf("left %d > right %d at pos %d",
-				val.Left, val.Right, pos)
-		}
-		if val.Right-val.Left > (uint32(255) << 24) {
-			return fmt.Errorf("Interval too large: [%d,%d]",
-				val.Left, val.Right)
+		if bytes.Compare(val.Left[:], val.Right[:]) > 0 {
+			return fmt.Errorf("left %s > right %s at pos %d",
+				IPString(val.Left[:]), IPString(val.Right[:]), pos)
 		}
 		if pos > 0 {
-			if val.Left <= last.Right || val.Right <= last.Right {
-				return fmt.Errorf("Overlapping regions %v vs. %v", last, val)
+			if bytes.Compare(val.Left[:], last.Right[:]) <= 0 || bytes.Compare(val.Right[:], last.Right[:]) <= 0 {
+				return fmt.Errorf("Overlapping regions %s and %s", last, val)
 			}
 		}
 		last = val
@@ -171,23 +204,21 @@ func (ipset *IntervalSet) sort() error {
 	ipset.sorted = true
 
 	// now merge adjacent items
-	newtree := make([]Interval, 0, len(ipset.btree))
-	last = Interval{}
-	for pos, val := range ipset.btree {
-		if pos == 0 {
-			newtree = append(newtree, val)
-			last = val
+	merged := ipset.btree[:0]
+	for index, interval := range ipset.btree {
+		if index == 0 {
+			merged = append(merged, interval)
 			continue
 		}
-		if last.Right+1 == val.Left && last.Name == val.Name {
-			last.Right = val.Right
-			newtree[len(newtree)-1] = last
+		last := &merged[len(merged)-1]
+		if interval.Name == last.Name && IPIsAdjacent(last.Right[:], interval.Left[:]) {
+			last.Right = interval.Right
 			continue
 		}
-		newtree = append(newtree, val)
-		last = val
+		merged = append(merged, interval)
 	}
-	ipset.btree = newtree
+	ipset.btree = merged
+
 	return nil
 }
 
@@ -202,37 +233,36 @@ func (ipset *IntervalSet) AddCIDR(cidr, name, url string) error {
 
 // AddRange adds an entry based on an IP range
 func (ipset *IntervalSet) AddRange(dotsleft, dotsright, name, url string) error {
-	left := dots2uint32(dotsleft)
-	if left == 0 && dotsleft != "0.0.0.0" {
+	left := net.ParseIP(dotsleft)
+	if left == nil {
 		return fmt.Errorf("Unable to convert %s", dotsleft)
 	}
-	right := dots2uint32(dotsright)
-	if right == 0 && dotsright != "0.0.0.0" {
+	right := net.ParseIP(dotsright)
+	if right == nil {
 		return fmt.Errorf("Unable to convert %s", dotsright)
 	}
-	if left > right {
+	if bytes.Compare(left, right) > 0 {
 		return fmt.Errorf("%s > %s", dotsleft, dotsright)
 	}
-	if right-left >= uint32(1)<<24 {
-		return fmt.Errorf("Range too big for [%s %s] %s %s", dotsleft, dotsright, name, url)
-	}
+
 	ipset.sorted = false
 	ipset.btree = append(ipset.btree,
 		Interval{
-			Left:      left,
-			Right:     right,
-			LeftDots:  dotsleft,
-			RightDots: dotsright,
-			Name:      name,
-			URL:       url,
+			Name: name,
+			URL:  url,
 		},
 	)
+
+	index := len(ipset.btree) - 1
+	copy(ipset.btree[index].Left[:], left)
+	copy(ipset.btree[index].Right[:], right)
+
 	return nil
 }
 
 // DeleteByName deletes all entries with the given name
 func (ipset *IntervalSet) DeleteByName(name string) {
-	newlist := intervallist{}
+	newlist := ipset.btree[:0]
 	for _, entry := range ipset.btree {
 		if entry.Name != name {
 			newlist = append(newlist, entry)
@@ -242,47 +272,55 @@ func (ipset *IntervalSet) DeleteByName(name string) {
 }
 
 // Len returns the number of elements in the set
-func (ipset IntervalSet) Len() int {
+func (ipset *IntervalSet) Len() int {
 	return ipset.btree.Len()
 }
 
 // Contains returns the internal record if the IP address is in some
 // interval else nil or error.  It returns a pointer to the internal
 // record, so be careful.
-func (ipset IntervalSet) Contains(dots string) (*Interval, error) {
-	if !ipset.sorted {
-		err := ipset.sort()
-		if err != nil {
-			return nil, err
+func (ipset *IntervalSet) Contains(dots string) (*Interval, error) {
+	if err := ipset.sort(); err != nil {
+		return nil, err
+	}
+
+	ip := net.ParseIP(dots)
+	if ip == nil {
+		return nil, fmt.Errorf("Invalid input: %q", dots)
+	}
+
+	len := ipset.Len()
+
+	index := sort.Search(len, func(i int) bool {
+		left := ipset.btree[i].Left[:]
+		cmp := bytes.Compare(left, ip)
+		return cmp >= 0
+	})
+
+	if index < len {
+		// lots of cases in the lookup here.
+		// if exactly equals, then compare with [i]
+		interval := &ipset.btree[index]
+		if interval.Contains(ip) {
+			return interval, nil
 		}
 	}
 
-	val := dots2uint32(dots)
-	if val == 0 && dots != "0.0.0.0" {
-		return nil, fmt.Errorf("Invalid input: %q", dots)
-	}
-	i := sort.Search(len(ipset.btree), func(i int) bool {
-		return ipset.btree[i].Left >= val
-	})
-
-	// lots of cases in the lookup here.
-	// if exactly equals, then compare with [i]
-	if i < ipset.Len() && ipset.btree[i].Left == val && val <= ipset.btree[i].Right {
-		return &ipset.btree[i], nil
-	}
-
 	// ok then it's the record before
-	i--
-	if i >= 0 && ipset.btree[i].Left < val && val <= ipset.btree[i].Right {
-		return &ipset.btree[i], nil
+	if index > 0 {
+		interval := &ipset.btree[index-1]
+		if interval.Contains(ip) {
+			return interval, nil
+		}
 	}
+
 	return nil, nil
 }
 
 // NameSize is a tuple mapping name with a size
 type NameSize struct {
 	Name string
-	Size int
+	Size *big.Int
 }
 
 // NameSizeList is a list of NameSize
@@ -357,17 +395,23 @@ func (ms *multiSorter) Less(i, j int) bool {
 // * Total number IP address
 //
 func (ipset IntervalSet) RankBySize() NameSizeList {
-	counts := make(map[string]int, ipset.Len())
+	counts := make(map[string]*big.Int, ipset.Len())
 	for _, val := range ipset.btree {
-		counts[val.Name] += int(val.Right-val.Left) + 1
+		count, ok := counts[val.Name]
+		if !ok {
+			count = big.NewInt(0)
+			counts[val.Name] = count
+		}
+
+		count.Add(count, val.Size())
 	}
 	rank := make(NameSizeList, 0, len(counts))
 	for k, v := range counts {
 		rank = append(rank, NameSize{k, v})
 	}
 
-	size := func(l1, l2 *NameSize) bool {
-		return l1.Size > l2.Size
+	size := func(left, right *NameSize) bool {
+		return left.Size.Cmp(right.Size) > 0
 	}
 
 	name := func(l1, l2 *NameSize) bool {

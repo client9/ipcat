@@ -5,7 +5,6 @@ import (
 	"errors"
 	"fmt"
 	"io/ioutil"
-	"log"
 	"net/http"
 	"regexp"
 )
@@ -58,7 +57,6 @@ func DownloadAzure() ([]byte, error) {
 		return nil, fmt.Errorf("failed to find public IPs url during retry: %s", err)
 	}
 
-	log.Printf("Attempting ip range download with url %s...", url)
 	resp, err := http.Get(url)
 	if err != nil {
 		return nil, err
