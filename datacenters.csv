@@ -1750,6 +1750,7 @@
 108.59.80.0,108.59.95.255,Google App Engine,https://cloud.google.com/appengine
 108.59.240.0,108.59.255.255,EarthLink Cloud,http://www.earthlinkcloud.com/
 108.60.64.0,108.60.95.255,Techie Media,http://techiemedia.net/
+108.61.0.0,108.61.255.255,Vultr,https://www.vultr.com/
 108.62.0.0,108.62.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 108.128.0.0,108.135.255.255,Amazon AWS,http://www.amazon.com/aws/
 108.160.144.0,108.160.159.255,PrivateSystems.net,http://privatesystems.net/
