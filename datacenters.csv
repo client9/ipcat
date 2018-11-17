@@ -2056,6 +2056,7 @@
 166.78.0.0,166.78.255.255,Rackspace,http://www.rackspace.com/
 167.88.32.0,167.88.47.255,KW Datacenter CA,http://www.kwdatacentre.com/
 167.99.0.0,167.99.255.255,DigitalOcean,https://www.digitalocean.com/
+167.114.0.0,167.114.255.255,OVH,https://www.ovh.com/ca/en/
 167.160.32.0,167.160.63.255,Web2Objects,https://web2objects.com/
 168.1.0.0,168.1.255.255,SoftLayer,http://www.softlayer.com/
 168.61.0.0,168.61.128.143,Microsoft Azure,http://www.windowsazure.com/en-us/
