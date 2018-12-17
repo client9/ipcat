@@ -2730,6 +2730,7 @@
 198.58.96.0,198.58.127.255,Linode,http://www.linode.com/
 198.61.128.0,198.61.255.255,Rackspace,http://www.rackspace.com/
 198.71.48.0,198.71.63.255,1&1 Internet,http://www.1and1.com/
+198.71.128.0,198.71.255.255,GoDaddy,https://www.godaddy.com/
 198.72.96.0,198.72.127.255,iWeb Technologies Inc.,http://iweb.com/
 198.74.48.0,198.74.63.255,Linode,http://www.linode.com/
 198.74.96.0,198.74.127.255,multacom.com,http://multacom.com/
