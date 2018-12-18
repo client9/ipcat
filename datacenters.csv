@@ -680,6 +680,7 @@
 64.59.64.0,64.59.127.255,MojoHost,http://www.mojohost.com
 64.62.128.0,64.62.255.255,Hurricane Electric,http://www.he.net/
 64.64.0.0,64.64.31.255,ServInt,http://www.servint.net/
+64.64.96.0,64.64.127.255,LogicWeb,https://www.logicweb.com/
 64.64.224.0,64.64.255.255,Carat Networks,http://www.caratnetworks.com/
 64.65.0.0,64.65.63.255,PEER 1,http://www.peer1.com/
 64.66.128.0,64.66.191.255,Hostway,http://www.hostway.com/
