@@ -1,0 +1,5 @@
+- created IpDatabase
+- In main make an "app" to handle the requests 
+- In main, instantiate the db
+- After breaking params out of req, db.find() and return formatted resp
+
