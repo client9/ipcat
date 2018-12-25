@@ -687,6 +687,7 @@
 64.66.128.0,64.66.191.255,Hostway,http://www.hostway.com/
 64.69.32.0,64.69.47.255,calPOP,http://calpop.com/
 64.69.64.0,64.69.95.255,PEER 1,http://www.peer1.com/
+64.71.32.0,64.71.63.255,Hostway,https://hostway.com/
 64.71.128.0,64.71.191.255,Hurricane Electric,http://www.he.net/
 64.71.224.0,64.71.239.255,Webhosting.net,http://www.webhosting.net/
 64.77.0.0,64.77.127.255,PEER 1,http://www.peer1.com/
