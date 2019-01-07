@@ -611,6 +611,7 @@
 52.253.148.0,52.253.161.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.253.224.0,52.253.239.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.254.0.0,52.255.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+54.39.0.0,54.39.255.255,OVH,https://www.ovh.com/ca/en/
 54.64.0.0,54.95.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.144.0.0,54.181.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.183.0.0,54.191.255.255,Amazon AWS,http://www.amazon.com/aws/
