@@ -2023,6 +2023,7 @@
 159.253.56.0,159.253.63.255,host-it.co.uk,http://www.host-it.co.uk/
 159.253.128.0,159.253.159.255,SoftLayer,http://www.softlayer.com/
 160.1.0.0,160.1.255.255,Amazon AWS,http://www.amazon.com/aws/
+160.153.0.0,160.153.255.255,GoDaddy.com Inc,http://www.godaddy.com/
 161.202.0.0,161.202.255.255,SoftLayer,http://www.softlayer.com/
 162.158.0.0,162.159.255.255,Cloudflare Inc,https://www.cloudflare.com/
 162.208.8.0,162.208.11.255,vpscheap.net,http://vpscheap.net/
