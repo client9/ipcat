@@ -1714,6 +1714,7 @@
 104.130.64.0,104.130.223.255,Rackspace,http://www.rackspace.com/
 104.131.0.0,104.131.255.255,DigitalOcean USA,https://www.digitalocean.com/
 104.143.0.0,104.143.15.255,Versaweb,https://versaweb.com/
+104.145.224.0,104.145.239.255,DigitalFyre,https://www.digitalfyre.com/
 104.154.0.0,104.155.255.255,Google App Engine,https://cloud.google.com/appengine
 104.156.80.0,104.156.95.255,Fastly,https://www.fastly.com/
 104.156.224.0,104.156.255.255,Choopa,https://www.choopa.com/
