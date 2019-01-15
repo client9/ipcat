@@ -1857,6 +1857,7 @@
 119.31.224.0,119.31.231.255,Micron21,http://www.micron21.com/
 119.37.0.0,119.37.191.255,21vianet,http://21vianet.com/
 119.81.0.0,119.81.255.255,SoftLayer,http://www.softlayer.com/
+120.55.0.0,120.55.255.255,Alibaba Cloud Japan,https://www.alibabacloud.com/
 120.132.128.0,120.135.255.255,21vianet,http://21vianet.com/
 120.136.32.0,120.136.47.255,Rackspace,http://www.rackspace.com/
 121.50.64.0,121.50.127.255,kinx.net,http://idc.kinx.net/
