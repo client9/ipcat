@@ -369,6 +369,7 @@
 45.32.0.0,45.32.255.255,Choopa,https://www.choopa.com/
 45.33.0.0,45.33.127.255,Linode,http://www.linode.com/
 45.34.0.0,45.35.255.255,Psychz Networks,http://psychz.net/
+45.40.112.0,45.40.127.255,My247webhosting,https://www.my247webhosting.com/
 45.40.128.0,45.40.191.255,GoDaddy.com Inc,http://www.godaddy.com/
 45.43.128.0,45.43.191.255,Server Network Technologies,http://www.hoststore.com/
 45.55.0.0,45.55.255.255,DigitalOcean,https://www.digitalocean.com/
