@@ -160,6 +160,7 @@
 31.170.104.0,31.170.111.255,providerdienste,http://www.providerdienste.de/
 31.170.160.0,31.170.167.255,main-hosting.com,http://main-hosting.com/
 31.171.128.0,31.171.135.255,Netrouting,http://www.netrouting.com/
+31.171.248.0,31.171.249.255,CloudSigma,https://www.cloudsigma.com/
 31.172.240.0,31.172.255.255,Tagadab,http://tagadab.com/
 31.177.95.0,31.177.95.255,RU-CENTER,https://www.nic.ru/en/
 31.184.192.0,31.184.199.255,Petersburg Internet Network ltd.,http://pinspb.ru/
@@ -1636,6 +1637,7 @@
 103.251.24.0,103.251.27.255,LoopByte,https://loopbyte.com/
 103.253.144.0,103.253.147.255,DigitalOcean,https://www.digitalocean.com/
 104.16.0.0,104.31.255.255,Cloudflare Inc,https://www.cloudflare.com/
+104.36.16.0,104.36.19.255,CloudSigma,https://www.cloudsigma.com/
 104.40.0.0,104.43.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.44.88.0,104.44.95.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.44.128.0,104.44.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -1954,6 +1956,7 @@
 162.211.92.0,162.211.95.255,esited.com,http://www.esited.com/
 162.212.252.0,162.212.255.255,awknet,http://awknet.com/
 162.213.24.0,162.213.31.255,Volume Drive,http://volumedrive.com
+162.213.36.0,162.213.39.255,CloudSigma,https://www.cloudsigma.com/
 162.213.152.0,162.213.155.255,Forta Trust,http://www.fortatrust.com/
 162.213.208.0,162.213.211.255,Input Output Flood LLC,http://ioflood.com/
 162.213.216.0,162.213.223.255,wehostwebsites.com,http://wehostwebsites.com/
@@ -2276,6 +2279,8 @@
 185.7.33.25,185.7.33.60,Dedizull,http://www.dedizull.com/
 185.8.104.0,185.8.107.255,Duomenu Centras Lithuania,http://www.duomenucentras.lt/lt/
 185.10.228.0,185.10.231.255,SoftLayer,http://www.softlayer.com/
+185.12.4.0,185.12.4.255,CloudSigma,https://www.cloudsigma.com/
+185.12.6.0,185.12.6.255,CloudSigma,https://www.cloudsigma.com/
 185.12.64.0,185.12.67.255,Hetzner Online AG,http://www.hetzner.de/
 185.14.28.0,185.14.29.255,UA Servers,https://itldc.com/
 185.14.184.0,185.14.187.255,DigitalOcean Europe,https://www.digitalocean.com/
