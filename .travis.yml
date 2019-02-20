@@ -1,3 +1,7 @@
 language: go
+
+install:
+  - make install
+
 script:
   - make ci

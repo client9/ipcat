@@ -16,6 +16,9 @@ appengine:
 cloudflare:
 	go run ./cmd/ipcat/main.go -cloudflare
 
+install:
+	go get golang.org/x/tools/cmd/goimports
+
 test:
 	find . -name '*.go' | xargs gofmt -w -s
 	find . -name '*.go' | xargs goimports -w
