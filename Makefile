@@ -18,6 +18,7 @@ cloudflare:
 
 install:
 	go get golang.org/x/tools/cmd/goimports
+	go get github.com/golang/lint/golint
 
 test:
 	find . -name '*.go' | xargs gofmt -w -s
