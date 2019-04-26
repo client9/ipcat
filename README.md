@@ -1,8 +1,8 @@
-ipcat: datasets for categorizing IP addresses.
+**ipcat**: datasets for categorizing IP addresses.
 
 [![Build Status](https://travis-ci.org/client9/ipcat.svg)](https://travis-ci.org/client9/ipcat) [![Go Report Card](http://goreportcard.com/badge/client9/ipcat)](http://goreportcard.com/report/client9/ipcat) [![GoDoc](https://godoc.org/github.com/client9/ipcat?status.svg)](https://godoc.org/github.com/client9/ipcat) [![Coverage](http://gocover.io/_badge/github.com/client9/ipcat)](http://gocover.io/github.com/client9/ipcat)
 
-This is a list of IPv4 address that correspond to datacenters,
+This is a list of IPv4 addresses that correspond to datacenters,
 co-location centers, shared and virtual webhosting providers.  In
 other words, ip addresses that end web consumers should not be using.
 
@@ -45,7 +45,7 @@ Why GitHub + CSV?
 
 The goal of the file format and the use of github was designed to make
 it really easy for other to send patches or additions.  It also provides
-and easy way of keeping track of changes.
+an easy way of keeping track of changes.
 
 How is this generated?
 -------------------------
@@ -57,5 +57,4 @@ Who made this?
 -------------------------
 
 Nick Galbreath.  See more at http://www.client9.com/
-
 
