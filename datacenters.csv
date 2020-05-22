@@ -2487,7 +2487,8 @@
 192.111.128.0,192.111.143.255,Total Server Solutions,http://totalserversolutions.com/
 192.119.64.0,192.119.127.255,hostwinds.com,http://www.hostwinds.com/
 192.119.144.0,192.119.159.255,avantehosting.net,https://avantehosting.net/
-192.124.170.0,192.124.219.255,demos,http://demos.ru/
+192.124.170.0,192.124.191.255,demos,http://demos.ru/
+192.124.208.0,192.124.219.255,demos,http://demos.ru/
 192.129.128.0,192.129.255.255,hostwinds.com,http://www.hostwinds.com/
 192.138.16.0,192.138.23.255,wiredtree,http://www.wiredtree.com/
 192.151.144.0,192.151.159.255,Data Shack,https://www.datashack.net/
@@ -3352,7 +3353,7 @@
 216.187.64.0,216.187.127.255,PEER 1,http://www.peer1.com/
 216.189.144.0,216.189.159.255,Host US,http://hostus.us/
 216.211.128.0,216.211.143.255,Adhost,http://www.adhost.com/
-216.213.0.0,216.213.191.255,thorn.net,http://www.thorn.net/
+216.213.0.0,216.213.127.255,thorn.net,http://www.thorn.net/
 216.218.128.0,216.218.255.255,Hurricane Electric,http://www.he.net/
 216.219.80.0,216.219.95.255,Host Department LLC,http://www.hostdepartment.com/
 216.221.160.0,216.221.191.255,C I Host,http://www.cihost.com/
