@@ -2487,7 +2487,8 @@
 192.111.128.0,192.111.143.255,Total Server Solutions,http://totalserversolutions.com/
 192.119.64.0,192.119.127.255,hostwinds.com,http://www.hostwinds.com/
 192.119.144.0,192.119.159.255,avantehosting.net,https://avantehosting.net/
-192.124.170.0,192.124.219.255,demos,http://demos.ru/
+192.124.170.0,192.124.191.255,demos,http://demos.ru/
+192.124.208.0,192.124.219.255,demos,http://demos.ru/
 192.129.128.0,192.129.255.255,hostwinds.com,http://www.hostwinds.com/
 192.138.16.0,192.138.23.255,wiredtree,http://www.wiredtree.com/
 192.151.144.0,192.151.159.255,Data Shack,https://www.datashack.net/
