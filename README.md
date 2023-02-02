@@ -1,21 +1,12 @@
 **ipcat**: datasets for categorizing IP addresses.
 
-[![Build Status](https://travis-ci.org/client9/ipcat.svg)](https://travis-ci.org/client9/ipcat) [![Go Report Card](http://goreportcard.com/badge/client9/ipcat)](http://goreportcard.com/report/client9/ipcat) [![GoDoc](https://godoc.org/github.com/client9/ipcat?status.svg)](https://godoc.org/github.com/client9/ipcat) [![Coverage](http://gocover.io/_badge/github.com/client9/ipcat)](http://gocover.io/github.com/client9/ipcat)
+Archived in 2023. Please fork and edit as you wish. It's MIT now.  Onward -- nickg
+
+---
 
 This is a list of IPv4 addresses that correspond to datacenters,
 co-location centers, shared and virtual webhosting providers.  In
 other words, ip addresses that end web consumers should not be using.
-
-Licensing -- GPL v3
-------------------------
-
-The data is licensed under GPL v3, see COPYING for details.
-
-Relaxations and commercial licensing are gladly available by request.
-The use of GPL is to prevent commercial data providers from scooping up
-this data without compensation or attribution.
-
-This may be changed to another less restrictive license later.
 
 Statistics
 ------------------------
@@ -24,6 +15,8 @@ Check out the new [datacenter stats](/datacenters-stats.csv)
 
 What is the file format?
 -------------------------
+
+
 
 Standard CSV with ip-start, ip-end (inclusive, in dot-notation),
 name of provider, url of provider.  IP ranges are non-overlapping,
